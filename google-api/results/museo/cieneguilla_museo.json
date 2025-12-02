@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Casa de la Cultura Cieneguilla",
+    "address": "Casa de la Cultura, Av. San Martín Mz. L - Lt. 1 AA.HH, Cieneguilla 15593, Peru",
+    "rating": 4.1,
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1056817,
+      "lng": -76.83109619999999
+    },
+    "url": "https://maps.google.com/?cid=17038157061751077023",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2duQS74Y4-vpAF_E5KXOAzUMBB2AjeSlEouzDN_vwmRpcgxikIBptsSxBtR6jBJmbpaBWYH-_IvU6aac94Mn3yYh9Wn4KcQMW4VJIxAJo8nvWjMRd6juywVNVsXFa060FRWAyHBtkl7fnSp5lwmayN0k4UnnmHy3-LZ4F4MPJoKL8MzJ0kxcrhZdos2SFUVenvi1W5UEQ3g7AUYuKDgoUQsrE6jIiHVwt4BV5VbzV9xBz_OpODiKzxXtqkc4mdE0L4mblmtEAppJ2ABtXEXTnjpHFhnnhZaCb7DHRt-6N534gvWwmeEkPiQxddrMCHUgYYDRz-Ao3-XeSuav_cDlBMhM_E-iG6Q6gDwZPkvoeVTQ9PpemCaSbiUkzBuzRJ2gk_oNNkyGqXy9FCkVQVA4DxZypGwRISgvKlP_bxK6IueWg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fPC2SFwzorFuHgof3kn1Vflpvt9_c1OrZNG8-9WJ0cEj-YDJr7JsTg0MFILLmmKo3quAPsQx9pC-x2ZbgOPAD7M4u9ql1F3C2XTGfNr1HqMCpD0WSaG8PPzI0aFE3P4C5rLWP8EFMBfNI034lOSRdLZCgIsXTPXCY6BoF9YrHHfarEgQKME6vJctquB81zj4zzDOgar-2gBdmOjO2C7RHoekQxcngIFO486z8jBwxktM2Xse6RgA5wOggGHOouhMuT1djmFdbnLsuLIalXp5WxD1cIRgpuT_UL1j1wegQ6SbMKvBkv9ChaHr3bXUO1lOZbhM26D8A2x2h1xi8fUW5BMrbpwooXRkAbH-Y0A0pZwFXIcF3zOjevuJ0xIm5cgI8ok1XZFjXO_oBwZAGNqmlH0WG7in7LfG4BzMl4OMb6Tr-0pyuPfY7BcARzzl30&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2draUXH0nVvsWp5Qz-2HFvT1esv1FAFTu0ftVTXK2wmh7qQolcNp5PgL408S4fnHbH3rbc4-g3dekOvqg_d1AfWCvTkLaD2oKr9-OCg_Sdy-Yl-ilfYCobUoqD4BTFJiwcVDWV8vrH9-HUiQvFOGLbcgDp0r5gpzFOVb4YYW4lYUs_0thqqqAfMe1sG7McXx31iGBvYO48yXJbHN06lER-m6v7JEV1fax-5bo3SmxAfa8P1khw_wpOfjpnsEl0BW63szGehyEAv_hd2QQl-i_9wKZhJQV1HRVaTjrfiDkCu30uOaei-saGRSmuoAxee2QttANtE5RuhuRLpum7-Aw77bZJQvhZrPrBH2jRqP31H5ygSrLuyHBS4YPCyketj5V-Em2D7DZ0fP7-i0pYi1ZMGdFwrEknKMaa1oJfIg8i_vA4m&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cZ_yqFMNIORFGJRhv0HQv7WCMyBPZI3Qxs2HecpRaRCgwHU6Xa2d0PNzMK8tflJpPDkq7diZe829sRJD9sTAclO62a4DM9-3X3oTu8Fom326IjRRi0YwPWf3_7Tz8FER_3Uc3j2U8QU_EewwxbY36s61x3nViLJH1UHEC2OJqNGjdy5V7GxkmgPJJvyU8BvArTi5yskbL_z-7OuWfIzAYb7Zt_x2AKpSC1bLFpWCEfAb1H6KtHNEhkDx903fBznTD-G_ESYanQMGa7yT62OwFwUl4J4bQBxUyvvx0BQmbSVvV5L_Z2fI8DzBpAJHuYLRKtkoD86DQkb3QT7EL7lWj5CGoZnOgIromatwjqyIDF9k8KhsRL7LR5Qm0XKMTyS7fZxq7ClaeMTo83XuOJqSMM0amz4q0vWa6wTGnWdZziW8LN&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cYWd_wbsJwkXebv4vBOOAVPik_0j-fo6ORaIudWB94G6F_tVhI1gC0IBsnd4KnBK4nwTWOTbSuu_Tzl1L-7hKvakr7xpO-K7dln2r4etKlPQuu_za0PhAUD8wBHHkyQe-mVl56jIwFBfGrpoPrL1p5pK_RYesv4iKyyN9pd-nQ4z8WCxlZMezCHM_XBMQcjF0YTSXynzz09vPfeBzamDqQN2ZdlLehp-suOvLrttzu_vwbrWgPz6ENP2-ey8P7JJYkA6FkJIIP969HXQHJTGqy3OOFlbs45jIB5U9mjd0-cfri4iG-mlx30ECXQWPxwUBjKaWpPIvYIkdDfrfEOSYIFNd8BPhXoe826EgfJR4reC5idlSvS8sihLk9Udb7Zd2_a0Uf5Q5xCLZkVs7Yc-84DSYHjDQFL03rj6u3Z2Q_J_i0&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fgbk-c7RzKQ-iSwtmKyWYPAv0c25C8VanwlT2gRN79okfvKFlzIIsHblwjpEEb6lRRU_QgryhwAwOjSSKm6O0ciu5tcO8BKB5DaWN_DDfeUc-zjlG5PgAYRmZxPK_Df2GtD1oI8HtX6ViX0qLBeBOFPtXWQTQCFEUdnHsVEI2ovqFeK0z0AfCBq217EG7LX1uSwc2RoElBRzH5bfWCxFsyA4RP9KzXFX-Au8WP4l3lQxbrelTVTJ0GYjK5fnoI71EksqSiKAOp3sBJHL_yz-wDJ6-pgm9Ei5vFQVOme8sPcShtYZh3dNIMUs8U_qGveC7sadTaBQ5Yd_0ShVTLfTqPBnXfyFaLuLAZuIIKT9SU4bMJcgRTfjQ8Vf23UoyxdC3zNDqhi3s7ElHQn3_pLA3WP_5hZ9b6BgOp2Zl4ntGU11E6ZlW9pzO9Ev7y_A&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eNihZxC7XDZ19uoGK4_Bb_8EMHHlosbJHFScP_iVNVWYcX1-U0YolNRxGg3VqAqrH3qXXXeZ2JmxKx0MCeF_b7zNU-BQa-i3gMQE_z2-kznvZHnoYK6rm6uHxJtLjcrelfXQW-OP-zmEKh88UJOF9HsG2dY9h71_qodXRmS_szDIgdkVgdQ3zj_5s9MquSFHvt7VgXoSykWOo66Yf0NVJdRNt-Hg2mSkmUE7fPRiFneXulQx4l18Uo6VgMJ6inXihzXSH2rfvH3ecp59mYfshFlxWic2XcmS4D5DQBT6UmWwX5BDsI5so89gQn4wX2ybHsKdY1JvzgXauMwkn5FWgTlmSgQEixh1fPu-3iOecqPK-xdm2PxL8UAw9i7J3plxnt9QMVscgCISVh1PN-scQb95F3qeQmYV7_O7fcTp8Llg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fjraUxqDXfVh2py6p08U94t-Kx0RQ75Ilw8ob_twTm2hTnmKJSm2izQjmUp7aHF-f5eMOxrdHx8Evdj3XSqsFer7q3QFFBE0Ei-pVNXVNMUTPRH54fxc1ZMn0P6o-F7VjO2deMTrdBPJvReMSkZMUWOUTLTZSBqM7QyqLGRqzxM31N9zNJY3d9EWZK3lKRHbbp9zxt0sFezDRgoOjlZ56rQpid-mOREnH-2PfVWLGPAbozogdZU92EafgBtM4UHt7P0KzoywY5vsDuJxCIw5ZIhPLiS9S3C0_g3iqVsI5v3ZDGb87eHg6hAmTJ5eaK5wv414s99NrOg5rbPTX6mk_GmWCU6ke71vTpTkDbBbFlsdOnTgPbEfx4WfpfgltopoecuIbg2qxXSGzSKJrWNpQfdD_Zg2upi9eJ7xjzMlY&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eElcVgjU2OqxWhgsWc3QLiSrifHZcSn1A2smSWYEXC7IZB1q-H7MhxdnD4pXBs5ppA9hgpg25gj8CWJ2UFlAHn7lKnjTKZ3ZlOtbf3NTtKbkUzT7Xsd4dIk8nlamsdt4tbvbO8VvmnfkAy5HyHiyqaVj-KFoZYc5Pytmu9IvOYVh_CIW9VIcHy8vJtNC2sUcEDP2ZJ8kRxi6V6xhnzM-J_aHR0tGdOTCusnhJaxtGRW8euMNsiB5fnw0O5mNF6k3MwQqOGcnYRFX42wCxarYWHF0KsF-uSKrztQr7dWwCZdyD_jJbaGrNPjBCOOhYsrTjR2ks9DjA0KDVNMxBCYAL1m8GxqHVKzVb-706UwneukphzyR36eKdMHGOB5YdwOiFjisDvF7QqswnkR24Iray5dpkq8W4Oa05R-Kcvl9U&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eIBFX7y9gErlfSl-lnw195H-zU6mKvW4jgGV7jPa5mDyvLDM0D6PF8TolmR9G0-7hw-uRynq3ThVbxBjwfkIxf0tNa0gg8ToCdWIXDx9DCl1QcxDTepaZrMOLarmeSFn7_K4_JUS1t2Vz_fvvlCVeKE4ZL6Fzhg2E8GwoJInkix7sqxwGEDL5KSQTtKt81Jxgj3Gk1T8nd3a1QVqt54OyDCoPxwACe-OfECHgm1Wvzy7-xyyzo8Qt1s_tl2YCemv5WqS4XuVME9H-GmqHh16TMLiJwSMof3b2TC91d3jQXKFR5gkULC9JasojEzHTkbCt-WDcgfXgNokaoVaFsVbQjJfVxvJBFxt8lhZKPDAbjZtjMtYFuDE7IJ-QP2J1ymOgP-v4hcTllWhwr7YH_DCR1aeqVBhDC4FKb0wM68fHoSN0s&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "jorge max jim maldonado vasques",
+        "rating": 2,
+        "text": "Recommended for completing procedures related to women's rights, and they provide social support for soup kitchens. It also has an auditorium that seats 1,000 people. Next door is a recreational park for sports and children's play areas.",
+        "time": "2 years ago"
+      },
+      {
+        "author": "AMACHAY PERÚ TRAVEL",
+        "rating": 2,
+        "text": "The meetings are a very good initiative, but the Municipality takes a long time until the public meets. And it requires everyone to be forward for the photos.\nAnd there is no air conditioning.",
+        "time": "5 months ago"
+      },
+      {
+        "author": "Manuel Castañeda Búquez",
+        "rating": 3,
+        "text": "It has a large, furnished cinema-style auditorium.",
+        "time": "a year ago"
+      },
+      {
+        "author": "monica roxana gonzales cardenas",
+        "rating": 3,
+        "text": "CONGRATULATIONS FOR THE PUBLIC ATTENTION MODULE, INCLUSIVE, EXCELLENT ATTENTION, HUMAN TALENT WITH PERSPECTIVE TAKING♥️✅✅",
+        "time": "a year ago"
+      },
+      {
+        "author": "Marce TM",
+        "rating": 5,
+        "text": "It is a nice place that allows for recreation and good family time.",
+        "time": "9 months ago"
+      }
+    ]
+  }
+]

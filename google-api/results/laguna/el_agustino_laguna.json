@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Lagunas de Oxidación",
+    "address": "Lagunas de Oxidación, El Agustino 15006, Peru",
+    "rating": 4,
+    "types": [
+      "establishment",
+      "natural_feature"
+    ],
+    "location": {
+      "lat": -12.03001170277471,
+      "lng": -76.987244405891
+    },
+    "url": "https://maps.google.com/?cid=10012069900738401730",
+    "photos": [],
+    "reviews": [
+      {
+        "author": "Jose Chahua Silva",
+        "rating": 5,
+        "text": "",
+        "time": "5 years ago"
+      },
+      {
+        "author": "Isabel Oropeza Ricci",
+        "rating": 3,
+        "text": "",
+        "time": "7 years ago"
+      }
+    ]
+  }
+]

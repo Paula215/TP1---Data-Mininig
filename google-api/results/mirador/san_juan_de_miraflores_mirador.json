@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Local Comunal Las Malvinas",
+    "address": "D, San Juan de Miraflores 15803, Peru",
+    "rating": null,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1366596,
+      "lng": -76.9732784
+    },
+    "url": "https://maps.google.com/?cid=3694733860691544686",
+    "photos": [],
+    "reviews": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "\"RAICES\" Centro Cultural Comunitario",
+    "address": "8 de Diciembre, Villa María del Triunfo 15812, Peru",
+    "rating": null,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1431628,
+      "lng": -76.9429368
+    },
+    "url": "https://maps.google.com/?cid=15213836514121634022",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2chJYcQ1VKsUYekFpF3M-8HepACup0DWK4qhZb0baTC6hWTPE5Sc-t_3W5oplc37u15mvZeDY-1QvL3T30lRl7TueqzPHR1HSH_Js1XciiZMlmIXEmcnWcQ9zHz6aDDyhqWnA2yxOKUvD4KdGQ6c24a3W6ksFt1nBMncocXBJ8fPmCIn0etxr8rMlfbCk26dbOv8lxnG7diiqiYVaCVF_JknBU5sZTZ7g-ZLepava1YvSSIEbnUstLsLp9PthRhe8040fnKbV1IhVzwMRqwllJwTQQrDjjvkDA5oawfqFfe-A&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": []
+  }
+]

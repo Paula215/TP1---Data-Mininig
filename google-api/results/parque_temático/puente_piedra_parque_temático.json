@@ -1,0 +1,112 @@
+[
+  {
+    "name": "VÉRTIGO EXTREME",
+    "address": "4WFJ+JCW, Puente Piedra 15121, Peru",
+    "rating": 3.4,
+    "types": [
+      "amusement_park",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -11.8758967,
+      "lng": -77.06893269999999
+    },
+    "url": "https://maps.google.com/?cid=9996430018666749318",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c4Hc79gqZvO30U9swYm1D1qcGHPrXscfanZs7mnuN_Gy2qTWtim6THX2TQe2SFC2_G1g7zlXgrdVpj0qU3fwoZQpckFAlqGgYU4sPv5DoxUydo9Jx7_e2R_zRjOm-_w50zAsXhaOTQsrdWjW6eu-MuMIogpjzhSeq_DbRfCyO3kmgcppNKC3S06Pvrd_cG1b4_UzuqXQ_04ZeFwhghcqOtw2lFc3PYiQSFo_gOnQcmo89DPM3vJ6-UEUdN6C9RTNhsSYoxZphCE0UfYXiA5xNGe8PV92NofxBQwDm45UEmBkwLsZ93tnj1wRFTYhOlQ2PKvfPvjpN0c4PaoWKe_hO10OLwszBE2NFbZgPoaNJGHS6YvNocyGpAwWogLS-Y_YexubsOIvb7-D2xyaMSA2dSnfmuHB2e-I6u1mS-f9JmXQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eQO5RA4h9lmntTBzzGHUWmH_PT6UtjlCAq-Gr4O6LXYf46ku_Wg1VNLdILLP068wA2mesVisJFTBSvV6c7vqW5TTRuP8523xKhA9b9q55LvV03oL5qvB8HEoVuoTiDkP4aXfBguBpDXvVI0cK5_LvEhfaHJVLp9cn4XVNlC1iF6jYE8LcPZf5GvFre_Uj9BjVTuezGH4331AsjBHQ8L96XozGaTFVPMGP0YKDbALDEjxyrjQRKU66XZZY7NuOIX4szVQnWlVYehQIeOzc7yqh7_mijFH0U-UEibIYw7KQKuhqJcLzYQgJAZjSkyKutRzweNc4JHFPJ0z8txicBunZIKspXAnEOqf75slMAIC8CVn3ksFwqVTblqfUXDwOxKttQbUOnzrKtilipvrl1gHYw0yhSLlnnhEnjiLlHslxKLA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dftPIQMYavqjeiKZGLyAITiAbQn5uEMoaXR2Wj_bqU_E1UX0X7B9P4RtXkaUi7t8s8vblitSCwtQ3VId6vxaVoggxDMw1pVfaeyzeScBBY4fOVj_Xl8gjD4hMb_kOlNd8wgBVcBgXlfQuf8D2DwZr6C7cdMWhCw82v1dT5ai-scWZn4ukrdZtctmwWOJ7pIkuO7ugQNI41tSpms44qb_mTrgbtFmgTowglHOt_9F2595ah1BdPDe3QU028LPs9-l9IdO2_rhw7_RqQfYwmkTrvPJR6qaNUMmB05mbjc5WqU6ghD5XIeLRGyxXI6kH6c5Llmvae4zGpWpP1J_vfgkGHIOXxeoV5kakGINZ5MOCdFNWx-CApsfZ1Ge1DBm_MjebJnTgB056-bTFKB2U4WW6dIOq9KFHb9rGDH5qKtQ5Z3HQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dhIkkpcJ4Jy30kWkMEB0_6JrvOoyUyQFL26Mm7RFSFdJ-1rk9f295BjKYFy1PQ9lMV941XuPW9fMntGqyT2Bqvj5kFVwIMNtrlVzPx3MJulEza2L8lx60fCVtxiXG9nKrhU7k0YaKP_9mF9b_hGklHEj-PXPyJG2JdSwfJpfLzSg6uOHBZoQYkI2TPlwYIDfd_eyvFK-VxBlH1-rbp6olTUOHxFI-VFSaPsMcZ0bYmX5_TUkBcFY4CheWK2WI8k1SEKKOM9mKO66SudeAL-5j4NUAWy6uR-K8nrseX-eYk1liyNYxLpeQBVOYOLyEaCMFXJeYBMfzgfnlV_l2Y8MbXjhg9W4FdlchcEVTcYUmc7Pi3ogaNIpUR7WpyEymfK7l0k0BsMAPsU60igPYxZRDXufuerWTY62SBNJpCOs0u46oH&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dIxeFBkWcx2UaFGEuibMuSQcRfiztxCCPj01AMBPZRvWkMuIeaQrQz8zc34nzgOsH2-rLDh8dPlN3jAeElEN2aS-Ma0JI6UX-HxS-BhbrCDDJr1U6gBEoVwNlkb1sS5QGBbigs1L-mmlloXqSc4d7PU-OXgKze6riASqA-tPleKieqI8WkUIMXOp6wmjMIXXzGiqt28PU7YvF3NrqZgx1TC8fEJaW9hDB2xo8woU9DRhIcYQmm8E0WAyMYFchjK34rV_crbVc7qqoiazCvWDd9C8Rpvly_V_Mnf5prlhplpGBdXALUrc96-ou37bb1dgc73khiiya6SZigGTOKSvrXkKIQFb7MOoceNcLWeFRenXey1APJWtjsGjqESBoeSAh3BZd8LiMAFEVlDY9JTZPhTrZkvFHwYp8xJOCBAwCbhkpx&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Josué Samamé",
+        "rating": 3,
+        "text": "In advertising it looks bigger\nIt is relatively smaller if you have extreme sports venues as a reference.\nThere are 2 modalities, pay 60 to play all the games (only 1 time) or pay 100 and they give you 10 tickets, that is, if you are accompanied you play in 5 modules per person (there are 8 modules).\nThe games are of a medium level and are not demanding except for the arena, which is high.\n\nThe location is easy to get to in the middle of the Panamericana before the Campo Fe cemetery.\nIt is recommended to wear light clothing\nAt the point they provide harness, helmet and gloves.",
+        "time": "a year ago"
+      },
+      {
+        "author": "Jhoel Medina",
+        "rating": 4,
+        "text": "Recommended... there were some things to improve, but mainly it was cool and safe hahahaha which is what worried me the most, recommended to go with someone or in person",
+        "time": "11 months ago"
+      },
+      {
+        "author": "Joaquin Hurtado",
+        "rating": 1,
+        "text": "They do not open at the scheduled time",
+        "time": "2 months ago"
+      },
+      {
+        "author": "Servicios Eléctricos Mejía",
+        "rating": 1,
+        "text": "Excellent place",
+        "time": "2 weeks ago"
+      },
+      {
+        "author": "David Pacheco",
+        "rating": 5,
+        "text": "",
+        "time": "2 months ago"
+      }
+    ]
+  },
+  {
+    "name": "Play land park",
+    "address": "Av. Puente Piedra 903, Puente Piedra 15118, Peru",
+    "rating": 3.8,
+    "types": [
+      "amusement_park",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -11.859612,
+      "lng": -77.0818068
+    },
+    "url": "https://maps.google.com/?cid=8573043059263383035",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fFL9YSc3drhk1XqxUS0Ts3Tc-Vs0oacwf5TsTFh0Q0e6clgq7PylKx2KFWBJ_glFa3noDQbWwigkFSLgGbW8mXjCDJVpyPYKH_Sk6bHco4WQB8ES-OP6v85puFplQrl1SlsjDqbGFqLvBkoTz1uOqYftS62Zq9H4xZ64BsQYOOwHMefZe7Tlr26nbmNgkOGQ6mM8O0yKwarFIUl8M5ImAv0UUeHwE0B9MLDX7QbOj_r39HX_wwaIafjBBc2HnnCKYtC3EtZfXjwzeYUn8lHLDbBhjDy8K6pioq6ni2M1I_92vkmmhGMJ-xHHhi70ci5ALsAvLrWtrxj_vYJJoHgRM-VgraUuhUOI9i9W8yfnKHih4-lzxm-ZbzXCROMLeXCmpvCjyvfvdcFzHYsb4Y3CWHlM1N-2tNcm3EMAQH3W5Zv2o&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eLgKAgODIlKUNQufTqeh0TRmxzrCD75GiKMihB6hNLV523WtRgJefQzgQJGbhE5l3NyMw9u_ALfUGgjwGptrT3ARr0Ruw4c5HQVg4B-thOoKVyfUmYf9OzfULYj330MKzxur1G6tCudhfzhcue_AM5Oor4_5D_C57hWlRbis6cSoq9cReQC_nJGFbTu6mwN10F6Zy5k0Wjw1mKopEkmfXQV1u_rbH5XsoxD0_7CPzhlqR9Rto81GhzfTKpm7cqsSTpYMVAYN0B7ktueY8EFBY5jNBWxcif_u8eyPELwrWRZ-Qebo3GbEZjozQU3ydwuiX5ehUqxD58wkqFoCldCxmWLLKCk-WpomKRblzs94Ia-gtfTbXpVnSc5fRnsY2pbzXFdLlBNbM6SamjcMUVW5XS1WgWnH5Hm-Kucvaxsorc9Q&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eZxIC6HxpV7xH35A-wa1yYEpDibgkVb4Bjj9848NkVokzrn3k-gHbcep20txb_dFb9x_p9YUr8rycg3Lu8F7EGTCFpStO5G3OIixEtzy6eQwu8oZFgkFhZs-_gOz5Sd6c77z1BfvmH_I9ZZ7gqdf7WpHh4zO6L9uW_OcYe0ccB0LalrIAnvw-Vs2_jNha1cMrXqnd31qfvRNQqK-baS1YmURCcN6ufayzVVocudAsKAJlj1s9XexVCxsHbcaE6DULFph-54UQ7quCt-OI4OHuXKuI_HWk-sAdBGtwPjXBzPW5XAgDMzaeeuLSvPhlEcnyv5t0rfm18Ajpma0vGULayJ4DKFnTU-177DS8lcQLNx9johRsA7kS2HUVcBObzSeUV4vBpyHRNY-eaUHmVw_B44nZ6Kzbu7scudUnft6CyCw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d4whRvHusb2HuWZoTncK4MLKRlf7sKMTxWtSeh9rAz3UeQaj9VsR3FyeBMeqOGF_ygFgzrWqTHZ0-GH9bCB1O71Hifws6GQZGOc7dWzPuTF2cyHe-JcpAIEMEh9BX6JxeVww9dUCcBDzuZwj1izXK_ntsFlgwUtHR7nSmhwGkiYR539M92ojjkQU74OI_vfJtXX6KvAJ-wkqSnoUXEITtHZz4gxCMRJmzhAET134DEXCAKbQR3Jwl73YnxYgNFB37Yy-F5_6CJQQVhI4kzBBSX6j_DWfJbO0rTZNrxNcpI2lht_NrlHqLppyHEFm96uaAeab5kzvqWGI61He7RaH_g1Zz89uo41Bb1iE7YKhz8GslEQbkWrSdV2hYD4MfYonegJ6l0u3puA4xoPiww1nzSq9rqoGXzT0uMxgCQBTS5z-jN7E2onsEz91tABg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dwohyHr2grYyCnRHrBoeMEqK9NgqGjyPqIX97ymFGBqD9lux-7hevjwF7fR8jB9NVwebSRCOucalItnUOlVpfq0O1unYuKSPNusRQT3R5Tunl6DOpEZZx9l2zRd-8pB6YU2GbHxiNComXseRWPH-8QhO8-zUqN_tzqqM62m9rhdP9ke8iUACazFhTeJ5219MYUGKhIrbCGeZgDIbwpYsPxgdboWI0LOIzUzbgF_k-3cMpTRMSlny2SJXkkuhd2JaTlIwQykMrpvGZbDsE4pfigDaBrwoE3shzTVxgW4KwcN47shsJQKoTV867T-aRAM7IbxMA10p7F4ARJo45wgJWWd97_OGDsBnq60vfe_z0AdZjn2NfZ7I3f1WRtY_HOGJq63FpWK2U-cS4V4anwZhtY2myvVDOrAvJbgtJDu3zqHHhsIige1qY2tmYsx0lq&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cQPqTkZFuoR42o6OLoyyMKaltdT-VlElbe7n86t-YhHCXYV6gehhM4ZNZURKXDlkqPOhRYa1fEkVSnuKPj4KvzC81ZfPd1lUUFT3egOUXhL0hstVr3--YpL9bwF430a7q3IHKG9x4bxIVZE6HbHFFPX5MBfg72r-jSvw-oWjxilq7784m81IvRzPw1xnAnOTu-Ah-2PBsra_vBHHY5J62I8rzHPxxvQd5ciR9-XWSAe5bKyp_yegbcq-uWfV_LkdMXYZdhfXSlqO47cxxjzQnLXizWpt2QVDGWpeBmqwx62pFixoScuBtB_P_xGoOzwkykCwgq5plc6Hnogfczmy3Jt60a7yKRT8gtNkRT6A8QPafl37vD3vD_90rZQl8rvSyRwbhJe7uc7tniGz44PjN2o4o7v6LLAiAfFNGGNycVW4V0AqHv9diGaLPJzecd&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fUjpzcb8CwVxusqr4FRvvMoyYp8nrORpPpGR3dgt2rMQ9He88UDgcOMBxY_Z9_3DQcWIZBtrw2wYQfNHsM808zbFZSVRvFW0T64PYVwjUpDKJTtkPZD1YyZYqojZZR3yv_n0yv-YeipprrL7dKOSJyhBizN_yvDghKKvHILSCZK2ptqGVGkZ9KAsA4nefm__FbgQH3BFZUMQ4Sqe5J_4SwCPAncasidk5_dfsu3WyPn0aS3UKaRIRyERwBCy-STkxzdtLsNiZwB4sMDcaj6jlbi8PbYvm80rp58jsWhT5DcQ8kcXfFH-QJKs7wCiysxv6c34ORGULDYnz_TRBFRoDXxg52ZYTrulGa_8a8HBNiRiDZEV8wfOa2mWfrxPVJxW3rXYwukeNzT-lBPIqfeQ9dgN4Xv68ydIWnbMe773edFQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Emmel ツ (Miguel Cardenas)",
+        "rating": 5,
+        "text": "They've added rides for the little ones, and they've removed some of the more extreme rides. I suppose to avoid accidents. Of all the rides, I only went on three, which I thought were the most worthwhile: Tagada, Blackjack (I think that's what it was called), and the one at the back where you spin while standing.\nEach adult ride costs 10 S/.\nThe kids' rides are 8 S/.\nThe magic bracelet is 60 S/. And it lets you enter any ride as many times as you want.",
+        "time": "2 years ago"
+      },
+      {
+        "author": "ANDREA GAMARRA ROMERO",
+        "rating": 3,
+        "text": "The location, very far, the games lasted too short, approximately 2 minutes\nI do not recommend buying at food stalls, there is a bit of bad hygiene.\nThe rest all good",
+        "time": "2 years ago"
+      },
+      {
+        "author": "The Demon Of Dreams",
+        "rating": 5,
+        "text": "I went with my friends and it was great, but please add more games psss",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Miguel Angel Vargas Huasco",
+        "rating": 5,
+        "text": "Throw me your gaa ...",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Daysi Ruiz",
+        "rating": 1,
+        "text": "They should update their information, they made me go for nothing 😡",
+        "time": "2 years ago"
+      }
+    ]
+  }
+]

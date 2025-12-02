@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Fun Jungle Parque de la Amistad",
+    "address": "Av. Caminos del Inca 22, Santiago de Surco 15039, Peru",
+    "rating": 4.2,
+    "types": [
+      "amusement_park",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1311591,
+      "lng": -76.9809357
+    },
+    "url": "https://maps.google.com/?cid=16099376953696241886",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c6HpHm9kmGyn5JZ8YVtmMsBR5QI5MTrio2-FodySlS9quVspj_UWa_Xjcl4JYlNuBBAnPTvUfnUDaDlL-MGtRvEuulBwAtQ8WCILKvM27NqMvwU2m-kDNJiLFiaFgfzvy_gH0Gis9IMfVutfSfm8bxCtrgWqMyF9pF7fsedTHnZXJ0AwPV6voRgdlFvAAKbwV1Ry7I225qNL6jgIQdVww4s0SZ4pZPHOxbPX63ySZ-3LJq2IEaA3YxVbXwxoNruZvzESmuC3LANKjEGV6FVbq0Vm5sWLlUzzKnR2QsFT95aw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d5XCs2ZnhYH65_RrvooBy2YpTJ67xltae2dKmxQZBS_ItQBWn0mvpKw9nTHxtEBffebvG3Np8MosAR9AmFQiMKh3n4mxeNk9Ad_wzjZ5FQFozMbS6CD3_6V0a7f8cnk4reBN93QL6Hy8wUgS3oCZAUyP-vuoh4qX2yUmnIF25PBRtTQ0lMQUj6JLwoiI2a-DEQsfbBcLhJPusG_vahgo5gsC2nE6ZO94fFcD0VkSeP_Fnm2ti39gWRFl34EOiIfzjmXyjjoL9GUUJ1nhVZrvjNWiGZlaKj4zLSEgZ_4eFPMJcxHyEvtu1_gt3jQGEYlpNwkAU0BMpmfcpyH_D5W7DxaQilpQ7xVSLrttpxWNfNl3o06pBQAHiDd8bCDzqoG5TfUEGgOnWGZatLeLFcGi4xJJbXil4muN0NAmZ_PEtMh2wIKyUwne1XYQ0vJ1wr&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dxx1dDITcKzER5C_MD59K2CJdgDpYodvDizupthMwTet4xBqsoRCdpRGMoRAMl5Y6pm9CPPfTDZ_DJobW5alVnMhU9C4SWT94kWE2o6PeGQp5z8mqNMPOVHvu7UVTAiF8stGts4A8C3coFSyGGOocHpo6bdJEEMVApuOe827I1-uQojOQBvkdtDUiVwrVYHq5e7YGpIJShAsK2G5VH0js9QTe2MblWJlaX8nxgVG08Lw7mU8biaXZdBt61_ThVti_pCx9JEeSh-C1CoEK-2Yx8raexI3UvrdmYVES0uw16cc77ZABX7Ot8UQiokW17_fGcPFBcWHvV8mQTpqkOCDA5XlQuvcYJ4J9ClBUpjtjB7aaCZOrrCQrcX3jhICO26peqANtH7jV25WZNQ0TDY-AkXDMXJ0A2CwdnZ2EPCnGahA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dQ-GCilgYoaf_UWRgj_lSOeCmZJNTaH5xRMytK8YjMoHrje2g7TSrr_Ht6fItFE2LVt7mPOscAWOkQ0v4QN3N8jznEKdxVZLVV93zBruBxvSIbypl8_9f9UEZlDv_pr1zOWFR0EtYDBAiVblqvhUUYAHBtCcoWaetkaHE1kP3-NUx58H-1sUsoh_EqPH-04nvCeGd7aOVMGBpH0-8NoZSefTw13bm82oPPJxeMCGzv215M06s1YUGtu9pySOQxAUbReLIMSjt8DhE1NCygNU27OAkuAxznQ9Ijmu-3E_FjY4FZcpWxBaAzb_2Oo5nzg9BXYal-X5ScHtTJJXmRdlnOwm0oQilfu6yE-hwk94UnFYuThOddemrIqM8QmiRkXlAK0bCw7VW-ae-DPZvEVbS6AYIk-rf5IudWAwXt0XrZ1X6wbDJTxRwRqWeBJw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cH1FwMtCusLsTcbxrNPRYR9ZMWSSJ74q-1CxcgeTamjh5tO67MtHD2dLVJOBThhZz3Qw5FnXNrCVLj2-iC4jJybbI41KANkgCkIrOhNCxAYJwddBs9QcC1oOueCUE5j8cXGsbz-BYBnnVfwYdUbiVYsy1AneGd7f1VV0ygUVrJjYNuhvGnaVUBEQN2YOCWoscdunVG9WyxX9CifUGJgDlGQm7tZC374sbGTQJRaefX5oZfzTS-IWOsT9sPZP80cvGsx6MVagwZCl3SsljqMl37j3O1KOJ66pfv4d6uEvsiTUqHE5lFd2dEAjKxywsyLMxnCU4vU9Wf9_vittgp6CVftlewwYbtrqKJQLxLKRm8JZ9XZmEiaXH9fT6GtWCnHG6Zi8usK21c3hrnL1FJx1zDExXt989n0ltAUcnxo2ZxHOji&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dKsnFAeEXLA657rsyWmbw8Dw82uFt3hKj0QNLhufZwJYlCTmpQzmeaFJXl7jOvQbFf7c6zl8tX73DfBp6Aqw1dL_UqpT6ezxLf8Z2TgQrO45KCp9GIzZWfdPs23cga0gPLtcoeTY44POxn2lLnhp8K7YPrSi7S0Z5RkMokw-4Vf_pVQ3WRyqX1ItIwc_-INKm20_yyBcmNPpFuR8lgN4_c1k0foMSH2gBfJ3OccibuX9M1kEsBat52ac4BaKaTq7qxrPAyMHX0WR_4ATyuom9QE4KotdZU-aa-nwNPoMj82ZVJNF4aqo4iPV1oD9XFxsa4nghd-Iqbdis5MtWSdrrlvOCuhQlQF6EuZ5UKNv_K-PNxMKznTi59o5XCtMgLgNFpwy6AFgUus40ro1IJb82nbmI4Wm2OnzEqbVd-q_EKNIkS&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fKBiYvp30LaPaHoUaRL-99FDq59rd3HsnAxsd-UXeJ0fbVs6ukrYyhQE-1RUHKKh5wutP-AyXPRXsKtJVGVvUVOdlCqz92dCLglKri4X3IfobHEqiQQ48rl07DIXRt24ZMlona8NuBCJZvbDgi1OgoqxrmuKKiIkY2VQpHSQnnyVPuHYoHk2978akeZ-cFguu0KhGTPHU7JjnaDTOh8_b2lpPWQW5-Ky24ZJAov11yh9Q_BL2PYucHxeGjqxxIveUydN5d4YdpbHs8d2OUvSl7hdLO0x_zOaONO-oqJuGh0Ae7EMoo4FQAD-mqUvdDnuLm3PxEUcH1sFJIJvZevfjC7DaKoFkO0OsfhTYBX1EuAg1Tv5bSe8MNPU6qYTQI9IT9PUbzsQmX3WubUclW8sxlw12wALlYpBJcdVDDC1F4INjEakW3xp4mLi4LUYbY&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fTcTGvD4THh5D_WUNk3-gx17zfIrobsisLS07O-Jm_1EzjIIo_ZoQl7kGrXi4n6lx_YrKQtBvu1hJS8IrGFNuPq3SCTAS1tS7xWXbFOo0q1mvEJteRDhjIxuradYITu152WxKrF_ZAkx9zv0Wyop1lKTjue8Yrpq7dz0TxfDDbpa50UR0m1HkyII6pBS4PwtGCFDbG5Y6v-QeWvQxRNBcf5WuESNbbcz6YJCbPpXh7-JVkUz2DOyV5VTCrTKPQbwaq6LLXEg8RwYwr2NH3o4T7fPo05HD5Izd6vdunhSQ4bvjhAw1I_dRpJRboGCSumwGId1qOenruwIj1oq2cYnsgXIeqw1trO_rnd33w8hLKBhTRe9q6RUIRLyDpD5Wpb_eNmbZGXmLtovV1bx0CGbrU8f-41UBS6toNCrDOKhyj9ogBquffO_OV99Vxi9dz&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c3v9bVr5QZqQLE50RnFvFI3KOqpqjG0jqU4oXYaUBJGDM-LhKS8nulY1_yr0wTUzCKlSzhRmqopx0FnbM3ONJqk10pvIbAv9ivCBRsm4g6jf6AFHAG0w9iSzwusjRRsCARglatvf8Zj82ZsRrq7pItOa-Rh8vYdJF2s5Ri4V1S2APH1QkYydaueMPQi0ri0HgHdW8g74bf39gJnhOPcNNdvFDvvVuDEJTDQS2YxEqcIcFZ8Li76K45roNgUmjDsu-LRL41nNfEA6RrnIQHBu5HFGwM9wqXQT98MET70mEYnHmYcVDLcSHy0eAMmv638Jg0od2sKgWwv7aa1Zb4PmGnq3w98P8nHPgQs4-GqG48caKZJCte6fNir4T0RD8daOop81lchlUjfj-gMslUh2p-dO_eE9i5TFUvTPILzfY&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dpL_aEeboj7qhy45QWomgoPGEGcpo7gRxo9qVnidbLLh6biVrcDKoue6L-jKFTNxBRTHc1JSlTzmdPbQxbL37GUnD14FC3_6cpT5LahNwrI60hk-hPzouHrjNvF0ORStYBxuYSTcl7SeHTDqGkKJ1SdMW7VW2SIfM_xfJ6Wz7aN1KQ5HmdPFBhaeikEauTQfZ-cDKUPP9Pndtx1PW2meVHxxj6ar6lJq-StuMjw3OIs3RzWM7hXJ1r9IZQa3E_fdYY2e2qPOryCak7QkQD_lwXrnO9Tzo4qmQ72Ljaa7mt7GEg-nazayILNOSSaiASxXTXw_9gBKtVQ1_l57BtahWJvjuUxAkY1pBM5U-b5dbDscgHfh1T3YCRnCDPJDcrKYl29eZdr5UD2eZ73cpZ9enVZJ9jDOKeknbS7CJHd4diKg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Roberto Quiñonez",
+        "rating": 3,
+        "text": "it was crowded, the queue was large, but kids enjoyed playing in it",
+        "time": "a year ago"
+      },
+      {
+        "author": "Jota Pe",
+        "rating": 3,
+        "text": "40.00 soles for admission, half tickets 16.00 soles...\n20 minutes.\nSo-so, I thought the price was excessive. They also sell drinks and snacks at the entrance.\nThe waiting area isn't very spacious. Lickers cost 1 sol each time you open them.\n\nWouldn't return.\nCleanliness 3 out of 5\nService 3 out of 5",
+        "time": "4 months ago"
+      },
+      {
+        "author": "ana falcon",
+        "rating": 5,
+        "text": "Very enjoyable, especially for my nephews, who had fun with these Inflata Park games. They want to come back for more. They loved it. I highly recommend it. It costs S/. 25 if you're a Surcano resident and S/. 50 for others.",
+        "time": "4 months ago"
+      },
+      {
+        "author": "Cesar Buelot",
+        "rating": 1,
+        "text": "AWFUL!! Disorganized, messy... and the bathrooms are closed to children. It's awful that they're located deep in the park and don't have bathrooms. Don't come here.",
+        "time": "a week ago"
+      },
+      {
+        "author": "Alex Villanueva",
+        "rating": 3,
+        "text": "A great place to spend a fun afternoon with your friends. Admission varies depending on how long you'll be on the inflatable circuit. It offers a variety of games, courses, challenges, and more. A great way to spend a fun afternoon with friends.",
+        "time": "a year ago"
+      }
+    ]
+  }
+]

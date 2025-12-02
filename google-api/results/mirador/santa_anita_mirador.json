@@ -1,0 +1,18 @@
+[
+  {
+    "name": "BO",
+    "address": "Urb. Santa Anita, Lima 15009, Peru",
+    "rating": null,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.047054,
+      "lng": -76.9649611
+    },
+    "url": "https://maps.google.com/?cid=6038811684990649890",
+    "photos": [],
+    "reviews": []
+  }
+]

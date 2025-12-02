@@ -1,0 +1,239 @@
+[
+  {
+    "name": "Site Museum and Archaeological Sanctuary of Pachacamac",
+    "address": "Antigua Panamericana Sur 31.5, Lurín 15841, Peru",
+    "rating": 4.6,
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "location": {
+      "lat": -12.255454,
+      "lng": -76.9079194
+    },
+    "url": "https://maps.google.com/?cid=9654978385847150627",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fGbjIYqHwBcoR1ykhTSrBPmtGJOGwkBaaZTNqyaG4czPmb5e4OrVr7oZHrBpRE-0cj2avP5LdxO84TiTINdpi48MubFkYPpJ0iLvgT796XVBucg022U77EXgufPz7_T9fCVfphuEED9zCnqOYbBnCgY5bhMrRHBzi2itKu3pJAGIOwgkKVnmwfj5xnle-PQayF8crvsRuaAdW1FYTG9JQAgFhEXKI8LYV-21YC8v3xr61s0V6yb1hyoRNeYoAwOnXiPdn1BOtPu7d6dEPs-6CoN4Mtol3OXWHUBOwEwD5UPg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cglVzGo6sji3PzWvcZMma0OoWhHrqDUN0D_dlQoKddlNc6cnMJp6hIdrE4k5h3Z0sd5nP6gm0PfdRm8cMstNUP0hLBey1rHv_oa8GPU4KrmTgqVCfPXu-IwWabdnNaNn5CskYePzVzWJa9lnG-Gp5erl2cKoZkfCwt6-BHZs-6VuOb35yVf4AztZWfKMyIyX9lf-EjJJBcpaW2qFxwrfKbVAynrSQ9aK9UFFzQTn9wt8diHXffl6bmuWRb6eXaUUJx5_ZaStBgJwx2MCIxAc8NDWmhaab3dhpqrTtM81qB6O2UXYHQMvFFeTwighl3ioFaJGSPqQ1ofBZup568mV1Df5zDVbIk_D8iEbIPoRNVKEY2qtYxFJrHRvM07Wo9d4b2SxWLXnJximWC5nwdcDLGkbLGBPNwfcS0jqDLXIU&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2faj0AGBzP66lN_SlAYuDSIfnldz5TVFRbWa2VsBT2GUOfyOPrgsSUX8W8vwoIN9bPsfWWW0cEHfiLMilKP2pTRA-rFz1yYZfpgTY365Y_OLhdfVjNLnK6DI5M1GwVw1wa0XWF9WmKKhzA981fFj5L5iANBBZvrjPEgixoz41Gy7rVdvEDaCCCdwZS7vqvKsDV-c5fQagRXFVwtFFhsdibhyyAy-M6AK_CFr9YDKGQZRpUUVZ5mB-YEoAPZgPsQGC6YZ6wnBPZBkq9dmxra2bGGw7JLa2BNZ87RNmCRBidJfgg0Sb1H52nXJteMNcfzyotsfY5kkjQ7sHSJwZZfnbLfmEOleSPjYPWUVSNxg4enZUHVI5wMPjKCFsukht0m3BVMEwW3RTgNE3TvI2ziLCFURKYJg2cVHeCADyjEXbY&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f5nynUkjQ6xm2alnX4chJvJfyVxbgiJSexlSt7lBm1sWAmGUPax3pbulqkvZUFQKFBoWE20wi9Q4X3GAbhYxVBt1WNQ7SoNGZOJg9H5ijm_CvG0Yjmvf27d-d8z6cm2_jdS6CjKG_ZrWIGvMZ5wi-D6RK2CQ5QyzC2XepG1yHaolzin7vEsz8zRA9ZCKCmlBEZFLmJMCU5V8Q3kLWX-BwyJxLjx3Rs6hkXj_GTjRg8jYppNMsCgaknIz9iYoD1r9BuPqUArMUH96YHDRzMqx66hYil5XZd_8rvXIa6tJFsl79rbYQwYWwyTSJdCuvmScWCe_C7yQQqrUejxAlVjpy7s-EEEA0sAVF6iTvOeQ7N0_fJMwbJyn0PwoajDYG-2nUIueA07It39VbWFdeRD-f8whZEUfius5kZi5HSF2HHoEa2&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cnn9-bkXstFontjfvzpxkGOm71p9mtuy9WxpDnM9B8F9ABqhEnZ3S9ND-3XMYafSRBWBrQ8LqNkXRCh2spzFBS4NaRpPBckTOJE4mRYuf-sMsh-9NE3HdLPFMZ-jOUDODl1h6_liiOq4VSuFAGQ_FO5W7JTqZ3ccI8D9tMYNJcQ8UIMzeQfmvGwDbD5rbSa_qf6S_dCT_nzadB63gdH3XUZWRgIbnIalY9jLDdJnMc1sJRxwfxRUOsBbseKJ2f20UeUzW-aVlubP1WjClMg3D777L3b0h49jd-tKroEn0c064mAaFSs2RBGw13TLN4k0s0netOSkeeEblOUbmbjjyQRyDfeOR1u3U4rKrubQKQS5-82OBmu-DvCbSy7G11r6LQVT63-XQPmx8cmOYmsDonqQWGdRm2qlkcUWtWUqioK5qd&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fXqzNcbv8TlDfXRN-poIz6G_hEOWhCJ_ux0B8BUodXhLfbk1eOv63mcK0Csq7i-zfaSzKPXHxqPlgIoPJmpEOUaKFB9JqE4jEkTE9xr3tJuDlp0FodUKMpsA5YL6zgWf306-3HifQ8KNEQVWLxjtJTXI280-0a2k7sPAOCZPVea-YIlSH-r4-ocu5tLMKaHZtaVM1piLdmdO9A6qFJYQsRlPvJUaU0ecmDE3nKRdooGGkAwdiDndkWaQAstDJQNSEORwn2-YucKn4FW9GafpYTaqGIBGBxj06wvPiN5_Zsij3NO-oqC0MV1oz6MmXNU541eV859kPGz2yKVsRCzoJ3_a5hQyL7IXGYrqjgfx4M3qe2Hdh0KuXqUFgt3pxV2rrxQZ4ybAog2f6C2_6WUcslpJ6U7JImuhdlT0d5IdixMkY&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dLqv07dh8PWhDIBgG8FATaD_wsZkJRerCK7UBD6CMWhQSJL_lbnych5DozYY1HHpLcS5OymRjdUNN4-QUFTTyXEsk6M4xnZN6MBrwdzynyhm11Qqd4tkWfB2_PB6fjlu7LxM7Hl3hjd-VlJEJAsk9-Hz-sU8tDiGhB-Ga084MvvuyYA2yuLjiZvND14oTKtBYIkicp3JYgNp8i8w651K-wGI-vxPTlsnQYCHgR2kmDP0yZF0EGEeY-38Snocy_ye2Tc22G2eAZJORI9i_dA444fsZyEytWwHI0Jc55EFT-xEOhgS_AiLlKQUo6S4uE2-RU38eHvPXcNCLQwYSJ6frULQm_Y48vhumQPxdG7b_pp79Y_98NEO4xMtPXaKMtJrLsFW30zig9C-AzNmha-1K-YRF9Dq1vfHKsQmoT-DZYfg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cYwNF_YL4pCKEoEgf1p27RbY9nHZ9s6WSEnerYO1ZSPBOMHRs5CigWNebV9WZ1kM_KhK79py-OX28fz3aq91RSL7Eqgqm0VckJrwp0oljPx4INQq0Ubbk1kkiA8Vq24YNv61ZVQYa-NkWGvyha8S8e0NlZVxZdCBTB-Po5-BC4XWdWHmm0EIAL0d5Q-u7RBs-7nTeq1kHUJ9_4b9mfAXefnJrhHbSDFEHJBMzorSyK534q2T9HJrZUgLxMuL1JCEQ6XpcvDmUumzJoVTNlU_99Lg-BHcZoORSkctbsDAdawUVWyxVhAeNYnwvWg_c5pL1_LE9ttiDXdFZHTjPw7OdhUJAlGaBbX34UQ0VvFpTl4CGMjopf_XRdNV72CIi-cPppxqhLDU11R5cFTmZ7L9L5Rr9KhY4K4E-ErYiudzqlTw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fYkYbvh9I-HS2aSwnikWG2pOkqh2cvZOqT8l4NM6Bp8y6fsV_JCVSNljGg8N6CKfpSGGmMkJvRzRblXKJVCuDWkRl7Gqf6ZvnEYM1_jBvGyNtVNz_cgvORKiMooNL1Lce1YsqyRkLRINIegqGNjhaFRV_g6Y3uEC3Y4VQwqj8P2GRxmc97v8thEJR1_ZPtYdKluhrO0DV0XmrUg-qUdvDTxqvSHxFhTKZ9kxzH666EgpDDp8chmi6j12N8RpR4ex8ITrHywL57GfffufFYuK88f0ufMS5-v9AiaaRwTSjM9Ty4UzyUkMO8DBjJvCdIJplwt5DUI442UHb9jDAWsIX2Zu_87mW5TafvcrtIfqrEKr9BRDWDHhRUXFR0QkIu_ZA7uRVdjbTwHo-ilK6l_bThRAsMEg4ymEdpUyCj_8KHSEMO&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2faKlcFbAnZO0z19E9dLPM6ke3bZbgW8lv6hAz8bUzYfpBU4se4A9LTDtt9bDPr3ilMipfZkgA5B-PgizVx7RSVrEF-dDdCCtD0ehI_vVoX3sqlGNPIi3pJWqcYe1jCjla9h_rE-3wXrD4Sq3v0Gc5uO7z8sNbnOwstgN0mz4I5YZtNlD0tHMVQJrbMP7aRy7-3_0jjxHqhCGgparrH4pe7yYUS-Wa6rnfDdUtLMvT8zCINIbf1wcbUib_nHN8rNQDmHn3ddO01CChqusNSxCQA6jJ815A8ZPRxAcszkRv7PnIK-RaIqvuGRyCJe2q5N14CChwBaMow2ZTUPh9JK5D5ugarT3nMgXvanSs0DiU2ZCbTPyPX3xQWUzh_QSDAB_RkPwD3HCeYtsCTHn1TMks2IQoSFof2pl_UamhhUiV1Wg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Geoffrey Bishop",
+        "rating": 4,
+        "text": "We had an amazing time learning about the religious significance of Pachacamac throughout the centuries. The museum was a definite highlight; well laid out, informative, and with interpretive signs in both English and Spanish, which made the experience accessible and engaging. Walking through the archaeological sanctuary was enjoyable, though it wasn’t quite as visually spectacular as some other sites in Peru. Still, the overall experience was enriching and well worth the visit for those interested in pre-Columbian history and ancient Andean spirituality.",
+        "time": "2 months ago"
+      },
+      {
+        "author": "Gabriela Mattos",
+        "rating": 5,
+        "text": "This sanctuary and museum is located around 1 hour from miraflores . I was impressed by the museum that although it is smaller you will enjoy learning about the culture then it has a restaurant clean restrooms and the huacas you can go by car or walk it will take 1 h or less depending on your own time and the general price is 15 soles less than 6 dollars",
+        "time": "2 months ago"
+      },
+      {
+        "author": "Trail Hiking Australia",
+        "rating": 5,
+        "text": "I was blown away by the scale and significance of Pachacamac. The archaeological sanctuary is expansive, with sweeping desert landscapes, coastal views, and remarkably well-preserved structures that speak to centuries of continuous occupation and worship. Walking among the ruins—especially the Temple of the Sun and the Painted Temple—you really feel the spiritual and historical weight of the site.\n\nThe on-site museum is excellent: modern, informative, and well-curated, with artefacts that add depth and context to what you see outside. Exhibits are displayed beautifully, and the signage (in both Spanish and English) helps paint a vivid picture of the cultures that once thrived here.\n\nHighly recommended for anyone interested in Peru’s pre-Hispanic history. Come early, wear a hat, and give yourself time to explore—it’s absolutely worth it.",
+        "time": "3 months ago"
+      },
+      {
+        "author": "Emily",
+        "rating": 4,
+        "text": "Super cool to see the history here and learn about the different cultures that developed it over the millennia. I definitely suggest taking the orange route - walking through the streets and getting the tour guide as well. Totally worth it! Cabify was like 59 soles for each way from Miraflores Lima (about an hour with traffic each way tho). There wasn’t anyone there when we went.",
+        "time": "6 months ago"
+      },
+      {
+        "author": "VIPUL TALWARIA",
+        "rating": 4,
+        "text": "Pachachamac has a history dating back to 200 BC and it has influences from Lima, Wari, Ychma and Incas culture. It used to be a pilgrimage centre and Pachacamac was a feared god with power to cause earthquakes. The current site has a museum and the excavations from the  structures built centuries ago - Sun Temple, Pachacamac, Acllawasi. During Inca rule (the last kingdom before Spanish Colonialisation), many people user to visit this site as a pilgrimage and many pyramids were built here. Sun Temple is supposed to have quite an ideal location based on planets and it faces the sea. There was a school built for girls called Acllawasi where they were taught day to day routine work. The excavation work is still in progress here. Entry ticket is 15 Soles for regular route and 20 Soles for special route. It was great knowing about this much ancient history. If you are a history buff, then this site is a must visit in your Lima it itinerary. Guided tours are available in both Spanish and English and cost 50 Soles.",
+        "time": "6 months ago"
+      }
+    ]
+  },
+  {
+    "name": "MUNA",
+    "address": "kilómetro 31, de la, Antigua Panamericana Sur, Lurín 15841, Peru",
+    "rating": 4.5,
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.254265,
+      "lng": -76.91090070000001
+    },
+    "url": "https://maps.google.com/?cid=2977076410766802882",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eNK3k9ztEc4ZSbo3SOdum7g0e1pSpfow5FTZTeAwABpCCrgCqW20qX3dyJAF7Ry4OYixN75hSYKUg4_jvUEAzIsrNncQH9BPiN2-Mv8bnN4tUYCZOp1CoRTpAqyyaUHcjpaVz3oPATA4CLUXyD3cDgPtWhyD3S9UhVhxC3qvGFFM4nPo77D34XGEz0pvt88R88XlJifKN1EP6O4YJw1eLnyN1vUp4kDEaTBmzmaWGu3u2dO1VFaemrD7qpsUTTnDQr7vIm2ESRFivWtwPyItFl7zB1AEyr31Kyt5Q_ChAVjt33ZqZ-b0tIxWvy7-2rhzWI-5DJHIhqlpEQKbh_LCVYvl9VUId5XMxv9UMzJObatnruMzshrbA2D4ehRY5f7t2hd2f3MbHBz7H9KHlTlMHo4ohfZ4C50H_OCizKM1Edsw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dKLRGI2GOYX-dIFhETugbbAJ84pnzB3K4qw37Rfi1rn2TurmwA6dK67EIn7_Jd0JUkllPcJSzpkhpJjHlZ5tVrB1u6S-FdL_EW6EKH7n3A651I0KAklG6ggWrCoUPuREQkjUzUDbB2BS_45_iixxyXjMCpjbTB7EUJFePZvpeHLUzst6woe1aTVV9KewSUQEi0pbFDuPTNo62TeyzO3ZiL5MErae3jHLNo3IbtTA1w40WLtVr0P0-vHWo02xRkHaEOVMOupQC8rIz3Ed6QB7tf6DG7MNEXJMrOp4m5UGymRDyl42Wxggs6PiFu9mmpCm9yIQC0WJNkb2tg2EMVp7g7i9yHkJylFftxwhlFQPHNUnGOBqswaGnKCZcX-BGFWew8eAPUI86dNmFR3lqQg7uXofIId72KGpiN27rjQiI&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fjN3WJSdQd_C6nPcpPrRbOOLwuI2uYba-Qmd5EdUj_-z0m2Rv-OgSrSN1nOLu3eM7ranB0uNCWQ81nGPqh9z09QclF1-KmpFO94PzCOqbTFVEwMKbyotfOprmCxce_0yOuY3K7O2JktrycXhYtIBRaY96qepv_dqQAxL8sOUfXmVijyxzWj5gwc7xbNG4kNO7Tu28jhW0vLHrQbw4CkWjbAUk-AMKPlINJgeoQiS4SVtCLNX-vQve9a9_s2bhWIarfMcJRTShtCynDxO3JfyLSJ1G2GfIkX2ib3PQiW_j6d3l1KyP_sXQGjboRajPLXYker8ecVioL7momJZxXmzEwJTPF38VjuMgbtKUq4lZBP-u60UJtmpgUxM4C-aME5zmCJ2a1XQJKtVtZ_2XKuIyWWEy2vL-eMER3EAlyyutvMw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fNHP14EjMrUf1OSELMpTBekN4wVyKOOKjONfKMTECOF0uPS_h1x2bEKcZxGpzlqDPGj8aGjjery8y3S-4oBhlH0a9VFJY__OhiZO1OYrK_l_I00IeYIggj35aEb7xH4TIsCOmp37UOIIDHN5djxpsN8MdFUP1RBXRvy6I_dcJDUd1XrBgFAJ4hOXoUjo7LaZBQ9MjhMp9CgO74fl75795DTCzAMPcSsaOPOUjDgY10_l2_xgg_4ygc5TVQl-DteBEEmHqJind-KTD_zEUSsIGYzyzGpC3V6UagGEvHIelZQ6MpE0L2ANGBTj-_xzTj8sWxv02IFg70rQkqjr35t8lTlOET0q4H1e5z6MON4BguXO29LOMGs5IVWaz818iJYoppUl0RQX5vcGicsxliyzWbkWtQPknPlgdtesE0gEE&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eXBgh3vl6LoQPaV1qNsjxT5PqE1lNSoihdBNcD7pN3EGTpfuSykRkHMkVqTfPgIyKMmuvtNwNwJp69NJ9_Enur1q8yM9rjrWVEgcfHq1hDJ6QwV2lOnLnhoMAJlaP-Kq8x1yKKESc7NMSWv8TcAUOH0Pi_Mq4qwlFrWLHSz16JxBPCR59-bPRnRj2CU7SVwoEL29SKA3baYhQN55JI3pz0ZwWguiyCO4plS4Nx34bq4QemT6WTaUAyfKVvSL89rWs65Q2bs22WIAR1bQYdA0TFyiFLLL7ZnLDfO6SsUlcquTHl0B-kwZidWmgpJcQTRaeenwNmXLmhbOvUQ7oBlA_Q88PhWgdZuZ-hSDixOgXetKY7CJ9GkljXdCz6fcVW-P4CSfG_GwuSACuN2ZUJs3JaR2qn7R0RB6MUMzJeAWtv5A&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2exg4vcbqNpxDiULwtZa8GR9MWKyK3g8l2lYgCSzXRYHeJ1t9zSPGSCAHjAU8kXpPAcB-MhL7U8VWcKJufbtgrWIFAsGAiJEHrVm6QB2QEtbMPGjhjJ1gGDyVQ1KKEMvrRXfxW4_z9bsRWqZl0W14xrRo1HhNsWEkG7rQO69q-4VR0smytm5entCDjbH2eBaVkwsKTRo0eynVBqeGr0KT3q6SejBmc2PHhG0_Tvj9mDWlCFHVUSPvvJQPyiWUhVjDBo4tKszWsY3rurRp-4Sg5B-O7rO3M1ekBes2tY8ZDDJA0vpf8D-ys-pfPbIfygBWHeYNWrCRKNARGeSKgQlMvZ5ix533dOcfGf6JTst_x1BDHKxAjLe8NEZvKXBgbc3WFGjIlVixPjoxbqw8ZjfV4ZiXvjg9rZr1xg1lHfydv2L311&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cfZa9Y2HSqVNOlaWI5RZegQPcgHHZkn6SGsUmc5cgC0ZXwJNW0z4-8ZdHKDJCGGEvO7Lp0z7UphpUjgX9w24wR8qeEac8sjjLOzCGrfDmdzIMqzY9YREcCHApHGKQOfSm_3o1PifDyu5SL8iV9jh_Bg6jNMyPVStwakv3i_LbwHS8_WNdl9KiFJ1KbyNx7So0D_6QwL89kBk1EhY-_JLiDYB_IUNUuVB2AZg__x6nScOR3zGXgNZo3E8uvYc_gAlcPoie3CN0groynvNPFtH9D-5hq1xgVOQAMIS5x7VpVOfvT-txGiOIvIFiiSaKRd8aR0zMqmYoWIxub5Ds6RlLfFuEgePwVZLLGVtPwP2ltHEs-WGIeniWJXuQVtmCzgBck9uMYgQoTB2KYTxDnUzn9m1WHpIHn0P6g77o3QVqf1w&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fpFZV2I9DLa9LuA-k90z4SpaH7fsCdXNvBCqA50PI6bfyjlGNlfPOScssEO1qqeEkcsi5qZQFulMMTwpj5rc47RCXabSJ98fi73jiwt9CLzWTZTvwbJQoPUdRTWUforvh61ZNlD25RiZiY0yQnCjuX99ylbqGyFiZAIpITSQQPexC9PkX3E3Yzmg3PTkmuqtt_vqagLJFcovipG7KAxRH1CBLOXG051AUbivPDewnhu3KktBla93ISsIyg0ytuaMN9W4WgLmpV3rnrhAR2Q2rxk00XrrdVPO1eT8xXq8ex4GS7eV5W7sUN3sgK3SQixLUKtqYQC67GPagwY1y73djyx0GyxdrvSsR8DRNhePwvf0PsWfWybKyOf9klzJqby4-HrEu1DfZXQK7O3Hfh4_9eTkjp4y4osNkerjHZ6MY&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f9tcTeeLIhVkoytBnELQYPcK_2YgmRpNdYDkt3aMffWuKPV42jNU0tFhnOaeIn-gbGloRrJVbrGK2Omz7G7XqgICqc7oYlCt67fFXHkTGhJrKOEdOROixzmfwzTFdhSAIS3sdParAGnEP6kWrn01QNMsPub4bsPwLQ0TEVtKVlOdTtfkC1S7l7itHcYhN41rfVqIeH_H0YObE8kJie95mp1763wiX3QGF1N5HuJKH0L30VnWf0wZy7uFEIODNb3wmhiv7z9DKUi6jEa8sh1qdBdVm-hnzjgVrEVyn2oPwamuCbI2ZIWn7ESRkxcJaqdo8MUhyMMH3CuVsX9NIxQA8Lw-n_X9jUKOXZ0x56Gor2JM61wBSB61AyaKpnVwzq4BkdlLneOCgO-XOJJFVX8Rg0QPoOJmlYpob0DUUdVRy4Qg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ebmdtNgVbdbzG7NcpaGa_4KveiGIYPkYlCmDRtB2V_GgOlOrZL16K9E6L5iEwS59EKeURiK4UHwxOpDukYbovrRRyF_FHXjvTzUsc_0OjrbjKr8efgeCN-VWboAzpyPXNOIVjdvXd3Vo2vWFn5Zza-EDPeJekaeq0a671Rk9QhFPTDXVrcOJzoINzaZMLbVmF8v9OjuYNYwwXAyM-RovxHKuKoeVez-0C5u5rZ69m5Ek0IOOMCsfCEQzwLm1F_yKEeTByRCITSrU4731Gna2bC8b1bdpY9Bl-XYzzOLRqwOH3v71pki32UHW5vipPL1oDRgaH_DufRZuvrLpvIcJaSCK9yNQamFGnvfuq3gASUSsz5zZv8J57vWoxVmTZfjsSJrDXKZBW1Bu_PJanNhZT8Vbl4uWLifrWiiq2N_0e6d2iB&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Ivan F. Gonzalez",
+        "rating": 5,
+        "text": "The bulding is not holding their main collection yet, but they have temporary exhibits. From June to December 2024 they are showing a wonderful exhibit of traditonal or \"folk art\" with extraordinary pieces from different parts of Perú. Pieces from well know masters of their craft, from the 20th and 21st century, with roots in milenial craft traditions. Highly recomended. Free entrance and free parking. A great addition to your Pachacamac Archeological site visit.",
+        "time": "a year ago"
+      },
+      {
+        "author": "Angel Davila",
+        "rating": 4,
+        "text": "The future building of the national museum of Peru. Currently it is not fully operational, there are some few temporal exhibitions. They also show the 5 floor building (3 underground) and the roof as part of the visit. According to the guide, they are partially open so they can evaluate routes, capacity, interaction with public and private transportation and things like that. You can visit by free (but soon, they will start selling tickets) and arrive there by taxi, bus and waking and also in your car (they offer parking slots). Don’t forget to schedule your visit and show your covid vaccination card.",
+        "time": "3 years ago"
+      },
+      {
+        "author": "Ricardo Rosetour Perú",
+        "rating": 5,
+        "text": "A fantastic architectural design, ready to expose the rich culture of Peru. Very friendly guides.",
+        "time": "4 years ago"
+      },
+      {
+        "author": "Lilian Quispe",
+        "rating": 4,
+        "text": "It's a huge museum and I'm sure it'll be amazing once it opens fully equipped",
+        "time": "3 years ago"
+      },
+      {
+        "author": "Silvana Gómez",
+        "rating": 4,
+        "text": "Great place to visit and and get in touch with the exhibition that are expose at the moment, also if you have the time, check the activities in the official website and enjoy your journey there",
+        "time": "3 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Ruinas de pachacamac",
+    "address": "Antigua, Antigua Panamericana Sur Km. 31.5, Lurín 15841, Peru",
+    "rating": 4.6,
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.2555058,
+      "lng": -76.9077239
+    },
+    "url": "https://maps.google.com/?cid=8760579576739610745",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cPurP4FJxf_QtOySrRfNOJE3Vtpv_5FFerY8KS3gtNLqSPpPbFt_zQvI4r-7lnATeO1giWJ7HKMPPFYZjWzcuEQTJLNy6wvBYJB8FbVlMxtHvDhLlp7-E6WDOOru_Wsp_RcvgY6DFtX0-s1NLdS9YfFAApygU3cLVV8B4bm_tfhrT-clBiY4ekqdgMNbv2ul6zpAgeyGwbvRTRsYNy4wD1oHjJSdsmBAgmxTRBLn9CAsRvA0oMbN4PzvKNfbwqeapbfMxeAIzkFcs8aJAY9B8XAVogsnYH_hdz3Wfl2PckWbaaDWpXvFYtLWGNUgnhstFzOzU3AhHVs4KQzFzEjasYm1q7YofI9cMy6RSivpnB_htakV5699TgLJPEzmgDf-kw7bHKIXA_hKn_uspi3gcI0zIx8gH5FmIbiOZw6jzjpZT1&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cRsZOkYdnyV1y7w8no3-FHApdeJDwR-DwWvMYdYEzokJ7ZDp6cxkBBEs7BVeqGRRarKHn4BY_qc67aC3XqYYXWySECqFPuJ2Kr8z3zX1WKUFPNRivF5hyL-lvUyhq_WyACf6hYEkgesoyaF4bbxk_7yi_XXI8TiImjbse1aADsRNHh0TwWA0MdJJmFM3y4eh4wBHXKp9wv_ytQuoADezm3LDJYNH0zY-ZAMnhydSRB0i96eUOeDvzle7Es6QIFtsF-1cjxcFd5UttcPtgZTq3V5hPIDg5KIciUABx-E62l-lFzPzb0IMtTmlaQLIfNqcbtcfCPI8TDlNEDicyt0x3lj3yIimHop2p3-zO0xpzAh_2_bP0Rbl_O4yANxkq8ZGBrUOM4aEPOdx4vlegjmzBXPOX-hlNmvSOZ80RzZ5XsZQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e-W8xsPhS3azw1LSvBNDO4nmoq8fYc_XK0UkR19WsZz9V7hl29M58Br8kgJKFjs7w2Wp_4cs5MOncOj--xdeLzZcN9-a1o7BJ79sunouLgJBf6Zvyk-10_0g5ygJ4tna-8It_c-uubIVLd3z-tIyR-789gWG2NCtSViD5UN-Iu57YOQxCySDOyx03QZZxqzUYpsSaFlQu9-_3ed4xwbWYUOiXslIbaHfteHHgOm6aUQ5XZAuw45xM3NmUBevp1UBQQiOjTgz3TWzMRZXqIx-1UVFYIK1PWA0hPONP4fmjtOQldDkoou-JBrBCqD-AKUSuH0RHXzmGqJ6bgc0ns5bUxfMHtHRk4oVdugCwbRFyXeuOwGPiQKvqSAquD8JG44rjMo8ICMEbssEE7ri3SQwNcs-MMsF8iXdFKEn4eov2bNPDk-i02AQu_mm0HeCSJ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2coTUX4P_s0O8pGavZnk8yaZ7fDQty-gXwDxQ1jb8cIhTOci75Pqo9Q6ZNfyHPj_J8y25nAiSTNNjNDdpQ8ELKOM5AhOtxyDD74bfMA316_qy_MPO6-_-5ex66ehgm7hGctf1kLhDDHMkF2osbK6MQ6_Ktk3SY0liDjfNjSKGnjYXb9Tz7iyZMwegZAIbeVNiipeCiqNEI-IWWm3KDgWiQsI7Lh5P7_Ce6LEXBc1K8KJY-tNuxstm8A4XbgfIjKN-RXRxHBxKYDDleOBODc8ofVFeHv12V06goraMtH30X7TXxhAsRTX4BVEcbCp4Ffxgegt1asy8NrHEgNOm9J3ecjGnlL4Ut9AJSBtxOc_VcvAkDdwRtkpOWIrI-3SdXLEvXzGC63ZtEG5B1xsYjVs0n17iiDOQjdaMZXU1x8WnGODVA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fbJrIDF8j8oCG0SXdzjPCT_O-pRC2kdgLNcy3Dr0S9mNoGc-gT4njROjMi1g-5H67AhS0M4FXdcUQ7Rx4RaSaJro58YSuc6vVbQBq2ulg0I3wrmc9cWlQ3GyLkWOSJL01QKL5jKRmxtiDD76JeHo2ygXjftZTzyJpyVPCkhHqfmCdklmU1YY6xYarvHbgictXu5EHlYYCRuBkiIPpjKLz-IbwPw2VAitScbVm6MAlwrNwq4JnzPVevcU4iq3Fe_GSJTjQpl6v7tcIhXlqznkOSSFpw8qC6lByPHv2gPIsOQ31d1Rg1mFbIc3wZMOBqWsOMTyGWSIaxEA1gnZHLC5eeOaswfKANeO4d-wZDgDQjkusVdB86g6EXMlMX6s4pqXWszfKl0F7WHq11boChnOBwkDVRtrSlyqTBAdj3kNB6UJw7n1CbypYbCQKJtlvM&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c7VGWQkAkrSvukUgpYaJCIS4jkMMc4x8p7tpfAizYNuLd1I8DeHwL8p7iwVJar148J6ozq8IUdppXESlnmVs-K7pkLtgxlvUFUb85YYI45AHRobM74xlpNiXnPQ1f7_I2ax6N6TNQDBfQxX4goOMP4N-7lliBDlm3Vxe6GLOkNAlwaa2SwgqNpxG_lSKtDSWmMiTfHgBjgMbxPDzuh8HlcvbRweVqmcBRH03P7ZS2wdemkJQBPVLQEhe7wQKOd1T4MD5HyyLibJu4F-IVDpOsjPkx11kApgRgZNXM5fmE0BC_o6QHM1szWBVVbWgABPlJ2YK9FPg9q2JhQjaZHT1EUxClSSA23Ie-M3ZdnfbO6XSYAWRXiZGuPzspTrZ-WjeqWDLJNLpw26wFGHMhldMYlIaqf7kA8CVOamufwAbo&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e7kB6xEziamW5Y8aD5iHzXuzzlFSUWtsC0FepwgON-JZFe6nuJtfm3y-ibG4-gJ7olb4Eo4xrYauPame4VZeZhTCAtzBira8RanzwTnPSlXDqw46NKqR5ao1ZMQ1JsFXEooo-6MceWTeIaVwk0gA3PvSfwIs5b4gxoWBE8uz0CUjygeQ1VllSU4fnarEN6Nyr2cfgdgKafmElCgMACtD4fKvWy6Jkx0pA6m4P4QUinxRljyhN72KimTMzpXwetjKve1eCvxHgPlsfg4-AnGGeK0D3w3oC79bbxqtXpmtl_U9dYGF8L7G_H-TdhZNbHOksPZpoVk-FvFNn6ivyLG7d4VZEGbEzuMZvxKiuDbT_jZlsfsKOhCuHsrwWy_lvaDcyEAlFCYRTKevcp66R5p9whGmIpaE2LEz3_-XUlcU-Rqw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2crURyMx4Ly0K7iVUzFWWN879m41-FGgwxZIu522N2xBf-47LogNGBrL6sPeRy5OJkY-4ga_ZI4Z9pBXbam4WrPDxB0GMnKtV00EotTr9_U5JJwCXLALsVH1Zqapryn6ono64jVDgOjERfwDVFQlIy1DQYzCmtXDDhHWM6EO5SdCLMggOTJEEWQkDm8GCjmR1Zzg8cfxM8sDyp4iFYQ8BeNX3z_zl5omFen4H_G-lmyjEMZd1GQ7ZD3O8p28S8dj8so0WeCaQgsXufl2TMba2-LVH0BkB_5bPwrZEF9ktUyXYW-SVmJAVbKFuILVe_7-FHjjreXOw3qXTofAG3mfuUKmgFvY5UkekEPu655LERb3WGiHTEG1d_koTYvwxfOlIpffvAiD9GniDkKR-jWqqV4yhk9Rcq6RhOltVXtuDscsQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ftNzmaOSxl-MS_8gKu-mLHRJ_-oR_9fhnRNIoqypSDpzVEh9K-y-uEKFMBoS6iGRFqABoo0rz43vOP9KF3wZFAvUdrTrciyXV1XLps09VVv-Ig1jC989Vh1Nlky7fozyJQaXsYoTFB8w8pOHqDZ5EhEBBHNPmFEa8YEIk7NsvV5cd234xe6JTHPrWzkC12EBbI2xiVufxISIzIboitY0j9JUtMu3lqBNbNiP1PB3bfyMCJsCgt4TC1EYIXO78gSB8vRFN7K5LntjwhzpmMWwvV6W1HOT9qj3Pnz2jnMnwGHDesVLe1vBI7eXtHX_wMUegJWdyLa5UCoZloRzqpd-kwqszt6c8-txVd5VkRbdbLWre7ehd9Xcmecphfrbw4eR-ZIzoOMKHYtwYlmgoEzeZCdehAnRbEyl7vANzJGxargso&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dXJxGQ2papo6Xl02YnjJAR_ll7UUm8wwBQ52q7NsJU5r9EuQFy1mnbAymUUrqR2rkGF_1AiWfZ8TAsNuVH3wxdqnz8Gf2XBmf9joJO-y9zh5ESWOBt7Cy8wyDKltsdeoCWccVV1ktyhlE-v3ZcOstwS6vsqZjudquQC0lb74-csXlG74-juPnZcWBnUYWSzBy9_JmSbiOHNHbHwtcVn7tf6FxAzAI3d7vFY45FTq8BszS57BtKcGFnfCHoSdUgMffMZmxWiwUdqttF6R1FZTx36FQ8cbmv62r_7ZMJFi4cJ5b_rhZMqvb4e3tw4i_xVHve_5F2bGY7UqkX_8uXGtYZZj1jdDA9X_bszFSTuMQApzB6f9Nk6sMayYzBHimlbwTLJ7ZKDPMJ7wR3XmBVhFW2xu75GZQUiqjsnLYwMMO8SZQXBnvxbwCWQZ-A0Q&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Papipupenta",
+        "rating": 5,
+        "text": "Here was great place than I expected.\nWe can know Pachacamac history.\nAnd we can see wonderful view including desert and ocean.\nIt is little bit far from Lima city.\nBut it is worth to visit.",
+        "time": "5 years ago"
+      },
+      {
+        "author": "F B",
+        "rating": 5,
+        "text": "Well worth the visit. 1h to 2h to visit. Beautiful view across the landscape.",
+        "time": "a year ago"
+      },
+      {
+        "author": "Devansh",
+        "rating": 5,
+        "text": "Best done with a local tour guide who can explain the historical relevance and facilitate you through the museum and artefacts. The site itself is spread out so if you do not prefer to spend a lot of time the tour guide with a car would save you a lot of time. Al in all a good history site to visit.",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Craig Jepson",
+        "rating": 5,
+        "text": "This site is where the oracle gave readings. A temple has some of the original red paint intact. There is a restored piece of the 5000 mile long Inka road. A must see.",
+        "time": "4 years ago"
+      },
+      {
+        "author": "Tracy Brookshier",
+        "rating": 5,
+        "text": "Spectacular",
+        "time": "a month ago"
+      }
+    ]
+  },
+  {
+    "name": "OBRA NUEVO MUSEO NACIONAL DE ARQUEOLOGIA DEL PERU",
+    "address": "P3VR+RWF, Lurin 15841, Peru",
+    "rating": 4.9,
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.2554278,
+      "lng": -76.90770859999999
+    },
+    "url": "https://maps.google.com/?cid=2648410537003476094",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2els2T_6d9f3w8m57CyzBtqFZG2qOXwSHXdYGvn6mn-AnOEFl6rmFJiraY5GHagV6U9Zfd6tVNPbN2BavUFoF4vmlFTzMqzdZAEcHfJuyUkMVgsvLWyIa7QGvsUXh13WGsMfRYDRcfQQ2gOXxVCIicNHZGBBct6O6O8Pzg-f0FgAUOtdO6W72KCMNb-dlAB7OybqGqnW_TEbLWTGtKEZWv3UnxIEtqJtlqHH80yomwah11iZoyrT1TAqLDVuvmxkOr52MA5TadgXlgc_AqXzKwRN40CJhuRCImCYTcw9_NfKJAK4BXJ8uCRPyPmiYlb4T9qGblHcvnG0csoptVDqZZVsmHhZ_yAvyNdDpa4cHdYSvI5gRzB1vqqHaBBjKa0B_38bes1RqOpJpEtvD_DopcZXDy6pmFYFXHmzqWdxmw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dbUwimQSwE11jNHlyJGwTuLtKJdelOCSsrIdZ7C-Ij7bE9r6we6iRA2b60wF1q8dS10B2U3MF85-noxRO7Fa7b-PzwCebI3iPN9C86swSqHqr7N-v-O3Ka4UCBaEmdxyeLNYjOm3JvmF1p05-fSbSuokOaHnFkQ-BPoI2q-vES9d6nqclqgwvVo9ECxC_tKDSwCc7CnGdWJqaG8dDa6NycyUcDZSu5xgFtzbvEuzJtCJhyiXVFaWYn12k9-hRcUtrLPxxvKqhDrSjrzJNSUaLToholm_33PidIPoSDBfqSxjiOxpohPoeiqdEDSp995jEdhuF2zUSge3v6Ina-zmwCMLqJ321VkO4Va1KggPebEA7ZE734DtzfpYWcrTQQYlEdgCUmUQ8k7JV7qFK1Ycf9E2PH50o2AvO2hmBxcJJYUTXC&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eFPpSkafwj1S8T3e9GlB26vfQCAJ6TAkJZ6DGKgWZCzn1ym8br-A_knvATYwqjb5d1sjf_Ex8k-VEYxwAxwjqO-lZnSu8DTksBudPKZYrZ0QjjJ1H9kFOZ4cuLEdc0d3THI7bZehScrA6NY5wRSx234dq02_AvtQ1L7ue1HhjIQFkrvYAT5e2iyebIEjrZKYX549wV6Ihwk0PHOsoofhgZRCJ3rdWkxgX4bIy7e3Otic9vFBzOaaApexTxMc6_wczrlvaq5ozHLrFfm-2-kZ-d6DAmuSLLcCPdaqVQM7SzKHO7U1rc9sMm5T4bPrh6mrUjbEBEOH8yyRfWMwdqRdyMBUZSQ3t8d82O7IS7MAmnXs2sN8UA9nnKhNWBWvuq29I8clVNkMCPX9T7YqkvKfc5OecAzupqG6uHb7idad4&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eFG0GGiKQZWvdJsXGOGJ2AwYCpqfL592z1QG6iEKcu38L9HZOMg7PwNNSIiO8pBhUryn99lDjn-jnwfwa0dBeOb0Q7TAWiSPLFPE7vS1M47Vdi97yj5wSBpb-_GiZuro3uUVL-a76mgS2ZHBH7TXIs2YooTGdVPi8ao1q8VqTQKNQFoDYH-Nt9tUFp-0_0Lb4fhtUOzFQ8_iXHEgMCGIoNCH7eKUmiHUNV87V6JTeXOW3ve7fk8lCDAKd9iCenEFpl8V3Ypehr5LVpF31tJK6FXVH8p53DJIXL_fpCDrvArn0Cno-bhwEmKSWSSqtjPGsv9cSuhI56XYvS1w5-4E_3MmNuLfd1ICthN1wb9ROh5vXcMkiuP7kgeH3SXgnACHdo8xiYuIeRFNv14PW6sUddBwmWf-3fcDOb_CSug3Pnww&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eWUrvR2L_ROQWIybSvawQHZAyzZHC-d3c3YyK10sQ8x4GgKotwleqAMOkqRfTgcHpbJdWsKGkDSKhpJjSWzIgUQBl8tAqfE3cfyEyMyeOpY7b1uG-S-Lq658Xn8X4zc1QB2yAR0bPE920eg371In17nRFD_HfCwKK9i3ANW0l-xGTsVccEltLRU-18djNOC8KCSgGS_PYEP14ruP2irHPHSsSE6ZOStXNV_EIX4LD4DTR5plRgR8I4AfzUst8nAgacLEvpbKnXtQ1HDzgFtY64pR2nmg3yLIihGYHh9G4SEgvu8RpmdS8sBYDK8P7TkFYJp3RiuTDRji8coiZvUdiJiXcPRj6dwD6GuwjNPYcJThzQ5IOUIc6PdADz7zsqWYaQ1_0I1uHJy_UCVuUIAGO65jGqNes-NSi7r-JzmT2cJg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e7ZaSgA89DuMrlHWsENA9c8ezNlrizjsk7T1P74xw2iqpq5gxEgqxIUH1obo8Y-iW8e-s9HPDnMI-laufBWv7HD_we77hb4jaE0yba4ihannqJ3MqernrV_a_dphN6bPpBFNvL4M6RgjYi73lox5wM0kTSyggaulVfO0-fSiembEM-F18bmObnfFBV95DfGV2Q0lnYqUeb4fsk9tS6KnM3NktvYYiQXiPjFiqZxj_BSbZC31JRNR2g-zkHWhR_cHo1jmBWG9uG5H_9Vif1tsLDAynPc9p_6b2O54RqHYXtNYD2F9XFpQ6qm2nulvSHr2hxFxo8fLqasrR-IPg270nmVOlTamVIC2N2WtKqcQrmiG-mgAJieybagDBtBgJKbTx1OVpB4AFeX47sTm3CD7z7pjFQBFfbwHon6A9C7Qa08w&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2flV1VvtQEWIBKdarsntIkXM_UXkMBGwrwhLz0tUK2u5sE8xIzABnBhMO6gyf6BAvsU2kHFnoLG30fFpS6rZXR5_Scwt9ZeC_h4nw3eSqk1JTBxa96tHK8bNG0vepJfYvRUXqTq2cGzaLrWVyChpKRT6Pnkr_6BXG4rTC2osxcAk_c1YfCYjB1b_obJyPJAYrJ53BXqIXhRADgtV7eixDch5kbK20Wt0OD0fVP1SuBdk_DxH5JZ5zUC17izU3Z1n4K9pvh1QHNwCW-vfshR-yBMhAx7Z3X_lKEqfJLIpbShanOgGuA7qJJisdjAt3SJhfNfhT-K7eGV-0mj-QaIvnPEmRxZSpomzXsEASIoNyQBYRc5C8uOe32zpg74D_CuGumJ-L7g-NMf4YrzL9RrXQRTckTv95pm7egVqfDjOPqhu8Wp&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ePS0N5GPd3aY0qpGxiMmDISwhD2fXNKW7uG8gOUUcHyYbZpFupRNHNB7njdQgGSFvqkaydQ4pgWKh2bzcGcBLvFbWWZqTS_tAkKNKJJZXVp-ZU1r74TOXEX7d7fxY_d-C_GChmqxDetSt3n4kv_CW_gvBtgznQzdy0xCYqGM0ed6k1oWZO6Z2NKV3ylVUf-O9nFKCeGUQftJi-qwcEZ4zrJcn5K5BtQ7t7XpIi0_7PpGLWFGttxrZvXF6Sy52itBNrHJF68dMzXDJNd4FMnqVT5oL_Y6EcaAh0cVVEynDY4h4knoA5IkZ0QEaJn4GMprCp61QPtQ6aC7LDhsfBhtRaK0xD7cB5l6dy5j3WJMrYCzC03ikft8jNbWgqDZGcqws8-93B9TcdABMFxRFmy2LNVlnKBzqBDYtEDOWaIbTI4t-b&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dKIs5fVNLQ0QQWUjTNY0aaIBTYsktuow5xhvJNbyfsT76Z7Bcx60HPNAghvLxXdZiJQ-kAuYqINLtghMplDsYtJ3wSufZKR6mxzSqY1ZMZVSKnpB-4IGDoBkXrfDVOerjxWp13XwNreZixFQgnwyemhRmpkXVJ3dZlV6bxiMXPXnCrdvgBOxd9Fu5wD2HSYiSnxW0RUsRyQnnJeq4kuiUYThld_fSTMcT7vaanvmEYHF-Ea8bGLck7CpxXCsSxPCg_MQ9fin8Z-_LnYi3fyQYOAEDwHzZ2yTZOQo-iqvdkc4dDYHVJ0XKRrc1XUurkIR-qbzHhTUDjcgklIP2m0okC-ei6-89zABAsDLX0x1iWfC6KWWf1uztyP2DWJSqQN2hWNrksHkosAo9hVA5Ss0N4sHevIkpZhESNVoHOP5u62j_dnG5GqvsiuFsjMw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fAqFJfQy_EKe_LeX8YSTGThhtZEimmW6zaH8ph9idTJRZnSTQcCkJHtaL2wfmsDDfkHQoszGR1mIEy6dzk-HxcXWHvbHdxVazRryFVYBeGlLrb_Ti5wo7mi6ZIBBdnkqjrUX4fjFdUjEcX-tLEdxZmCgXK4MzznymabLPHZr1aX54AxEiHU-8ATNc-gHrMSzQwHJZapShmGLEuu7MuxighgETQU5FFgaBTbSL1C1moPcvbUfQ_HVcpFQEbkPrU7fRluIBWUP-sH2xVup18ErZ2ivTrvc9UC9SG1gTBk7YSBCodLvI72SJf7_Swyosm4q2_CXFb5SRW3NST9j2P3yKt2n3g6ncSONqJklRqidQ5wermwECE1s6DTb_n0W4uc458CnF3bMLNFvlfteimevT530BUNF03WvY50oFxJszrng&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Ruben Emilio Aliaga Orihuela",
+        "rating": 5,
+        "text": "The National Museum of Peru (MUNA) is one of the most emblematic works of the Peruvian State, built by the Ministry of Culture.\n\nIn 2014, the Ministry of Culture launched a competition for architectural ideas for the MUNA, and based on this initiative, construction of the building began in 2016. As part of this long journey, on December 29, 2020, through Supreme Decree No. 018-2020-MC, the President of the Republic, Francisco Sagasti Hochhausler, formalized the creation of the National Museum of Peru, fulfilling a long-held republican aspiration.\n\nThe MUNA's mission is to be a space for dialogue and encounter through the protection and appreciation of cultural diversity, emphasizing the relationships and connections between different cultural groups of Peruvians in their territory throughout history.\n\nThe museum's vision is to become a governing and coordinating entity for the country's museums, capable of responding to the demands of preserving, researching, and disseminating the nation's cultural heritage.\n\nWelcome to MUNA!",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Kelly Flores",
+        "rating": 5,
+        "text": "I loved it. The infrastructure, the mini-exhibits, the games, and the guides' interaction with the people. It's still improving, but what I saw yesterday was really interesting; especially the science and technology exhibits, the oil zone, and the playground.\nWe went as a family: children, teenagers, adults, and seniors. We all enjoyed it.",
+        "time": "3 years ago"
+      },
+      {
+        "author": "Roxana ramos",
+        "rating": 4,
+        "text": "An impressive work of architecture, an interactive museum with pre-Inca history. Spacious rooms, an elevator, and parking. Across from the Pachacamac Museum, soon to open, with free tours and a guide by appointment.",
+        "time": "3 years ago"
+      },
+      {
+        "author": "Angel Arevalo Vilchez",
+        "rating": 5,
+        "text": "Beautiful place, our Peru is beautiful..!",
+        "time": "a year ago"
+      },
+      {
+        "author": "Marleny Almanza Choque",
+        "rating": 5,
+        "text": "Excellent place good experience",
+        "time": "a year ago"
+      }
+    ]
+  }
+]

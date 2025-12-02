@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Parroquia Santa Maria Bienaventuranzas",
+    "address": "R37F+JRM El Sol, Villa María del Triunfo 15818, Peru",
+    "rating": 4.5,
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1859216,
+      "lng": -76.92544579999999
+    },
+    "url": "https://maps.google.com/?cid=15275682392023333459",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cmHpTNMFIvgGZve39yBw_R4K6L-hPvTN0QYRIR7LwVh3m2mcIKHxW3gDJ7IgUOoTF7koXPNHjBQvOJpQTy4BBe1fUF4TkLubQ73J8Ho1psopdZmWdTsWjjZB_VuLZLcCwNn12_MEHnWRrLgZomoxaEqv_1qMi1AEGcO66_l6DI0ssoVTMbydb9gDYjj1YqZORElRNkChdR-b0tJ7xs2-KhWL681hmqRi7k7wTLE63F3B-P65QXylQZQ6GXsaZqZI4A-kiOYiRHuP8yEzjlfC0Btp2T_i5IVUJWL-MEDvoDy2oq_1GIxCzK5Va_ZpYQru2G4LqSIrSnsDZmxwAm-fBdnhYgmB6Cvu_KDmxQ3DBIwYEq83QqDP5F1GEPiO6uUratkllj5YppU6JVioQtArudL59Pjf77CDtSCRZDvVvvEw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cYg8Nh4mXs2jg6wdAA-9JbtHqutod3FE8sWvvUdUlLPY3BE-iz6jKHtHo9eXvm1QQpbVNtZ6Fdi3SZib9zJJFQlmc6jx65QuMcUs8GsQjiNl8p-cI2dKF5rtRPN3RoRrGDJAPJQhRR__i-TFkyOz-gkVAKHnwkja0t56e9-t4Ewv49-pk8OhvlHdoLx4d8seTcTCum_tvzNw1YJQbsqjaRmncIO6lCG-7lfPoJVCKgvx2OzwVHNOd5SoBbBgatpX3hJs6xQTyIFj7zmGDxkUzmGvL62pyvPDsDuSKYJDZXZtY_MvLDjMw-SmG2TZd0qUIbqcfRZxMyaWlEJXegw9m55xM3ZSDCmHVENEdkb12ZKs5X58Xoafe-qos0gKGmI5SJE53Tm9G85l3J14kXnJtwq5UYEn7bCpXwBO08_c3GJqE&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fdHILI3xmz_EYJJnvcIBaQWgYR1sc_D4ug_f5XZm4XumChHDQQwY3-n21kAlYAvtICrGPTGxx5piXSMZzwsx67tVArRECqSzYQJOGK0yuEurrDFr4tfUXkP7KIb_Zp_awX-9Wl8udXc-1e-51Pet-uj67QAJn3FmPPTrFROUDNcfl70hgODhqm3MuBOO1q4SemGQmlof59m__s_A58Bc7dpr7aJGGRRUOUfaBL-zW7U7SVJxdRrqJkg3625ecR78P8n1PScQ-vOJ57QrKg-NW_cDLO8s7SPCuYl0v-8yN_bwBarzcjkYpjD8HWbgfXWh5U6N9rrVb8DesdrvOzJwN3Asr-a1TENoKlcjc8NoyV3T6ihL6bevAAFtAwcBQ4h2GqAOCnSEYT1GwBB0GJQYTr6MYsLhYKjndBOWvAxm-u-w&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ffMT8SeN-48OZPYCFcp6pzwvhYZqMKaqpu1NxE08zc3be0YP70kVOn0kXeay84fzShg42zJOUM60UEyBkI6K6je--_p3VlsYKX0WCOVqyUl8pJ0PP0Aff2iDooyrHesa-yz9wb5GIDr6H-ChrOuLZ5PJR-PRMJ63JQ7phL9dNKpY9rLiEtAzXSHLBZTsn4O1dNowRjMSgt23ditUUbyApIVPqKbLP9ELnoimicbAiF-EX3mP5zPic9VAghLtrgIPelVu_dyXE4kGpgUor4J7ohJMFANkLRexvpKSt1_zaz9jjUR6pz6dG5MZz7_5Nak3uOF_q3QPBaVbrPvWEtLb6x87e2q_kXkt8ZJeZCDRuB0q75R5xqAS4U_8s2ma5wXWRCGFhwdd-AASDyhOnGzmhkB5NkVCv99uAKWX4AgCHBDg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2drLgZtBXmu3Rgz2eCuvMWQnUStMVykVSn9M1262WQWujdjV4_ELivs8jLJ16iT9IBCEAT1ObB2DZqoXEeZvUwyLTd5eFZjX5TzwaNamzDNchPnSgDMT6PiAi6vo4eCwiqoIQdUhJf0GHz4t5NUllFeHZiHlVHe_349DhOLXc-5tFqY1_XSo4YVO916JnL1nqNVyeKZhRr9rlD3kRkDsW4ZhMf2-BUMYyo_j-zO3fY0mHj_oreG4AbWT7ylWAVNvCjY53Rd_5WzACBvtPTTuXLReBf5xQVkHFFYVu0iFjgdNSBXdjEA_z4KZLhCE1pzu1m8iysVxvHjg3X5nh3djNMrzK6uOQ5Gh_9IYfPEut3ysIKj_WtCTTdo9o-c6Dyfpy_bVLNq_dqCigNpmJkEJLwbsOs8xi5lTfNCcJQYkDVrog&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2drpiKe4DIb7RvT_MeLmCO5fCmBT2qxBmvErwphyS_4hNxMCVcMrEGMS9ZOKIqrEGsjtpqZ_TrGUOJAXorrZnznpRadWV3mY9TMaJA8uJdGE3OXeBisxtEjMcGjB9c4qEnQa-Mx1UIMy20X6rdyfZLKZRCLpqWMLt5eyYwB8iOVm6tghjt9DV_l9hLtQ-IGGoDTV3RPNDWeHZpqItdz2jyTpJ-_hf7b4nS0AkYBnJzRyZyMNPpsACrDBtlrr851nzTYwF2x8r4qA_W12bHeR6ZyiaccS7BzQs7JupwUOR7RYHUIB3X81lkprVJhmK6HnChe19vuUutVUj1iHKZyZEVAhLDvFYq5OpQhl0EXWAN8lgKmiVEr7XqMRcvt7ZLQdki52Os_uhwLuh6g2dNZSkLOkLy-k78dCZZErSTI8DjSvoo&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e4A9WOL6e5iLad_E_e0_lqrvlFXX0I7nkwxI2lRUvZB1GRsbvI-DkQr_Z6rSSND9gK8dEfTL8T6QkosQTjtqILvphZ75CR9eDfDw2NSZbU8iSyUm92jObIW2rLUdjcxNg5xu2N8-sLoWyMSy4rxfaNoIQR1CvCHiNNJfmxkpR-GjJbkQSf-gj9yk-SXlS3M6rWE70A11Z3RcpKLLH7yXTrVrwJUdjQ26f2e5zFuXIDIV2XJ5B2JTQVpCrPnKfhddQZFd6fvZ-mip7RZhL0zobUayyVA8nKS4K3D7-4NO2EXhnHCzWD_JqEcakgeoOJjxDPMzlsW4Jnj-geh19Y4l_WSG8vg6Ry1PQW44BL90XEMrne6LlhCsdETpGrNFlcW-g4pMfBC3RE9l-qXU1kRUh7JtA-vla-vEh4IdthwRCGPw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e6J72GAXQOXNenRMBqardO11SKTv_AheC1zPA0IGh2-4gWbZna6sV0bsXYguQ-9DrS1oTH8Eso5m0wsxiyclWgO0VDc31G2pb5CBdOb_fU0YyZNmhm-av2MLZriaUCyEFrHjhhkELoTAp5JH_Sp3jaQV0z1sYhvY7OauXuNXwys1oW5Gtw140AL9qYEIfvhUoDDqi9LZL9knimshlP8MHBRN6gJIgKQJobJ1q9lBem9C89OA89uQM5fCgSoJApyNBmoXjayfvP73DiVX5xC3if4xizI6uHMyAZJgXOMebWjc7O8MM7YVgVs9ru0Rx6_6v2xqei_7cHHlpzQsaO9Q65MzcvSxWFW5NuX4__cX-JwS96xgWDKGHhtrhrdUoS6O6hoaJ3jNziLTYMJBIi-4jjHyEhKupHpuTO0mWqm3PB0Q&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fRwnbw0uYib07XP3OIhzAAQarIZWzggBH7ZqXA9XPlFv-eesD6j3uGdw5xR953nsxalRSQi9Gj6EsLo0rY_5onhyxXXLowkBQyAkmlOIeikd16-QPTYtW1qRLvl08GxM39mHqk6WETLMBd4dVR7pOomQDAAm4udfZKGEKwxUKY-niW_gFFiQr4kOHK5MS6IoyMJX_0cx3LwlmQHXQwh7PH6mCcJ_42adHOqbEAC-17KerUitDr-ucAibF1SHwQEolmcCGlbn5h-lacDr4ClP-awhn5lAS--gAPneO-xUvido3T6K6raoXaCuzd4VGqbUWQtu4cS9dOjClhWOppyS0eAZynsTc91hCGmYB9E3SmgTUiyiDUVJ3avqOWuA-WRwYAGg7mv68aqORjEFbOZaX8vIFLpFTzjVdkFC-btjU&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fnlT_BAaLPTdROBlR2htt2Zg9gSjf4IQYxGNv_0o_GrYQC5TEiJ52kVND5rqGWPUgCKbgpoIdjd4-82g7rLhCnXI9bCi7Lhnpd447EWcAo0RfvefG1Qchqovmw1d-j98QbwmwDYZokvvzVHEH2GCnlOxCP6invoeS-PzwlAwuUPq10HKApIS3gim1jUAkWbPpMBTwxsthHiVJx8YJMHv8SQuqoUS_TMg6Hvbfai7XaDeDxxmNISp20WegX12YQgFS4KP5WYn-uHf9r5Vg-O_eBNMVX-INlmB27fcyTw5poPQUHFmol_xMpKSoLKzkqV22kqCLwOqFueXazECe5QYTCyulrGf9yxdwGhkh22ABdaMGherkRF8I6tS_k3gUr70VnIdWbEwc1i1Uf_ww54eNjeYC9MPdeVd23BMTZcNx9QA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Lesly Barboza",
+        "rating": 5,
+        "text": "The Santa María parish is one of the best. I belong to the Youth Ministry (member of the choir) and I can attest that the masses are very good. Today, it is more beautiful than ever and ready for all people who want to attend and perform their sacraments. Recommended 👌",
+        "time": "6 years ago"
+      },
+      {
+        "author": "Cipriano Choque Estrada",
+        "rating": 5,
+        "text": "Good morning, how lovely it is to have you near my home. Well, Father, this is the time to be by the side of our sweet Lord God, who protects us from every moment of our human lives. May God bless you. With all my heart, with much love... Mr. Cipriano and family.",
+        "time": "7 years ago"
+      },
+      {
+        "author": "ROXANA CHALLCO CCALLUCO",
+        "rating": 5,
+        "text": "Mass with Father Omar is so gratifying for the spirit and the Parish has improved a lot thanks to him, his mass is very enjoyable",
+        "time": "9 months ago"
+      },
+      {
+        "author": "Ruben Nerio Vilchez",
+        "rating": 5,
+        "text": "A very beautiful parish that provides support to people in need, great work by Father Omar Sánchez.",
+        "time": "3 years ago"
+      },
+      {
+        "author": "Paola Zuñiga",
+        "rating": 5,
+        "text": "I love coming to this church, it gives me peace.",
+        "time": "a year ago"
+      }
+    ]
+  }
+]

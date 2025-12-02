@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Saint Seiya Museum",
+    "address": "Av. Alfredo Mendiola 1400, Independencia 15311, Peru",
+    "rating": 4.4,
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "location": {
+      "lat": -12.0068518,
+      "lng": -77.0587888
+    },
+    "url": "https://maps.google.com/?cid=17306687326081387970",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2chWMLlrnz6f5dhTyuG-z2w0XRt3ghvTBuzej8OdmG7xDc7_yzH-QoQJanCGJ7PWgGZJg3NS8mXXNGUlYxxECizh7_r0Gwhcc3B0TnQulr-63sEaGoYH6Iur0ote6K4utQ3zf87P-gcOUfaZZn6XBYE9gl4yUPDvWhNQfBWaRJIrPU1LQ7YzSZUA2BEk9f__nXrh_VoklJeEWDWixpVBDOebuOhCGyOtnnYsZKVoj-I6y4LdEORfPQqJyhzSVS51LoNIsurQ59Tat9LgAB65Y09x0GXpcqLVm4Tb951blljCw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dqlF6PZPyK4ekaMiHgmJjOPOtml4liJg7eYdCaA0fzNRLDOE-4TgIhjKzM5D4aKeWeLoim5357kaPCFSFHWTcQ34WAsnhHCUpFyz02CvlZacsdTLHk4GBPlQ6m6RKlyLcc-hlwx-buMuyoO7ksTVv1Nmj_BpD7TFCkS1RhT_YzYezbTIgWNACHQ-Z8mz7g2XZoGvwCXNRJlhCRy1QrzsvXKNlqh19iNcGM0XzeJ8XyGC7impHply_XoR_E9VsE_65JZFxrDNVRnQKbHU8_5n5sHSI_u_CH-mlwrPDbwyyFnDG8FtLCgmLkJNOugtERPK91ClvPH2parPfa72FeHPFmi2E2fCh38vHwueY4IThRuECUq0JH0Bw5AeSJeoKujzTdZDFt3jr_rZIHGUprI_EwAGb_tr65lM0vQiGzhlPgHg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cWKIFGAIZP-n-6F7BPreSFuxwqQl364TBtOJQYB6kG-bNks_Uvh4vU8_SIlQdH673mPnNE0YbwAB-P8pUFuChF0ZcuUP5WoAxMyjzcA524wGyxxNGWeYGCgqO8Y5khbJihJfigaKaVl5lSvbf-EKOGU9JDC52TJtvydgXgAFgJW33Ft9dcW2YzFLOEz1pYCdSZq6jDQJmXGBn2EkszKmQVKlOfe4MmU1GNijIhkTiLQz46feXo87qLGXi40z2me3RmASn6b0Z4EdFMjbvlL7OQuYU7WDPNd7QlPWyEFBeQIx2NbU6A7Xjh63oAhcwhNu4bAM5XdKHElwJDOA0PWIeXcHEIzilWJBEGAC2LBN1fBeafqU7g6zM6mGpoZpZiecGJI72tZ7OgjNLCSXuG8-upBJ1uTdDPriCtGDNhNOjcSQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cz_pCnppQz9xcLlkl_7r6-54HNQgjIkYmk4mEv3Kfg63h15wZkqV_9yJkJC_wwapcYDiHgyD73DpfYncVxUyWLT2quWWpVBUJqR6MHGX0ekQZoKwpsKiI-ZXePmo61gIbGBzcO4dqv5h1CZjIyr26H3GA1czdKwu_GO-PaXhQGmPStzPiuXTGmthLsg6hpl2csAoizVLxhctg5zVhnvLJxxXC-B0ZzCvC6NcUbCc-N8dgim1A0XRmobYAUGW_P1-X1LQzes0eZ378kb0g8T8FqCe1GIB6SS1Tw3aaif051zo2eLNvi6qzkLU5ix3cNUJa1UaTuQKMxnFbAyjOXV3KmoDhZCsTp-5MtBTfnCfbj3OD8AAP_t7qKHbjWzqNpzMQzsgJxddL6Hx8aTMHh6NZyhGcxkDa__G8bqoIvb0DxcZdO&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f4ZdKk0FGx3G3HBORuxE_hu4_vW4eQzxVI7oTfpn8gLBTEPgaQSHa_pKHeaiiOgwI2UDymzoQElreywLchNhf8YUQrEkY75ekvOtGo_k4lO3ZmQhE4Pv9NzuZByz7qwXLyzinMngmMxxWIqjsYiO7MmyZGiFuWU9249KXf39KUdE-QJ8fr8YXLjqf4SZv_MjHadn9NSZbPaMddmUtTuTzxeWpjC0VQ2yq08j144Mor9WdSyQgpsBWYp7d_NOmFxB3_Bil9jcG1XV90m49InjBZoCyPEItxE34zKI0HuYknAA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fDgSPZk9jorxsiEdBEf5UtpBOKIuHKWCZoWEoJSvEefuC8Gg6LqkfKIuNvU3JT8YUs5qnMALxUXnfjObG0O5aAor2GjyFb2MRMZZw5twFICNWliimTASY1fPzgoz8DlnsncJ3OVFIgnDQ3xi3IdD82I9sVv3nJaZMPrORtGfWyaiO_AeFsMkd2eqkpzzLjikhJdUWg1kSS4amUbD_s1E2aiSgd7EF3CegaL5z_1zkNxm7AveRhN95H2iV8LgPhGFrTapiII3affeViK8Ni3wF9jUNhvEUSnabGnvkgSr9Haw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fPPNTLo5u77KrmnIaFqyDHI5tHVvkjKle_DxNFDVXw2q6UcG0SKJq_d6bhnMcWzvnXCUE4E1uJBPrb8nJcaZDpQtepc8a3ZKFQuiTkJxaIseM34xoukpU9cd2krrXbZr0XNogGBUxSUyCvdfFmj4cVOGSJj7BQ49nvoVVxkcL_pzjmBMfn03cdqJEoKXf6Teq0l_e-SF4Ouw_PvYZNgEZVsM3LL6t3wvulBdZNGK2f5QLVlIHLHRMk3ojTdn8_RGvlswAHr3dzMuPM_-nuTpR4wSDFRV_bVoYmlBe5zbDfr7XqKcNqRzMZexWUEf39mQPLzcjbdPwdGPAGFB3H8_cEm-8dbwZLjOHM8YEQ4isy1f-rLwj_3-87UGPZviYcjegc682OqmVmFrVqXDddGn9Sj4JN5O7MZ5KRhH6LN5tDPA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eGCJjRHXe4ZgsvR2LQ-a8blQDovcNLy78IKsNvckt8DdDCsa5A3GpyKsVTqMsf9987flX2te9PO4gTDSsBanfxxaVxgHX-in0xNl8KMcnPHf7AyASkFTHGtIigZ0ATpkAXaBl-Eimq5z0m7O86dH57C03bWTmsJ-ChB2xgwyyMKnk3T11fQAmgmMGkN9Wv6G3raSnaaHJSI-XG5dOdRXLu0lEp9i_WkIvq1arqwAyRsCN-ydqLeE1_fGRU4kFIjNduuVzHEDCnc41F5n1Q_WuZgAjh5I8RkOVRI4WaLffx-6FYjgCJ04EfOV1U5To0r1eggpIle7sjt9dymWengtoHkaD0zDxxzloasdDTgBVv1oluyEHJB2LBPDLmAmRuIp0D0PEF6fWjt_XmUpxzUQYoCcT5ZscTyAaTlNzSX94&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cWuFjaff-ZmnhdWDKKqxr3PKnflaNSk0qDkEKyi_-pqtjq4Hr35tevza4LN6hXrlXYNLKD3yX1lQeM340cH0sTLeBBHWpP0HtChyDmvNmJMCDf2Fo0k8gaPPeLya8byYsZmiuPHHMcDRL2SFyGBZfUfo7IpWb9vBl_zDjV_9L5T7BUhmeLgGFN3Twe-xr1uLpXltNnXF0a68w-u9Pn24HyzRGATFWm6_dxs60QqyIhsPBoSsdcFcK5sAgcQ5Qg4633mgZwtogYMlXCBhMmwyJZAce2SdBhb50YNiAXisqJYw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eg4ZKLR22pol3QwloRSK1zyolPdahIbhimoPzNX1n68RImX5BHfLBxbPnAHuO11D1mMEsSPkVT6QuJVvoL0HzIdm6BTT-G3RFQ64eVAVYrjIwuu4OHDYbIdYze_mEMczuHkLXdHVy5pwDnj5hxtCt8NUCOGA91YdVpDTcia8agiaHVGi1ct3CrhmW7-YPlXncn6s0T0Hx3p1xZFaZ7faFT7rQ1cB1GYOZaJYggxD2oFoFCbj-jaKwSo_XiagJmoTzKqgXnizP3BnXd1hYVYG50KuSAKHIFDgro_JxyxyQLBA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Abraham Videos",
+        "rating": 4,
+        "text": "It has a good collection of one of the best animes and has won a record guiness twice. It is just a room in the third floor. It was exciting if you a fan of Saint Saiya of course.",
+        "time": "8 years ago"
+      },
+      {
+        "author": "Jim Roberth",
+        "rating": 5,
+        "text": "If you are in Lima and you're a Saint Seiya follower, this place is a must to visit, very kind and nice  people will guide you, I will be back there.",
+        "time": "7 years ago"
+      },
+      {
+        "author": "J. Andres Alves",
+        "rating": 4,
+        "text": "Free museum dedicated to the largest saint Seiya collection in the world according to the Guinness world records.\nLots of toys and memorabilia.\nVery interesting",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Gustavo Santiago",
+        "rating": 5,
+        "text": "Very legal",
+        "time": "6 months ago"
+      },
+      {
+        "author": "AB White Pte Ltd Singapore",
+        "rating": 5,
+        "text": "Historical atitude which explain many more about city",
+        "time": "6 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Museo Chinen - Plaza Norte",
+    "address": "Av. Alfredo Mendiola 1400, Independencia 15311, Peru",
+    "rating": 4.2,
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.0070118,
+      "lng": -77.05820969999999
+    },
+    "url": "https://maps.google.com/?cid=7368584537419633133",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eqRLY0euoJY-BV6BXSyV4q_eSx9Z-5GNzMn6XCLxB3vYk7Z7hqAIWL3M2JK_MVGaT9ZWh_kqymOSCh93lHM1S7XdPSyslzN80GUxs4SPTUSb_9hjCjhFhq5RwiRDr89TMnZmkgVMZzfzsNCtCpTEGCeyFA27ka8nK2DTrvL1da1xMyFXGUxjc6At4xtcF8jZKXSQ2u5geulhJeGsKLTufUOYuIc4wq7mXOOu7IWURbB9b6nb2QPhO6FEqvR23nY1bEDcYtM4ODXNESfIZPQ8ey655tk_NptzjEn_YjRNammlRdnRJ_LLXNvONDDrcWXfNNPVbN9XtQ_RVZEcTl_XGzDvS0vel_yM1_nXuDXZfhS_k6Lgg255XykS3wjJuXJgPZT1ILT0A-Tj7hDyD3GBob4sgPncgRIeTfFuVsGsTDPw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f_E-xvZA_iD59DJEYzOPOCH721Ki8r_jxb7sAgFN_6ixYlWTj1Xl3nQ0VGdcaSzHBFfRBmvKXxs2MfV7Yvp5EbFdXeSNCBn-jC4yqoxLckL0N4_tVvsztHNb1vHKiefA5kdUeoMpVbQDIxF1fyg4T-CY5gbdO46MZtJSFG2YXPjCIsitJIHlZlGuaw8YaRAwwyCYNP3P4654_j3RjO7WH69KX2B4lDIk2QL8Rj9L0rJHYMlppH46TraPCzKiSBinGgQxBWZCJrpTnZAC7Muz_2AMiz6-AgabqpT-EGicMuna-bzy13CpN0HDph_WH4gkgFYcdoKEv80PJ-_AHSCyFZo8PwMo4_mJcBkVAFEtlc6TSIivsTyx-vtxdDvg4dxqOF-tAnxrGgNI2sZ6YXX7vtLvz_W_-Ai-XOXDFlReO47GK4&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eYC7jhB96jKG6E6T0FKlRmMD66Z-R-GAOnU7CGOELEFFk8EEyTgixy9cEkzWiE2T1uTQ4gd4cAH5TvZqFmTbjMzVHgmrDWh_PHE6YEst0oROOiG_gWlOjHXID5QWq77hAWYC7TPZSuT_yKnxgCfU97dI8gvjnqAvp1PCAOdPpdRfANYJboXictGdUAiwp33JBUFUPGtRw00Ct2i7UYLKUIoj9EH-801nHqWJlCJ-E9X_IvDxkFuGiKVwtAIpbpkYoOB7FyIkYrEJbwkSvsfvFSSlAPTFlWHAi14xw-RuS1n-Mv54wQ2R7avtZDhYi6T8WbY7fGO3CVym9zt29GsI8DS7Gvap07hRDr5GLMg0gvWqyHsxs9lWS7reBuHoCNWhNNNOyPliXsi-cLI4lQkyeeNb1PGyC7rNcez4WzJiBSkzOU&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2di86VsrjcJ4c-586qhp3nd5epyLt3PY1crpKU6w8KX9PwPY1HPfpRsHYlEdfPkt0uxCT-Z0ukYOUzDms7iFDNWcYKFh2wjBb9u4uBK7oKV3KjTiY8gn2SWAYXT2HGTdCkSDWqbQ_PtqUXBn-7EU1EHlCBKAqXk734XVtZmy2yXUwgl484rg2m9rJvge4LeBMu-9ItiDZDfzjaFwx7kaXM-yuCd_sHJnrr_0exylsmekpuha9WEOyqdma1OGV3MQC9srJAilC5wUzLXZH0kxihwgIMgdjyoYNJ2ajaTAsFFzwvyiaGW5PqtEMo2_5FhHQNeaNfH4s02jxHMQpn-gopSWF332PnQfTGsM0lWaKZn9e80xZ9ODMWzvZtWtCsOkydJZ_y-5ni0oy7cgnf2xNFjRerbhcqAWuFehS2WeZrmxg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f5T3SSLqIIJY2nlKw-Lpj8kQx_Cce-uVus-_EfV1OfNa0pvTMaBwBhS7xFEs3DQ_xsxy6n92AybZi_WQDZBX2WLgqiJieHKgn0vlTsJh_kP20wqNqVycYY8hIN8nNK-hby6-md__Vl1yPTVyb_j1mNMjoZX3MPsDCtn6TgPPeNcnkD5NDoCHpgeOt9CfAbZ77ls25OJTWIuIjV-T0BOkBLz8xPLeoNGm2BYvz9lF9kMHvGEfkENMR5FkC5cDoCOsgzTJjmzWKPakjNpONJGrJg4-r7slDxjqBmsL_n_3x26xe9siPP-NvUx4J1v01TlKmSrj7JxnBrB-86oBxed7lrN8qn6brHVg0Yds6nFyw4AuYYEXJXapRiGR7bWLaGUgRVLkS_3Zv66GEH-toQNzQ5CokWglifDg9uaX_Xz8yvIw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cdzTwemW4dHaANAWlbPpsF-ggeBzLPvH1OQh9A70kmgNxmfEp32iRpf0q-2Yg10YAope1RwuHNO9nIvBRTvwxgEUTQ8Yf-ZYaNuLHLPw1tTOQfUNbFULAkWqmu0yxGRIkIINaS_XOxofCulDZ0_fdYn73Ho8bzYX-Ta54lmb3ARr2SOAuB9EJUvU4y_NAhlBZL056qo7BkIelWic6sLdvguKgqVu2SeWbYez1dG4EzsrjE9dTAJiwSU-exZF2ObCTgqpGF36UQUJtBrHi6x7EmCWdxWVgzmwQZSJdzGZh_lonKudmvj4Z9brNQ4it6XGdGvTS9p_4AuNBtuAvhd8wXKSokRlaLRJ9ccPE3r1xyVCLRy4WsXiKJiWyJFK1HaUBxVZOGYMoBMOFco6ZKd3QlFzqiUdDf8k6qRYu-SxlkzLRi&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fmiPEnKb7ST2qIyWY6KuG1vwzEBLb84H5OzKGbkXYM4NDQ5sXV4oXDKmI3GQ5jJEEdGHJi5eRODPwfiYFKa5_KR7e31s1eecmFzrsA1KqVAs6Ca0up4N7DRhhkymAGFq7m68xs9ZaIDyo1ZyEeNrqiJZa6w_oGR8rkQHPSLSnuDE1cD7_UXylgAHyGD6Qsamscu-5Zv1g-16oTxws_iVPG-eOx4rTqNytDq3dlfycB7BsaSFFtes-IG3iM9olkMYTdtKyXu2My6Nm6pL_omemvYAHwP4G3YLciXD7qawbjRoil3W5hdMWSA4IwVJYT88eJhpr-RT8dmR6Yc8Y1GOVDcU6kjzbhYFGZQ9zNizZoPbSQS3okDzWYFn9TZ3lLFYfPyxZIonbgm_41MjjCykVYs4hLAt28h4wK-nZUgyWuBA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ejh084QMcNcQF_wb6MfQqykK1xdNBBvR8tg72gd3I2CBj2nelEQSIpi0SOEFvOeh_l2AP5oJNkjQR3oqQSnRI_xTnNAO9RJPFkx3R1_6GywWZd3cYWslQ9ljGlpjnjM36l8yZQN_h3U-wpOkbZ6YbNjIR7n3a3qXigFE7eDMudw8hNtiG3TRmSMYLRtqCF3bEHcIYMKnALSfIKV0uo-j-xvYbe80hoe4H3uB04fnn38d6OLmf9JIY5Nxyoo-QCP-OdDB-PB7Ob7ESztIMdFJYr1RG2-caPoS2Qeu0HUcTNRlvZqZCvCx-CEahKwYMd5wobc2l5cFQ2XxkwhVYsEULyg6NDAP6mAWQZvDAvaqkXfpDSPvLIeQU0hcrUeXbPI4kYacetlERpp8Fbz4-FBcPRmo-GNERlaqDPZxT43g0&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2esojCUTvc3vnG4N6aVMI2H71S7HAG97iMAep7XxQdab3okNW7dvhBSUo6Jhakx9JfkhAChw6cep43-waEfTeKmGYefamIrFYHGdjeTTZjpa2tVhPjxcHf-sNTdiUeRZ2PuaAsxAKCJqVr3XC18R7lj2I3yIvwbwdoBpAWsvl7lDMpVQQmSib12QgKErkM6garXKu9xtMv6n5tPv7Gek9wFrDIPnfEuiNZpR1XujlM8YRSE5BmortpVH1nXleOJ3z-cQ1zjDyJ0dL9G1-4JMc5aww6709NAx5d_i1Nc5ROgBGb1NW0fSO8S2eD4As1H3wF4MnSIh1Y3LBnRDg2r_7PlJs2X-odGvKx3EmrvrePphG92nqofBv_SyyVpQnA-9wMlA3sxzxEzTvsQ649CUSqhDzE2HRfjWZXJqRiFVZ7NmA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fZd1AEPVB8uPZ5B-XHuPtHMmUL4o_xILeQdzZTmWZz0V5nUg0oRIbBtpvpITooyWVA28EA_C8O1FwkSARlJBY3ERb5zxk0WkFSQxNpTdOVVbBfqAW6uUtxh6dCStpU1Aiv9qmZGX9IImwk2-wI4815UZ93AF1Psb1WfixEZWa-ywiAX0INAEQV1bxzjZccqO8u8UIVwTtjpmqINpm_2Vg1d08pngdLufBjv_9XqPwbJmeAPdAhgHcX3r1d4_ovgDWgkIFRCrT44Or26xSijup8DTC4L8y2nAA67clG4WiUphqe8Rh--9R6edSUVEzNI5qW2oNmJA1l8l4wj82Hmb_dq-gDzke48GE-Eh-FM1q-g3x9ynKtdEbJzwBMGnducLDdSdoOuj7Qa_qP3jzLXsAMeivWWQghOMSFjOT7G_GidQsN&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "César Terrones",
+        "rating": 4,
+        "text": "Beautiful mini things and miniatures of vehicles and buildings. Recommended for children.",
+        "time": "6 years ago"
+      },
+      {
+        "author": "Marco Antonio Pazo Medina",
+        "rating": 5,
+        "text": "A museum with scale replicas of Star Wars tanks, planes, ships, cars, and spaceships. Great fun if you're a history buff.\nUpon review, I discovered there are more than 1,500 replicas in total. Each one was assembled by the museum owner, making it the largest collection in Peru, and I believe the world. I hope he continues to add more. Highly recommended.",
+        "time": "7 years ago"
+      },
+      {
+        "author": "Diego Martinez L.",
+        "rating": 5,
+        "text": "The great work done to show us the scales of planes, tanks, and ships is simply admirable, and the Star Wars display is incredibly cool. If you're in the area, I highly recommend a stroll here.",
+        "time": "8 years ago"
+      },
+      {
+        "author": "Renadri Garle",
+        "rating": 5,
+        "text": "Very nice, you find many vehicles, the vast majority are aerial but all are to scale, the place is quiet and not many people go there.",
+        "time": "7 years ago"
+      },
+      {
+        "author": "Sofi T. (PETTI)",
+        "rating": 3,
+        "text": "The scale samples were great and there are plenty of examples, but the layout was visually poor, and the heat was unbearable.",
+        "time": "8 years ago"
+      }
+    ]
+  }
+]

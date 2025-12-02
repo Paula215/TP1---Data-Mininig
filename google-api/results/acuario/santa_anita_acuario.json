@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Acuario GAMBARU",
+    "address": "Av. Los chancas de, andahuaylas 269, Santa Anita 15009, Peru",
+    "rating": 4.7,
+    "types": [
+      "aquarium",
+      "establishment",
+      "pet_store",
+      "point_of_interest",
+      "store"
+    ],
+    "location": {
+      "lat": -12.0392932,
+      "lng": -76.9685135
+    },
+    "url": "https://maps.google.com/?cid=13182369280383659091",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c6R6_LD-ys2x_hFRa8z0VhVM5hSs0Vho_nERfiz53eIP4Pn_rYPoU-l9VHxBfNcwFxe6kI3ELeWbMbW_EqUpGnbsgLv0lkdEau138mGpSSX-yIIJhTPMsQtItcUrSUzvmnLtZQocgS_jL3NDKtvnrWjIxYd-aiN2AyB3gmWzu2CuTrUF14U5KZtwqiAHpy-END7OOa4rGv3geGcR4m0_tgRMEAaQ54UtsPWZT7TmxghgqQZ0wJLZiZYtSCvYXfW4NmPCfUFNihlZzHWoHIkQXTeVEZYYYrcTzpA2WcGbmO2A&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ct0Tav6D1YCTD9vD1UB4D9wOVMyo94vpqU_JnQh36GEqcee5NjrGDUmhH1HB9bQhuAYiuYtm-FqPE3NWd32Ii75zlr1TSuPFcY3pkCFNoMHqaLTQB-yd9XduIPubOS1Lz602LOZYUf5W3pdH_nCVNM-Mf257l0uQ-YVLlFXcNMAOmnzxMDbRqrRL9uiNcQsWvR32L8DzfvITKYOcIybr6KepDujkpXNHYWlOZGXQ5cGsLchcGDne4H2QFVPUvWQJxFKfg5AADfKezNqAHZnL5sk60BXQ6TwpEm3mYLtDCub8lu1eZf_CxV97ViMSjM_Uuxrao0dYILvMcqz7uh4b__q-59UrFxlzlq3gZr5-n6TdnmabgaFrGceIjrkmxyFIalh2oEXiu-ZCToUj6D7-UQTriGAwCaNZ6Tpy05wkcPeA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eoXqFNl0jnSTWh2F24AHB41friGQfMzYDu3of1eDKK3wvR3vO-XrGD99o_-M2n7yEWuE4I3ddCk3AdINVwV8IryVod_1G1dSTo-Xk1D8BjRVFSA1GTs3nL_c-dwnSOQVAVsAyG5vHV7huYGY1gVKNZjLrAStWrf2t28cKZSW-DW6m-cp_N5wOaMnNuhNDMpg__L-p196-az8caupcYd-NIhpjVeNpiiD1_2DfbDfes1pMfnJDjAGQXp4bV1yVtlMHjxOWn53y9vA5k33JDDupV7cmq3HCCkG31N_i7nd1tZV4S2-zzc-TC_v359sC729pMh1olWpCzNGMKsU2X-TeWeLgLbayUrM86zdhY8Qb2ADjKxvnxF8edChJIRPEiL4bTOJX26yXkrfmEO8wZD4PxAgudTETKUW9qjH_4LRRWTw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ddm29T6WDSoHJiwTP0oGe53MvnXrvQoSygJJuEE7hwxw9FtWXuFVftzBZVvK9jgIOYJqWmQhMc2vJ1mRzfHo7R92uvh0iKSMycdzeChb1ADzrdvBH4HXGDkICUEVin5Juz23bBfFOB5XiqFgctxsHAehQDoWqBiVMiTMxlu-Tcy1YySd5bjsxxjatDHH5cApHWfPUVbFj0z0MpppOCxCfZk3KHr1YaDzu_kfIZvdpv10xFLbLpIHBZrgjOnNWLp3iUAqbkVTA68htDuzDxU8ZQOs6EKh5TIyeD5uQ023RUc-Rxi2gIUEJXuPgm0tjX8uiSZzy-yQTRo1ELY5WovtlicW7NTi3gdXB5FrqD2k3ok5RbqQazQ0LGvqUVUifFtCUSmpT3XwUs1q-UmF1pe2s6ZfGXoaw5xpis3mn_2DVjw2Tp&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fsfnvyazBtvsms_X92KfIyRB4COKUdDwpNFBGSJ8eWJ6dL2heSk1JznSQp5tKHbwqDDLUjFg9ZXLaKy1BlpQqmt9BfzKrN0z0jB5-CzpMU8-QEmKGTpadBJ7Ve2lxUC3WGVwsXCgDRWWYREyfJDkjvXMp1TyLTE8Rzn2zktjk8jSAj2MaejDaNvsKMWGpDTcYOVKI8a_tmELQgkxP7IWd4aMnoG1_cflNxKGXI_LX3pKt5de2YK6vf0radmLW2F2shVOd2U9Ikd6iNYTDnQEzJPFQoVPa08u01Kpqa-W5ozL09xVZP0_sLUFisLmCoY1MVPaMabw_XhxlJKXQmLhLh2C7TO1OcqXEPfG7WPEbO39Q11ZQ07MIwQNdkJyRxwiTsx8NV6O8lRFkrTwQYz0Nui_O0DMisll4KqOiVAWcu1w&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dfuo2vfGi0LKpLhLyNJxF3gUNtHaRYYSpfZEtAGcC-P--HYWyPWkoQ8BrF3-sQ4WmLsn0qAozSMxSKbfUd87SJw9D7duCKQzgFWwNHqXeUSn5A64cZa6aPaGQ5PoNOEN3nJ1btXDitRqOP2OCo7JgLRUhGzyP47-55jrygHugqeA-5RTcmKRdo9R0OUgZUa5NT3TXrKGk22s0Wn7QydKWASYja5EGa8R4if2dt8_fUQDcRc2WMKs5ntJ4DCUX2PxMUZYZ5wq8Rhq3hxiqrbyBpgonbVnnI_L1jHcQmGT9HkDkH96oIP18B2pJxVZJ330pTWxN4wxnHMLAsMK76bU5a0iWeFekTfjkRKTzC5U1PeDd2zkOtvqmBvAyQdG4xClmQ-SkvHbYXQaWojMIRYhWtzpCSZJJzqm-YTuSIz5N11FoN&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fkwECLQ8GBu0RA7WYBiV_IkBfKhns0HjmsMxvTkDLktJ-qlCEaknHtpJGT1iU2aDDocE6Ez4-X0FKcyzg6N6w-ld8lshwdDH8XjTQnRDTSHu0dZK_2a4HdOGim6pzgg1pc-wk2uY79-E_h2UYE_H8jUpJWCViVH8M6261pS97xwy69XiHilnL7-_QOUOwC557TaxNx4bvsekE53snsEssnaDmrD4xPwNz1VV11tivI_T3FJOIC23_wB2mqE1n31AwvwY2GhKD-C8o8GfaLidnsXHoqE-1xEecOklcoNA1X_WPrpYC5DIbyT9jPCJ-PRQFaRhsVS2SX6GMwxoZqlA8BNsFzOnB6pMbLIG0wfZoXxP1tIz232n0ZfooDma6JluHyjUgqIKIRwThTs_lXq6B34pbNCdV_kC1YAzz_P4ETC1ZW&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eO12I6L5QzZ4OOIIoLXM5VHpl_cohfU7WEud7MBJq8Cl6u-YuEFdvC6qCkGGWintWVStw7dhwZDKXQ_GrrLPMIQmIpVR7Ye187rzdeePvzDXpCGOs_B061IxXp_AVSm3aSEZH-b7jadnp35z4yG2CzwUzVD8sS5-h0XOjVcABF6zkgvW1SArVh4uajBR0O8zY7dvj9sgt0fPBsAYZ1HC_mYH7BpfqnRpmZzwK80WzDQKy5FmFyjQLfvbHNC5WYgo871We30hdW-JhRoEIAMBNalmNVwdyJpyuPk0HB4vlHNVCJ5rfWzfSnn08xZdiFB50541gT3t6QiUxQeXqj24kiPpAGUwLvMs2NDfe42Bz8MI7Ts66NDC9KsXzlIV79kAz76IQNMu7Nu7_Rcr3KstMHJkp1Hgb29KZ-OhIQhGJokA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fiZTjG-G6hEj1dyMroHPRjDNTcK3ByodUeoNxXfSd5vpfEuu3DTxCEGxsBwvm3CvP7h7q5_bgNCOqlgVZEqMCcawgQdzmXLnBhExDSUk1krMTgxiqHVOA8KkGKA5d_Dcjrmm7l-TyyK_HjsH9LJuBEyzjnPAbuu-JxgD-4ziQpVvaKJsZJPvsMGz0Kyy22fyCWACKt9p1aEhQ41nxu2wc9qhvx-_vHTi7M3wPW7bhBXerGhY0HV6KCi2RsJt32SXKiAAyEX0VL6aMBZ2i013b7zVaYzvChQrArjSNr0CpYb71wLH7wxahTCZRn0lWKyNI-ntAalR3TWy2e7uNTeUXIx6dE0h7ry5-WmbMxKUE6kjzPxYilX5GC3PLGolqM6jB9YYAPd8MhuSIEBJ0K9-9EesDJ4NIMW_azQJ9XtD7BH0s&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fh3xqj92kJ-KzSyz5PNL12GO5hPZxRubWhzithO6cSwlc2BNVVxaT3NzFwQvk9XT9BIvSb29drkCJhtNi_zAiB-DvY-arHFkvJXwKQMjigiH4tYmj2sOwYTn_nlZaC8zOnlcxZ9oEeSi06XdhJITrHtzZNvaY7lHs-qv5qFCa_FKQGeI6OrYcOVZBVjxr2Ohy_j0EaMXcCzt-UZeafoBmUN-rqnetHNirBotcmZBu5Ghp51gDdnfPMbedWL4aJP-XW2AcZ3npn39Q4x9evygyjCC7jWGhCjgmFXNXDtwr9UNQRCgOjuE42Qtl54Bi4n52vVnEHX6A63FlG7lbXZjUs1yb8L7mrXDwqyI0OguSQ2X_-vCmt9GUY-8f4hZmfnXSym9etvLrLDuhWA5pZwqd5GY-qx6N7j8DHxycQo5O2Vg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Claudia Borjas Y.",
+        "rating": 5,
+        "text": "I loved it. It has a variety, very good service, and excellent recommendations. I really liked it. I bought snails, crabs, plants, and decorative rocks. I really liked it.",
+        "time": "5 months ago"
+      },
+      {
+        "author": "Maribel Sotelo Cervantes",
+        "rating": 5,
+        "text": "Very good service, very kind and dedicated, knows well about aquariums and guides well. Congratulations, always answer the phone.",
+        "time": "5 months ago"
+      },
+      {
+        "author": "David Onofre Romero",
+        "rating": 5,
+        "text": "Good service and interesting products",
+        "time": "4 weeks ago"
+      },
+      {
+        "author": "geanpierre mengole amaya",
+        "rating": 5,
+        "text": "The service is very good, super personalized, and he explains everything from scratch and provides ample information. He doesn't just try to sell a product; he teaches you how to learn little by little and avoid buying recklessly.",
+        "time": "9 months ago"
+      },
+      {
+        "author": "Alfredo Alejandro Cañizales Flores",
+        "rating": 5,
+        "text": "Good place, variety of aquatic species!",
+        "time": "2 months ago"
+      }
+    ]
+  },
+  {
+    "name": "Fish Point",
+    "address": "15011, Santa Anita 15011, Peru",
+    "rating": 4.2,
+    "types": [
+      "aquarium",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.0387572,
+      "lng": -76.9505149
+    },
+    "url": "https://maps.google.com/?cid=9557362739851745544",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cMapW867vfNlXPKXZqwkeqXrQhAoG4dZ_4bWqqSbs_KOUgnwq3DefyHX995ZV7lDADDLEzrCslN85MNELYY33-Z9Rc304zx2F-Hf_IgyBE3YPeG_qczQeSjixLQ1T4qaInXtFZnNdcbCxbWf8N-GSH9CMVxxHRdYZe-fJqywTbwxtB2yMrbV7oWc1cVjoOc6OgMUUrUi4I1Tko9es1MniaE1zvqe0FOLoPo-600PMNhyqZxEC5xrj_SP1RRB-Bs2UwZALrRVGOiuCkKaCDDsXEvMeEpJEETH-Y5Eyzgpznpg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dvniznCVKXRqxUvem-OBl4sOdm0rPdacOxH8S0gwt-rz3MjKRFuOWexnmx0JbjtIXzH0YMSlCM8sw6PztyAR-VPjeRJOVcq7dXn4qCdFkz9FBOFo0C4v8lQWivPXjCcirq4rZr6QE6_w-zsfi6-Hsiqh9az76SWQZ91GOn8uB9X8yWyAlbOQIEVCazcqUcs_SBOxEFnrNBHptzO-mT00XGEUpAT3yGwZgkAs23o3iKFmhivKOteGTksbtsfKLRAH3sRMHfZMMELmmk0MsMOA1YPH7eq2I-ovH468vgY9QhbA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eqtVAVQlnsUTe5FD93DbSJzxppKqfX5HeEdhgEwMgdei2l5LcFWotvmS3OuyZEyFrenDdx7xbK3xuAQaB3Tb1keTi2BOl-ZMv9xDPaYnvpQeWiMgwdlaQy4A-tA-_wsPTmcrCLy61oGttxak4rfgo15RALiRMRaQGIS6_j9o9zmM0_ZGA-VlHP7CHNiyOVNg7B7kcdshxMpLF6Lzntven3b5txP3MizoBvJo9Yz85Ayc17aLRca1udct4rxmECcLCLm3O-1CXNsItgPyfJAg6BDy8uwsc5FmJ8TD5AxZWvkeyqITLUEG_d-KTr_ao5mGzdYy7er8WJjoJxHA2wyeSimgszxXaXrGkit9ldKKawZNK0G2pFunOaofDSXAolEnRBoZBmO6yoGX4Pab7JxefIg6o8xoUEve9_pGaMPEF7NQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dMXwb66jPwU7bk-ejVmohVtWPZ-38RxJhWMF2tZoiRVh0iaOHel8atflobE77MawBm7MRlNFDGBvFaX75F3xq-vFW_bPBPx14ngAtwDeiACUT5yYY1p38BYqo5VXFw5X3_uBOjBuvrOqWN7nIu2bPHejMnbFSJk3b-13EALIhFMtnm5zHO6rM7OgP-3un6BQfMqmBsmo7MT94U0N4DuBwG-Q0h776Zmz6zw243INUeFsnanjgobHfJYuzRnEy072glepQWU1uuHkiXlwxy0z7-JB2cvJhDimB5Gg615sPO9tPOqzJxHGFCfZKGAhNG9NM55vPiYJ6ewR3uEiX3wmlhvg-bSwCoNp8N8PMA744HPrW9a5cDgAjziTVJfhuTb-QoFVM13sGMLFt6vGMq3ho8r_5fnfzHu_pMD77c2tnEbA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cIgSDxosz0nDddiK2Mj71jyUQFeQOFtvc_RTkS5ojs_dl05iO-xXPUIoXHK3EPeKpXYLaQgby-qnwepvvUYhDFr2Q3Y35wxpcxxmOriyCsRy_IBD7oIgjGur5Zd0noNmwj_PPq1G4qmFjO-vKqottYQ8ypZRS_CqudCZL3DF6mj316I6-xgczZFYSDIBvNX4T19q7Kcu3H_sF1QF_qMeUJ9DWBvob7MoPkxUTTtmaDTOP4h5hM5NRhywYQ0-d1HJPZQN28FbgPtFJCRQfvMcr4hUZFtMFLEE-riAV1HGcAprMk0jpLCcfVoo-KxY9nJhL5LJW8JPq4AWl2WQYtrh5Qn60FCc-erUQPe_Q0248fg6ggccBFmT5XgxUCFSAYT96NU3BD2H4SVF39O1558wWJft4ZDzC1BYMFF94uns5I9Epp&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cRRp7vnjyihUcs7ng8oGdypAtUEIJ0D56qRv3YTYxIEtkmWhrd7HkXblg-9fEy5z7FfFrjO5eCK1vAeKXGAp_d9C2UVDyKnIJs_aHmdsz-WDCh-LeKgwuilyCbnlA6EvYW1yHCkbAMbhfdTDAO8PAuJqAcnOX7B0VuyBiPoxXWTrTbtHpNTUWlF5z9srcoXJ0LcE_gf-Q11WvvfCpSjYbHh-l312UMRtbOQZ6s46JiPd4Lg6A-9XRhOFie4G6oPW65TaxJwsIEeEaJklPyhYoAlgyh-LqyXaQr6PSqYmw7cBqhynagZcKUzct_PhjTbZ53cStcnjR348rU_SB7xMCob4HC4l0vyEbQPWHtCnHyElxB_ABKR__MGZkZVCtOSZQejvHRx5qSYYyFxT6Xzf1ffCEFlaoQZc5oOKnYp1fgLNls&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e0lqUOkD_X4mPCvz_u1f2lspgGqGu2znWArNMMJfFG8cVnV4shIx_Ld-mcqg3CFmjanIr9nvb4u9P0z2TPoNOq_p98CD-CQY0Ph2fcISl7vL3DBRryTh_hKYJxAaJHTfXee4NurEE06Q36WUihgticumxhnTvXEMt6kE4FpPNTgPWoQVATw_5BqfeD7Q86IGf9EGNrc_QBih0quOJCwoEeyEiuG4YpZBM80gr_ril7N5u1lQwx_hSHhTZnbBLQL1OFCU_GgzFx15oRshgVl-5X2INLFMmg4yAsQVej2yVOUA_GHT_eOM_85MjKcvuz-_jA5yXDs309esMBXhCrnc9UFTxGsPKjkBxIfSNlk17gEni9cGJDuHfZX5Et55t2dTcTGvy10K-k2i9_uyVomRAN2DF8D4f54DwwOLD1zE8&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dXiISVok_3B4sZNoGjQ0X4iFKKFFQrTSmy_RS3U9xWMou7jbmICtWqe-21r7KSIXk-bIGqaYBbeyhcCgSeTgfzrE3oVyDU26nCWr9T_Xnm9ipFWd1mVvQvoOczNKInRTNfY7JAjid1W2e2cpXlgybLO3HxIsDADHKbf24mSRkPf4nkdV9BTbA2D_Ix21wzFbcssfKvRc24oKLy3LetjvRa5pZaczxmN25Sp8hOxXymAa2tF5VDEkG52dk4GaD_jGY6aYfem6ACLoqP55gFIy2KybAcj-eU-4iFRFBarUcAf5nuWJJkbvQvAem2UyX0wKIXfxIT6Yfj_R8yYklg565A0FjPT0Wu5LAv0ZRf5yBqJkXjbkXzB0Vwes6evb-SMQESpeIl277kCJ2vnjnPnf8w8MKFv352YTAlgMMYxzoxBO00&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2frJt0uUFhS2xDXAUYLk2JvbqUu52GNS-th_s0XTRlWRhShAhsxzE69jGBKHfe8AOJqLeRcgl5JFmfTzisV0IxKcp6RtpIAfvKhguQhkzxMOibfi28urA4bqAIk7cBe6-UMS4p-GvcYnOuZ-yN_0qlmY82zf19wEJ9DDM_SkWjyMIlsl4v6PO6DX6RLeM0L1dsbeJR7Tw6c-OipcYA1XQXB59EPzafYRqU71NrGVP0zvMl21IXyquT3P-dKPNF93eJE3KRACV39oAMpIAo-EVrETQ6_1O8LmWULig5ZmWLDm8eZv4LESQFBMiJM0HkPKel8iyyyFJax0BBdXlOLM-lqhvxKy4wwWr6MxiBX2OJaDe4T9XPiHxQ6V1uqTKfn-XHKF2ycc3DplnswCZbPVQ0fixh4Av5cEtb4f3KiVoVos-hjvfcWG8Oye4mCu00Q&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cDcU6gpzFFxqkyOOUTzlxAfmTA5Z73fveNaLIJbiWjnLl6gkWv_QNso88yyb0JA4JmipqpEkJ6UAUqJYbGuuxcdgOgCtV5y1JZakL_i5DvBQAb_0y0HCXlqzt9TaiL7idNEGzuWAu7FWRdrhYiUhjB-kOwErJo6ouWYqwBuL-6aEC1jJ5Y2ZmgNhw57camkJMIyjy4ojscalUMW5vtKRlDuPAN-FsCxK_qf9dukUil8sJmzQ21JgkrJ-rejsWEVG7pdMoWoBi9NA00jq4t91RoteTxvzTBR2lRxfx9cl9RkQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Angela Valle Garma",
+        "rating": 5,
+        "text": "Very good store, I found everything I needed. The aquariums are clean, the fish are very well cared for, and the accessories and food are of good quality. Highly recommended!",
+        "time": "2 months ago"
+      },
+      {
+        "author": "Gian OnFire",
+        "rating": 5,
+        "text": "Good place, affordable prices, variety of fish and substrates, as well as the owner was very kind",
+        "time": "2 months ago"
+      },
+      {
+        "author": "Meche Garma",
+        "rating": 5,
+        "text": "A reliable place with very good advice, the store is super stocked, and you can tell they care about the well-being of animals.",
+        "time": "2 months ago"
+      },
+      {
+        "author": "Sandro Quispe Tapia",
+        "rating": 5,
+        "text": "Good service, variety of cleaning products and being able to give the best quality of life to your fish, variety of foods and above all affordable prices, highly recommended 🙌🏻.",
+        "time": "10 months ago"
+      },
+      {
+        "author": "Claudia Borjas Y.",
+        "rating": 1,
+        "text": "I went last week, it no longer exists. I called the numbers on Google and their publications and they told me they were not from fish point :(",
+        "time": "5 months ago"
+      }
+    ]
+  }
+]

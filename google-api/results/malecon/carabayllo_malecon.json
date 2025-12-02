@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Malecón",
+    "address": "Malecón, Carabayllo 15318, Peru",
+    "rating": null,
+    "types": [
+      "route"
+    ],
+    "location": {
+      "lat": -11.869167,
+      "lng": -77.0335685
+    },
+    "url": "https://maps.google.com/?cid=13680055857295294297",
+    "photos": [],
+    "reviews": []
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Artplace",
+    "address": "Bronsino NRO. 501, San Borja 15021, Peru",
+    "rating": 5,
+    "types": [
+      "art_gallery",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.0877513,
+      "lng": -76.9894582
+    },
+    "url": "https://maps.google.com/?cid=5062175069459648181",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e68NUD5RSEwA9JPSeIVTOCIWeGasz44V4jMCvdfFmfv097ox6uS1lH8z-GEDMkTkZ983MJCA9cHu16gzAzRGtGDCIWPs0LW45Bsc7SLsPCwU3eF9cEnv_yYzaVUBhMaL-GMDqqr-3iEAHd-eCYe64_qIfl2kJ7cOhf_-q80unj6yKf6IvoelgB9aTBteXHgqz151vhBK9-yJMRHsQy4Qvb59xkFV8dhOUFbyZGXemEWdG3KUhTlBCy07kUlbAENyF2oq5cPlTbjO34H1g4-gUiwrI0T_ppVLDoI-F-3ML_og&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f2yeKZ9kYj7RfC-sca2DP7-FVXJciNSuO0JtYRWP9LQCSJKSt-D0K7IvdfarTORgLGVRaNXCE6mtU8uy6mqmR_8cAF6xwm-GzVIf-ClXmguhO2RgJJhqfeG-CpvyJuij8pGMHpGZtkzLFCLfsjhIxMNe9D0J0Ow-0kCKA8YJlXfzVCOAcmw98xomKL9IbzSOjtGZElyfACaFosGc3E6U9TpViSaS5p5zNAbCwoVl8w3a5ETXBKZIUrNgWdOskhYbdl153lRU-u0JC45LS7cr7S7BxKegMyQ_UWYAjK4XaEfA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dnmoMPWHf8TMiGDfyAWX_aZb1EFFRSx1-YacHT6Eh5u1Ih6GLtzLbuIj9ik9eBrpnGA0MXHlhaWatrCLFskvu1GqmjRsULMK6XYC-rY1TS02fraWE1XIr1EobQFUgaef8dv8Coi4wOAbt_9E_1rgD-KazPPn8Ct4a8oXhGq5hQHWsx9sBVQztCyA7z8bSinR2mbhINQGyFSAQd2oFsuG6W6TLKOhp3tEsOCzLr6xlaKZ42R40UzCEV-2e2XOPDGMRYGKMo3l3hZFklu7r0RQ7ZC9WFHS0w0lFVgij2hK_Lpw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ff6ouePAeGCAligtyNJG1g5_pOd6Lc0ydYZHvFgoZ8_S5FbPiFpyOdtXKt38NUPSFQO2XxMBJaQ0HSe4_I9uwm4NRemIo9EpleuIPn5IXeYBwi5RXK8c5OWkoTDheyvMouyL5OikZesoTUMdGhSU6APOk_mSnOOcJGvApNHHMM-lffvINDm6uJJzErt7HMrCqGyiol89mZj_n1jnUH7scgQM_t5sKQ3BpuzzOX5OxMRoocxZHLYF7KbKsIAkTbF-kBnr9yFojklgvpi3V-LKSupeOdNvZhn_hV8OVblHkmFw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Henry A. Varguillas-Oliva",
+        "rating": 5,
+        "text": "I think it's an excellent place to purchase works of art.\nOn your page I can see the variety that exists along with its characteristics of what I want and by whom it is made.\nIt's a really innovative idea, I really like that.",
+        "time": "4 years ago"
+      },
+      {
+        "author": "paula rodriguez",
+        "rating": 5,
+        "text": "I find it interesting to know that there is a virtual gallery where I can purchase different works of art.\nVery good and recommended.",
+        "time": "4 years ago"
+      },
+      {
+        "author": "Nadia Holgado Vargas",
+        "rating": 5,
+        "text": "A very good virtual art gallery! I came here looking for art supplies and found a wide variety of works.\nExcellent site!",
+        "time": "4 years ago"
+      },
+      {
+        "author": "Daniela Silvana Cchevarria Panato",
+        "rating": 5,
+        "text": "It seems to me that it has very varied and interesting content. Perfect for art lovers",
+        "time": "4 years ago"
+      }
+    ]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "name": "YAKU PARK",
+    "address": "2751Urb, Av. Mariano Condorcanqui 2751 Urb, Comas 15316, Peru",
+    "rating": 3.8,
+    "types": [
+      "amusement_park",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -11.9016507,
+      "lng": -77.0464342
+    },
+    "url": "https://maps.google.com/?cid=7774098127979318405",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cdH0m2EVwMKWgHgSIbJLw_KcX1jN8oQTwOQ8K0BG1rD7XaycWjMv_ZjS1utHfLVr8-dwwRqmisdiL6ZzSuljXolw3_87pemEfw9sdIIJRTMKlLo-b-6yZtdgCpwSGSTVzsVdfrlf4Eapb23AIbhjf-fbkVr1YCowfIJLUsvxnNEU-gIvXG7tDSNr1EWgSL2lLdf77RPRBKnfZ1ZkHLC3vd-Lz29TBAm0wwz3jnBBIT2iFkOO0AMKNf0k6yzD3-o9Z0UB1J2mQadmVQWGbsChGODVjdRhUEeXycy8s0Brv58Q&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dsmTuAuCBSrG7iai8Yto9Azn6WNPwt4EnK4EqEKF8veXypMVw5BqCP3-HlYu6xrxa-nJd1lMag65bfG4HvMIiO9Y3I549Ajta1xkZ7dl7h78MgElcUD_k37g-VL7Xx4spPMjAsczUEO067WxPagPeCMuShL_Iq9tsexRXDXq4TSzqrH7rXi7c-3HBX2hBD4cBCe5H4CvENIPI4LZN-psgTrixziLPp_NmPNGTIVkp5-nNH81gLybThhsz8ZfZfMsRbEW27ccGXGwgbA78J3IiFCitRSub3fcULpL59_fb9eg9xJYJuK7zqoIfwAtgOrFyzqaH3pRKVfroD6W17Y9BAL4dSFab2BT_dhw2VSCDk13o4lobqmjLW4J_ltyeNbxqcyllPnqkXsKAfBF9HYO2n30XUTDbYgQGClfF8CIRlUw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fwlJbVcZGcXI-NljS6mzHuEBogXojOvxJ9gsXXx9k7iIWucvE85mwHXvsDoja3TqXi1elq6G7Eq6Dy4n963ZOIdI1v2ILr4QJioPDWfjnYAZA1UHBzi3bK-UZPor55ryFL-MATBl7IEg8E5dRLtpceaAa48AeGBeu5GQ5_za1HJHWWJIGS2Ml3oNy4Nz89IVAjDdq3DqrwXvbg2xYeexwRcVBDg2G1Rc4JM3dF97JpL0n14qoM3oWgTQBL-IA2DHbiFeuyT3iODukEEO0d5vezd7I7G7AXi17SadU-8_Y7OT-AhwfIK1ytKcKkZiijyXKzwe6tKyerDLDgTUXgsTRdYyYR-rpZwAuDT_4yZEarVvgC8_0V-KeVLMKl9TfZkf8SuGlZtIlqTVRGk0dlYrVe-ijS5O1Tr1MgN7RwyDyJ5w&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cib_x7oVCsZASpwM2HY9Vp7WdAexAHutVVuv3n5FlptxnT1esu7WVnr5LUamcO1iBbuxXOKJY7ZXo2p40lxYI6hYuC-ybL-36oriouYyWR1t8yxIKoC0lOqLPazQ-PtEAg8ndg622yzYWuNV0bCkLjrCJwcbpIGBEw6wVC8nsKkuJi_eskhcxRV3JcuefbdhH6uKZQE7w6JmyOXR2j1Mbd2IOEw2auuobWXheXaSDP3JZGX2yNhw1GfIbFvuTGNrGX973ipAjiT4wfhfTo9G34pfW4bTaai5aVc-Rek18qemzRjW1mJOmF0Ut83yvkT5fnmwleFnGf_9iK7YjqTedoFJ0_8Xu1k2Smuvmn1d1l9O2xtdTYDlOCVdcOF-gBBgtXMh1gb7b4Ng6d2R0YRUWhMPBZEGTO9JI6bwpmcgI3F-7w&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dtSR1mYVRMv2UlwUPNf9MZV-LDPMujb8-E9c18gYHqocPK2eioO1n-MdfpYrKzWgkIZ2O_gMhptO1A7QtjjLmmo7py8QCCiWVz2XckRsd_SO9MWsJeObWHJd5Rr6OAxR3SRIxCvwSq7cY3lZxu3uJPvvi9_dFaG8xtPp7T9VyZvxgVwAZ3yKr7u4AJ021NERfrzqFfrfxnEgLGnfSG9XdsyG8NP6bQDfBTY8dflH7L5R3ejCZeVSG5tLIa8OGQ_9SouJ2KPArs6NLpmhfpvYX478rdzAiQLsXtYLiiFLiMu5xJ3qwUhRRR9IyIioZ2cK44UVJdXkiBdB-e8iyh2-3gcD_gqyHF0YRIvMDipcIhi2-alxuPvTeOg_Ggx-3AnZSAdXdPgJHl9ocjbeC145ldU68qDbW3IR4sJEcn0ywwKQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cDtyGgIzCeoZ6R91bOGXyvxOKeaEj3pxY2087x9YY1oMsEGJ_YwWdFY_6mvHTxtfD4x8sZJ5Zh6W3cI_fEEH08_8-AVy9R6dUYvmPGP-rNq4oTiVehCxhPrzej5rrLb5u_cetnxGwh7CDKUCibp0KRLcCLAKe2vKRtTcdHzcEOL5-7B-2kKkL6UrpDqGHHfZKTFk-OBymHhnAJinOlDNmSteQfCa7cStuDpBXHYtlXIHoS1CYSHZqo0ZU6GnBFqct4-2fiZ3b_zwDz4Ff0Ya8pii5e7bezE803rYmyYfQpj_zg0lxjDQQjilSfeX0ujwNGX1Qmv29u_gFa3Ix5y8UA2yQP76Fo-XOkTsfux0xrGqGCoidEdSASVcTbdispj0ite265QxYsh_EcwGodCTkQDSh15KporT6y7m6xY3g4vBwd&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d7Y_jYSazMLCXLOUhjWKfzWT8lgG4eVVBB-zEwnrEOaNJkUEC7C7Ij5FuVoQjZ1ShliPatU5oWVieVSkc9p3IvUzcY9YQWgiG7TRlcCc5fQiymhLGIgXS7luZA2ujcUHZIqVXxAu4hRKZOlfFYthKSrcs9V75pznzeZjgqGH2TmYd1l8kqyQStRqb3dnbxf6-JwxXDIOxt3hH8jGOBZuBdYR1fT4adQelfXFpKH-BrwD5k0ZNthyRZsaLFkpI8KwHEbRjV_QxQ3DErE--XrBSSsYWz9DPjCG8sWunqW8dVRfw7mD0LXQDwaqzr814wyFg6qan_hhG8c_bmBNbYs3hOo8ZIUbazeqREuLutWE8379LVebZJ2hNT5dkiBXvUf2x1NPsJDbo33Y1hPvRH1dRaUPtWM7LLMYzAzHo2epEpEULg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eRnQKYdmCFYtafp4vv7mtuRdTMZr1_gujxNxtdqULo08GMLUflg8C2bLMCRxwYhU6LLqzcO2I4TZHG5eK7acYIdFTRKwfgAt-BW-jRWjvzf6u86d-e6jlTnrw1Ob2IJhvuFzvo_Fcc0bktgleSbLEGhFCmotmrdUViAETuK016aRvWLl9CgEB4nb5g42XX8xdKN4bqtmC1EeNeYCbIeqeV4y2tMFDwZxBwGbl4Jo6E_lQin1FMEtDKWxUOYr1dcRa5pzMuh8trCxmpZyKD4XpjyYLjOhkS8-oMrUSm6QO6S21RrUVSJCqZw9dJ-VwLNriXsDKwg22YeXrSq1OMBHFDvyl6UA2hriBE5zLMtxSh9wDzhR89AwR870UllkYXDQhHn9y92OuEBS90lqlGqq2MeQdHrfJ4iBM2s9TXIAGTrQMU&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cA5m-IBQW0T1rPrm9pQmZalwEof4el0BMBDAnxcW7G4spQKqIyR8t9Y_IaNBnsWwpvAbZVtszSgpcydlHY5V979NNgFyU-n-845VLEqSWhVfH603DqIj4wB7lbUP8tR8KlT-YyzBoaB6j6D7QAlj7TPDvRaNtl87V7raME86DxsJIjnZwECkCNTITFTbkXKS8f5toIPOjtc80EF4wlay-b3GOAg4r5OqgLCwrG1rPMzgw1TpyMY7hEy43YYMbzivPudHBSCCTh8GB29KUXNewFoBybMeUI-WHMpmBaiyejQDqe1uffPZjd--45Ojh4NrdhVWS_2JI4vmWJOQfDzkjfMT6EyBhyscNtxMtUizA4Ro4fWT57tB6jTspO-TPAwPOXQY-2IF0M42T743udNFFEHnqIEQ13jWHiF-U16b-GNZ8&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fcUxg5PeffK5dWRMO8qMPy2yry-V6aMGPH0NacNZ9JyfWqkF8HOlSLBfFNq3Ij6zcNQMzAqvSzMYT6bzNJ3SETjOWP-UrSXigV0icSQyDQtFjVKG-ntT9jfOd8n7GjqiVncaMz2T9tPZ8Xm_BGJPOvheRQw9Lxhon58sV6ONbKzMnLCjB3hKVDWoMmr81eGPbTEW1Vtua2fGN0ScukfT36LS_2Ltc8ZiQaIxBSdccrLWTJOKBoVvHxgktr_BoecHfORhaZuskXejn1z5wVbmBiKA3ud213SUghhBOEnx8hTNFEPOeTj6CEyhWr20ER0o381MjXLo4DahjZUS2bynmPNOxq9LHh92F8d-r95mq22OSr3TkIPJ23pMyFXQmTzAtf7lGvkNpfkmiC1AaJ_wR6SGWYT3tRQ7y85sqrjTw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Jose Caceres",
+        "rating": 5,
+        "text": "Buens",
+        "time": "6 years ago"
+      },
+      {
+        "author": "Cesar Santisteban",
+        "rating": 5,
+        "text": "Amazing place",
+        "time": "8 years ago"
+      },
+      {
+        "author": "Elia",
+        "rating": 5,
+        "text": "Full diversion",
+        "time": "8 years ago"
+      },
+      {
+        "author": "Adriana Cáceres",
+        "rating": 3,
+        "text": "The last time I went was 11 long years ago, and all I wanted to do was see the animals, go to the wave pool, and ride the rides, since it was the Granja Villa in the northern cone. It was a place that marked the most fun moments of my childhood, which I still fondly remember. There's no information about the park's theme change in any area; I can only look at photos on Maps. Not even the AI ​​could help me. I haven't visited Yaku Park, mind you, but I can glean from the reviews. I hope to have updated information from the staff or someone who has been there recently about the existence of rides inside and the wave pool. I hope you'll be able to read this. I need to comfort my inner child after learning that the only remaining Granja Villa is on the other side of this one.",
+        "time": "a month ago"
+      },
+      {
+        "author": "Jaque Jauler",
+        "rating": 4,
+        "text": "Um lugar ótimo para ir um só dia e aproveitar de tudo. Tem alguns animais de fazenda, brinquedos de parque de diversão ( barca, carro de bate bate... ) Brinquedos para crianças e adultos... Restaurante, pequenos quiosques que vendem água , lanches e sorvete.   E possui uma área muito boa de piscinas. Também com uma loja que vende roupa de banho ( não é barata) , protetor solar...\nO que eu não gostei é que eles tem muitas exigências para a área das piscinas e vários guardas ficam abordando as pessoas e constrangendo com um mínimo detalhe em sua roupa que não los pareca bem. As roupas tem que ser especificamente de lycra  impermeável se não não pode entrar. Sua solução será comprar aí uma roupa de banho caro.\nE não se pode entrar com nenhum tipo de alimento na bolsa, somente água.\nTambém possui estacionamento e muitos táxis e moto-taxis na entrada.",
+        "time": "6 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Kochawasi Parque Acuático",
+    "address": "Av. Chillón Trapiche 5, Comas 15316, Peru",
+    "rating": 4.2,
+    "types": [
+      "amusement_park",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "location": {
+      "lat": -11.9261743,
+      "lng": -77.065237
+    },
+    "url": "https://maps.google.com/?cid=12813368958464951496",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2efVSv3vNQg0ffCrlR3M7XcWYpm97_CkWRkM99w9gtzIT1WsA1OowjdLvpsp6WzFTFmmRo07S7RIS3TFbHLQDSa-yFE7S-mt7XfwdNBndsK7aDdAwU5-Pftr60l_d9apT9T08RppKBR6ZMby_aS9Xbcpha5x2EY2Tg2ckn7KedMcJQUxP6OXCagqRXW4I96RML-tRVmmzZw-1GQF0QIo5khfQK4FicCfVgD7nQ64-yE2OUl6ny96OOCQ5PVCVFnThWh5esuzepgdwm9iqHGzWp3za-aMawZ7QtCnTIszv-4mg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fZm7rNGg2866f3z3kNgHpEHmNpcudVcuIqhjX92Lgrm-5iWgv79eNHbAax5BdQmVBMbalpF6niZgAqiu881TZtO_laTWdqScp7HFH_X5air8cWhqHs6DrMz5VMiEoYwqA5HLGBAM59_ds-CLDTPw2C6kt1nUKMRkP0TRJZ_6CCVhkP7wnyiImWIjcpRof1R51bG4Y5P931wcxmFmwgZZqQiqxC_xTBCwzz0Ey7Wq55DoOmIGspalGUXCu-1W9hwBaGkg5bexJtX4fzX9e1MEXCYVDsWdgITBUhXj8Tk_hYmQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c3B5tQPbxHok83Qsf0dcTV1LoAYYtBF4gh_hO70qFZRUWdIIsNlFTFcGTRjjdoxhD4RjcLTrAar9PZmP5BR2DATze1G7wBsOtDaCTnisqASsZ_v1PsRYT2ib_Ul2CuCv_8pyDE-LreLDFK9_rL2RdzhCDGel3XiuJIctrPSMqNF3sE8Xdmu8hNwWDNAxK5obsBsBTZhc-e6Pi_xaBzERkvYFuqqoHkHC3Muq1lrOes0o5X1pKdmp1OwjwqGcmBUx5w6MGmGhSA7-1aorkHQL5RvPUMImH555u_3Ed4mRwgWUmsjFhH7lbrQT8zZh5ZVJ4GkCKAHhjp5zJBj9ItUiplbcIO5ChQ7NR5JWxhHpN2PzukvRtAwDC3kICHFWKVZRDZSKB50Z7rb9B3Pyx-jBNXu3GmRO0_9zfbbTfLQEtPtQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eacktqEQw1FQ_eT-1VieuN4Y_-R9F6wOJ9IXMDgIgN9qVa-iAdsNdRP9PPlroI6K8coztvuTOBn-NSKiP4N8d9f7ZaEh7CZBYyLPBYErJTwyWcVStulMIGFXUKkEy_5MFLsO4shbctF6UjsEHp3FuwUjY3q8AbT5oSEYUqD9_71NfBttUVjta_e7yNEoMQCLWYJHbrCdxgwIIArQLnogZxnU0zWWhDPz2qUeLpu9s3sDDcn90xHgx2H6qFK26QtOy4yyOvZ5Cp5yiUWyz_-nw5hofxRFCMMbG_S3o2pz3WYwKw8udUEzXmX9xRPRn2T9f-7Dzzc7W2o1LPwsVZ3-MqrChR1qC5tu3zzSLaUgt6RNMV460qzvS5HkX2rdp6tlxk-F1AGsscTUm1mr56qNDX5uurq78k-7mO2Oqo4Kg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dwcGrPnMrCtyAgPcvuXlD3W6FP8XqgQ-IgskLftOf_8j0zq3NDLy-Wj0cPr5Ra-3LMS2SB-BrksJOO8-LYZN7bQG984Yhjsb3vil3sqQTLqP6ggZj5txY-WbCKB_gK9hBShkSefEMi3pv71ABqcMK47MpWNPBZQs3qniYtQI1S3nYkvCwqPKmzuanki68HPfNueh4InEnBY8g0eAt8tno4suAeRjjFtIQEHXazdt-NpMRrg6fYYWnzqDOi1-IUEXsYIIwr4r-GbmywCjCu5r1uiCLq0JLRUGIptdxt_Tc0Yik4FUmIPzprnj_YXYxFO6R_mD9FWhyJVe4C0AvL__hT6qWuCHjWvMQl9L9FR93Yq5xPUOnO8cVpDe97JjYudh1umtbenkEqhttY3mRclgrXNYZMtWOPq9Afd-E0pEHDJwJC&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fXwpdBYV1uZxTc750T1mGFDeNC7mpBZSa5-lDnoeRc7A0RmFepivZdHnaIAeUw0VRYyUfY_-0VdZvBVoDI2gg9MT86uAXp0g6XPNhw2mIJ38eTComilNJD6KnfaUhzycnj-TR7GJfF-2wpcCez6w133XUa8ZPoGw4e4VtnB5O4_rJeMOt6TFmJncJEK6XFrTVSpymdIqDEa-v4i7PS6kJ2lmrciINCRR4Kpj21XUQU1G43-DTNd5sicQddM-KNz2pxKOLWSxyiRhJA0pza28eagflC7_RYNH2H2U9w2fHtfNETn2lGhWCdxPNRmFiw-e0jEzsTSvJzpUTDxR3Idg8x1BUKIdpEkQoBx71E7mhuDFvxhUersDax91Fp5WsT39RLeFzI2kmhaKblGaX9KDs7okYrg4I0YRDUCoIA07fxMg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fNcIKQwSWF4dOU3qd3qjjpIw4TFaEhOHl8D8OZJXQrGNusu0JfwSVCpEDuHdC-7e8RyjnMLKIFoCY5DA_e8ysl0oYJCXjszEukUY-GuBFLq-plR2xpaxYvjws1JmBoplgp98DJN5KZ42QHqDDAxshdOq2BeXJKojMVhDpohLAT5tMN9z3K8Spf4JUtjgzQ-DQ7m0PAJkE9vNc_bGi8m6IYmv243FuihZoDlFrZc89KG6Zp6vg34-RRu-b3Jw70vyKzXW7-8Q9fqbmjYxWZQqGy3vXLDIG3FCUiGALH94iv1Ok1Bjh33e3IQFNFB36-fqJDT4E4XW2SHTXknHH5aKC8x_bQs0OCiradJdP3ACGQC6qXUiHjwHnWpCvPuW1-xG069WvcR1AJTkA-D5gJKKUoaerKfnFmpZ8FvUAYee9GfQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cxQVTzo6mFe2uUCaw63uOkY_f0x51ST6tSCYG94a7MCiGXdbPo5bk5wflpUkMIcw4qoHYNaYnHyy6I6lFYynYZDDoJIo3UGI6Q0hwJRKje4y90BRINn5_oCqq4-lIbDTgQDFaihq6xLZfylRXHtHDsNTuUC3Z4eB2Hrnx_ZpYT82NZoNoAZwrGmWOMGS5BtylzlqJrSWo4gkYAFcBTDZWgGYLNZhDOZfwtiPzEEvHOnmm4qutQI9FSlML1xeis572G74XPyYOGDbtTBFYMYdxH8RToIcIJWaMRBhTEtTAaYfuv-7LoIWB12Z0lq_QQZjb0Ez7SQ4abvur_x5cpUY5vWs-aX4u4v_SNdYTJOf_7Cond8pga_ODuKKDEvfLXb7-HdTXWPOkW37CwcO6D0U82hgd9Llv5jB9RcnAxR248VUg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f7S7lYoOyICSfdUwIpvufOWkbrd2snLlACOJ3HzUC0k0Gh1cCqZ045zyODEOH5ZpnpsbMPfGt4c5gsy3sYGY21-dFmhW3FxKQ7Ujwl785wRQuMaqMN2QB-ZXUqGgfBAqkBtvbLaMNxN25_OKaCNOfhd58KrqkeIZi_FspIiISOyQ-qVzTN1cqpQXC6rGD8n6tRp-cZkCDNSom-0nCKtIjZqcxalT9DSqUeoOZEgfLslbzNzy5YWiSMsyjmrEK8KSUAaH0jEP7ytr0z5jQSP5AUlzQAsEO_AnhjnUfDE-D_AG7ccavKH5WxO5ap4Yhd_Jw3aDBI0jFDEFzYJfZnL5ryk3U6skMczuS5wuMbMB7tZ1IzHfH2NihzstR_I_ZIMa9dZ1N7Yc130WnG5xjiNuQekm-7Vblvt_0CjI8JBeZs5sCD&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2egRF0ud9H58CZsLM2F1qOr-I7nV_KrSuLh9CjHxPUIjC7clH-3zDlj459hD9TFSh5NU6Z8O-R1zW4Lj8z22L8FWtkZZcd71OHmniFUTbrsbGDKNRIc8a53G0dNRe1cvwOa84SWSXjiO9QDoUKA7dU2FZj0nVTJl1GQzkBMoUmwnjYmxu2szr9RMiEca2A72RPAl9_1LP_LfteSbrs-zIdJ6ehVTfkdOtW5iuxjTqtEbTk2FP21ZClBh095_gDw4r5R4i-vyINRDeskGKUT7HggymbYPVGybdOpKU90FmM4eFRBFnTsDW_go_au2-3W3hWRtxFzjfVmOMUHw0QraLLCYkTGPEHgGS6JAM7EOIHrD4vEUug4_fe8BpMd7_O2TPJ7rXGJDnZW_Tr_eVmxaetHylfZA3eJqka9oLE9pnbQQA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "klaudia Herrera",
+        "rating": 4,
+        "text": "Ok",
+        "time": "5 years ago"
+      },
+      {
+        "author": "Carlos Nieto",
+        "rating": 5,
+        "text": "Extraordinary place, very spacious and fun.\nSuper friendly staff. The request is always submitted",
+        "time": "5 months ago"
+      },
+      {
+        "author": "kiara J",
+        "rating": 1,
+        "text": "I'll start with the quality, which has dropped significantly this year. The pools are obviously poorly maintained. The slides are dirty and dusty on the outside, and the lack of paint in areas where the wear and tear on the bottom of the pool is noticeable, making it feel greasy. The floor/ground has some areas where something sticks out (it seems to be part of the material that ends in points), so if you brush your foot or knees against it, you can easily come out with scrapes and open wounds.\n\nYou can find dirty things in the pool, which is very unpleasant. We found a strip of underwear floating, and it stayed there for a while.\n\nSo, the last time I went, about two weeks ago, everyone in my family broke out in hives and itchy skin. We stopped eating because everyone ate something different. Maybe that's why there was a live report at the beginning of the year that I wasn't fit for use. I don't know what happened, but everything was fine. But oh well.\n\nOn the other hand, in other years the staff was more aware of everything, both the lifeguards and others.\n\nThe only clean thing I found was the restrooms at the beginning, and that's because by the end it was dirty due to the demand of people.\n\nI hope they can improve by 2026.",
+        "time": "7 months ago"
+      },
+      {
+        "author": "Alvin Perza",
+        "rating": 3,
+        "text": "A kid-friendly place, clean and tidy. They don't have their own garage, but you can park nearby. There are lifeguards on staff throughout the area. However, the music is too loud; you're going there for family time, not a nightclub. The food is expensive and not very good; a cookie costs 5 soles, a bottle of water 5 soles, high prices not in keeping with the place. They're very strict about bringing things into the venue, obviously aiming to buy everything inside. Admission is 40 soles for children and adults. They have a wide variety of slides for children, which is very good, even the pool is approximately 1.2 meters deep for most of the space. I would return just to bring children; adults are overrated.",
+        "time": "9 months ago"
+      },
+      {
+        "author": "Barbara Rivero",
+        "rating": 5,
+        "text": "Nice, small place, especially for children, as it only has two or three pools, and the main one doesn't exceed 80 cm or 1 meter at most. But it's in good condition and not too crowded during the week. Admission is 35 soles from Monday to Friday. There's no parking; you must leave your car outside.",
+        "time": "9 months ago"
+      }
+    ]
+  }
+]

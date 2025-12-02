@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Our Lady of Fatima Parish",
+    "address": "Av. Armendáriz 350, Miraflores 15074, Peru",
+    "rating": 4.6,
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "location": {
+      "lat": -12.1335065,
+      "lng": -77.027648
+    },
+    "url": "https://maps.google.com/?cid=3807655965513425882",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eZdtJzAa0NuKJJ9UGCnR3Sk3G4469sRTmyk8wIpBFW-0LnyVuwxZF1Eqa7DmW08CszJtIdydH34iuk7Qv3ESsySHVncz73uTuCJwGxAF_LbBPXmhttO_MJ9Hi__CG_maTBKeJ5h99navuP1d3yuz4vLDt0OqiFlsCAMqSokd3hBy-sImit4roKXKYzyF63V7q0blHyNyOURGOI-QySgFOileuJpoInGQ0HK24blT2qkYgKRnFeoVTn-aQohevBa9spcecjsydGIOzjE9jr5ckSHeasCNgMdoyT-xy4fz8O9JVnY5wDOBZIHrPga1U0n-gGwMTVtyrItBeF1_Mt6nNQm9Yg1NYNNm0T3C67E4akv8mB9UWAXxcY0TjQKWPaYgGNtSCRHD35UbIAvZ_U-CHm6crA9wLPdVbjGz94IKS1VNcL&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eQ-I_5pJQrGHeB19sl7PfuCA3yJHi2SeLVliui5kLKVQWgWSZpN9nbLbfUGZNT-FPNUkW3CJnBZYf6N-w0MgKCKHfVAoruNKce2TRS9W50OQf8iaL3t_M-wXJ4-NHOSlRq9FvitrOrt55gzYeu3k-9O2uIMhyQX8A2vgY7H0q2pI35p_63ByLLhxGmyLcDZAi6V5hhI6tHPRN8Y0gr9XCLxhy9NPICpj3AFaxomEAgRXIALMkU9Y6TuZA3PQoKUtifT6u8pf2N1RAbXTpxBZitoyN2UeeCwVgSv2o8KCMKGV3Bg1ml3yr7rn4oZ48wQr_L2htwrlLiQC_94aUaXNzdVsF47LlYb10VEGkMAZUvr_Ti1Z0J_kDYKRazCid9r-INo8T6VAlD0J1EgXgajO3GnM368InhfBz1JS4BPWssm0U&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cRgeLT4tch-JFl6bhhPoUbZRJQTILmYqAhudwhZ6vaJ16CI0nb4-71ol5LiIensCyR18L55eEY47b8PmmT1j_7Zcv92BLp-cGrv6VfWdjX3onZGtaWp7J3e7P47wTRN0OXZC-LIEVShlnpPfBpX5K4b6dEEvgusmACckn3F7Jrti3d6TTPJAKkuFnV80ZGkJGLQHkk4k58wyFiW-jm8us85IL4vwfGBhNY7llBWjJq36BBYKYieXRYbIklucrkmU1m8d3smZbrT-OoVm8r6X3PUKmOq7ThKRv3urjY90s4qe_NLauxNp6t7ofDBAANmzYrKd31S15fOJDhZp_wVBWaKWzoqL4W0hN-h4YViPmQ_IbtHST80ve46uNPqJNe75Pcy3kH_7_6zXEtAQWtDogsDjHVtWdyvvQPxbF0jXuFHpLS&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dgEcW5VwkKi2ZmUtIcKIaMyxp-6r5VSSqZNBXckMiavo0dN6fC3tuDYMZFWpFj-J8zlfwhGKhABzFzARWT3d-qvCq6JR0CBsHz5CkDvIFSK7FViGSGeb03yW5BJu9e7yNne5JWRjex9Np2kiXz1Q3QyYl17LbGFrxeQie655R0uqQJdhcAWgopoSAM93mxa0aKQIXWzeE8xTd_2_fR7H9KAFBSgZruEayZvBG87JR6So07riSZL6hxt8Ggo27LHMoaHEnMPKrMJQFhc1pPNtVu10pGvSIx8KJzpkKebNQo6Mfw7XCbUDSqoGsr0QfTHutBMXZGzS0Y1XGNcRfqUwKRmojPMU_AL20HLrqJwG06cJiqT5TNVZjbL44AMw3CPGfaHY_od8GhOEYiZ3pplhw5DoPlKt0oHFbNZn1cg5c&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c_zDCj8S94sE8qZb0aOfaz3koEgK92hUXRRIWCxiZZFOXvXT51UVErecqIruK0eiOnCWUcl1IXr5ZxPJZ2iTYbLmcO0AfACQdQ7SkUyjCBBTkBjJbDPrCOsNj7MvY7wf1YE7pp-xgf1mIz4BxMttm6CzbWRbbwyJqtU6OFBrAn6Th1f85rGAePneD25qw4-FIhQ5AEcrMSNW12yFAzpzgOGl7_vdmtFqwjQ1Bs-obI7A7VhGbSHUss7ZvIx0MawGaNCysyIX0Xn5SXLE3FVH8dHESYrXDsylYvdqKgqNlhdx0xfpod_iWwOhK7IOe64-6C8rJ-EAticK3hF_qJAL1dOJbs7sH0wVbKbKd-UrSKVk7NQU2SifCw8BN5EdcRav9AjfN3CXfNYSr5FzVJfpWiN9dWNTdgZ509QPP4BQty_P9S&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c-pWgwmt-eI1_SzXX5DZkv458iaSoZMXbJNaiGonbs1mUfEgrITXP3nCb5mdzz_DeCoLZwLdmdc1dlD2OTXlJHhtZPHsaDEo1RMrMHtvDaw1KyBEt7ThKAzT8iJn-r4mXRs3eC5_x4QIYhUbTSyAWcg4-PIG5TfpsuwoYqhuTvL4eTunC-tgaheAje_V4LK9sAmzFRWeAXClCPAouIatBjcXkwWbJ31bpOfjYT_ekSIDbUxtN7vdD2psJ9XJZtC2CW8vJqGJ2FTVAkeFwe6j57XTPK8xnDPPZC5FNzLLJWRuJvNHDar1FS0ovmvZe8Xna8sNQbmSlXdzYwqAs-1Jsyca8ERbeEWta1pl-kLz0L5-hZk_QvjMeQaoIVoLZCyCndo5goqGnhMUX0Dyg2o4YT7BKUhxcX-0H65dkz0f2qYw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eU4j8sPQQRIn9AtvD9XwAymy-39M7In70F85u7EWYw1OQ7podL3dS83yT8lHPbi61OOHN8VDUFVEJxjECDoRO_wgqoaHWx5W1-VYLmNwjhC0NiCn9KYHInoxFomK7lhgWDv0KhgZqniccoQYfFWlizWCGmRMlVtlOZMxYiE3ZcaswI91Gr-Z7UYB83Qbp0JGdhCH8SyjziYuHNqidOblcZpL2_jKCjBPvbc0K3xlD0XdgzoLA7pnGoIpXO3P6hZYFawBL9CL-oUK6H5Uziqt1cqgXkuuixL_6mQaGgGdoxxPfj-ep6e4mSGlvEoFbY1hvHxOm6Kyq3VeZ57GVSSV1DJqN1HUHgA8OWcj4fnaXu1W3bDStjPBOAYTl8NU6e1AlbyjjOm3mtoy37W3_AC3uMl-pllVnYremRfdtLpFJqBfr7&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eCkJyZfPzq3fw1teaWRUz3qXq5V0eQcDDLIpKKuXL-kCXgfvpVOWhD2uLx90d3grRLpS52PpmyA_TF33K_BxvNhgjFEvhGd6B0A7x3RHB4ZJKcQ-2fSmzVMhgCWD515rMwCaiJE6p0dW1d6B8kHDXf9zYzpi9gsiQa2mD-vzVdQP2xZ0rCs2ChS0B83s109wggyGRaR2H1Szn8TIx5IuEXyZ73-X75FTSQdQoW31jxrHsBLm8K2i9rIuSf7TLtrYrH_jsGyaakZ2ODm9SdF3spwW0t41MZHAa33f2rHsbR8I-Bf1HwxQuVEB86ECwsX7uV2pp11o8-wy1KDm0iKFflCT0VVindrfrzOzWpxAJJt6DchWu_C_GKhJlqQ1Tu6fAYu3Qp7upo2aYa7y1UM2m0bFEnK6mJgdyayQpFNClQxI3v&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cm_hArV7dVfBamCBi_LCVucT67qzCUie7P85NwCblVqKTFXD1kSqpghuLvD-fWtcmfus6MeMST5M25njwaAwawpIhsxI3RCCkrygM9z1PfNnPqfLWRr49QOi-5ijN1tYwszVZr3ObJk1HBXVu7G5ZOcoTLMn6rAJtksYBxuK4ep3GkTX-2PJBI81RHLLEG5vxK_tA1e8rNVMcqC5nD9jsDPRafo2mOpQ7NHDG5wpkcbE5nCk9B3i2j-RQmlFvZJnkT67Q9XJ-5UY0-W-SiG_W8D574JJnlDx7r9vzF6-sh1mV2CfHcxKp_NKkite1kwsRW0Rz2bfxrTwCgNqLkvbXCgnDsk_Vf_DcJFP5Rj1keUwzXBgoJk8rimz8henDZX69xiCqxmG-7wLf_0Pe3Z-xe3WkqdPf_GnsCCbFrtk1-sDY&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fcA7r3dARbJVDvDkqL8cgiHdQFyp-i55F-xNq_0RcsQxuUpVRzJ-Qu8eJIoXJqyLplq_kNZNRcV_vkwTocuymfc2CVBdgf18UnVF_ktVKVCqydXITFJJtT3CwUfrBBNBFVOrGssFpX43Fbf-HR63rxX_mlaZBXMCPmULaD_eUqIkQ8gt2fvdLTEZiEwDHt9gk1L_r4Sks-NafD1yYluaaV-mBPs30q68mXFi5ueCrBf5Z2yOgIRfi6k6VSjSL_-gNWdKdGyxGCfXEtivDaywbMVCvo_vOw6nokLORaFcKKyaL4IATOBUoGi4953gm0097_gpPxi7Ds84IY-vw5zNx8lu9thsiJyn7Qys8ZtY7ZqiFdbsTAWZmk30IVV8lFX5M68ktVWCnJUJBTfuhZXr3ur3OS4wlEBv5eg9vmz_NuTQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Xyle L",
+        "rating": 4,
+        "text": "This beautiful roman catholic Church in Miraflores is open to public and lights up at night. A member welcomed me to explore the church after mass and can help in Spanish",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Tiago Correia",
+        "rating": 5,
+        "text": "Very beautiful and calm. Nice to see something from Portugal in Peru.",
+        "time": "6 years ago"
+      },
+      {
+        "author": "Daniel Sonner",
+        "rating": 5,
+        "text": "A beautiful catholic church in Miraflores right at the ocean",
+        "time": "a year ago"
+      },
+      {
+        "author": "Pedro Zapfel",
+        "rating": 5,
+        "text": "Nice. Moving service at Sunday noon.",
+        "time": "4 months ago"
+      },
+      {
+        "author": "Mary Clare",
+        "rating": 5,
+        "text": "So beautiful! Got to attend daily Mass.",
+        "time": "3 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Parroquia La Virgen Milagrosa",
+    "address": "Ca. Lima 345, Miraflores 15074, Peru",
+    "rating": 4.7,
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1215499,
+      "lng": -77.0297837
+    },
+    "url": "https://maps.google.com/?cid=16047159049068929393",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fIRK1W41Z6K1EeyRVQlR2115u28eB8O2XttaIY-I5GPiSg1sFIVKV6a1xfBYyl0pOP7N1XBH2mYzILKSHCLKGsB238sXGz_WWv2YyJ0ySoh1MpGTPOGw_ewhUITmvfuCLJmd8SUJiYk3WUZ6gnZe2OH0fJK-7NUAt_6BAhs9jK-Eh4Mq7fqb1tJiyfiZcxcQJz9i1_thIWGwKZbzivHNNlTs8qlQYUlZAAZL0y7Dfo8dQiK1PpYj7V7ZHSwJPr7CTaSGC2XTU4O49nM3TZ8rJHPx6TEsj6hrmSTLIeMdiCTw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cow-kqfKJmStv_nQS2v82K1ujd3UNEkncRJSx_k-7jrJ-_5h6tGD0fMBjie-95fqfoM9pj-11OwsWNebiFJXiRy5TKgSAymlwjV6ywkXz_6QjfaTt_s6U2YgTf0Oo-y93YMsTzgu4YClU21Z78WR3pUhApGJRa3K0JbFOI5etcPI60uEPwrGl79jTfF8kK-XIrbDNHPLL4IuQpa_BZBJkT4lh5KPI8_t8220hyd95omkNxX-R0DxQuJD4mjMdU1vuyV6PLAmJnM-N5v7flqqNFQOR80iN4QdYtxqk4pwuzHrzHGMktA-wlbAI-bEp2hHNg9kKyprKLrGZe-nm4djxdfmbw2IsjLvdtEnf-A3k-iBiNZ1FXb504NfdAaCxQqP0cJEjoLKH7oEIcg1_A3QmhkKQHbqpISxaZLvrL5f5pzUs&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eNpnFx-ZSymhL4YTIBQqiiOhjMcWfxRbPpgw5H7aBYVJHR8ktK83UZqkU_zkCZ5cnypkihEmm5ny7ja1XSL0EMaYPc_e8hiNwuQWBqkQf6qQ2d-FKMU_HG-K-uqygBTxGHxBnmIS1LqFLvHRB1jG3BrU9pSnUfNloaPcIqIg2uyHT8mBXOtLHHqQ5sA6L0YunfoEkP3hnuftuz55uESZtURrMYeN_utezc49-D9CUpajSGrKaLid2yvJGTgXGkgxwiX1vpfcfImf21Llo7tixmxi0AAzZ8ywhvdnPnpq63usM8rgr-aaNnRSj2a6to85IfU-7UZDm5qmzv00jBXKgp53YStJRFzkFRlN2uBjS5q0PZRCRfrf_Hf9UaVscZ2icfE2i2xM5tIEIgAPEloyiEcv7VvCtOnP7edbfKOeJheiNM&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ek2cOkRjM_xnb9qx2UOr9Cgf4HUvYBGJOIFrQURG8Jwm6QnW-7KkvsxPUvgx3YTbXj-aQfdnZ_R87Q9YWx05Moj3QBqi5yXP-OcyUxIs8omejzOe-ceeqa--2gAxq0lI9duqe7TOi-XzQV17AxCpXleEgwKuHMyYtib05CnlExEdiwZeoVV7VeBkw3YrUnnLp3RqLqXJBq_E-UmA8Bvf4zZUdYOVpCVqb8-ask2XBUsUc0CgHukaazxWaYVltdgjCqRv1V-fkzKkIAqNrUXCrEEklSEEjABQwMN1cbZAGuLNfxyxGcSgVqk4t_tzQuW_sVf1UT8IrTCKwg56kviNWKVeEkYOYZIezTF9FzrYkh8wEFixCERM1vk36eIM9Uea4Qn1x-FwPnbl9-8yyJNlYOUmaPo57r8DOBsxOGV-zNXg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fwVQoRyEIoAACg4qepl9Vqpi5fkrDsWFikxkd2z3J-edsU6ef_SVOIHR5EzvRblq1YYKt8BJ7l2lVTyUG_lnifloillmSLzw7orGK13zBSP_oKFfY6UjJj3fuRs24CXMnXpUMdreJcBtlaXjSn4Hrf7lNA9rus0yPxzECEtNp61QZpSMVWwE-P5NHM40xDwCFGX_VKRhmm7-J-8DAEo-5nSGudCOKEtfdQtdDLCZWG2PZragvWx8n8Y8_n8RyPnZaJSk-tFFiOLjE277pziswblarAMW-A4I6zqPuLhUMUeIl7cFDrpTaVJPho2tDnyvmE8VZJpzwhJK2LBk6rknJEE6wNb0dHvBO50bVh4FysCfSn9qcLN9I-xztA05KTm3RzWMMh5ocImsiBk9rfu-cjAltOoFq5IhMIZRTe0WNTrQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2flWE7CJcM0KggZyM1td1UbeA1lWmdkve4hZ6lhbLqadvQI11yZyfRS9eFNUaYWrsUltHAe_gyhyMoScem6D1lqwal4HyBStoHp_mxmLCmL6v9C-tp4nadpB5ao9U8kOlP2DlJCdCvezBg8UAul8hQI3NROFoDZ9qjJ3ysJOU3zVPN-OV5iXrsF6ue8jYtV65Gycfp8Soq9uIKRALILPRqtsL-huMrcI3jf4YffpXz3p0vuj8ukXbtmoCcDrHgwa0sWmGVSf1eMxJrPVg87RRcaUlRtPCtgIKpAXOM3WhR3V1WhMhZv5lWzmhZcObd1898li9AlYFvtrlU8Kcy3_vAgsyFi-auckf5I2fNDy012rTbadlnU49ZoJ2gNbtJIBR8MfFTPuUXISHf8421Qi-Cy6T_lYmJPUQEInp95THjxHQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e9LOxKkCQLTBoj_HK2kV-oSETxnn5ObJEVo_qrnCAUxk4467x0a5hTBlI2MunmGkGyDIdmfYKFJ968hrct-HYmP-JM0lTiawxjzLvp_wGzzREuzYF0mqNHLGUPFqSI6tRYv-cwk_CJS46dodhOws1yI9e3pAqs_6Q8JCeqfXA-JsxLZtlrdrOmCmcCsXpxAE8voJwpNxS3xHuePhPAVgg2J0PJRzwaJSifLF3z1BJmQCTKc4hxYPcVB98Cks3fSvOhzuKjmfidTsfUFnv0rIjYkBmYpYyqdgw1NE_bo7mXLZO3gJIoncxQbMnQOnH5P9WCBG-VaaRkqA4TcgBR293Tn2nvFBZLwuKjrUl_a2Qzx7xD6yRl9ba4-x1GS9NYxER3btC9xK9pTedWpHo79X2Udc6h73X4SqisCAyXvPE&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eS3_JoI8mhLRcS8TK-7zTDGTQ8gVr1oexr7KDFQzWMbvpJv_VnzOIbvGZmc_g7v2stnsiU2ODUT0IIWEks_qDz83mh0L4ZruKOFq9RZR0vJVKEh-c4z4q3ltidbYar13xxYLNitr5XppCpKi2BfeZzF_PuAiNN4O5lyuFrX_XAyG8Fyg7HZOCUBjJr9hkVCI03Y1_-W-tJNC9msyfkZ5MV6MWSK7H8HboMn5Fk8j0Ywhu1b46NeQ5ke_yM6FR4P2bYKzJ8e5HyCzU1kbgWRygDLJXJxueVMeehKcGfPr2GaYtBwg9jc_f4BAXClQXYamec9kYjE0c7LWhxDvIGqitKrfzwq2u7NH4FCtfROl-SPkRgFlvbP1nRVhV2myoPuGyNs5cpHk9RUTkbuS-7lk2gJS_ViRvgWYOnYZ1kbyoUm_7L&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dqwwh8gmREGvBE4--J6XwSRNeGI1StxZXtyjy0WFRrOUQYkVOd9lkhhk3Je3eMqFwtIIRdHJBE-OJvKtPVKF0DjFx2jp-Q8uQfdhg2Df1FwHPRAf4pSoJ_80EnVjhrG8ojGULCeZg1TxTj_GY9ARt6wBwOa8HW7Ofo2gjYHVgFUlCX_s6_OO7S8S6vqAZdkbm9sKM-jKazVsvtJ97stuV1Reqgtv7TrlwLFTnTPMO_rcCauNM2RXlRCvtDa-0NjkEZjCDRuFgjqSnaXd__5kdK5QZnPFy2z48WIlHZ6PnfknEvX8VBXPK2RoRA1_00vw4SMD1swZJID7ZLs35rW_Oe8cptn6x81bLxeYEPZAwo02mRhllJCeO5SUzC7JYJ5D5os8_zwPQw6m51z3WnUU4autlHXP1XjC8GDrBwKXOumpM&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fUH351ysMEKqW91HJtWZLRL3PW4E-B7Wd1FHXKerL6Sj0hLQdVlJ1u-mH_Af9PIbId241kb_AGVJlrDmesHFMxeznOGQ5UJQF0EMaOhQ2TBkGCJv0lxzvcWoAeN2keAFNNVSxN9iTR8y_fXZ_7ruSP9pEkwUI6dlsiTipiBQO3FL30JvcuHnjAh53aofr1qlud1vudyB6C7lDVFFH-St_eSpoJrVaraVKiqLcKMzXXe-vTkSoViLdCTjM75pqo7HJh22r8tmrTFWHO6abiNC4gm_0m6slsLQVnmuWTpa7UkqLzhYxUMh1uAuXZpkKAewkkdg9gR7VBnOvTVTgRKs3jEz7A1nKbziXeawndq5PBOTexkb09aasNInOhwOTc1sBCT2kFhFsPvhNkXg84dHWk6d31QX86eFcZhHa337XekxbF&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Geoffrey Bishop",
+        "rating": 5,
+        "text": "The newly renovated Parroquia La Virgen Milagrosa is truly a treasure in the heart of Miraflores. The moment you step inside, you are met with a sense of peace and reverence. The restored building is stunning, but it is the magnificent dome that takes your breath away which is a masterpiece of craftsmanship that draws your eyes upward in awe. Every detail speaks to the care and devotion poured into this sacred space. Whether you come to pray, reflect, or simply admire the beauty, this church is a place that uplifts the spirit and honors its deep history. A must‑see for anyone visiting Lima.",
+        "time": "2 months ago"
+      },
+      {
+        "author": "Keith Moore",
+        "rating": 4,
+        "text": "This is a beautiful church, and it is a working building, not a tourist attraction.  There were plenty of worshipers in the pews when I went for a visit.  It's beautiful inside, and it's worth stopping in when you're in the neighborhood.  The neighborhood itself also has a lot going for it.",
+        "time": "2 months ago"
+      },
+      {
+        "author": "yung-chin Chen",
+        "rating": 5,
+        "text": "Beautiful church next to the cat park. Very impressive construction with great atmosphere inside. God bless you.",
+        "time": "3 weeks ago"
+      },
+      {
+        "author": "leo lobarbio",
+        "rating": 5,
+        "text": "Worth a visit. Beautiful church. One of the major church within Miraflores area. Nice location. Located between two beautiful park. Has an underground parking in front  within the park. Lots of shopping and dinning options nearby. Within a hip area.",
+        "time": "2 years ago"
+      },
+      {
+        "author": "John Maull",
+        "rating": 5,
+        "text": "While I was visiting Lima, I attended Christmas mass on Christmas Eve. The church was packed, standing room only, and there was a wonderful spirit in the church that evening. The congregation erupted into applause several times during the service. Families then went  home for their Christmas Eve meal.",
+        "time": "9 months ago"
+      }
+    ]
+  },
+  {
+    "name": "Anglican Cathedral of the Good Shepherd",
+    "address": "Av. Sta. Cruz 491, Miraflores 15074, Peru",
+    "rating": 4.5,
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1078778,
+      "lng": -77.0346562
+    },
+    "url": "https://maps.google.com/?cid=16365100043242905367",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cQNoW-faH6nY2sHxsPIRnq5hEpmPzGoIe2Vs-O8tUWPtgPu9RxbYZUkY4j5naDeyLSAIEnzezoCZHGVrbfhtpoKKHLYQd-jNjHwz2IJOZGT4ZPZRnRXC8tjyHZkYHZ40TzmuGdUtgsDvh2wV7wp5NNjidkDc-HP5OP5yLNzPZWYwbmxLexbt-dl1HCpvhVrtssuloVBz5OzG58e7Ax5rwj4DNtwkzdvnzMqITYOXn0XiAoow6DJTpQeEYfNKh5af9ltVI2P4gUIXG2LujJ_eIt8ekE6x-RF6id0GtYMFmAiMlHS4XDttPZdWapCBaCRe33tAtCEY60sBO0RopW04XXNlW7jlY1S0e8dYStEj39DAMqKyVXKeNKyY35qt9_3p9-Yv40sDe2Qz5cMqON2Z3nHdrHKmjIkHx-a4Zd0WOkqnnc&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fbFfaHx_aX96lw-GpG43CRs1k0miaUK08GAR6sZT22kuHI0xN1RTRDu3rmmjRXxnsICPyga4YECF-qgpD_Ltc2X8dfQTYGnRumz8GSLvKFP7k8mSMhr9htg5XqvoeAKlj8QfbVTFOWXzv--QQGyy_3fyzIhyAPHYmap9-tJ-xSUQ8Vh_6tkwSbwjvKaOyeXnDipLJKnWgh8dUTLF_7BN_dJLSXY5bLFO1xeYoNWNzU4slraUbZruAy68P5xboA6bwC2BAtYKy4bZdB3eDk0SEpbLtCZ23WH9uGo-iwuFsAlBBdosaJIvdrWQdet7WyX5ZtiDT-sXVpXdpbEYFoS-kSXF5zMxADEsUH0rp2nXGVpQ8K6ghRF6G0eVHuF1ZwAW6-8gjCeJ0rIYw7dCGMhUEoUAubnLHCEm8sf8kHbJE1WaNI&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2erjmVgVfQTa3KHoZ1soAlkzZs5aIMD9z-qeY4fgIYHhW8YGKrFlDHHJNDimh7ibYVrPULDih4Ho1v0y38zXgSyxPQSTTML_nGkzIcID5lKSBOgSTsqKbdI0x5S5Z9Z7WbElRBbTsks_uoK2AtgmTcIprbDG7rRf8vToHnN04SRuiQBFVkYUE-F60Jg4I3pR9q3qQ0335-K2WYCEQT2V44aRpWEda1tvzRszdH2tg4Mzpd3qtnHdhtw7W-3olsJR8K4YCqR2-Jxdy4tWvoHk5S2S5guuqoyt3kUA0WNaa9cP_WDX5NGRNRHk6X9z6guSGFY71PmjmRx2P2EsvlwewWOzUKM3sG2V-cwGDVjH8LQaLbYixz9hBUtogP1-Z_NBX2ksusze1Gx6o3t34D9uW8Hha0jqIad7kIiyReemQHqVQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cWtOR-EOYOEMc4YEj5gta0n53pd9dvrELZ5auUcdxSPGumdxwChIzgPfar4qaOMqp1iIZ3YHMomdk5h4NaCwoDyv2EIrFSt-B-WY63huO20G7UgIUULpXNFDZvue_fO4QBxIky3qwfrXDT9QVMkwy23tAljBsoEb_sILzo8Fp2ygpAGYYVxzREiKfdcX65_dk6Wu14CoEPjW-VdSUq4hoOxF6Rtq2d_hy4IAkQukyskj3AMkn1732lpuOlI_2at9hANcDUtpNYBhyM2cK21qCHx5_EY0Ob0g5YxAmBoUZar5f4BV8zEeP6fBV0TTiyVG5io7KASmCaR2JXgoRha4tDiDfLhiErjxUOG0OhR2RPaJIwbcfpwMkL7xYAsyZqLGJ6Cpcdsws-HSUJzCBlBanFWjacqnKbr7kceVKu_O764A&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d1P86fQnI4G6DLpE4i3YOT1tHifQB13u-VF1VwreD-zfqz4GFnxgIKZFEgBeYOMZHzcUtSrFTut0XU-iIgfj_o8oA79zw_PHx9m1YBD3PL-ipFwY20TJrQaPZpQ5S8UdgnGnTEyJjPsPqPNRO_hvLkgqjW7TjWy_RxnB56AY6VwNsgttyKR1XJMwNjPIqSs-Tv7rySvEnetMzwnesyT_zwRqjBmLDjoRF_mruXIeMeOwRwW5WTzQenz9R_u6dgsQcvPj5j7e87DIsEC_XNP1Q4u5baXsPlLZo8n4_tjcFqqVx2XFwfQSGAjp6i4OkKA2uj1d1mqchtlINmeNUd8FFW6HiQI54K7QzK8sA3DAsqEmOnMV5GUi9Hr6q31uLfwcHzYPohforz2xZDUUfvSa591z9xVNW_sLucmvBoao3VNOZ6OZ9yRXdWvdhYOPb8&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cm3vbv2lW81xOSYU1pZasWS7m4cQXfEitLdLB-lX1gxU3p-m_obJGjSdvu6sh8hFqE3a4KKaFv5w5Dv1jsdi3hSMHCcgrtuTHHjlGA_sAMN56RW-3RcFQC1olFt-o0HTF8CU-L-f0rXPBFVinfL3dnSjtvkXFMsbtwGV3s8gPAuAojFD7yiCRNhb5kgZsufDj2hCQ3Wr5zfrHQjOWg8dwqKBEoUlZL2fPQGx8mJAxSmrjOAZZshc1h79tME4Nz7gBLoWaDYxpqiEZXzMFBFbMlHqW57xViw9vhiNpCLUvZIDAOpxxJ_0XPK6Va3KYyBVp-pfOibhCvUuFmxMkFoT6_GYW-MJNjAeNULbDIGqlSX3EboA2JVfoM_5vjfbM1PU-BakJ8ai6p1WaFd9E6nca-1mLBg0CtLESiAjka1xAy0Ew&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eysMLU1IqMv7aLjwyMQRBwMTsqsuVq39Vmobm-hEY71PyABGLVK0ytTEFKJ9Skq_HxtX9t1sclhQy5FHgmck_og5-RBAJj4tdxA-jSPZh7MU34nbnTqx0NuD0As71JNw9QUejrrjRLKZBYF_7DOop8xfRnGF9xKrN7s3bBZaSd2cdQ2cwwdkK1Dx2NFsqbJ3kNRRvmyXC9LnJRKTm0qpnBJSknfS0Yf-dzyuuudVwwzk1vB6RTe11TjbDzRWY9ltkxnmsGJsOtkHVL2OxBDwdtJm5fZrYUlpT5eZlZvGgeA-PasIUiZiuPmdXOZkiRRzrgo7ECB--3R4kkIPj-JoIxlSgxGf4_Iwm8ZaCyHc3kiO5u5p7boR4E18H4HCJmyT2SKmosS-Nf2-rIXAi-dwyfQ9Jj_POw0DGP0y4aGyE&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cCD1P0yt0HEolsij8zwGih0u3vdNl3JIIkhwVsSUfAUllebuH5-UPn5yrfXc9jq9jBoJI_YlhhzVAcAQQihd5DLGimi089JPIPNFBSPeQuo0DytU4oNPzwqFRXyGPlL_SSuccpd3eCxBYk3yJoN8ZuU-QCRbpazDoEUWh78HSyI6PtGbZhbWQ7a_ALXsqInSkBbhkdEpyMb-2zedTAE0r3a6-MS0WjqUcQp8PfBEBEiXPB3D1VlRxm8Ay1POKAuNSN4VixLAUl-GdAxNVRUvvDZ5pPxRrMpt3Q7rlJ-JEOBI1HKSjozAeYSO9xc1j4XO8rCoFY5Hkh2goal9vwVeAJgZgPtCJlrmsKmoTSEz_0abnmu71HcTChlQPaS4Jp61Xehneqwd3rXuIFm3IUPAgt1kVdTyertVJvVvmo21Mve_3I&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eb7ZhuVxbc5jW0ZoKiYaz9iF_iB_pPNXnCw3zLxjUGQcXbkp8MtLgGAkztAMcmIr3DZcGZ1WFHXTfpCSNr0joSGJVZYnpFVdfeySQyVIWjAYLCe4tHEjIgyW2cJCks0h2QTB03YXzNXjhwbgXfqHuByvY7TFPa_ITgPfZie6By7Kq8J5mO-nKgHnkI2gUG1CLFztrnqphcrbsqIwjuxiRWOcYvdvSJ9QGE4OfawyA3J5SArBP9Y9tGAfittv4pKQDmlIlwmNhfH8dtNUboORoXi_UhPIhpsYiOKWwhY2zKPQZXm-oMDVcSNonnHGF4m8cPd7yayvxB8k7qMIdiIw730MZawYkrG7K4QkcCmJ_T36ooDymGKQgJC1nQOODbmIIHexBDtwFnwG4aFCTEYgzztIXf5grzzEPLOc51qpLoH52p&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e2qgtxfgV58BZT5Bxu98IiVRFeJEK2oQsPbWvQrEfbgG1ApxNaPdrTYXHGC0mkLGPngg2yKstD_DoLnJXrpTaKS9HqpeX1Tx4p7yKmoVdt8e6_1dCT7fWO8iAYnmPmZZNim7ndjQi9btWoRrLaHRW4J_XaeSD86FAzM9Gc6fbaVDb6QDg9yOny7U5GTySKT3a4boF7yEQAefUXAzDNVTolIJbSRfXWh8I6Pny0E-Ri35SKBUjJgcYgU03Xs6_arq4qHWJq1sXsdBT4Mb-wKF9Be6aj-P9dyHX5WgybflMrXsE2VTrK33Vur8I7jEbsZCCDKDNxDwYPi14GLbIHbs8yCfZ7Qwo-J-YfGceK30viUf4mjtrNST4YZGfTBjSxb9m9H5rr_iRgdhTMLSMOXpraEZf7RgxFdoxlo6rSUeo&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Rob Langdon",
+        "rating": 5,
+        "text": "Great people there. We went to the book sale. Lots of English books forsell at a very good price, and to top it off, the homemade cakes were simply tremendous. Well worth a visit",
+        "time": "a year ago"
+      },
+      {
+        "author": "Dinesh Kumar",
+        "rating": 5,
+        "text": "We went for a book exhibition - of English books. The paperbacks were 5 sole each. You don't get much English books in Lima so it was a blessing.\n\nSome home made pastries were also available which were very good. After buying the books we had a pastry and coffee.",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Graham woodage",
+        "rating": 5,
+        "text": "Friendly. Excellent cakes",
+        "time": "3 months ago"
+      },
+      {
+        "author": "Kenneth Webb",
+        "rating": 5,
+        "text": "A great Christ based church",
+        "time": "2 weeks ago"
+      },
+      {
+        "author": "Hunter Martin",
+        "rating": 5,
+        "text": "A great place. Great people Lay Pstrs. Bliss and Penny do a great job of serving the congregation.",
+        "time": "a year ago"
+      }
+    ]
+  },
+  {
+    "name": "Catedral de Oyotun",
+    "address": "C. Tarapacá, Miraflores 15074, Peru",
+    "rating": null,
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1127353,
+      "lng": -77.03187729999999
+    },
+    "url": "https://maps.google.com/?cid=4764711775134645817",
+    "photos": [],
+    "reviews": []
+  },
+  {
+    "name": "Parroquia Santa Rita de Casia",
+    "address": "Placencia 135, Miraflores 15048, Peru",
+    "rating": 4.7,
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1281788,
+      "lng": -77.01152080000001
+    },
+    "url": "https://maps.google.com/?cid=15855334387609264210",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d7Iew9YhmFxPcfv06Wd1puYpu-CV5ROF5NpTvfwjLBzfttbKKINaBAWtGMOquwgAaSakn8xat-xkDRwiAw9zvf71S2J1arCGEO2gprVpcvsRIsZp-wbFOXc-uyqXPU_QnrvDIvHE9ji9gkgxeI-whKMUNdrPkmm9zRJZzFQjuB9iPr-WClWTNfTHg1Z6f2asRMDECjycJp_SzGVpaHs8diTUrqyVLC_5-43yLArhKzWmcfy83JNb-HSOyFUT3n7Naecj18Gip9vmcYjssOytP57DMmWBDHNRcEN11QAs5ECLi-3ItDlRPeTxQWPHHcQqpJ0y4dHZ1tStU6F8YNY9MWh02JM4DbqloXGIKnTwSKzdifbw1WENiuYGMjtm6KWPZyaOgYsFKK9UlsPYiElJ3H9DScsW582LMmnqReLwo&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eexV7KPsCUJYWgp1t0TS23r2rdTNKa3S6RJCD3--eoNMLjGnh6EijT6swHteNtg2g1LtINRxOuIKdCPNAeY89kopTC0uOItw9PeXdPgnNA6QMP3mdOaG477WUV6rRutWVes0w016gqx2Ku3I1uRZekReQnSyGKQJnUv1EBA9DTvNeqU2GFP-qTZr49FIMHHbs0qQ6UGA8VJjIBM7HJ-zZtqxFbqmgovmhIspPR-JvuTb1cgfm5G0w3hYXBViyl9J4n5nTXqXJUUtNIS2rquerVGfaJ6E2dfoUWQp7eqmEoVC9CFqJX4BtsksyD0T2CXURSvtnmUPDzRclGoDPKFCeD03CSEFrb0vY3wEZFAhwu6DUyMBVXICddPR_aYaPu6zBrQIKmB8geXGsrwnBWaQuEICMlEu9EbpzfOtr-KgkY88BM&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dbearZlWSzOYvQEfTTnj2TMNDzwfdtTlXnoyH1H8Ju8Kqg23Iar3RQZwK5hkvhXoqPIWU6jgdD91h-OTeaoVNrqi8v_nEzzBpn82gnVP-6SC7S5MYcrc1wbyRzCVupAJc3z_GMPa6Enwxs7Qag9knjv_zigztDutObfIfQQmDtLjQ6Gnzfsr1NjITCzRyDbU21yBhTtBmoN1VbYLTzpUxE8eAdknMA_iO5PHixt4BkI2HBX7nWwD003QUYxvl2QwOk1CruwjMxTMnQgvgVQn6h8nxfL2bmrfXk1TpotINOh96fm7NrwavU_usgfzJIg7kVpFfBcPnS9jT8na85PYtWgUHcPXlJvsQO0jAAGBF80khaQs2i_eGmoZ2R0Eom1h7dKRqzeQX5WgYQ7I9mAeaSuBHXMrGNI_R2MdWcDN0maQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2chEU9dSjbxnje8KLOVDWjmU021DqV0pf53KqlkZsLEOFgFoohRImq7LKcp1yHvI47B3cChhlSr9v7Cx0mXOMfwSKLnFB3sohTRJ0_xNugJepmGp0nzolr8DDoChPpgVWt9ucsg8GgUWiIlXD9NC1e1EbvSPCxNyB7w5JEqtRbeBvz16m59vUIpwqL4g8OdWrFSNCp_9CoxYjlHzPY1px6QfPFVgpV3wXe6ZzD62yqMOcv0OftIV1GT87t1YvF5JbIz_peZfoecnEhUjwLgY0eFBZ3swM8E8c1TJTue4ubENgxs6UpqGiTJrtQQgzgNQtmofAWjbHEK0Dns_bTkzlYyWVuxpaPt-he82mcw2Mcr--ahCCiypEpCFqOBXWGe6_a6pNbWzZlcmm0JVbStlqr_3plDDLyUZ0SR-JpIuZCt7mTY&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2djgRm6d4G3gk-GVt6bUK9TW-cUJy2abpLqDQF3riTq78mVvdmIUzjsXThT59nQtLveiBGMi7GnXO7l9Y8sa8G65xH4BfW2VoXAxPgNTdCGwwZSsNHObERbea47FmuRVGQlZ3lpMTZF0q3apopwVENVN9Cy1STi_8qckvCLP7GECvS3ipUJ4wA8zQm5RWT6qMEqbjzlsZ-UnLu-S2RYmV893DCAjGppcz2LYCVuCc4xH-MqS4BStDVqSBfK0KN5DnYFKGVuL_7jWDRphi4Ien-2GX4FxHYf4Gxys9l5e-UJxL0dLy_I59kmJwAZv1kpJbRT8hCOHqGEmWOXTLpGbvDPP_ErxHOmn5l93_X8Tk-LlW4ozhvzQ9g7s5rQUx8Eq_RhEKaJnRA2wRgrIpaHcMqKlxrPV5m4dZjDg5ZrLxrQSQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fefOebtvc7wjRYDT_hP6Sy9KXJjOyWSBZv_Kxa6qZaa6HOWrqdtgUjTsS9KZ2FSfbKDxtFdrQzqGp8D4rtfzlU9bHzFy_JSTPewq26wD-WDRt93gP7flNEnb18agQjDiVdCuP9py6VFGDmyccntJ5qnQMtiLVyeqT77kl63pAaVkj6sXEvSR4s1xNy7PGmYIkyj6jvCg2UXkm55y1vrMLcocLZiFUaTrb99_dExkgiHw7PSDlbTCFlKP4jrHaeGj60G5bB6MgbEvMoO3Kot9VtLi48e8kXIBb0vC3UvEUYH0twMDfs_JpX02lCCYF5-SxekaIDW1Qo58cEaVu7ywSYK67-2zft-GhJYgaxSIK59eLOVSYiDpFuv1TNjEgO24lkmIYcKT_-FvowmBWqTr2xl3ks6HcgT4x8oAZYeoNSdlo&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cwywsanFrLDnIivx1RDgGpeNjWCyAdsLwbuQi5Se1MbDa1LVIaxmuvlPdkW9QRxT7afdohMAtCGzowsC1akjBHOd-ubDPj0ego6YB8Ra8jgLy4tlvKApHm7Q3WRZGwcrNXnn__MNMT608l35Xi-Hn0PjzsAZ3QoN2SypWC1GeZTGwAvMLMrIHVcidKXAVznBEr2rfQvLxFjJWmbogP32ftqIHo34R3YgtGhV9NsKU1G3EPE5Z0K5VhorcDJUXfviPuzWT0zhpdttp_uhZ8W9-66z4J7qYOfxYxzbMyGujE9jaSEZFRb50Kl8yjkvHoNZgxQBOcVanvjlqFvhPfaKKmz_aOoGrDPqwFw1-PnYU2uaT9dGCbESMX0pFn-lJTZhduCCo4ZDtgPp4ybojQSQC0sSA830510qx9iATLRNY_Qg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cbaEXtwVpPWCMOqnU64Cx24UrNEjlfK08OePtbT8aV3HPndhnTyuTSt641IlT5vARFLke8z8a-V_OnMWOztZCy-jryguznmSt5ubeB9h10l934kL-0oiX2XTeUqyToz7oeQxFPlXbvaKsAVtrCEW2DbgCVwRmPlzjF-o6zQgpzpYXDEhwrvZkiOnnE7xVi9qqQOo7tFQpGq1BoQiMrvLmi9JzR8O-q_E5BjxO41LWU88D_4vWwNTWzj3TaQOXHTUU_7NQMyNyMWwB1jJG8Oj20WLSOX_XagFufXQO9vdcYGT0PwNDqeJcVdUCDzSSm49tHDYMQBHbVkXySPkBZA5DY8RDDfzObmNxmKIJuXj0BuDkbI3sKKQWjb6K_3WHXMr-L8OLo75k-nr2nijU--5QTxt_Jez-PvF6xU39tEQrZKg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dk_cuqpYxUa0YmIAeH4pemkM783hAut70E0alhX_RoK7OBYeWI1Vhw5qit_7Sy2RWKpXrBa5XRioKTPlrXytCcaxg1883NlgJ3xIj__E5nAqjngu7wQAoQwmnaAUPnT3tB2Ku40ASHw9fn844fKlg1ObGxY5YOuv4D2cnHx-YWrs5B9KCP3WP-nTW220zm08o5ykPF9KXbygKFYegTpR-C7sjUgeJ01pLXVsakwR4Nl9zfHiL950XFN4TlRruXjPN5064t7UplRQ5Rdx9TeQYlfpYN79R4OJO-s27dUEEImDPzPjQyF9P3DIvQJFVfF4ARfR1cHTOct5NzjuTdrvGvWzb94KDqbsUYomUcL4kSp5QWncpBXqNKY99LE76Z666om7YmB2LBQoidSD8vNSaX1WGROwZ52iK8OazNDIlreEA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cnXBHbxP8auXL386XYfqQKmztFNya8uxgbd7IQUa9FM68ABBTHSB762vmBR3pQQnzNjvHggabAqWLt9cJ-mYBJr76WjWchxnzuhse-nOS0e6vDaFKF9uTLC_I_mvagLC-1gWJzD9uEx63YcWVv2KWc5nC7pqBw7w6gR5qgqE73DIkxek6QEA4FLWbwTYASTuyv7zdTDPKOGws0yyba5Qw4jtOb8ljb8eGBzBxA3raYUSItaZyoGoTAudwNlkrK_Yc1VP8LUYuLfvqDN3kDHF3QllSzUYOPFtiNm7A8DgfN-wKrz_gOC78DoFQCeU-4esyPWN2MifL0PcNitLEbTQ4lujlu_X68iem_YV3GM7S22_s_64TvPdZQ1LuD9jfRa8n_yPu3ZHBYWn3Ycu08n6Ezv5WdtyQ8jq8muzuyq5erg3s9&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Jim De Mauro",
+        "rating": 5,
+        "text": "A wonderful church in the Miraflores area. It has 1960s style concrete architecture, is circular and has a soaring ceiling with the tallest area above the altar.  The masses here are in Spanish but the church is universal.\n\nIn back of the church there is a beautiful park to relax in and enjoy nature.  I have posted photos of the nativity at Christmas.",
+        "time": "7 years ago"
+      },
+      {
+        "author": "Anthonella Mora",
+        "rating": 5,
+        "text": "It is a very good church . And los the masses are made for specific persons . Really is the best church I go",
+        "time": "6 years ago"
+      },
+      {
+        "author": "Alejandra Rico Garcia",
+        "rating": 3,
+        "text": "Another Elite catholic church",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Pablo Barrios",
+        "rating": 5,
+        "text": "Beautiful, Nice place",
+        "time": "7 years ago"
+      },
+      {
+        "author": "Eduardo Cuya",
+        "rating": 5,
+        "text": "Beautiful",
+        "time": "a year ago"
+      }
+    ]
+  },
+  {
+    "name": "The Union Church Of Lima",
+    "address": "Av. Angamos Oeste 1155, Miraflores 15073, Peru",
+    "rating": 4.4,
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1135066,
+      "lng": -77.04098139999999
+    },
+    "url": "https://maps.google.com/?cid=14870786660038128291",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dJ9_hVphfroMDYL_GqoVtWANO4W04wntXBD91-i59oZ4ym_Psvuh3R7yzP-6AM8OxgAEXE9Lx66uvYHnRkRkWIQhPMlE9UkqJUOQkAJFTo8v1qQlh1NIrTr3ZZ9fEcO7lvo11kMhmIWOIEOgmQ3DXR__AM7RROywftmcEKBSuG36UiLun2ND6jTNy6wWp3ESNPabX3KPYVkFhtf3Zn7lkpHsGqgUBboljMB4O0jDLzjxy9E6_Z7wBUYpuzi3ISv2ry5dhWBA2IevOIxAAVMyfBo5IAEWkJOFsEYwMy2H1cua5FUHeN-lI1Z5_OGd0ynQBQWvpL-adj1ZmqfmvPA_NVVb4dheOtBuXuLNr_zmLl29IdoNZA19nYim5iDagCku7GZIZblanNOCV8TSze0tyol8XrTKsBA0MKdvavqF8JAQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e-M4nI75p3U8PLdYL9THaLNhGiXbL5qnsRaN0VbzwO0EpYwNhlHRCnrcazCDS8AU195sZwSb53RsXPoNreS_2SHORfwNWvjT6HGVxlGwtWJu9tfp83pasW6ZPI6uc714GEGUoO7PL1bGrYuwIVcvETZaSgcgijKbaRlG-W3armIrYfX9FbN4R01iYnYmTGGG3_nqYCL0soGFgM1pMQ0IcGuJlZLh7YllU89qIpdiHaJpiSV9-GC4v9FlPEHsjqnIT4xrUeaowVn7AdJVBTHr2AXpsHDCq_vmwX7-6BTeeRkUaoo7q9gffAIIUb2A9Z5EDmBIy2lluGQeOYnyIbto7RNtujoLAT-GP9czHcqy7HJqt0kpDVf0NVefDjgywgEpnqJgYhFZieww3k0_joBioR0hhT2ONqKHouT2HyjDa3HCaM&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f8jWJLJySCk830tylRD_36Vkn8hjiFoOoJgoyMxEO4ojNn58N3NodQ0mdmiiY0JVt4eOYP7PhszpnZkXr6YZP8ilYdcJKoKRQV-qs3YjIG6eutRxvDD9WUILfmvKTow2TBHvJnlhvsusyuXM2kunO6CLRAYJ-Ibgcgv89gR3NACSVVIKyAZ0JJ6583b92wgbhmEllURa_0OjztiB6OlMnrHw8GOo3SGdaXeubxh3MGcX_9XDa3iYkiuVkdAsvBpbu0g9eVCIk-zTIH8TsC94W4O837BWG2Tjg4LPVH3WjFz5QYnlSoCNlLVcKmN85uW--moDAedVnXoeXsRw9X1VvrgVbK-2JS96oR79U0bjNFDDHD_JuELONpvo-Bl4it7bbFg3uShC4OFLDNh8BRcsEYd6oZiJzZC7jCRspALx-qoH1S&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cT6kM3pYc7aVQp10BJMLt9tPtCiumoZ_WUhvOjdIS_ygMR8FkaqS_QrTy62WtKML19dcfw8JZzLRKjz5qcwGy2Wgz2XRlkZ8gazfSWQtJQn-_qnp4alXTnMzOM-v0APFXjunVhqhEP_Qk9Db0b6fzK5A2HuZgPiDAGt69FE2TNcnvp44liSwJJHGEiwWmJuVFBXRTiC0aHzzS3rw26Dn3hwL3226xQ-64I9nkaMExEdkdpkvyvtToGwwADt3cIhaADYLXB2QXHTkc3BN7wC17GIQw169637leKPW8MfBy9Cn6mG9Ijw-dFmBhMoeZF0zZcgSzEv51A_l8n9uH3MchPrZoeBGRUHw2RUobQMmfCo2_OxJPwSpp-yQZosuMDW5XT9xoXksRk8RRb-0Uv7XYpypLA_GCL7i8FyO6GxcCusOQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dLRV5ARUq_iFq77x26RH7KllDdDBgPmmrgtzV4GzyUUa8YJJaZdVum6JpMQLhc61qY1zldQsBog_Q3dRw9DZskIsbWn91AHL19QUthuuL4HkH0PZ6-OnUTP1oFiK3gMgtwLlk7FLLPr5FUMwOV4L_px6dnvj3lHyGtH4Hy8APUOxUxY4uujFREKU_n1QinINJag3dTRUhTTmE11QI0xZXLAjd8stJ-ldtrwuMaIVYVBpdNHf24WIIQw62W2mAVVNVgEKKXXm9rZoAoCYrh8EQue0fGqbbMWHm-kavk4omP2GJnnxpMtuGzQRMIJUJtZi6DYNaWL8tN3uDxlwlMM-Hb1Ql5w6-uyo9GL2j7aEBGhjCiLdxsB9oIgxLZ82MylEK12_GLjrGy25si-Flss--RYLh14c3BvtgqSYsf28E&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c9cpHQrk4AXrSyU09J7EeXNOTr5229ua22Dp1Z6xOWf0NlhbZFlWlNDIfDTDNaLFLSsYXudDTYLUN0PwjGudIRZoIo0DZ-1zwPASCo-uHbMqzLgt7umE6g7jfOYmO88DDPn3brTi2Fwl7tauIB783B3NR8wHxoZA8LYGpGbXqC7Zwx7W-qpPfTXOI-1xlkX4DCBgYIx6KWuvxT5zc3xqukujF5bf9WWCW5MB6hlr-W9xNfiQoP_SehZwxmNCqw65b3O3e47Z11WWpmdCRZL7rEpClU_vkAH7moiPxy7GDOx61rr0wcFucTimRRm648a3AGX7zPyObD8ehDvNGvVZqP8FNo-TCzZih8T8_jVMf-w1P8jr_EGEyVjCheOKIHdynTmxxcoUE5Sb9VDVvxgn4Yf-id_x-_5LUnTiSe_AcQQHfY&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dUbJ8gQ7JQyiWhA72_k3CYhf39yMhEVt2c_AujayktOPZPWVXWs_-sg0fIxtuRsaKv8ID9OeRZ3NvtijaB-bvb5ujk0q3MZOWaAekoC0ZiX8-CVvinj0HLvF6C5nZc9UGvQYRxV1C_U8RwJdk7sC9y6_AcnLdX7Z84bMFffPOt8OjpnPbqLKkeuk2xUmntd7AsOq8Mi9sbVNkJG_ia-OZ6cQBeTjnwZdts1QVbRAF1SQbqKsti0cfMAu3KUNNkRlqzC6m66zUki-VAbIPK2Di5T2XNhVJR416MHlu8QX9TBHeHrYsGm1i2JlElY2rzguAj1Ut03oiCf9SSk7O6qSAkPO4FI9ImcPZNgDnDB3UpUp2YYGqJ9lX7W34vAj8dm6RCmn2hj6daUC-7x17wMcP7psdpEebLOdZlc_dNNKs&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c5-DTdt1fWMrQJFqzmtpvpbv_sAqRmqBRj323mK25Sqy4_197DQrOxUE-UH13TmpZUPTL8TpiYsDuMLoDUvyAVOLLiQwPUcMAabXiCaOQK6dh4dd27ZAMZ_sxF-Br0UinOcqgP4WMeGXGGlVBolEVxPGzCoHCWaWdawUy-0ppjot0XLJJgpwBjoY8lXiP5fhxBLce8wCwx_KGEFKSkoHPByjg_HeeUwkIakVMc5w1ZTL8VwsyZdvi3J94v6PLbax8iwBDzjeJA7mPFTbXWPcXS7DJTMXX0LTfP4zIKOHKgsUxZ6ca_iBL3cj6p3RGJJ9NUXepfphQyJBMS3FaCyFwMcY5kUn1hNif9ctp9gHZtQXGyLJbpKK9j5dvFYFDxNYLV4lj71s24PANZxzq7HUXf-vQkmIhCjeGveb0-cpF3OqE&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2evzWJdn5JU7MnS1CvZtRG3WQn9VdiDZSQf6QlTVyTsBqe4WXwMD7K1oFQSRfK_EYEdyYS84DeI5vpsXIN7hG7KNCISpc3h-g_iJXaJbXhmINI_zeaTrhAGu2NOjlFdcOOYyhBsmhibZp3S_vBj_t3bGUTCqzn7foWlkm7XQnu6ws5CdU-LtSnZdO6skC2RnXMmMiobf16BfE70PWYrN5IRKX2l45nMdUyr9S-AI7UiMqY5a1mKirlnATeaYCBeX5tBVBZFmF0Kz_LyRmQ-i-OPMiZzYpt5KhCkqm4DnLnJfXkYPPk07nGNEiJPy3qgdP_uuN2eG35Oq0B1clt30DL0HlhfvPr1yVoIkSysd-aZbAJaZihSVOEDoKVdKHAR82rf9LVu7-SqAye0S5f65jKukrav82XP_CQHZ9qlTxxelmrB&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dQCEMsyBYe7od2g6h2LwiwnSFxZ17wx4Ei3iDboAwBPWDnUL9QY5XPZLuHUZJnUoV0oImDKG9rRFtf9CbjXlBq42ljs5KnJp6ZKaSw7hABGgtvUDvdm4P4iryLwjxUJ1_MkhhHPoQm3MgGC5b36jeYDurrWCZCE-Y3jh2iiA5SIGyxudOSntuKgzzfVFk4XHN8JJe6XOwe1pRSSeqef3aQFpcuQFLJmy1p8YDfmBrL4J5aZoTLv5bufEQe8j0CRuMyek-utv_ir8Pj7SaSTINb2xrhjahozjHXhTOHxdeqrmQlTVemiWemxbnww1RL4gylMFBop5gpqP1waB697H0humvZruCgXf0fkbU404curKTfNBNRBAlc1e_J5pCR2RllLWSFFOV5laSToi_aGerScZJEdUkQ-oycq08pv8o3Mg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Joshua Fleming",
+        "rating": 5,
+        "text": "Absolutely loved my experience at the Union Church of Lima! From the moment I walked in, I felt completely welcomed and at home. The community is warm, open, and genuinely accepting of visitors. The music was uplifting, the sermon was powerful and relevant, and the atmosphere was full of joy and connection. I’ll most definitely be returning during my time in Peru! Highly recommend to anyone looking for an English-speaking church with heart.",
+        "time": "4 months ago"
+      },
+      {
+        "author": "H Arana",
+        "rating": 1,
+        "text": "Back in mid 2021 I went to a Sunday service just for a short visit and to listen to the sermon. Before the service even started this random American man who had his wife and children wrapped around his arms, left his pew and approached mine which was behind him. He opened with: \"Do you speak English?\" which is a pretty stupid and discriminatory question to ask someone  you just met. He proceded to interrogate me and inquire about my nationality and if it was my first time visiting the church. He was invading my personal space and didn't even tell me his name. That was pretty inappropriate behavior from a regular from the church. I'd heard about discrimination against Peruvians at this place, but it'd never happened to me before. I'd been there countlesd times already even though I was not a regular anymore. I am a white Peruvian young man, but unlike some of these people I don't discriminate others on looks. Even since pastor Angus left, everything went downhill at this place.\nI read some of the comments being: \"If you're an English native speaker, this is the right place for you?\" What about Peruvian born people? Are we not allowed into your little circle of racists and biggots even though you are the ones who are in our country and not the other way around?",
+        "time": "2 months ago"
+      },
+      {
+        "author": "Robert Naumann",
+        "rating": 5,
+        "text": "Great worship and message. If English is your mother tongue, I highly recommend a visit. The focus is on Jesus Christ, not on the divisions of denominations.",
+        "time": "2 months ago"
+      },
+      {
+        "author": "Hunter Martin",
+        "rating": 5,
+        "text": "Much has changed since my last review.   The Church, it's leadership team, and congregation is very welcoming.  The Adult Sunday School led by Brothers Mike and Justin is conversational and informative.  Nice to see the changes here.  Messages by Pastor Daniel are challenging and biblically rooted.",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Katyuska Katyuska",
+        "rating": 5,
+        "text": "This church felt like home to me. I went alone but yet Norman, Juanita, Barbara and few others were kind to me. I was lucky to watch the youth Choir visiting from the United State, lovely voices, great worship! The very upbeat and powerful message moved my heart. I'm definitely love where the Lord leads me, I'll be very happy to come back and join you all in worship. Thanks guys!",
+        "time": "a year ago"
+      }
+    ]
+  },
+  {
+    "name": "Iglesia del Nazareno de Barranco",
+    "address": "Miraflores 197, Barranco 15063, Peru",
+    "rating": 4.6,
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1426745,
+      "lng": -77.0209921
+    },
+    "url": "https://maps.google.com/?cid=261251694316049218",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c0y-_ofA2levD_IsR0-5cz90pKFEQ0cjWuyV-LGQfuS0jrxaBlxw9PKZv0Dm2FIPEMUDJDZZukmJ5SyBXj0mvUKRpU7RsZXUI0eAel5ZGTvGrjBr0qLlCz2tGjhY0gyis-UmOE9C8QC9hHZEHcV_WVtWoPMqG4zhZqdslPuxquf8QenGoPqZpn2hfALjhQvbJgFk43GRrNCnGkyhDht8wu28CVTPRoE9c3hjTPJq-NWwh667jS8d23qh4kzgqqAY8em0v9ebRMDbSxbDcCMs_ILyHvbhUUX6hRYQ25yW2nLWfuFAu8oOY0CcWpKRE3Go1V-VnEwItTrEsUfe4uU-65a1I_XluI5XQ5x2V0bv5VWSR3Wr-MQSXP1V-38efAF5UIIIheNPmkWmTUytkep8-rkh7nJmSg26JRjR-WTffaxg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2feL0erTtspHPpMKXEZEgCC_HFJEQXZzZHorfJo6Ua0vlJTBzNPw5lv7JBnM4-NKk59oYszYVNLze6c4m7nt3gJcBLV-zQBIEYjPfJjP5emhnL5I-hvBLn08yQLpzoZv_pX6JH1gKILuy4CdSAdUvLKuuH2s22A78KLrY4REUfDEvRAqKHNRnnqCO7NLylkSyzhT-o8AllkuaCX2m5i6KahebE5okncTUpqz39nOk8JbTSVybDZHTY2RA7gsvZgJVYa10OSP_YE1rnS0akxld50luGdUsHfVGx8q3mQrtjCyd8YyvvqWubyr7QFZXrqF5SYFTt-j09D0CrQXTSSlPRsF07fED924UGU6CvdjU9qB_axO4-GFHUF8swgdaNjfRarF80W03wTc4lD-fzCfqCbyyBswwbQNpjpQWMd3m4TVnI&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dH94ZP18v3gWDK33qMYAB1OxsB-yp2kPre4eN7u8rWBjojxPnpLpxuw51m8qGcP-O6lkZMejs9lDUkzsu-AC5ZwWAddinasS9CCkxrl23QfOmPfVlvySctPjONnVI9DWhOGqfpdCeV6JI6Ta1ACfQei9fy_uogHogjm57L5EMY02gMNZbHRDIb_5jMj-VekOu8UVm-px3kx9utFAqgpK_5lUl2z_GgYA2UU_7zqGLUt7yUkrf0DlpEdv7-N6WgfY7TFwGnLajCrblQz4zXSHT8m0lL2HWQErQiVi7thMEtQn2yFqdOjCssTErtjHLh8ENs0MVIsxEApjDmxBkOD-YqHjuWxGkjsK9No7CmBCwPWWLq1dI1TE2x830TK_O2L1kflXBms1vQ_AYHQxR4d2K38Kn5RqWwTu4JXi0xU0kuyw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ea5CCqh6Cl1o8jlVIh647dKU_svLpfqLaF3Ro_Fa12qgcYqARiGi6f7OkHBWO5mGYMc_0tU7UaPchX8KtazCDbiAmJAPOBb9M54bjBq0WcRKI6pAN9_m404-TpQREKRNTEzK3gQR-lSG-5DW-RBUcxL5cdJsBLCS2hCbHIxtIILYH9dXAIzc-B6mA1ghzfkycKQ_x_8Um1aHK_4oGt5AHapwAblVEKM4qKfAOsyOH__RKKYaLLB7XXvDB7AbfOZbRu4M3kSpRMZXHo1FOpDvhKFIWbh1J67Ms2gXU-ACmeLXv12vgUNXmFxKIEDdEYTcAoWV5aIQQofdMEHZHVSA7zQb3hDt262q-xVp7ytI92Wzg9CG8H4edJIijUx8b9Vuk2xGU06Erron8OwCiBScgYIq7RfP1BnTmpVCajGHwkEw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fLXvbqhSP1PySdQgMw3jclWt1ERvGu-cQz264ae1rS9AhqrupIjZgLZtxboImgEnfWEIN46ugVsbTj3SpF9DARy0LcrnQMkxV7CMg97N3jihnF1zgTeh4GIacw6VnIZ5fl-0VKIVZGRq9oA0mL54qdZayT3kC19uSXuWASWVKtZ1kamH_8RFMW3uJCZwsi4_YvP-yXAY9l8fXp8urg5slnL5gH8skkEqMbFNdxCviFcm7u8WQzvPLNnoa6FB21Kth4OygPqKf7nqL-gCTDlxhVXjlES5fTcr8EyGKu1wfkYkr0FtruDb6dvULm_l7j7a4NmqrIZeLdJye1iU3Xz8jOLiJTn6pRfGISNl6AlYJPqpG2zF5eP6tdrh8s9re6J79VwMd1rpCwC7eJUdov_oY4CZ5jUqoLymlTx9lgYasYKzhK&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dlNZjjOOOdg65sYUqGnKfHFNmjrzzHK22m-9EID4WqVk1c30YUSSoTqkemkBI4boOaO2NgwWxZ8c-xKeStznLZ6W0KUnKO0bvWpKcRioDHSOjERQi8bNJmNltS_rzyBz6w2bYnut6rmmMH35MUe5JDDq_b6K1Li6WuYDU4uv-mntM62XeweUZT451sTINb1W5RdhNV163irIgjRmMzZNIGSqz0q7XqqtGm3lapMnr6r42iO84EJf1Xug-JhpUsYfV_qcilpenTBxdsJCp4AAG8vzve1Sgok783fJhmHtgKRvGOmzvDuSeNPB9iyE7f4wg0UIIjquNVNieS1RBqD8Q8I_bPiZKSk38atEY4cxY9NAYjtQmcRVqfGQrlG2s5WzqrA8HS528EE9I69M2cPAbHdg3LimJU5SOonAUO1EBGJQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fq_j-2bFU7Q2B43EVrRbNkjnxOnaxOANAN7HTl_1yNDTxE5qwEIjxIqDNAa9OtxWNYpVM9yF7fc7LjGA-J6lsty0x2GfojkzQR8WTIjQinwfvzvxHCu7LmEinvy6mKZp4I2wmiJfdULnE7JNmgezassuwRbxfC7eczKfFOHvhXwx1QvT00tDQCi6qJniavGwelNRVKInu4JlKVGlR_6-j3xri8Os7cqLwuiVdVmc2z5KI--sndjuLBI9RRmfKxZ0W1lV-ypNzPOMKukEMFSUA1NKtU8GRhZjQ7HqcohhfJBEYtVQAHoz05IQJqAotJEev5U9dVZ5-_fpOsF9zk3XsCPS1f3_nQoK9U6lOB8rjjANY3muE0HIDcQ89nXzGXV1InDQuPNFcfu-6mTPqMun-hdsXFVpclKioi2_NG2v77EKRD&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d6nN_mW8spdxPs6CZMcN2rBXrvZ8K6OR0B3AGjbInaBdq_yXjVkdtPBVGL_pJ9yEuFKvujk9QGR3D3pRM0LQXcKnG2234kJXQAdAIGjQ-gti9PEhxLrr0GcOYeIpF5SFBptcLogbNNdFj-47HnCawAr4Vor_9mSvYRAxQR7g9l96peMRVEOiYFZvaip52zIo2nMYWOqKCKVwU3zTeKM3YOtwTONaZCrI-G5LjPqLpJWNitPkG1472Z-n1iaxYgWYGaYpg5tnfimynsitAhHlkvFfoflEwPlaQLBF_xcc5fwiSgL4ZQe-eiuYWKbvsjt6EhHZE1rAmbuINPkvD-i8gx44g3hns5IGN1hI4_t3-HRVZP-Az-1yukI78890JYRnyAD_S0LTphbJ0ThnHv_rrGddKXY3pZDaSCXwxAG1yXdi4&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fjmQ5gvJGNWDikiJdof1jJD9pKMzgwsVeVVrsaEFZRAUgE4JN_6BCVenCsj-TuSLRWpzk7MeAWty2SMBRhoCOum1GXXmpySVOuHScOBXs5XpbqF4Gr2QmHmdr6TmVJNIzreQ8dALYBexBIfb3b_vwM0y4m0qtnorw3GDbQwgijPDvevyoK1ohC3SErx_H4YBrhB5-A-eH_N0-ltGs9zeA9bZLY51rZbGnAziO6xzZxMfOFvtT-PSNNnXiPHLmfjy0JWRBbjMXkOTs0g11j8gxLo0iXDZC0ISmY5Pwz7t9c0kFyuorpY5VVaFs5uz9Rdv_QCfWkCvQOe3w4LjHGmn1bpF5MrJMWPBLcRFbnmqJnvoK8ms2B0Pd4by1vsXXCYbMccBNnWYtFM_4JehlgyIGPSJEEhpK67U90dKnGFIGeZMnU&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Samuel Valera Bardales",
+        "rating": 2,
+        "text": "Bad directions, I don't know why they didn't tell me to get on the expressway, I was late to my meeting.",
+        "time": "6 months ago"
+      },
+      {
+        "author": "Jose Armando Miranda Vinces",
+        "rating": 5,
+        "text": "Ideal for Christians who can invite friends and family.",
+        "time": "8 months ago"
+      },
+      {
+        "author": "LUIS COLLANTES",
+        "rating": 5,
+        "text": "Excellent place to hear the word of God",
+        "time": "8 years ago"
+      },
+      {
+        "author": "Henry Arturo Del Carpio Rubio",
+        "rating": 5,
+        "text": "A moment in the company of brothers in communion with God.",
+        "time": "2 years ago"
+      },
+      {
+        "author": "maria violeta cobian",
+        "rating": 5,
+        "text": "Very well located in front of the municipal square",
+        "time": "6 years ago"
+      }
+    ]
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Galería Art Miros Perú, cuadros Artísticos, únicos y originales",
+    "address": "Av. Angamos Este # 1551 B1- P1- Tda 189, Surquillo 15036, Peru",
+    "rating": 5,
+    "types": [
+      "art_gallery",
+      "establishment",
+      "museum",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1116774,
+      "lng": -77.0141416
+    },
+    "url": "https://maps.google.com/?cid=6373164628532699432",
+    "photos": [],
+    "reviews": [
+      {
+        "author": "luis castillo",
+        "rating": 5,
+        "text": "Excellent place",
+        "time": "3 years ago"
+      },
+      {
+        "author": "M' Cateza Salón",
+        "rating": 5,
+        "text": "",
+        "time": "3 weeks ago"
+      },
+      {
+        "author": "YANIRO JOYA HUAMÁN",
+        "rating": 5,
+        "text": "",
+        "time": "3 years ago"
+      },
+      {
+        "author": "piero payva",
+        "rating": 5,
+        "text": "",
+        "time": "3 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Arte Galeria",
+    "address": "Viena 14, Surquillo 26, Peru",
+    "rating": null,
+    "types": [
+      "art_gallery",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.118956,
+      "lng": -77.00095999999999
+    },
+    "url": "https://maps.google.com/?cid=11861381699178983490",
+    "photos": [],
+    "reviews": []
+  },
+  {
+    "name": "Art is Living",
+    "address": "Av. Angamos 1551 block 1 piso 1 tda 187, Surquillo 15036, Peru",
+    "rating": 4.5,
+    "types": [
+      "art_gallery",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1124534,
+      "lng": -77.01474449999999
+    },
+    "url": "https://maps.google.com/?cid=1527348575633405484",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dVuMJ7Bm8ogC9vZizolMxz4mlEFLTgZ5Ffg35Q2zAS9jABJl1BnscwiQcGwpiV2-eXZrQVj_VCeww4iF9zLDJbqPWLXzZGsTXXJf5RPmsKe_FbVJUMB0GAp_D6EUzNG0MDW9dC1azscfuOJzlkWl_ie3jv0_4FB-9rTJP3yolQkKqGE7lamresEfmbGDHyy3hjOCgfKd0PlqRkC8_Yi_d9g0ExPk7g9lsmgVTdEMyocpIoydE25lzJal4q7NiX8fA4WRN46ww0cTARuakfK_MmnorPo_8-ShTkQasEDR3D9A&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2crvZnR4M4r-G2QwOW28j7xOPNKhWDgN5PYiFDDWfMF9eWWycyNbx5lb2V3b_6UABu374CJs3EZcr8rYzU4AQnWw0W6StLWA_jnZI7pRvfDFUzojVbE3Vx73zHInAgtIs_XWGiTeq5QFZE4GjcV1xfDlrBnolg_Wuw7FxsoAKsvQGHb_Wf0p9cOi7tgCuDBL-pFnIp1_F7oNVnPJgaf-JRIRhAw8pgFaTD4jywvt34ZZvje5rTg9mOL16Cp61hXcHJZD4C9GjdTtSCieTwo8uvrCLjZOIifShRTmoVAAV447Q&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fNOpAN-alzSjU43jXkQnH1RT8yMa116yeEEbZ9ZbJwG4cqH-il-33WOSH6cYGzeDogXfyzay9RkZRsXzKg0qf9GqYssbEMibQ0XDwPwG8eAJTTYj8KNygJvA13Qm3TDUn5hrCZMhNBg_Fv-f9DdHfQgU-8UnGjRl0LaRZeFMXXjE9uYWGNKGlXWIAQ3hnB0rCV8NOINmWeTfh9RTyzVpwKE-Eln4NiAA9v3n8cgT74vFLrhRu0pQayMK9vyKgRleyUE8ygtBG1IoGXnBxLg1QxK6C9LR3dv4rd7OlqtpvLhQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c9rOkOnvyRY1j-2Ag3rGAUtj5paMkNqr_XxSPQmR6SjB9c89cmRYgquDoCOPpA0R5Rlrsog20UDIy01haPXiQ_Qs08hbi6H17GUumLYCt4PAwqpQ7FJ5TwMHZPTirK79YwqkDVmOqlHfqNV9sMRhUmQsq4VTZCnnbXQVVFVc028zrae-8ckOy3u8B8VMoYqfwQu7AQxYdlMeGOL41b3gY_skI5ePwA7TEFKaRKDHASCc2dNSuQXFcSP2lTN86FdpK-tGuONRYg5gEzmZQskcww1xAQBbL4SfFGDrOBH6YVvA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cqBg2oF3Vx8yTEH3v9-6ktqZT2RePMqgJyByIvCVQKrSwCCTy7fo1Ggcrts-xjeywpAoX0W4sU1iqGNMy71_Dc6Juaqp_6Gt3XzJURNHjorrM6HRvN0WuJeSgQR3ZtKwv9b4li_fmSNB-_P_07vvJGhFT8mbOzFia-K5nFwuf2UoW1Gmi88z2tASksPaitqCVPiQ13hryCRpEJSTMhcSCTyRYWdYZVFewCRI3R9N_meZu0UQx6-aS-JeTodimV4YexUSQExew-2ce-zH_AuylfaE1voSVDgtgO4dPi1uxPhA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cSPr2E-YUUdUS01yjcaKft13vNJhcFigNyy32da9S3FzumCPo-pOIGVw840Il0aOHhTtLDfoyC0Z0EcY30aH06W6sXWHXGJapJmKvFJauBuh9HeL8zJrajCwzdabsiXe2gQpOkqfbuOvc3rkaOj4mTd6gFOC7QlHifhm6Sxtw9CNYByVj61Bd5M4E9gi4H-WWLdNRMW1UEjywIVEAj9F1impjRohYW3DbsxgBgz1L8VbF8iqnfl3K7weYGYqRE6SVDnpJow7obF--ZYzJkfLgYLsZrJNU7qi_Qimijyv8lSw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cT8h83FEyBTf4BJf38f3SR75a-qZ24PSfBKOA1ysiQyk8j1Qa72T6UqmDqmr8Sk2E2FAqUmP7zIvt_O6Eeyvb1aqxhnvNpMjS_V01qj0GNEo3VgpxEal-KTZpqSmBTz4hac9qKBXSWYuC1E0zFTxM9w2sVRtLdU6cMtqjPF5Dvvw5B7wFlXU1ifndBWT31MjFGcff_78wYeyfkkzSjo_3J6wEN8FuAjmlF6sajmnCQ0yOwSXj-I1lr0bTcrDeziimIIDkAPOrR4eA__zrRlnivnR9U6PvYhEGWHh-hNhmVow&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dV2qYQX4nH5thX0Q5zUEkn7uJKa7O-ebVBFz1gXSBfFfAO7esjcimeBcwEPigvGbxa7fFSiPTXrfS0wh7cWrUHh6bxRWTxaaRpfKVcgxyf3M0SDXG-Ko7fB3df_HXmu1V0FFr002iEGd1rStoPxO9Q6eVYwl8BI0ejaNfMWh4WCohc5EfuK4JBZgX0dL6GnxAGJteEvrPpzPz1_TlNveRQYLnYDfTNnUXwVeExJO7D_d2kGHw7NRDQNE2rC9awWMApGQY7jLc8PU9k3YvPhM79mGSvweM1Jr0lGeJ_ZkEnDg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fBiLiUjIEJPJBLyyPPjrQMu-wwUnPolEpo5XmxhDUaV71EtSEJwF3Rvx3tJrGfkuxjDqavO8M_q6afJGzVwXB8nA-Jd-HfiTGW31LL6h3a8gw33NX2O6gv1rjA9tULpJz8GMOf_FU6qIsjNGC5wNiCxwf5aEcB43yJgSNgIdp2bg8DRYTkiAtzvsILPaUFVY2GmXPgkg1vzDfcAvGZeNSAjcMyfJUR-QW293KuPqZNFxzEf08o62OgSWJ1H4AXxv6DNd3v-KyMDTA6Ya0TkcGAGuIEqFWXtX0eIouMkHswEQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eBzV5_vPpOPRLg8ZhjNIttQtoxXJkqEXxoiRHqm-cir-2gRe2whB8TfXXDAz59X5VdRjtn-24TsT0i8YX6NtNFSAb0mEGeDnDXtUo3nxI6t9xB6NK5uZcwCiQ69QTbenBD5bfpEyKjpHruZI82f0MILenL7VuQbtLJPtUL37ZjcwHOH5oritDvl9gYlL7epn4TxL0XA1NBf1XtpjPGMG8qJ7By7d9KUZkqWKAT34c9n-X9vES1764bZ6DroMUV6p2a4oTQHthZJJuEEnR_XTG6T-Q087YFxea6Xk0eR1VxXw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Fernando quijano",
+        "rating": 5,
+        "text": "Nice design according to what was requested",
+        "time": "a month ago"
+      },
+      {
+        "author": "Gerencia",
+        "rating": 5,
+        "text": "The best I've found for home decor, inspiring paintings! Highly recommended, you have to come see them.",
+        "time": "4 months ago"
+      },
+      {
+        "author": "wilton Lujan",
+        "rating": 5,
+        "text": "Thanks for the advice.\nI recommend it. They do their work professionally. I'm satisfied.",
+        "time": "a year ago"
+      },
+      {
+        "author": "Giancarlo Medrano",
+        "rating": 5,
+        "text": "They helped me a lot, very good artists, I made a connection with many paintings",
+        "time": "a year ago"
+      },
+      {
+        "author": "Karen Quispe Ochoa",
+        "rating": 5,
+        "text": "Recommended the best works of art captured in each painting 🧑‍🎨",
+        "time": "a year ago"
+      }
+    ]
+  }
+]

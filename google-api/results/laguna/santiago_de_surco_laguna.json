@@ -1,0 +1,204 @@
+[
+  {
+    "name": "La Laguna Park",
+    "address": "de monterrico, V2QP+RCV, C. 2, Santiago de Surco 15023, Peru",
+    "rating": 4.5,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1103851,
+      "lng": -76.9639619
+    },
+    "url": "https://maps.google.com/?cid=1259116846528852544",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c0ZzV8m7ddGxkRpm8j0jYTl5kl2WFaQFQ_2Kt6ma3w0q9o52on85tm-j06XVpP3ApHUdz8sFNxpI22iL5zUoxQ1ow9DDMaDXMRLssFV6lNOxqstA5i3s1FW5npL_yAfZHGWizkg7s0ZKAOF83HJBkIk54iHOkLc1iCbLR9CxoQb36zpIVvDdvPdvBY6j3n2FlhmEzBqNl28DwHCckQz7cL7QjoO_XSh772-hOeWy4YLJVgp5MufJGOSY7qddfrLtsNBLK5Zz9uZYVFzUwWHmshiHbI3lPTE02MVx2Ir5exm-FQ--ItUGIqt61kA_eYAkyzRUapoynpfcC01Pa0fvDrqqjc_gGf55K5bkB-WkBM_EL6j_Yox8ZoA6Wazrk_TWNcs7C7_6Ix1xlUqCbzk8LccX61Tqb7Jhshweou64A1zg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eVRrA84RP9ycmunCugThcuQpXys-ZTH9tem274eDlj8DJk2U3r5DJmMw1vzIODkIPTUeAADpHGW1igiTRJsacfAP8N5FRQUBVAvhwRCCfvCKBXO-UIYza3gEh6gDI_PVlLL-eHNfJWN6KM7M29I5zdJLuOJ4zqgxrnaTy5wrXUUKUFX23dkxQONtp0U8LqGLj-QvZlxs_19PGhJosdY4kFyuIYNgVvkpoHkxeO0cAq4_cf_7Uwn4Az6tQmLOXbXk77OgErest_evU42VfIV32xRsm8YOajoKcaC5FzXc1PsG5QQQ5iMS0neKMbUEMQ7DHbKHYSzY_OuufqYqVlSZGtGYxi5cjmhP9fvQNb0kMhofov5SvJgn9VTwdUQzllJe604s9moSq1o3wXW-I1J6zvli9lKwuDcygTMEx3aE6bXz50&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2duCxOOdOCIdtjrVqW1JkBH3mCi7VYPQs_YXYkQ55Si4GHOsVwAwniQySEKwgmEqaaLFIi_BlIAslPlXDfc-VhNBak86JzrVikn61G7nsnhTLuQzm6YDnMIeVYfpSRJJR06UAIqnEgTMAyw8BhUtMCP-No4zEZkl8GhDzr-bW3e_1CmkCkTMKpO5Cqm9LNj87oovnaaix4B34DUOz88VQgoD5O8T-lDD3IY6kz-Va4L1cV5gKVWmXOcL20Rq3I7pXtVQJtiW3OIaUycXzeHznqC98ffKlLT9JguHlCSs8S5JTYvEaTieoEefIopAaKDjxpNwjW3HCWeBUjNGHAvBpWXH7qV6alrXdEn7ENu8xS6P6OJoCch_ywJhK-IZSTUYUvXAC2zT6-iu7QetZW7EHy6M-J1v_QM7ch4pTnQT1jb1Q&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dWX_WVMMibl3iuuTyzvQ8Pm247JkMlYOzlm49R1cI-Hcek3SxU5cM6BQBOG06G4M87rzRoQ0tlVkFLpg4RyLHjbnzeTB9MBQVjGqZkqyNLF_ZElgirkvvMMc1SgmpyYLrWop0d2dybxwlUAKWGm8fR3WOWRkWkjLbtDySdNurp27lrj43MSEJ21Sru6K0OVblwMNRfQWQq2LhcoUN4XxCfTkK28hb8kIGMiC-mojIFmGGYRius8OoMID2tUGp20INxENiJI6UcK9uT4WE6u26oAhEMAZK44ii6IFJVuTHywPY4gzhKI0N-ZrDJyHGvTE5KOyJEGpvDWHuwdjQK2CsM04Kq_4tEi6b0Pb7hoqdXADf7k7_OSKPxMbHAmqC44hUFCuox7Wzh4Q7IPKDjyJSbLiNFw9g_zc4Rd6Wkv4O8VPQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2crUribB0QW6kD-5-MWPty8qcum6e7TqIrF4yvSw8hxCLKry_PRkT3o1xWlesk8cskiHKOH2BFtxU_a5xGvBI2oEK8OVTPsHr5QXHDJ0ZD3nGr9xiI6TlvTdbMQNSNAktyejk6nEVDOZWjhordL--OTUkPUzc29ZdUQTsANf6p6oHBJywRp-e2E3kEPazvbEYfLeQMkzBtUtyFL6SZrz426UJKWkLKpJUUOBkQhYRUFFUXXTra790LsoE9mBGrwMqKcGdWTJKtEc2jO3rJdyQhz0s97K9psPVOPbX1OAQyjP7hdNFmc75zufm-SUEDcqWL7L-9Lfk1dOD4qKH27DG8KkqnE_jrnwu7jKRFQr_YlDE0FnSfo4JpYg7LsJNiucA9_Rx8Byrks-8ya2kq3MRAsZowFxCMJeE3O7lG8fd4Fpng&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cZEkgjbudzfjW9vn-_s5hBaOZlZsVznWskbtLjO3gcfGAiRPdxZfK0UtnCQ6RTddI1S4BOy7kaJitTaCq3mLNRnTxa56IuRNef-mSyAK1NIOeBKcZxxEkXG2QSHPP0PoWb5C5po8mEf91oL5BtnZs1Ww2HxtWKgoPh6oiVLl9yXUBEVBP4fPwKeHwadiz-XWxBdZWqQpN9h9eaz4-pTNcyfMEq3-IupbGMss8skodTVsbnveLf4WQ3HFjcI0s7Fh_5ADFNMlGRuUCok7fyVRHVfyMN-3cyQcy2QjZRKFIH5B50pS8jffhu1vGeNC2HzmLLX_7q1QF-Jgvw3tg77ON5_ZjuUBX3D8PiJkhp2WtkQr6tC40TDj8Qw8ig2Yd__PrMzvDf-91E42HbFJ_Kl702IwAtcCM-guZT3cbS3owS0w&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fB55_Tj_xhye2PaEysMIoQOGfjaZv8R6lyLdp-WSB4LZOM1H8oIeb6rLZNZTaNrPatlqorSlV9STrkrlJmG7fLrRpBAJHmxKa0L_COMcvGUcVWLMhcN_k6AONMiIABnmzVnHEAzefEpuLbFfaeJN8iwhXL1kiG2QeJTYwMxKTB4IhNkipsOesA_Ie-XNCBx_IHyD1Ij2Z0rVzmC89AAk2u0In4iZhvOKgY7hGG-iKQxlJCoBAhkReW4zMme1_EVc8-t-LfOMwqqyVaoncDzDkKqRn95o0dv5J9wGO9JWwYFtTn2SjO8uy2MeKJmEpth4D03V9K0w3vWpM09l6LbKPVy82oBIgUTm-fGc03tU2tewu1jfjwwzOBQcgkGdzMiow0X3rZcTQtBUmie5fzo78Fy98BG-zapHp8LMQ3KWvFcA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dQlrDCIy1isA_VxqXjET3v74v7-ZykRDp7SMJL8rKTbASCHgd-zlFM6uVF9_N-K4XAzGkt17TnCWjtYYALxEUYDWya9S1vn9fDh3MNc89cT8KoTfyHXYVdHHToxoEsdHWcO0MsSF5XjKv5WRr5TTtJaWYARfjXv5hF52b7_JdL8pdcw6bFHDa9rHTZ9lflEXmp45yt-ZtFQ3zwzXU9zv-3_M2c2tmW4LBFomCcpGdNHiafBi8_fgaBE93QFgjSobaeLFD8LLFLVtMgh2LMiOGpz2TB7GizKlmDyfZMfznMsnZK_FqY7b8ZQQV1gQ8g-tQ5lKUcncgrExq7IcydJ91JpCN1Xmkw4dPPOQwjGxZ3SAJOrHY1bjPKHrtafF-V0PQA_VR2bxPoc7xLSA6Pf1sTUmYrDgOc5SxJV4TwgO1Gpg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dtd7YTp8zCbO1EZ2-QGX-R218aHHjRNFS54lNdJmzeUwSs-D3HM2ibN9XheWZA_8JFuitmb421z6e0m9BCX9EkxyvZZQ6WR5rVQGC2KQvMI-9FWANXlTfhunJGDIuL_JinHITt1ZKZpzmSyzFwfImxFPEuzgnlzUKgh5bvV15VATwCVgKoU90T2k2hxBwO6Ij8KVwgWW_aFigoYR4jsXipi36OUBeQuE7j9DwEWkXezFUfwvnc0J2x9NukGsAcXpiWBXKHuFyEHk2NGXpHReX3rkRUmSAZKiFIYh8WXTTwrLXOIlHof1sz8TGJyep9dOKMojs1TX-gXnTJv9WRs07gWqIN6ZxR2cI_prnAjJp909uzWSCubPx4yniL2WOUMX_BCQZ9VxbnzsbvN_zVJXTe6wc12qacIodpkv07b4a0NA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fwQeZpVcO6PxgLXPKDq911kGmMEdAvYK0NTjqwMQouYy1VRpP4ISK7fZzhC5BNYd-8j-eqfpavFz6qmvFdjJ5xHuhoFz-vtRHCiBWWXJlqlHY-OmYrCkzgaKRHtsdkdBmERWvhlus0JJw44bbZWt7a1FGDNYk1lfqbbo1Y50_f0vfcwQCGfX4kAojNcT6VB7N59rOuCaNuaHy0NjZqvfek0DOcJpJYodK60mZc9uL8odzsGNOSS90izdjRayLGa9UkzoX8hUGUa-qt4ULYOzywD_zY4vhEY0Jr7SFB2SUb-Z1lFu2znKw8_8TPb9bEFDdim0geA9_NJREspjU0T-ukrTRMR52vAKjhCScc9gC8W3hC1SgSKY_ZDLfzLoqthsFnMEIRWrBDKFLipPZc1ITumMtkYipID5a6csHxvag&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Pablo Prugue",
+        "rating": 4,
+        "text": "Relax",
+        "time": "7 years ago"
+      },
+      {
+        "author": "Alejandro Martinez",
+        "rating": 5,
+        "text": "Nice, it is not very crowded, peaceful, with many trees and space to walk, refreshing air flows...it also has a cement soccer-basketball field...",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Giancarlo",
+        "rating": 3,
+        "text": "Quite spacious, it was clean but a little neglected, at least in terms of vegetation, other than that, it is a fairly large park, it has games for children, exercise machines and spaces for sports.",
+        "time": "2 years ago"
+      },
+      {
+        "author": "joy8690",
+        "rating": 4,
+        "text": "The neighborhood where the park is located is also quiet and beautiful. The park is well-maintained and comfortable, making it a great place to take a walk and relax.",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Ignacio Sanchez",
+        "rating": 5,
+        "text": "A place of rest, leisure, sport and fresh air, so necessary in Lima.",
+        "time": "6 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Laguna - Parque de la Amistad",
+    "address": "S, V299+989, Santiago de Surco 15039, Peru",
+    "rating": 4.6,
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "location": {
+      "lat": -12.1313248,
+      "lng": -76.9815891
+    },
+    "url": "https://maps.google.com/?cid=2041330392294596867",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e6CLzQT1QBwU4EFuMkroHoFUw9lXPs34YE-pBkD19UHxGUqCuE6yzkx2ZU4S6PwBM08weid6SpsEcQ5OwIZDJ53OXLjdbhw7pAiaXbyOSiMqECFNb74sK5MSYz5jaK6Bdd5LdHQBH5atWlaxrvAI5Pr10WiipZIHg6S3fXr7FGY3Gcijq_JUnoFlOxqzndLZ3EaSJAn6KyTACOIfNyQPTpWwdspMxdODYFL_yQik_OGlE99-e1Ur0EwD3Apr_zvUcdusIUxhsM9eEUy5EkK3xD2zIfSJqvpkOM3idsih1zspuZxuW97tJhgIW74zi4o8grpdFjYjApktMs_RlKXIY2sCSlMSNyiFl3S9kB0TRrEK7hZMEeqX4lTlWg9IymtknHt8vX0295Wl7JGRlJ1uN0_H18A-bGbIbEPiPUcsC12g&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cNvksl1JII_40aYLb9TgFcU2dbV5SHDSXII4352bm-O8xvUgv6apPwN2Z-7mK3NX9cVYYP9z-RUZqu4uJfjsVDvTunLqE1fnX9tfq7xOB-MuKrlTt5HwQhNjnHcV-o6nx9ifpq-1ktFYadmpvAbd1xuBX7Egm16mUeuEOiSJ4IxMBVsezx52ZpB1NTHQwnJw8Wej_ssI6HCwlbdpdPauZXufuYEqJxDlFirJc7uBSLlRl5TKqvm6ruIYx_L9YW5sDunBGMbupvSlWWz5X3Puh6bXNXbJUY-bbDt-t0Xr_1Txf2EnKgxAhJ1mt_eBwesujaXn1Jb8N7wOBiUjSdKFvSsnj7n2088tBNRnSJIW5vBJcQb24YlvBQ4p2gFRacDFmAQ6u7lDcM_u31iQKQEJBXQCP7NoO5zMx4owez_eg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e4EhlhGUD-3n_d5SO7SfTBROydt71II0y7uRhwLRtpjjqe4jnKzQLpcTCF7tPmhhdIDhE597H-uCcq9LoMqN_OU3z--EymKtbfvk3HgbeVA-Fr6_hZzB4b__6O-CmbS5hK_GljR0WU4-K2RPNzKbxVy0v1ghLzSEC4uhHAFrQepBieIHMY7yR7bNmB-7Wy04J2gINIOHoXTfzYhEDD4eTtRxyWf4wBjHYl9TaZS23d5VRSp4CJVLhS-N2JQhIv9OMbCJS9hsddxjlXXqAFpCrTINqeCr-x89qrsOCGmt7kLxF_EzHS8TlPaZZPIcgfU7ZMx3V1FABdims4oO8rfB98u0daI-qdIueaO70yXobEkwxPrpYRAMvgW74z1S4kVNDxQRDCzz3V3TBPguKCxnGWdvBRr3Cc_BABBQkhOTgJdO39AdmjjJzxqsly78OA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dW15G3Vdu4EP_VFQ4h-YoOWcl43vyn19fdjql1qoniSCCfwiti-gbKZCEeWgi-bs2xsbLZ_1AQk3T01RXhI-TMiXNbwQT9g2HPSNepHzzm_Amidv3ubBW7D0XvNc3MRWytPGsrQ0PL1RC1YoHM7JGvUyxTYByPojLHW0cgcdfC-QFwL7xYHbUDvWhXOgoJ7hYSlwGlf8CjWFa038p7br5we6P2ezwWmn1dmCtfOodIuLg2ieJFLyphW9ogwVSKkPB1v31dfvvWiCQ3XH94nn4RnePRrRhieKBvee15zlP8F09uht9o7DDP2_Gsjuj9EWXcrHhXUdzDdkpqu2VW4rT9O1gVxUraIoJ1Nf7Lh7qgHyi_VFlSeDcF1_vpWEFQNyP4CYoOPC2l7ktKk43_AhMN_ogK5D1Lqswau9ilPlU8Q2sU&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eJ9QP3Cvvl3Haw-8tocn4jybv_jXXGrmXImr8WXLScFuT0FjxWFyvzHGN4WV7-9qgnChf0HBmIkIRJuKJpBSLOtEO901R2dFlfb2K8wz8k0V_l6oGP3PrN3ENxCT1Gy4MPNRDalJ0CoeY0lFH5ffrvEX6Z0GWgbID1f_A1FQtrt61gYHg0yqfUvjd77Bkr2J9zcEG9D1CZOUMrPe9Rh0nliXgS-02_cfQFdddBT8GkW7qoD-zM4108e8IuY8wq_W98z2EOs_oxZN37K5AG2xd6gVgEficjWqG5BiWHw_5hcH-2KlDeLK0Edw3mY5A41CyrGB7COHUuS5HVhatR8E4HnrauofGIH0uH-C8YqLYnL0bzUdTK7TPhofyT-82Ni2kg9slj59lE9VG6gfX06GKDQj35t1XUwvvJ_YvnP7nN2ePEi_H6DL_TjGJDkdqb&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eU3sl651305BFKXKEyVUX2iM4ErnL-_cyMeHEdTQSGIsSggoj5k0o5u47_7u11k1moN13yTMojeNo71LvrcIy3akjy9Tp2cuQkeFY_vT1fkVyvMyO6UBw-CLA4w9KicGg_ngTNz7hnhFmPsCUWzMbznPJXfOkTJp6nHNfW8ErjfR3YSzABULX1OV_eHJx0EQGRYmkuW1wsMew23VQWI-qxLXlUnpe-QGb439tbtIEnx30BtyyzV93ridZcbieU1DR5dFpsfV7C9L8CLHx8pL5MHpV3LFtHQM5KyOogqdSPnp1klfUvqIqpVkNL8CoWH-tZKL18vmZt0tv7kRuQE0bSFSg7Ma9fDqWwePiFClxlpRu45Nvpc0vsUOVzjOr4WDN4_xs3oWTigcg4lMZgoeEY-iNVq2zDdrLFC49uJ5IOgNCMrCMaaVNWY7M61e0S&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2flUzfOw-GEb-_yKZ-PZD7yshwCw37ZL6wFH-K-bltIWxIVuTbej1bgCwve-gdgAz5u0nd5kRfm9CQ4yyyt4IytDNCJBH7arRGp8V8tGZax2rpav5jWE7e52ffc7vvsnmMJpzMAJa-JxFLMxIJN0fG89AhCNhRpayGcTdfZlroy7rpGruPZARp_7DvtYcsWFqYwK_IoL0LKabdryhEe88MxA-eFatjgezwfXidjVpqdcIZEG5UcaX4aRNAjXnydumREpufcTRHOxCfCLvWzmlosnF2UVvGg1qD2b9qjEqSlOwbaNPViGifq3YKbSRgy4MuZcfu7ZukHbORleznVZITZEI5rp9jbwn0gbCv47wqv8pL0lh5U9tEc4vGWp7moY4kdqjpji6xUhrmLLfnkBSXd19GDKK_2R4R291uwjZOWYetfB3fzSF6roWzMbyIn&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eYOZAJul3Ruvi2KYzueLirnUpVgfRULdPtiiqhLaCsgDtAk6BbGe9xUQDMRUou9mGefYTQVukU0RG_SRMb4SxL8ptLPS-bRN_5LCVPsxgrXvMpUh5y9FdyRZJsvD7tRSnHdkX2pTXgfU_AusgcAJxsCxNvQNF8gtVMy8UzBx-Z5H5h0K6onS2EawXcs3Pw02i7gbSj1AtmE9Z5UCkNpmUQDMcebCm1mkF_mTMuoguBzgrsTjKvEpZCucwlEaGMp3gk_cPi3JcJcizudP_4eFoJjgb5L0388VmhMvzljIpLOvCAMGRWE9ANz75qrHb2ZbgjKqyab2prXWOKXzA6_GO6YwJakQdea0n2-HKOWhz8WvnW9jGcEpfvOkMgD9LBVXDfqLC-zCAMvS4Cb9wYIFt8-K0S-gXwxWHPmzGmN3keZi0&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f2c1QpV5ikcT5adF40ryG5yrMIy9pvmddXdql0wrZ_qza1CtZyoLnBt2N512nFhBxH84Q-Tv22JG5hdC8ZwdwruFTmz-VDq7c3ZbX0g0lgGmVsvHY7s4Oj4wHQLX-fwpWcRI8JsJZ2oa_-AtU072UAJwxP6DAwrCaOsnFE9VmEav84GYbO0k5_SRXg4KBnXTdAY_nnui-4-9xbSX4CcKlB1cRGTuIJuvU-jE5_Bowm3_PE4LgnVQHsDdq7lngVMIONHYPSIJ1ywNmbXbG5sFpgAtV-su_jBAeO-RYidwf55YhV-Tn2FKQLnkRraU2qvkTalmjpxNfhuzhtQ7waR8Dk4RAV2wYkfarkoXt8LOZ2uMEDUoHstEW3obVBhhMZFyMdXxjfA_Lps7WHbhUB7XR1mmqVRqTPt4U-6SCsnSFc8cSATRzWZZ7gjDD14U4T&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2daUVcPx3y069hp4LRFXsjeaxfPeK7hH_KCdjf3Vo3UX4wPu9OCbkbqJbuk-UTpw9aqp1sW-0nSEXhEhCRIaDu1ry0V_jPd1ZX7WiXUOgEhzOuqgCOHmKbWxpHcZCpkRU3sEVlzcW5a7UnOtnYo2Fo_2GPw9X9-XYBoux-QqDBHgu7ecrt5e6XmSxtA9K4yVPpH6bKU1EP1cqOTbUx-FMncFxEzkGDswQ3WocDERwED8GZT0BrSEHCNZ8PkAoNydb-p3GlGCT67H9qBi77-wLPZPPbeOrDYbU2RhJzQ_Ex8_lK_DjmiueBOswWgJme8GpB2946nBN9UCmIii9ya1D7b8wLIIj1MwT8fFAu8Jt8Q9HKMHiayVxJ2ABP6X91bAHjGtu-zzlutiNwxulcJWm3JC-lt2LFN1VbwgM0kqLddcxMX8x0RBLQ_tHZsGw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "John Cobb",
+        "rating": 5,
+        "text": "Good place to walk with your family. Ample space for your kids to run around. My toddler had a blast. I would recommend close toed shoes or shoes with good treads because it can get slippery and you may fall if you aren't careful or if you have mobility issues. It is mostly stroller or wheelchair accessible.",
+        "time": "a year ago"
+      },
+      {
+        "author": "Carla Ruiz Berger",
+        "rating": 5,
+        "text": "Nice place to come for a walk!",
+        "time": "5 months ago"
+      },
+      {
+        "author": "Rayza Cueto",
+        "rating": 4,
+        "text": "A very beautiful place to visit. You can walk around the lagoon with the ducklings. The walk seemed a bit short, but the view was very pleasant.",
+        "time": "3 months ago"
+      },
+      {
+        "author": "Brhyan Capcha",
+        "rating": 5,
+        "text": "Friendship Park is a great place to have fun alone or with others. It has many attractions, making it highly recommended for everyone.",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Dixter Salas Amaringo",
+        "rating": 5,
+        "text": "Nice place to be with family",
+        "time": "a year ago"
+      }
+    ]
+  },
+  {
+    "name": "Laguna del Parque El Prado",
+    "address": "Jirón Daniel Alomía Robles 250, Santiago de Surco 15023, Peru",
+    "rating": 4,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1068174,
+      "lng": -76.9570167
+    },
+    "url": "https://maps.google.com/?cid=6340132966301766225",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cbrGgr6vlXysNHczhjqzZyawpgl6d6g8FvGXAU2w8tYPSxDda77FbSwV8d5GO_aZFxfWrjTQhw5hwi98KI4I4KlTinhBH3MBmvp-Lhv9zMvAzmSaAB0AU2OPO6kU3ZAvvFIR5rwRRz-5_IjMf1Uo0jOFOiBQsyk-kc_E5qUrMTzBLmNY9LA9YgECi8EeBOxzTcWf7f8rUCEpRqmEUSxartPwO0c4MSKdJ7V0LGO9FTv-w_CdoOz4v1bbrzqi7IrM1u0rGNnXS6zjim-NaUlk6rka4trMqfbOrVJ0A2sLrUTGMWQ0RGRWdY0Zh5iT0TJDME63_WfczuGG7bO1NFSAgzzU8eRyGopIrvr0fm6JdBNEgqboaiGqy-FnaJHkYXBChkPnycnAV4tc0XmhbZR6mY5b6eiQ1N5_M55XfO54-Z2w&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2djgs3RRSkjGVoN6ntKvBzbSqz3T1x7HaK30VHtISpOb5_UbNz8GILC_MV00Oumnh65c5NTQNDv4V9aT8uq4h5NQ5_Z9M6t6GSyGc8Bq0z-9GsqHvZtW9aKtD_NhuHB3_dLTZ2GRMDX3QbKrKSKw_V0H1fJ_1ac7yBNsqa2uwkcXKMNo0AC3toLsZrexAcRaEK9ghTXpxW2h8jEgcwUompW7Vyvo0Znhrv8axP1sKYuh--k3Uh7GMqVOiUDhFybRywDOrDyDrJJokXJnTXvFMnmQfF8KWI5HOLohfJfGIXvgZ4nnfGh_q-ipNjKIMNFefvm9TyVyQGbbV9siGQnbwV6TmJaexHEeofY_UyS7rIPZU-l-dYOMC_GXKycr9lIMi8YIY_Bm3c518m62-INttpoUdd2QhvaYFzSW_NC4CY&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dw95brekCeB6gDWzZ1_fhfyBbYatwLgWgLgBpRIOqCt51aa2vt4Fco2r_gQJgcQU3smeutmdAaXkn-d2Y1zqgS4n99hZHqidu5N8Vy6FdVxrknNKUmt9JMjQgfJyp7I7VbRYSXuk3zT1EX4lBerjjZX3ugvHGHD_eaC2owffVf9ZSvXczJexUhQ7LdbX4IqSPcICjBr8BS3zD3CTtgkR0LXSSjk4QY-3J1Mb4qnfcQ6PM1HhMSZghn8pmafU9g0TBD0Ihqw41jIEz41HriHKuIT0SCt0z43mBzojN_lSkvLD5sjOec0yNkHxllmwuCO1dYMKu7ApiStdxP1GmuIe6BRxg8GxEfQdnO3vNlqmKi54-ZIk_eVnuihyR-FWM11lW0IpFS7F5xj2djkmEQc1Vvafw4EqyjkuOwLIHtt7EsGQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fkSuZ991-XFb8EFpKZ4t5w9xxPEZgEGm_F1TtOuLB1rkfKxm_MnSaAANiZcAq9oCxc2EeRGPvQ42xXcuz3iL2OFW-uznjy0CMawRUSqpCLQA-LcNO2qk2DMkfGmAfSzX2tzHFm3tZm4hBejrxWDBoc391v-IreKgGbVZ_XdcHyl94ta0r9lCbmo08wKtLDaZKHrFyI_l5opRVWK63iv56M15wiYiyj5aaNeMLaz81QCOVTflXEgvk0slh0fhlKaPBUweF_PZp9PoEqEKBO3AJMXDg4H6dZXDWHls2101mTVR5Q9DZm1p0VhUILcVHlc2hpPF8P7GqekIdBXCceKtcb5RqSxRW2rlrpUZUkS-EDOCjJm-YcchFwz0hbnJRZYCBj4Zcq937sxOossS2nymvazVrAqTq_wkPQrUTClQP6pZI&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eCPOwg8DNCq2t5ZGzbrtwNkc3c76L7_lHctNe1i01vWTPp-572Bby768EwLyy127rbRU2t5K3zycFI4VIQRDbXPrcQuamkqJh7_IDD1ODkzn9_SIvEwc5rDmmDm8MXgKPhMvFDZvZvZzywjtRrtaWVa4SsrmCYroelEgsIyWvIkAF9GNKQml15RueqXsrO_Pig--EFHULuLlWGQmM7l_srJBNDfU-we8_bauZzsISyQ6EGBRI3KlChpr145itN-GHRuKMjpUb8elgWzDCg3DslsraHSD4yqr5wnJdFb-kK0oT0tlagkLl--WVpmyVLdQfq0WfdUI9m4xO8KcPjkny16O3DWnWvLWvOwtLMR7G_xdlCT8KIbBj8g9GtwzKX2hT9oDeFMqEbMSIN7xgrtXQQ7kvDwEXa0l02917KfWQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cChhIL3kMVWlDPZQb3r3jYkXR1NtRxZ0b8-sEyocSZvhKQydjDSUAuD0ZspN4FXs22568M27c6n8Qi6EO27sCXb52YCnnYhpCcUa9VdY6DrJ0s3B6n5MgL6rfGbxokr7Wa5-PQQ38ouj-egjOz4y2zikgJVZEDofzqrYXn9-O3BNNdBL7je9JYUdcFjj7s2ovi9JZfUrr-YZ2KlItfNGtgO7lBvcVEHTSQ1TISawGwDoDB0asLbeda8ky_IVsFLL3Qkg91_9Us3dWJgKETNCWh84jVCa_DirVwhQdv8klklFX7Y5Drp3pEwc7YxQP1eZeze-kGYnxzJ8Eefmqfd-VEepI_5_lGvlxZ83gzGic07k5FHr7uMzGPtJUtuVp1-c-PfuL8vhtsLgxLnD8_X8iMYJ-4biIDxVPEfXrOJnI&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Giancarlo",
+        "rating": 4,
+        "text": "",
+        "time": "2 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Charo Laguna Pilates",
+    "address": "Jirón Batallón Tarma 633 Departamento 201 A la altura del cruce la, Batallón Tarma, Al. Monte Umbroso con, Santiago de Surco 15039, Peru",
+    "rating": 5,
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1164152,
+      "lng": -76.98115229999999
+    },
+    "url": "https://maps.google.com/?cid=14807743451862623713",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fzZwe9yNAHvUFf9xtu_rPVAcnto_6mf4vJCW1Nks7x1EkGjgBnFTeSFuzaagVca6OLyroxSD5DXSQEvstWU5ynyWuZSFLEGWr1nCz8ysCpyR57w98TPzS2B8KFEvnngRyP8Rj6tbj7UdwISOBHIogOLhzyxlJNOswjSw9vOwNTo1jrlJ9jiXDvH7JjY-4f1GpXJLkUyGWWcI38MI6Ef2cALIKJFZsHTw1njLzgDA0dwReTYcxG6RoSSIgBOvStsqHizhlT6-YPt_10SBqZ6JD_-TjOMbZ6U5fh4LCmgP3pRG_SpkNpz1LlcSvuaF-5fl2cTFdGZ874eLrMVmxLUdzeaJ6C6CBXoP4Ndh3H1HaQKZnII2xhhxLDMtrf8O2fgA8LIqmzmj-uh7SfkFi2lTvamitHrioQZ3VpUuvKj-QHZfYp&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e54SyLjIBIfcZGV2A-lj2hLP3s6aNr_9g9BbGuxEtrDE82-TPVazh_MKn4Cvln9Ua_dzkf0BP5iUUCTSW3YM1V4pbuX4nB36L2upYnzO42vvFwtAPNSFsO2v92MK6hbvw6Rf5Y2WQHm4VVOorR6-_MP7XmSkkFpNHuS3oaNOQcMYTm2moMddf_AfeWZXQ2Xns42wRnM6OXPjLg_iWkDKjKPUxDE0xRj-UgCgpSoTVsSrb8QG1cnVD5wF5WsBM9jUBfNcY9SJYH-fOTnEYW0HUztKlRsp8DSOSBNbZsB9WVr9NLAG53RCX29ITcbMAzfqCXUpgbq_mDxuCxfBn_6BKPD1NaPnbtYOQ53lMyQcafw_AK2bctCaqjSaWv6XW-ikjvfKeBT9gZqWyaSx8AmXpURswzeEmYon_l91yPdfAmcic&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fz9VL1CEw_xEh_CJoLdTxO8KUiM-RL7WuOQcSnEEm5G9tmw3ikrYH6EnsY5OM8iAeD08FD6T5DMTxKvAh_g48x7OEUERbmnG0-momgDdJ6QCZ9COEeO9Q7s1RckJR86pPUeVenuKfLbBH-sd43bB8wqtT3dSAMgL9TYPo-yw5IPI7sA-P49ddEBMP2Ly7srOBqWohZwV4oEOcNX_MrqRgW9erQL0DQnQjJ-Gt8FjrklQugBAKmn5j0OHx2hAwCbIaz4OxRqmnTgVS7ol6elxFI1EHntPNAvZrZWE6vWAOxoxzBvohBXoVZ2hJx4TbJL5VwZpw_vDos5pf8AZ4yOh_XTR5TP3r2bgPXGSeE_frkEjED5FjUQIPc9uSMnllkbjt7d9mL2bI9cv2PKmqKfAsSxV_ggyEpiFp4IJvA70QLJoOzV5ZxjSBWmwz7WO6Q&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fTWryjLtS1plZYbJBlH0aRcwUvfrXZKAUHiwQPSK8_Zhg16PTmfiXZB9zh3Ua-h-HmZh_ncx50c_ZAgSSNt9dURlUSitaHjrvp5Ise-tpcE3HB-xu58Z9V820q3UpNsyxNhR-sQI65SG6PSjxmufmJXnHVgrkl8ARJ6_DwXVlK-IWAFM2APvaUUV5MbUciiozSZZcSHRauwvGcVY7UnEikP831b6Nko9PjoB2dGtYDFW6q-o0G6p6h4k92W2m27EIjwA1mO4CvmgGLbunucPPlod11mxGzUfwWx_ZEnNNAoOPSFQQNnQcB3TSdNbhyp-17DpXPHO1n8ogLs7XvjRmUYQUqGxW6EAwaM2awfvXS4tU4WXhD9aYSwWITgKM5K9_u7_oR1kGutT_jA4xDOYnLCwgNa9d3iHG__i-BKMVtbzQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Angela Cajo Reyes",
+        "rating": 5,
+        "text": "Charito is the best! She's super patient and passionate about each of her classes! She guides you clearly through each routine, and you can understand every instruction even if you've never done Pilates before! 100% recommended 🍀🥰",
+        "time": "a year ago"
+      },
+      {
+        "author": "Santiago Sosa",
+        "rating": 5,
+        "text": "Very good 100% recommended.",
+        "time": "a year ago"
+      },
+      {
+        "author": "Javier Laguna",
+        "rating": 5,
+        "text": "Excellent training, I forgot about the muscle pain that limited me a lot!!",
+        "time": "a year ago"
+      },
+      {
+        "author": "Anace Laguna",
+        "rating": 5,
+        "text": "Excellent instructor! Very well prepared and professional!",
+        "time": "a year ago"
+      },
+      {
+        "author": "Fabiola García Zevallos",
+        "rating": 5,
+        "text": "100% recommended. His classes are excellent!",
+        "time": "a year ago"
+      }
+    ]
+  }
+]

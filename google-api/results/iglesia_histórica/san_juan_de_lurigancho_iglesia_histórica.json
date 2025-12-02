@@ -1,0 +1,20 @@
+[
+  {
+    "name": "IGLESIA PACTO REY DE JUSTICIA MONTE ALTO",
+    "address": "3X4R+HJF, Av. Jorge Chaves, San Juan de Lurigancho 15416, Peru",
+    "rating": null,
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -11.9435678,
+      "lng": -77.00845869999999
+    },
+    "url": "https://maps.google.com/?cid=6673202103776909744",
+    "photos": [],
+    "reviews": []
+  }
+]

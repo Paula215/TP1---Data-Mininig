@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Acuario Laguna Azul",
+    "address": "Av. El Muro 567, San Juan de Lurigancho 15453, Peru",
+    "rating": 5,
+    "types": [
+      "aquarium",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -11.943575,
+      "lng": -76.99118
+    },
+    "url": "https://maps.google.com/?cid=2757878767777724362",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eZqZvpoe4xKiOqeEdL8dZIMgZBORUkb8Grfxpg_5FJmtM1ruLJ_j_MCFYpLdUj3XoWhzW6IhrSIvbytb7HvW7wyG8eLG7zwWFWFhwSqlGLSdAJngaSTuB2-RJ4-5XLR1rZPEQWltsltEZC95W2sWKpJEnusReG71CI4DnTbQavyaXRNojgY7pc9-Qon1599PiYKBsP3iiDw54IsQw_OxZvU_nFaovy_6G4U80y9z1orCYxETHED9VPRpEyKuc0oCGAcJssuda9eJjWZCEkPyp9-v4B9S2dvXEpakMotS1tKjntUeQQvMGT1HQMbPUQRgqQaLKgyMJUdaWgwNJTmTIolH386oaaE2ZrqSCElS-FLUCPXq4QIjluE6KHAwDlFUNgNX7XhiJOjVKPGwLaXdITPC71bOExLwWtczJap_o&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dyowxreQXzcBLdk0FvujMpEuFt7uRYWbaknY6Nw26B20m1f0PBoBWPPl0ylhaE_0VedGGj-RKYagPtowx8gf8vDCv95pDggoeDDXNW_XH6SHpKoTXtHe3NtlsexR-niiNfUIHKhh28D2Lzavr0SculUbhS7DVOuDXhCJYLObsyvSOm_EIKAUJOJyuV5LdoMfOquo4tC3CJeZsd4R19xRt9-v51_nULc03WWJIiy6CPQuir5Lr4DLEvv_eXGNBLVAtskeG8ezLSkAAZ6AAjAL2MjOP2iivR0aJO3UkrvOkXBSCYCwDXWeHg_u4u86ua6tsZ9355gvpoFEp-aiIVAlXi8H2YUScqtTSvrNwh1WcqM5J-5VAhHd--uXKCMZg8BMBilyblutu02i8trtbYogh_EqhOOkwZiInCWOkwiQL1uQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f9E1Agtd9FMRzUujWyWnKWh2rgtF3ffi89Qoy2QJTCE2Dg6-suJvsVJz6Nf41-d5Kp_TwwwUjnGdLeQUYtowYh7WnTF6yRP9-nz-dhNW_GhtVV38xwvl21OvYBIlSk0uM-6LeSkEtam7qRLfNc65QwgjdLcL5-eAoFHaqu6TBChedbEIpeCDIjtocP1uQ-nKUTOpZu1i8lYOIVKtXocM_9PvdjE1ceNWljF1emAMK0mcT9aYXuzfxz2FFWLXtcsaOBt2n63MqmRgKSPNPqZoc3H6HDmB5IS1_R85Ircc6WIDhnOoUUqqgHMrCh8NG2ofjEAMekCFUt0i1pT-C5K1-m9KXVYVV4ZS9b6Atm1UqZPt97v9pZjodCdWGfCRSMWqCGD3kqc9UQ8IBJRDld23M1P253hQHeqRw_v8O9J2opCH1A&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e9gNwUPllcGnjGpD69t_RqhnTjqnEO4JWuAti2ZVdkLIvkV2tU9-B3TlpJqh03worNwGMqIeObmtfck8Pwwn9Axs8pM9w8RgTnxAcBIfZdRJpl1_x_HDFy8U_ALNtaoi_rZSC7e6IVYdJoh3qzIQ6i6OFPdhlx5N7olRzroCWRnbbzhfOaFCoU9G6Dz44dqmRjMv23ZtQ99S4Cfcy9VNEcx8XCO_E3yv3Q5wKQQsOTi83y9Db3Fo50LUuPeTA5NyFpeKeba3m7lmCmmGx0rTCpM-q6pqe8qurVFrl4kfbEZriW4vF7PpkxoQgJJTh8mLEXyYliZPffwtcR2rQvNYAQvnl-zfEinKj4MZ2ehlvC_DlOgisZVzQPgyLTXJGR2WRLcFvFNv8YZGwXtEPuwRAUr71TqfQoU3EPTVdoFiRZkmLA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Frank Acha Reyes",
+        "rating": 5,
+        "text": "Excellent service, well-cared for pets, perfect condition",
+        "time": "3 years ago"
+      },
+      {
+        "author": "Dennis Alfaro",
+        "rating": 5,
+        "text": "Exelente atención",
+        "time": "a year ago"
+      },
+      {
+        "author": "rex mendez",
+        "rating": 5,
+        "text": "Very good attention, beautiful fish and turtles",
+        "time": "2 years ago"
+      },
+      {
+        "author": "juan LOPA",
+        "rating": 5,
+        "text": "Good service",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Luz Peña",
+        "rating": 5,
+        "text": "Nice place",
+        "time": "2 years ago"
+      }
+    ]
+  }
+]

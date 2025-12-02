@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Catequesis de Adolescentes",
+    "address": "St.2 Gr.13, Villa EL Salvador 15834, Peru",
+    "rating": 5,
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.2182846,
+      "lng": -76.938379
+    },
+    "url": "https://maps.google.com/?cid=18371614628590489033",
+    "photos": [],
+    "reviews": [
+      {
+        "author": "Dempsey",
+        "rating": 5,
+        "text": "Here I live, it's a good area",
+        "time": "4 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Iglesia Catedral De Fe",
+    "address": "Av. Jose Carlos Mariategui 20, Villa EL Salvador 15834, Peru",
+    "rating": 5,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.2248945,
+      "lng": -76.9411254
+    },
+    "url": "https://maps.google.com/?cid=5753322474525121438",
+    "photos": [],
+    "reviews": [
+      {
+        "author": "Olimpio Medinayupanqui",
+        "rating": 5,
+        "text": "",
+        "time": "6 years ago"
+      }
+    ]
+  }
+]

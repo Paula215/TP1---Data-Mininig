@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Laguna esperanza",
+    "address": "R3G8+49P, Villa María del Triunfo 15817, Peru",
+    "rating": null,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1746747,
+      "lng": -76.93405729999999
+    },
+    "url": "https://maps.google.com/?cid=6020806728838142397",
+    "photos": [],
+    "reviews": []
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "name": "Palacio de la Cultura- Puente Piedra",
+    "address": "Av. San Lorenzo 426b, Puente Piedra 15121, Peru",
+    "rating": 4,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -11.8633709,
+      "lng": -77.0736266
+    },
+    "url": "https://maps.google.com/?cid=4251092019220252627",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dQmlV1Znieu-2MCu2Tadx85HdUvuKI_0OvmkWSwvu5EBnfUtyrUS44W1hvQ-FdEF1wUTFVwiKzd2fCOs99OGvwc4gI3F87HQl59GG8KkiHzAVt7uBJnCttoUG6xdkl_WkBK5JNzOLfGTENQmxw0PF8HXqIZ6YzVCvaohOWPUSEkgqNpglFFGJnVo5TUqASH0ZCfdyL4J2dLkpyywMMmmNSaB6gDCZ_Mc5tmTv3qhaHl7RWHk0zG-gYG0qMSbxzdSBbPg4lYix2U-MFgfviWiKl4tklsCPwbPTb0Pd0QJble9Vt02ei3jUJp3CnpyDs7hHuv2AvYIzXBtPv4nAYMsTReonB-1n0fux6CMubqMBUaGGtVYgchwRaRwXirn0r8s-jTpvpKAj9LdSoetIZV0sW-oPSiEmd3L902ddffKZfR5jX&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ccRJxk4o8biGgIDEmnp9Xl2EddbGUvVt0X8NkOrSY8YrWsElo_lT3Lku4dbB082KzkKqJ0QwwsH2m2DTYsEYImQOu8Hi0RAtrvTJVPkkzUKNJNYaKgbPHpLNtzCNWyFNnGHE7l0gHl0R8YwDGj9-r2xNeucHwUAp9t7Je4O--s_T2Bi4ye-8IZUx7bEBh5K9clYQAj6oDvyVr2JdJ8QqUlH6-1odqfE3r2rvU2KR59tXIf2X2oR7bcaD4yJfoPXLUQUeuX-8cSq7M2ku3H0pHhDwc3th_4P9SKZa4uAUezobu6dhaIY7uAriZ4o66r-mcrW4oJJQecY5rs-tExQJcvtqIgTlL242xbW-d9ba-XyhhlD3Gq7HVck_nZCEhFTcd0uS9vEanZw-hvXUB_VjQgF8vGu0ZpRn_ADumMvTMZNbsG&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e8SStkepbOmdPKwl9Fyeij2zhmu-9mtJqWxfdKyFpHV5i9T2lNuOWEaRS_07q7jKoRpWxfSjePwYYSs4qw67LwGSLZC_k8izwRkjRAVip34VLXjVqh6v2xA7TBnxJ2JCW4CGAZxbOcl_EknrGJCXs8Yacdgfk-C-2YOpWoZMUglub1gARULN90-c1MdGRJ1OtVE2uC2SfIe7HfoBehiFIAzhUszVUemPKbFL90ZdBjomuCtuiC6DCYQ4qaIqCumBqtcYhnn-EFdrRXsI845YNUJRSMyfY_n1fPmFYGPMPEJr-Z5UkkQMB9c7UVHoQoQ3Qkt-b7ap4MY_JyAXyKrnKD6btiizXUwWejfJ_eQ81cfreVbnXqpmhIJmEzjWkhaPOP1bcRXT1gC95R4rimPMEqPmkW05P1Rub08KYFa5LZ7w&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ddkDZSixZ_xotjriB_0NASMkmYdHqNnRAVI955GvgN-CRLTVG2xWyh9VzFZ8e-D1I8ADrZrE3Ef2lb5NLcEr9RhZNCEie-B39ecODn9lE3Vwf3ZND34LnZwZR1T-QXFbYZwktS8OzA1KR-rTr_T-FbMBdKkXHUQBACDu390VJWadILAbYs8_HAnzxeI8Af4z_zWuJV4y6BllJusCSl_TT_gUwoWOFZOnAn4YgfH01L-JK3PYOzTr94PeMuiIVcQ_UZq_fWnFWYYIhsNeB-NdIBWQW3L1rQfNkfwygrpx6v00I4Ni5hFKW5MqqrH8rID9nnZDqKTJoLOB5EtaSlZJ0yjwdmuYpHkKN7uGoiXCtvTw_lfvHAmOxCWQk0fkEg4Cup8-M4EtO8Yn-RXM10rURwo0P5m7pegi5NwAJj8SJkAFnw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cxX98hSvcrURj0TXomZhCkBDn2kd8J7vTXRMemtUljvpVvIKahiERQA_PWj-K2WpffQOKE_OVGXOINqlfAT91zz8qZoO6wkLZtu_MSsRlVFWpie43wJpe-C91TZ1wpl8_h1E1Obfp9T3RbPTu-A3eIJSSs-_2V6lc38osiqD3scJr2MqTLJwxYS_12siBb3QJ54U7CiKvjuxOoSqXsr2TVWrUJ8pf849zZAOCuJp3zK_2Nbs2b81hXusuH28SG_Gei6R93p8saiWzk8OWj6Hiz179tekZJwlUY4wzJpgjtmeHqRt5qRHd0ZYlU2szJI-Dif8EuEUCRLwIXPFlM3mL9mY7z7cwUrAjU7eRAVXDmIgJxu41inwSL_DTRnD5IFnSW6cUI5ydQrOzdlSdrOtKU0skW5nzAA357UjXDmzcfTxY&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ciUhzyAQwzBP4Yah_CzUokTVUtiAZsuA-GupjDeS_tJ-3C_9fM_3RKWn9ypKAlLKjd5yejkaUewiJYbA0CEGderCDM8YzJELmGppFwSMgX0Pdyd0lW5W1N6z0WG6cPHcQjvIj9KjnTJJ9w9WwFPmrBjb7vvgG0B5olQR6v_60HOYKPDkTKhdxweMcI7z_wGIx6StIOOAXDACNW5zaBnaAJo2jc8rjFu6RQegOMhQiCBtHO-yvGxXM-R_bVNbuJc7cQ9lGD9sIXedQBxjmhShPX8flyhvonuiriUdkPJohgF_5zvlj7yXfV60dJ3hTR7UJ5AgynXgBphfPfCp23EzYkpQy-v-LppQMU2DzBj2uAWTXPRpdqSs2CSb15yyXHTZbADGHp_ax1Jz3uPArdM2NkPFsn_Dqbomk6G0JNKoVTTw2L&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d2F-XcZZ-asANVZFVCpt1zbrT1Ixta9ci-uWpkmhZhxvthlvrdI4c3-iFGrNxUCaZDaj0lnWnH33XCpEJ-OVaoaiiC_pWLSksOLhXfwgeuSZpixekoMG77lYj7xmYbYon3R9NoeyrDwzvvsS5dJytJzL6MOK2wQ0XN4Fvyh-iigDzqr6hLm7kSoP9tlgCKSF60ECii1vRHfgQ-p86sOEue7h1rU_9uZAcv5qFhdrtA1d59PzBT6ERN1Y1mYxsSklKMIpIauEsNvYJSdGEHu00sIL1_AVaLFfIEk0GllgZAWb6LxUoNFacVW7hV1uGr0hHqbXoaEj6ppRPM7_jdxOby6bunx70z8xYSKZMcu5aU1_8mnZdxjd4Gi4Leb-STSSwX9vfqiV3V45VRWL89twhkkujnTcNnWIfUov4w8m4&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cQNaABj2TuYchfJSNR-FiQSPfqMBxbjGrWXNdmnQnt3yko81SbHx99yAPHxYqZjCrJ8ZRSGQwO6rLJJcjWmYceu9QcxGOt0Jr0U92gxG5BmUP1csWnUPW8nKaFstuWl3lfWcWNIB8LFMzI4RUrbf-7siF3KX1GUzROKa1l-ydWcBHxP4QV-g88yqyhAC7N49zVbxg8NgaodTmCl9HW6mcEMMB_OmGCndXqMdfuBl77bcJupilGKBSYHhbafDn37lvfDEjzjOdAniarFwSafMki180U20QrRSHeg4p7VOlvezHAmkPtq0QHG0DjS1XgJtg5qlJBuZQrYPn2C60Smtb83_SGJgyGYkZyx4_PVATLPiRIEhX60qkH-ka7PSEqf19l9sj26DRBBi9TczVd2Bpf0q54DMitiYpxjdf6FyITIA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2clyW3FO4npBtM7kUsjKiY55aGM8VowqFSksxzmOAY8I1ms1bDQIAY3rOaESE0kjxSdGy2BLb4Db3WWC_7Fw10z7wUY5YB4ePtUJKPbxz8Fy73OtSUJzv3uKAv9dtIRaEa2GDayIA_IqXdS1uh-UNKYsZ-aOkVltqoijFo23r9kiQanwxU41fHZwdKsq-t9Rpc6chT7tCPYegek5IRQRMOH0cUke04F_VP-rKmnbpksfKfpcD6scLFtK4mrhkKPkpQWWXHB54XOK6kRt7oBCqTKD8gPbFNIHJ9TmjGWALoFY8wIHi2mRyc1MP-7czlNL2sC71rcg49p25FHRua50IQRgAjZGOJawd7554BXFEXryj9CwbOi60AASIhZB-baMgFsSD4za6_RDppQ3VlypJ4a4-WKLzPE6BRjNAQMlxo&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fhdis4SDLMREquU8Wz7odaCcdWpvUe3V6JNxE2_bTme3coJvwW-B6m51Xc-VKmIdgNSZu0Ni0MMXAbcue4D8HHOyyAjjd9zDHfWwxxckf-JrEsJUfcPE7cPO-WeQqyXHpzUREHUc3tF60N5M_W4rPbldXKsoCn9Pc0T0u-EYj5Rh9FBcVwaOQAHH5U0ITzqtHPxddH2Jyioi3iPp46hposvtcnPM0D_Mt81nJ1cxjGOKBiwj2K3RZqaObdCxanWWpS-Q0N-6bCIII2ROct0pPEZR9VoQtsFe-3afl5HvD4ZI-Wejt7lBitcHxIt1UOdfEekZyzojDfTysSD0b_rSz3nk90wCUau2Oic5wsY9i1KT8AyWFxTSlxq4ccKIXw-j5G7SIqxFk0dBji0SQg2juKGy1exTbyoVJfP0NX4-ijzVy5&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Juan carlos Duenas mendoza",
+        "rating": 5,
+        "text": "cool",
+        "time": "a year ago"
+      },
+      {
+        "author": "Sonia Cristel Huamani Ceron",
+        "rating": 5,
+        "text": "It's a beautiful place, with nice infrastructure, admission is free, and there are several summer workshops.\n\nRegarding the museum, it's located on the first floor. Admission is free. First, they show a 5-minute video, then the tour guide begins her explanation, which can last approximately 45 minutes. In my case, I didn't have to make any advance arrangements; I just went, and the guide was available.\n\n1. GUIDED TOURS OF THE MUSEUM\nMONDAY TO SATURDAY\n9:00 AM - 1:00 PM / 2:00 PM - 5:00 PM\nARRANGE YOUR TOUR AT 979643976\n\n2. CESAR VALLEJO MUNICIPAL LIBRARY\nMONDAY TO FRIDAY 8:00 AM - 6:00 PM\nSATURDAY 8:00 AM - 6:00 PM",
+        "time": "a year ago"
+      },
+      {
+        "author": "Juan Carlos",
+        "rating": 5,
+        "text": "Good place offers free training, karate, ash, soccer and more.",
+        "time": "3 years ago"
+      },
+      {
+        "author": "Jose Becerra Lopez",
+        "rating": 3,
+        "text": "Free courses for young students, free admission.",
+        "time": "9 months ago"
+      },
+      {
+        "author": "Diego Zapata",
+        "rating": 4,
+        "text": "They have the protocols, everything is ok, a little more charisma than those who do the museum tour, just that.",
+        "time": "3 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Centro Cultural Holístico Luy Gue",
+    "address": "Tarapacá manzana m lote 6, Puente Piedra 15118, Peru",
+    "rating": 5,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -11.8601088,
+      "lng": -77.0909855
+    },
+    "url": "https://maps.google.com/?cid=15972698076064570486",
+    "photos": [],
+    "reviews": [
+      {
+        "author": "Miryam R.L.G LG",
+        "rating": 5,
+        "text": "",
+        "time": "2 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Culture House Puente Piedra",
+    "address": "Av. Buenos Aires 100, Puente Piedra 15118, Peru",
+    "rating": 3.5,
+    "types": [
+      "establishment",
+      "library",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -11.8680025,
+      "lng": -77.0754412
+    },
+    "url": "https://maps.google.com/?cid=1727739484386463987",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2em8Lzzj4tRMihQFMZ1htSyPtpqW5F8lFbyQP9o0piFwdYIKsJ5-O-R0gs0MM9ubFCmEHnvC6PhrZFL7IBPHOwwvX6AGXRHHbEN5rXa2e83yrwxA1qPbWjKFnuiillQA_xXdk-3-wr-KRGThUO_FjmwY1DGAqOSG4wiCnsDfzN1blTLWP1ZdcSalHALv0sS_drxwN7omoi5Tfh3Yw7trH0IZW9IYba25MkHbE7SFgpqT-1PhaYlxArNqEQa1jfh1bO3Vqhxw9ZrlUpZ5bfq9cbBZ2BPWboiQfz-DbQSkZrRP6JVe1weCztmwM4cN1fet_2ToQIfTDQTnrirEYBj-NvKsikAurmLL9ty0UK4W8_bFdk1bIn2VzAyUKZqM23Wu1ur4wpcv--7LP9mXGJZQqrPgnvz5A_5ReK55sglBWbu7uLb&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cWNL6yrALc7DOed_WC0ORIvAFOiKXXjqy86cueic_DyBTByZ4vk4OZCYePKptD3iEeK8VbxM67cX_FTgDsj0aSWaKWAAseFX_zGq0GJPa-9cvqMBdK2b9GzoHyB-30yxWZPpiJOvkQopKxPMWWpRai1zI2Gxu5fMjZty1X9GliyEGXLdwBMSOa46SgxJsXWFt8OvJNqLYkuWpAvNUl4MAivsh7W7-LFftu-x2dt-Tn6g--JYRCYJDWBu07eYKvr9LybtTzl5QysdJ0kLSuPJAZQUYEcB9xUk0b8qbH_HphkvpgD1EEeivDpTUmsSDClAukCkK92VFLxtDew6UG5of-7nnHbrYdVPCaEDRMJhCHUI-M6JtSh_dVNnpo8In2ey56KJqxDx4fy_yxvgjtkfiUxFSu3_-iDTX4BZ3rWue2oA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dwNoHUGfbl1pe9HpoBcW3Fj_puQAWj8ec34jFcUC7JuKL41B-cvgSsNG6F9ZwEpaRN7CBCssz7ahl42nZnTXtBqT8eNchoNnCyulGRlhy8keoVBYXwWsZXPA1_H1XEpzhMoLiH7TQdYa6DBkOkHyOyTlaPDcV9NO3OHX38fgXg1LTomSbtxJf2zUvzUW8T4aJ2ie8XL7es5O4t35-TnEH2ZZgVFGVeclRpo0N9FwRvpd209xx3WguYTHHNA5Jh6WLti5LhLikrYi83mGQCAgaeuJLbnrZbrEUPV6ODk4XMhWEbatzPugqUPkRyxsPTtb4ayOjp-EXqNwAvTECD2Zj7E4oEpm5edpQ1qPvCrSk2y70Il6cQD9joAJze6gph5SNZSAJocCF_UJj9OI6ubBzlUQaM2MZKbxP9ts2RkZitgA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cdvyxM82XI8Dwy_7fnWc6NWo-JVaUVu4RrqpNJBxJPKAUfWUZVN-55wYL2ooo4g4o80dZ-Nq6EhgQfrTdZvuTL8U6_muSqgaE6bVtCK0yLPpYo_kZNFz316bLcYAN-Cz4RXCSFv2Q1cKwQKsn08dhbmGd_ztRDW6oRLz1rdni64mFlK9FKjTyTiH-biCmOWjmCWoHV8IC2ADl9VKiZkke-odG0hXalffs0eVXIoCrGQle5zHHb6uV1NVN8OTNtGT9J4DduNJqzKkbnDoiPwcw0CdmXckrk2CZz01iVv_umdJkuFdpoybBR_AeiBiPJ04KSEKPRc-0TA5GCNuz6yvcUZIxlJvW61nlsc-27kut9RAcZzN0lakW3_5uY2EUXL7vtp13IGfg4fjm3m1vcmQo1XCT8Czgu9_CkWsaKSHU&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fO7NkU0iqnv1WJDpZ8OzwF3D6k2zHxquC92-uixXLETFItdcLPTsgtKSIWrVPoowN6nkB07rucdJqposrT_Is6DOJqo9Ul43GyyQu490odzLk-MbTxEothJKvOV-P6lclbah3u9HrzYcEKC4s5nn_oNeyDYAta8l4L8J1548cgyfx6BVthQyJkJSNb_6kcchijWaX4s46Kw9UN-5L4_cw66jFnxPiKhBFxcH5fkQLWQeJ5Hp__NIWQcdzD_kbGhhj5w88x28plbqdbsLWHKbGtxZTuJ2ED8VXTsPgBP5is3cTVLnyC6w1o2_mLRx6x7bCy4_0UGv0jYFkLLwFRzuTFPbHdr9OSRdiKA01XwVZmPKjRT4O6w_HNRIt0tM6BCaaeY64GlYcXQLl6r6fWNgsYbpFD1LfvavcK-ut9gqjW-DQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dkqk5QrVV7-V5qOUmTHytq4XrzVUtaj-WKrCOpdni4zt4GkGTZKm03qCqd9Cv7dfumQ3IWUMaq4q498REqAyqIQmbOZ5Ale2ezzvcH46wrIKl5h1BJcbXX8nMLuEz73gCQbYMga_YAt2AGTg10u67IHznDsriOs3cYtDl1OizdnbC3NIFw5GstwXvcwswX8mdqJSECwstgukHJp_-ZLimpwA47an7dHu5vAseCQrh_qpdgV-5AT55_DSv3cvCAr8KhenVF0hYhnK_tQw2h9oBjWXTwbp8hufD6S6oMg4QkiOfdC2H4Avp5JTuhsyQXePq4HSv3CSim9PhdfhkcjaGm9JQLIavGn5zIFWN1l1AM7VfQxky9e3OqW_yac0gpxEr_m3qkLCEkPdFoNoFkvTSrI_Ncz2EjWom-F762NQQ1WQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Ayrton Flores Castillo",
+        "rating": 4,
+        "text": "A very quiet place, especially for studying in absolute silence, peace and quiet. The library has all kinds of books, although it doesn't have a large catalog. If you want to study alone, it's recommended. No one will see you, and you'll be able to be comfortable. This is based on my experience in 2018. I honestly don't know what it's like now.",
+        "time": "3 years ago"
+      },
+      {
+        "author": "Jose Lar",
+        "rating": 4,
+        "text": "It requires greater investment and developing sustainable projects in Aras de la Cultura.",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Sayri",
+        "rating": 1,
+        "text": "There is no Library service at the moment -_-",
+        "time": "5 years ago"
+      },
+      {
+        "author": "Pamela",
+        "rating": 4,
+        "text": "There are many workshops for children and teenagers...",
+        "time": "5 years ago"
+      },
+      {
+        "author": "Carlos Tocasqui",
+        "rating": 5,
+        "text": "Good Art Workshops",
+        "time": "7 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Campo Deportivo De Fútbol Guillermo Montes Casir Corazón",
+    "address": "4WX6+X6P, El Porvenir, Puente Piedra 15121, Peru",
+    "rating": 5,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -11.8500317,
+      "lng": -77.0894193
+    },
+    "url": "https://maps.google.com/?cid=9477169610551252188",
+    "photos": [],
+    "reviews": [
+      {
+        "author": "Merlina Villadoma Miranda",
+        "rating": 5,
+        "text": "",
+        "time": "a year ago"
+      }
+    ]
+  }
+]

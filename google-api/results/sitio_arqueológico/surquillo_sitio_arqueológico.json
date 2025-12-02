@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Huaca La Merced",
+    "address": "Alfa Centauro 278, Surquillo 15038, Peru",
+    "rating": 4.1,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1167037,
+      "lng": -77.0060858
+    },
+    "url": "https://maps.google.com/?cid=1844628127102947562",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c4UNvM8yf0U11D9TOp3Vbouy2lFTXFUzoOXsg0Mo9IUoJXDZZEX_3LJNcI-c22OWKSBeS9e37TBI08bdXyRqZmpR4yAQnlH-o3C0DKbM8VkCaIsPMezue9oqiaEpC1FGNuyTQommtAQ6GUdKwFBojOdIel9xD2D1K3JSP96UPbfeHsIz01B1mjmESpl8G7Bdp_rIIYBqgeFS9XKAjXP1-SfbwcG9c54d2c4A_uLI4iPyY1fboaURTasnLSg-j72cwLMITqsjHnR1jtiYQxZqH7Ciji5GWA4w8MBaHVAH-KFkvN17IUgrHFfAMm_kn_Q0rJbp4K8KACgBFFMNh0lsrrWW98yogLgxLILF3ImsN-BEKaTyjdfM7DnN0idjZbAeZoWbFIlVNMZCPZeQunFV9Nxko7ZN0K5pojv0GX_FyeT84&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ePHoOeGBxHvW-CbNCJe954HLBJsu9LlosWCQazfe8-x_PHIgqnurPdbaQjRZR8ZkSC_GHUJTD7Wb76UrekytDhsZCIm92E81Hqm3YvEOsQrIBSLSFIs2snrXgg6LkwoTA4x6erDUmu6fYlHKc4_pdC-Jap8kgV-f5Fvxsm2s1ibu4wTL0ytUdC2lpjqcnhu0X3nF6wFnFCcLb3PHwV4vuXSBkS2Hx343zzRpLCwnd7BTcDhmeWcdM9LLfX1Xv0ah7ZxGGcoyiaHEGEFNnN1wkqPMVciGFaloTPZg9ovz3pN0GvxH7cJxnEAwXP1JeDW7MMIxMkVesiFaAF0LmyF4FM4f-vlJRafUxvkpvp1hlTRnTa8bBW8R3rroCd0v-SqluBG_DiyJNBNTJ___Rjvl6Nbpf1WYhVa7-xydLo9ZpqxA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eCR5S3JD5NHrUYP746XCBhiunh6_-EHMLBcXrMvBktVoCuAWN8-U1HWZ5xUZI6OFbWzHcGyvb4D0NeQlUzFhJy3EFqLJsS_EB0gQzTxDsmbm4ciA_1u4MkMm1mRd5y62x0WkpG0-t6ytH5FTVUczWlo7INNUUekFYSp8bnVoLM-nWOi5HK40uo5h1w5LT1pGVhoKUE6yjcNCDouMF_-fZfzLAvoUtBClEcN_lIKmdDOm0HJedEroUm-Ei9Ly1N5EKYhbdn_YOp4Wu-rWFj-vjI4X2F1X0qP6MXdrJTjFI11vXk8BHXuY9D_rBq7MLsWMorCczSmhae0AlMJ2XIb_fygaY2jixG82FL4IrjJrYHJcAFbnY-aG0c9XoYUYumgezBTzeCplb4fUNgny5ndZx05WC-pYIgfUrk7Uh_z3fPPoQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cEElMkRNekWdczYGCeS7PQOPdepzjPf6uQ27Q1pDZdOZanwpYO5Lw6etgyEiizUIiXq8AiLYGAGYqNnkdSYzSyZpanaE3D5pFXhtvVD_zBMI3IYFRXQkp-c85h-gXzfbp5r3a_2g2PILmUrFQdQUDVq7b_iyOm5dYZ91Fhb7dCXUkAg4XLPBv7VUbcEuZFSIHprEBbd-XRApqWw1hIj72G1UYzeWGS67u5niZYbfQ9i2_hBGmceHD7nnl-6FULcxqFrkUOGv7jr-yFyjgaB6u91Q-r3h8HLnr1PUvce5lcSgQPgJoHQYTaGpNp8vy0oilat26i36V-wz-wFlp9kz8-_IxOPfBaYI59X_jDFLis68BJm41gTtV_lQ9qS2L2t7RnpA4apLjDY7Qb5Z-ScEKfd5y1fGfrZqVror2tXBv-ph8&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fpGZ1Si46MJDMZictGeJPlJf7n_L4MWSG1WuTFfcCcQs0ksdOjO9MkZ8RITXTgQWM5MG96v1adCrCIYcLKv7kiwiSVjr15_UTyQ96m4_sNhcW1qdCAj2XU4IGzDJ6BYTrxVjpuGiuw6ZnZGGwwBr4LpRNWTUdT9u1O3WFGYwiNi-JBkjai_7cgsVKAlyf_5XhLsIptapaXjXuJJf7ZgQ75seeEq4thL6oyJq0u7ehqs9Ni4eUu7butopaDfzATY_cf8c6iAN_OXjfe3YDXr119CqfzC30K7PUjoOgUsTOoYwbMC1Bi15hpl5fVwfg-9TyI6uw0P9XyIb2Snu14LLl2TyN89PTFzcMgyWH63UYSFeGz5ppk81f2ELLg8Ractxi8a3JoI66T9DhvpTH3m727Ii1UhXkZTPS2NPmkKJwRG3Dy&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fCN7W8bprA67xF5KHR5Hbj1EmvAcZuzPXK4JskZ5DmpwWsuolA1cz434JLorYzmHavStYiD9t5NbNWN0Nciio0t6GeX8sCIAkVkgtTOJTE31aL845Dv-NcMvffK6vqcPD7RL4Q2uNNYYF83wYhoPOtMWph1Px5TPMxivSoDflNos-0ctoOlWkETTQNeRv8ujwd_Ssf5nFc4RI4PcG4N7M49hRBbfHmrkuwYoJANhgmXE2yucHvoEWavO1f8Lnee3reOwwwmQozOxPpQbEiUcCHva3uq032z49hlp9WBVwOJqnKE5SuJipRFNiEgNPR2z29wTvBjCWSej9cb9D3No6g_TP5qRlNH_FB1m3XsjrHoA-ngxoQw53bL646pmjDsDR4SGXvEIMO4X4ScD5IA8QTZ5qNMlZ-rTGu4J0fBTPgrjI&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cfO6G4uY7BRdGBGFe5RrUAtm_ZSd-oMFzcwm3wwK7eFm6LnmawpaFzQ1cQNGnNKV9wxWFrZCmSvI7PAIKOoFS2Z6i6bTvLKzloxjsHYqFkXsXn5wrBklcxBoyFSLiXjxFXQk-OJcxZUrn-e0pB1XMyPWp3lYakdh0pLHg1PTl-9g9eMmeEB-OMkBVHjdVDOLtqxnzxqhalRCTikdh7dVFkZ_XWGqodD06FZydvH6SBaH1gRNdMsHzZsI34-OkObsh3yaIbhl6NOh-rvCb7LfvMrXRB3axGCVdBi8vyE1NQ7ILQa6Fu1BhhDdGq6gnyCbb5mPUo90FNow2vASVyV_LGCAOtJY27Go-KLwZwOJcN5ZP3aKKU6APPI2OszFEaXB5ES7w3b6LAHuVlpceqvWrO4tlTGh5xKD5550DvDK1s4UQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2er4JstagfK3JtggzMbP7ooI1zBVicdNofmXeu5M0uV-YfWiNwSTLuhvalAXcyB-mLgkJuxuZ-VRQiyUcUMxTdYA7AHhnuuyxSzQ_yTHKwdVaG09mDUGg3VfKpk8nbxgpi9m-a_Jrxzv7uHoVymnYvnp_shd_cJWSdk1d0KRLSRgEDgEhI0_VG-ixcKzBfzSsBBghisrehEp0AWD0yq-AMe7QlX9do-h9QqGgiUZPOBPOF1cxcnBwlV13GjbwjNOWJfIHtSq68KbGbXCw_ezTQOuC14-ELHJLRQ380kXBlGQsa0nTjAC0lsLJXt720-KRQK2qaTzBotQACWtmlDn2xEalzgYLdBm5qPQS7gEoHu3ocuM3A1u5OUkcvKOnOnzRkeP67R-1PTWl4BP_D9Z7smNwE9TTLmsNWhgYGkZz5mZao&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f92Galh8uRKZEuz3eLQLsVYxmcG-8LTocMpCRNdx2-FlsE4uHOYmg-un4-tBOsgpoAA_E7bnV7b_8bF1KtQc7554vC6eplGXaybnlRjWqd5rBJaojo4QunRWvS621mGP_46zzMznX6TK2Oqu4JJxNVlAJJJaggwYs0VGrMDKyMuky2Leo1tLiE7xO9lHlwEuRsyumrzmrU4WuM4HSn5dYZ2tY-PS2V4Cmq4pWwiBxQH4TuOhikbTDLDhIiyfqiezLvPtiNx11PfjOx34TBg7QtNZC984lMto8hzvT7pwVM16q3RhNbsW6ZJd7BJnErxrwe25b9lOOqNe4Gm8W13ot7JRLJ9qGbhlgwwsRQzA_8QZeI1iHTHGcYk7lpcTh2vlBKchcgxFB9izcMkEJq4n9CYvxApPOxROojoo1CIH8koPEI&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eZVHbSGR-9qdFnY5a1qG9hlywWEGi8KyeVAxULKyBQpp39ycULY_h8u2mIB1PHQveqMQUiB-kLXBsrXXTSFL_lCxITlUc_9RcKMU7pZJqDPVb7H3c8d4EeFJnG5tv9VF40-7iqQYYMM7HGU2ujPUQbdNRbgXwyrzRmZT-8SnexNgwwo23Bk9kBaDnT6_xBAWzsRb9KxY_92OxpbeeeWYp36KNffl_DOkaaX1vITLKmxkUPQJokV2HG96vy9s9RHHtEcbqpi7-itPeadsUdlXM-F40eFZF2cHme_J1zJ9hEE0Qx6_UTxdLNVaQCA0aNCRifeyMrj4I7g0J32Zc0zeipqpJGn-9ezPCkSp9Iw4O78D_2jxc8jE9ntwKGkVJvYvQQwhNO3gviVmL-0Jl0_yrDjV2tFDQ7oB1NqJ5yk-k0Rw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Amaru Retreats Trips",
+        "rating": 5,
+        "text": "Creating is part of Evolution…\nWhen we create, Everything circulates …it’s like being mini gods…. All our potencial are deep within us..\nJust in mother Natura Pachamama which She never gets tired of giving all Her Beauty.",
+        "time": "3 years ago"
+      },
+      {
+        "author": "Victor Tapia",
+        "rating": 3,
+        "text": "In Peru, \"huaca\" (word of Quechua origin) is usually referred to a place that preserves the remains of some Inca or pre-Inca population, or the remains of sacred constructions. The Huaca La Merced is a small archaeological monument restored and recovered by a team led by archaeologists Cecilia Camargo and Pedro Caycho with architect Mirna Soto.\n\nThis huaca belonged to the Ichma culture and its structures were made with river stones and mud bricks forming a pyramid with ramps and staircases.\n\nPrior to its restoration, the place was looted by \"huaqueros\", unscrupulous people who violate these places for profit, although, in spite of this, it was possible to find remains of vessels, textiles, bones, instruments, mollusk shells, spondylus and also a funerary bundle in excellent condition.\n\nDespite announcements and promises to offer the huaca for the visit of those interested in history, culture, architecture and other branches of science, they have not even built the promised small Site Museum nor constructed the 11 cabinets for research and other purposes. They do not open the place at least once a month to offer a guided tour, and we are left to see it only behind a metal mesh ...",
+        "time": "6 years ago"
+      },
+      {
+        "author": "Etienne Metenier",
+        "rating": 2,
+        "text": "Clean but small, and closed despite its guardian. Some unreadable signboards.",
+        "time": "8 years ago"
+      },
+      {
+        "author": "Thomas B",
+        "rating": 4,
+        "text": "Nice little huaca but only open thursday-sunday, you can see a bit from outside but best to go on those days",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Anthonella y Caleb",
+        "rating": 5,
+        "text": "Ok",
+        "time": "7 years ago"
+      }
+    ]
+  }
+]

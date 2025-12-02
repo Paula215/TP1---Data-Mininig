@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Asociación Cultural Apongo - ACUA",
+    "address": "Predio de B 23, Lurín 15823, Peru",
+    "rating": 3.8,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.2741026,
+      "lng": -76.884914
+    },
+    "url": "https://maps.google.com/?cid=12832038280146413899",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d9NkqZiKnyJLXVxvbsNx9CpBvN-Sdvl52ZrOIyh01YEWKJRXTPL-sAMh_nTUYZ0bATE2W9LnfseqFhmPGgzR595prhuTM5iGMjyjPnFuFkkwJWf6LuJN0jAVzuSEJAc3L_C7NKI1c4DLX-KnOiTBa5kPm44W_5Yx7A-EIk1QgLIheGydQKCgy7dqIRqLwS5yh6Vi8wo3b7boVWQZ7NNTG6hmSf2_Ux-PUYbCuJKU6GzlWuox1WvkC2PPg9dcISyQ3vVGCr-hGWDWpXIVg6gVcjU6c1pCYh6xrPwulPqF-YBRYOWd1E7hZ0HHx0v0ushCDQMhNiyUd8mUIxECH0fz8eQOrhgnvoJUoWMQR6XEq-qja476661ZxzsGQhItvbTh6bZtQ4rSEZhGuTXfvdEqPOG7Wix3ZiELBeSVm6zDWRwA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fuLoPndEzKe4DSI0R8T1_WFD1bnNrYvlnQqSf62eIR1Mp3v6Y8XyaTrxbr2eR6-76iZrc_x_Vi_AvDJj2wSwZi-OX2SkSDSvbRFgru5OrNEESVZWXjqEo8mWPZuqtQmmHIiMJ2-UdZ9Mb6lQNfXS2xmpqsdbSGhtJnakO7MNyRROaCJ6f6vJ3DubT7ycpxNDU0Tjx9rWcnieudLCnZCU-NnHzwIOC57C3J4JyzDVxjH-XXQoqmz-kANvfv7NBNGV17euSMn5KEx52XakFI_g8_dbUo3ZxXYuL35NLunXgFjPtBYizHvIHlNi1oEAkWHJ1Z0dqC0jk1sh9RC2OpQBsERySfqWZmJqtdv8gjTatl-lqPjpQVb8MfuSJI-IKlkduNsy4R1Rk3FCp_r20R_WBK2JUKLGJnwByHoKVCBZex_A&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eFnkq7mdX5v5C1q9OiHZXRgDtT8-oiXVJnmq93fwmBaAWNouoCmDzMnZ52AcRCrjyOASXWoaOuUlXsE83QURp9YbMEqG65kzTlCJqRgUHcCkJbyEuJ4FQGv9DrYqA3CMO-VTzTAo2vHl46czaynvMH2U4pCNrnkAJYgbqJ7ZjGP_4zhLjFVDKMcSS_tUSMQ2gY4dojFHtRxBnUyFpZTKMxMR4MKtNdvq7eXKOdABfKLrhAzGKfSMu6EpMEfJz9fW_wuSlbfiIIBMbWeZvB9_VDzGKz_7WQrK7HFjKIWvQiZOEtKPR_ac9udgQmuT8TU0CzNUoA0UVRF7m2y8EDbCBDUZqReErYbe494n1rQELEj01mHfLNNpSoiCZ8Sn4xbk0frLMdGCvoN7WVvhZuykGyF1U6bYnsxHQE1Fzw53m6eQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c2AKsnWQ2mMU5nCuGe4Ox51_53wKc0yHdeAWihHfBNqSI6N-gIsv6jm2l9Z_Bg_DUh8v-E6EdwKZayYfdbYeKyhF6-Wwhq3T-ycLRWkLp7qeyarfM8rii7lJ4EzM9rzHlCzeUIkGCaukFKgmUXTVi32JtWASugz4AxJzeyRmLYMoZERCJVblL1bkUUFm2dptzjFS_rvWgILH-XyLvZTmCG1tm6nw36aZSjRlf3RWMyPODnnpD0IwVx6-aGiJE4hm5D8J3SFyOtPaSwrC_hjVZmIFZxtWKGtKVXDeJ-IOUa-eZWHYb3hA6Txhn4zSu9BEMSQbcKfZ4orR6b1wPzGdozatzOszlM_Kb3mscirEedVDnVj7WaoooKtsHFNUjWMQOUmtiYzcGX5Y1Fsn7de3mYYcEpjeW9TqascQVMjLbU1iI&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cGKrJ0ZRyv2lp0WUJF3_kK6nSxaRLkikYUWX4VQji5Sqc_-G11-hIxgvb_BwciCSiVQoXDlOpgPW6qOWwAow3JygBBCo87plyLH8DHQhiw5xegJM81oFkC6qi5hVHCRMM3IjP5kMoGpG5ov6uYIs0Rd1NdKN0he4oFMnTWQr633aqypmMNoYJV-D6i5r08NUzcjtqFjGhtOhe-lXNDNUjBa5u2H7I5qBhtHPN4qWr5l1NW44J9YqnkoPlpXlA1-oqnNpy35Yv95Hw1J1UeueYudP47abBWffoQhuaB3Gx1vUEZWMERx1sA9iTSSgj86jAo06O4aWxOItPNK38GhdtRHc10tbS5Q1XMOApo71C_HUOX6LgJcxNMNhSpZvdU9NkoRhBi7uxzANhw5fjt9e5A5QQCfNJLhY8S6ocmNbe1tioc&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cmVUAY1YRzPcNghhvqcRUxmq8xP79XpyvB6qdbvjRkWHautaVRQYnMrLHKWjS-qpj0HPxBwUmx1EbNpcBv3GPFqyEH4Exj7wyuoexkOKtetigq3W302n2X4k9rx1HfP1HhMf0SvVwH1sDo0gek1cX8zPBGWTgeemrql6kLHhPVvb7KbFuVuoeUn0tozziOjfZpIIKIPqm-l-inGqNh_Du2A7hH_32LSk-gs2HWD0d9bjO1T_l9q95Y30e0GX5vrL8u1A8sV9wEexMEj-mBGUErbO8PtQT5BWA_uQPkduhpI_CCDcmSy6Xb8VDTzTv9R67-jvCt8vakAHS05vbDzDVacg0L07LKpJGzr4LjDkHXUXla0JiT4V18bfp8dTp4RI6jli6dmmV80zg8lJLWEddAQl_UFd5XyVsuwTiq2Tc&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dsvNz3SWKVomPPigOkwQattaxlRwI37Ju8SCFrl-Y6p6YgZnncUvebtPFHrAHKEbXu-slB0OZdcN9zlTh3I0jK-pYpndMyPR3ZI9xEjPmZkf0A0cGV6dDzFVUqcf7RWblzRVoLfKKTAl0z1nU25GcwPwkAyuizlxge7CRZXxpdnwmjLbwaRd44296KB6OiKjqvjcWDBN0QNyXDzVAeqaTj7vEYDbyjqOWspQbsTSkBP2z6crVHH8kEqe2qRzoaXlpCu95nIEjcQbGHbfoJdColTaiIWAt09ILZ1Y9OMQlIsk1rd04Y7tiPN9ZyG87q3qxCprNxQSSo1Yjeijim93xN3XjTo116ke9ho3YJbHhUco4SEPviN1PzUclm5OqExLECVl5OkCkKoQm62XmvWbb6bFlUeBOrwbTALQB5yK0&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fES1y_41cgqtZNhhBSwvjmRUSBvf9cJOrmSbnLgFiAPcH_6K0DCAHU2gu2ve_fn5LykuNz0dhUuX4v5SFVNc2_kK87LfOIixgAnerwMCMDk3b8yArGwmoIinndK2511sfnKFyiwqkwsrKWdfZb89perkoennbR0a8nZUgY5yAIndd0UM0d8RXe3bEhT1O88BHqpPek93M26pCo7HMDRuEP5R1gOcYJFlneg1WUBQo7VaBZO1HYtLYly8kJT22lk8AvraCIcOKL8O9czVQ5zYHhqleUwvTKbLqZuOnvmALvsHkC4ToDUkzOSKZbT5M_PcBCEw6FaZkmX5Xue9Pn-uqO380Obp_iqt9f8Rj_R6d6eq3PjwRR3z8MwFUCY6N-Oy9btkJ0h87zB4F_vfrZ0XdxYjBPxrbW-H6vzOIpXKpTig&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2em_MJYiOzLLD1Ipp2DPKXpGsquKe6m21V11PLIp6IgSv3E6ANRC7YMlT1011ZFS1NkD86zbPXpvogfkup0ch4coqUcPT1DNBNH-kemPk22AVyrU7joCutdIHeHjWPv8Dj17uO-psC5j_UtaOSTMAmjTsPHDhrlvGT4L8A_PPVTjjBZsONCKMI9LLxKBPHeD6hkCADdfdk8QVVRdXt0AK6oY0RaAC8jJ9Gr7yNs3JXdDfu6odTyvTplg7q4yw36p2g_XHF8kUWtx1EN78duw6CTmF6eXM6QWA6aYktxyQttWUyxTYQ85UhY7aVw2IeOoWlBOV0VlVOSWipmJB6X7AAuE6Jj2xAM4AgMQE3lXUMWydOAxZC31gSy0SyDtO1wqz8qU8p0bxbEocGeK46rR6fYu8GUriu4SR8dr9vLZ0K3qyQG&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ckldelSbmbLvffmHde50I1bEiZmkd8Ykg2ftsUCGIA0G9OQpJbjk_fkdZMNpNKhoRJPg8SpyRG5Ju_wauoGO_oGnqi6j3K2jWmevQexMx8TtKGbLv2IzkL8eWi7tioD2dNb7qg40xNo0mdVVlLokaMrxSwd5wtNDw3DH3D8z7grkSFsFdJHyIhO4WdmcIHD08o5HZctEVEddDX49lFyGOT5f7--H7XfvfVRuNK8oboSqmX91k4ZetoOrO-lBT7adQSKQbpVoGowDi_SHMyUcfmpru6KgQC7pq20sI0SpEx2ZWwjp0euEae07VEyMVVTT3xI4uFeZvrBBL_cC4r2bR5VSANgDGeGs5O9Pm9Lv_kjmusAmIgtlxkrLye9KH4RKnDqp_2KuHYKdCJRBwu0QnLwxHscFrudE42CyB_wo5rQ1WS&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Patricia Lorena Montes Lara",
+        "rating": 3,
+        "text": "Good location, close to Lima and accessible for arrival. I hope they can improve their signage and restrooms.",
+        "time": "5 years ago"
+      },
+      {
+        "author": "Adolfo Pecho",
+        "rating": 5,
+        "text": "The best experience you can have, with the best family.",
+        "time": "8 months ago"
+      },
+      {
+        "author": "Gladys Romani Cruz",
+        "rating": 3,
+        "text": "Why? It's a very innovative place because it has ancient and creative customs that no one can compare to.",
+        "time": "7 years ago"
+      },
+      {
+        "author": "Blanca Flores",
+        "rating": 5,
+        "text": "A place of recreation and green areas, it also has a beautiful chapel",
+        "time": "6 years ago"
+      },
+      {
+        "author": "Wilfredo Gabriel Conde Chipana",
+        "rating": 4,
+        "text": "A spacious place to play sports with the family",
+        "time": "6 years ago"
+      }
+    ]
+  }
+]

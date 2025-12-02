@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Museo de los Colli",
+    "address": "Pasaje Libertad, Lt 5,Mz LL de la 3era Zona de, Comas 15324, Peru",
+    "rating": 4.7,
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "location": {
+      "lat": -11.9113579,
+      "lng": -77.0261001
+    },
+    "url": "https://maps.google.com/?cid=7319628559871755484",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ely_KDSI-BFiyECDLQH4GEPBdP58OyrsxxdCvhYnq2YuzxC9Z6wtB8TP9fjyCCeW8f8yci4MUpZKlRbPc4adWZKQZH9iw9lPxSoUSid8YzFtjdA-i_sLH_iGssgzZint5FyypONTikO3qyn-w2UEIpdVds6TTf73SHEK1Q3YPDO-FCjdSCRMAn3eUK7rnfkzOpn_kOoxO3rCFuXzufUP7zdIUK7HH7iSDjPFE64LAunjpF9xGFnXYQWtkt2wt8e2qpaRcb9Yy663rM1_pzTRKBGDTncKRwAY-02nZ4UuplbeLehCR2Ve-hQtmDRyCpioO0xRVy6mi5p4oGOCy8g6irJzMwboj8I43AfpmMoWKni62GagUFa1ejn2FnYM5e7TYUQtmvZud7OimKc_gf_Bi0r10EeDGm5loW6SwWbYIKXg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e7jbAeGtfbnHFhI9QAAUoIICarCfDLRfoETrOK8Q72u4cnL41lbvvUKmmWjkw9B7-3a8lpjjVPBWK1ay0XJMEFd8liVIgmV2FevGBCNy-T50PUlhupcZyRE-h2ozFt0B9zBu6mJO__Rjk1_0bRBW66eWdxB0L4F987a8TfRJtNV_T5D8wSZ1TOpO3NbTXaa4lw5dpOte6UDcBiEoST8Qza1Gg3dhGU46-aM6I_yRJ6D8izUlTIRi6ORRtDlCvlsz3jTMafgr09qP-PdCgSsTncLksHhDv3-otDzGqV4cFu-SFO1Gg0G_YcQeePWMZpR6BAAKBz84_DeoiRHQyq-OTG_7PyQ-o5tKcW3Bv9xi-U6nNIHvo14dWpK63U9xXpCa550J_oQ13goGc6q5DRiGtQSL-tlMobKvh4Lj93-qEK3g&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c2svUk5SqWmneBjNih3sXBLgjqoeVjauy68WK8B5N-lL9kWmDiv54yy2kPacFyMtXBYn4giNiPoeOogyO0-H7-RHXA4cFgSbcXdBC6fbheoMuY_X5IltzA5mFpXG0aZHiCx3UtbciOuxOsN9yNWRExvN1FfGmszXfxzjdpHdeplaoLVFOZf8GO3Qf4gg8JdtCRayRgCLVLOEHnR4ZrA8qnJkn1a6wboc8PW5PJ33VoeYPREBDNpQAabK4pk0Sr8S32jNYXmWrVut6ZH32UQqWtISsJFcpepIU1WdIyLHcU9ux-8uLH-9nvrxoNenmehrwtyZkYuQFkwPZyDeCzccwuKaYs3J1nG7CvnSWuCa2sicR2TjW2Aw-zmnsKSaC9A1QcLb1R8dEp7XBAhRDRnB4wfx-nFGhzL8-pdkXk6i-QSQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eIKQ2-abmzVukJYOcgR8NMDx1DWy6JP5tyoYQqHs79WJPAolUsrbEDrJFNYrmrCNGXtFtQvvIiJXFhDyk_ynIRtkw-bSzkizwZYiRcgWDEWO70BlkjkBy6S4eXoL2HOxk5s0jn3N_EhJS1VIuZv3RgesOACtB4WKd778U0GCmyxcmLkFtNyHai-tH2WnhiPhv-8C1B3AbEbMEghOTlA55PPzbai-Xt9dWkxKe0NEB5MsRqZzkY_oX3v3EAEFvVmp9JWTzMQdVixxRrWnGqxq5GLm1_VbkyXHq75AOTvDe7NJ2S4l8mH_XeS0OawdW_joFiX13ilRKZRJNyFvSZ_iiLFT7YAZU9AAqzepw7Rz7dUHBeWdN08-dJiTHxqiCtgmMiGl8MUSRs-s_x2JelmJZ9mhEZ4fefgGe9okig-xC9Fg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ckfT3T3N2oE3XSgS_Kk4szFcM4-hwWpDpqnp72QJopsR73K7yA1q44Aqwn5ilksjrLxZoruZrrhr8Nl-qhdtpJb6xZEl5y_cejSAjpNm5aFOp8l5iailS1tVNr6QMEq_Z6-IEm-WIDH5TtvyeOBDWpi703TjTxw3f5M-CkAr9se1dkF8BtYRLjAWVUhsrTkfEq5UQpzLH7xKcBme43NR5mHvRDK7ucTC5vTSg94h8QMpRA7rYVXRK6R4ynCbNM0GbpPKqSzlw64XzZcLfdm23mRxXndBLTY_5evdSkTOyedoEXLG1iPZU96qSk9e3rJTNFjX02u2deqcvGjoXABMFk3dL-HyyfiTeQ_YEB02iBHKyI1_9Ef0XQCRW1DXH_h7NMSQ2tUQfKG-PqY68gXsbW2yoe-1fAJdroY8supSDzupBk&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ceZ4cRgEJpZaf_aTooz_KUIgIOaVv4adsh8CEklBV2Nib79dsAPrlguN0L3Yd1eVMyiLFR4yaLPimIbctrjObrZX2-SdYkt86Yq1X1bgaWX4dIVvap0M9n0zs5M2QQf8v4NfatwhyPSbTkiM4Gs3QnjumFu-2-KLV4wUR5JDCERsVM0bHBlzQgpxtBrVRZIjD-lrDROjDFMh2JJT4HdzQPqhMkWl4UtcUKJEa8F9hTiEM0R5GUdk1_A4oLxi5dxFvAusWZ7C5rXtttMzzo227s8h3EISrp3nsWfnJukhzV4oJVgy4IUq7IUe-2KyXhb1lnfiDiRKH0BfLnJsiw83SRjQXKmoBPfRWvDYClffhWFjKn8-jjra_ez5QpXtDoF2V-tBB89_2_lqCtc3s0POP5rdB8NyxWLBImurx-gO8cOcY&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cfSMYRXdH6QVGncvMbFLALmA-WaP0QZzth01bgP9VPn0pEUnd1KqRBgI4Cawi2VZUGvaC1fSFcH3JtOW0_sGRMbJ7HymMO1U3foj2Xt96I5NqNVJuemyU1UPyibkwRDNZqDX6R5o8SXVFoGdYA18j9TzTtQiiQxlEdcDGi_GEECUERJ0QXWPg4ZR9Xr_JCENyEUM7vCrv1vzrLE0AITeL64RB1WrG2uAqRfgZW1jHeaXNBZ7SAhwEUO0UBs6ypBp8aaNSuyJXfQ_DRu8QkzdCfkk4i-EzAgxWmZHzlMNOGM4PlQyViykls6LpK4Fk0RBnPAut2VVqlAzH1mnTarZHiP-GPo4_EZODkp8JDOG5pMBe29hA20qwRXEew7TLEV8guSAn3rrgLTryIPWJET02R-QTrrAfRScTB1TTFmmt4ugJS&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fJXTR-ulYyh4bk5UXU5fKJtrUohq3Jv3I3wMdV7ouD1pg7VoWT02aUg3LvmJCjD8FK-2Wf_3_kBjNPLuGzHP-p385dt-sRE9Xf7SKtgpioe0V2eLbGxsG1OmPk7X1Jbx-g-6Fxh4zgbi__Hsc7LiVgmXJosPaaBCpb_iKQRuIbBYrgQgCEAo_buZOAcaPvruO7HXgl_7ccvajC7qXW8A9zdIwSmTK15o7Ckq1roGlsolnSFqBoaYs8Gx4DECKuoGSz-xuDDk6f3igNoG7ocD35G8MEoEIM3lWs6ESeo2Hk0rz3z4oYjl6gZnktwc_TNRW-SagvzzDRWOkghVOogBVg-IBExrFZojDGpxPV_BmuCFSof7qmXp2bkQKgUO_31t-2Z8TjDFs7us9yz3tBt_HPhEvNr-rRQpncz4NQcZrxa68&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2co08OoPbttYkb4nvjYsa54fSwD_-_jclBmUqaz82G65W3fh9e5XBWeeda7KpAlFZqmCcaUZfT3alX5YfDFAGDb3J1K4bTJto1URWyVLCHWsvwEi4xty317VpWUr32Xx3-HYhRMxgN2G5Y-OTG6gkbzB7ymxNK6plT1yTU-dwntX-ni0HqPd5GLSEM88nR5nxvTmpZZd3T7xC7x3IB9HY1cecEGCSb-F9tmSGxavCyO-fmumcrONnkt6R0hbAvJEopMDEeCpSJcGRyT5-P2sSjEQE8CN8qACdZnYIkoEDFd_zBbF4FiXaVIhuoy0ueMd2pxkByqH8SSi4OfbKcj6XucdUAW5uewwysjKWsZOYssfsfrp-f_UefnaHsIzHP6eBUhISKt6Ke1TDN4XbnqDs3AAILfLzwHG3jyXgoAqLQsD07o&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cUZCEVOvI8cWjEDikfhtn6OtFzc7HKdLD5aQWWT6Nl78pZCArrXTpZQfDzm0Nar5kJlSB5A_dELxZN_qroHhIBnEcJ_IRxFNi-Mu7f11lq3p310fSjyZle4zuU3mlduGinD50aEbWTAgHd5BYZXMf5AVSAhiqkH-HZGklURMcSnAJX5mTPzFOO_R0j0B4pcKZdn2TWPrMp1DMfrgjJesPwaJ6nsM8rZoYomSIb1YFkZ7KhZ5XwpDx2rT2F7sDrem107m4iiHNTC9FdvtCk0K-2DoejxGzoL6nm_894qjb2y2vLwFucZI28JJKZp0nh2b3CQmZMYdgsl6Qc_JwDwo9jLyZ9eBhBDPk762MHzNlYUNeSnDYEs_5DQkmqWGP1XbnzBMUYzodL09fjiXjdRxVYUkfbjEdxbCR4uPGk4Wdkiw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Andrea Girl",
+        "rating": 5,
+        "text": "The best experience I’ve had! The man who owns this museum is so smart and filled with love and passion for his culture! If you are visiting Lima please take the time to visit this amazing museum!",
+        "time": "a year ago"
+      },
+      {
+        "author": "Fabián Rodriguez",
+        "rating": 5,
+        "text": "It is an incredible place, it needs more diffusion :)",
+        "time": "a year ago"
+      },
+      {
+        "author": "Alejandra Llosa",
+        "rating": 5,
+        "text": "A must visit !! Really interesting",
+        "time": "a year ago"
+      },
+      {
+        "author": "Vanessa Bonaga",
+        "rating": 5,
+        "text": "Its so pretty",
+        "time": "a year ago"
+      },
+      {
+        "author": "Tatiana Hizo",
+        "rating": 5,
+        "text": "The wonderful researcher Enrique Niquin has worked a lifetime, recovering the legacy of the COL-LIS - Collique, with humility but determination. The museum is a place that pays tribute to this ancient people, to our roots, and to the nobility of someone as brilliant as Niquin! Visit it soon!",
+        "time": "3 months ago"
+      }
+    ]
+  },
+  {
+    "name": "Fortaleza Collique",
+    "address": "3XQ7+CRC, Comas 15324, Peru",
+    "rating": 4.2,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -11.9114457,
+      "lng": -77.0354857
+    },
+    "url": "https://maps.google.com/?cid=16352837424226352835",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cZqfrrQ8AeHyb2-fGPsOQ30KqjTpf70TmuG9jjwEsHh7bOfJvtjnw-N--Lxfdp-CpaVNvjYBOzb-hVGFcx1at_4R8O3092xCHsnVpSZ1a99RtvjI5zaRBD8bX1j_KhbsJgku3YFYG_EF-uh9yxTc7HmGacrOv-hl5aPojxV-6fjW_dUfJMIweQ7LTEN8X9-h0jeTC7Ia-Y3DJn2VD5wf-9xZk2ha9i9VMH9fMUKEA4XDDu2TbTYpeVd8UbxFADRs4VCXyIIZ43zWyW1fzLX2djzbYyTp5L8aMh4PBDzP7vp-IxErCORfYEvOyk-NyXN0KT91EyJ2-dPPlb0HJD_7L7BH3QPJlloNrII3PVxvgMgkC-HHJobXOxb3V3HgnEoOqR5MIToic_teBP8NhvkgPLjUmqTNGY2velkG9I_Dqgl1Y2&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dQwY7gsa_a_aQUVMB5CtCaMHYYFYhEyxCZJ2nZRSRLI-lUluw2D3KIc4XZ5M66d2RWHJYfreprosP0eNbLa0RjqK94XQOpZ8Q9lR0ooS-Hwvc9v5fXxJUViFqrXI3blGsWA4xyxELyYUmWBEgU3ov8jQbgdKIowGH2KqqhcLrpyISRXU7RL-yZwu5D1DwSMU0qQTxFxbN2lC_OcasmkilcyWC9NzDr6O9fuY9v6IPGdTGZt2SzUKGKXMpk0mm5XrTPg4-Z7RVkVa6xvbOAFfouDKTQeoqmeIKZsFpVmyJHLp_7r0kfmiL51qKaWn0eUV7XHIoadEDP9lNx706MBS9qCj68UJmCTOG_qMl1-mvCrXm_lGfCymPinWXa7gy-Io8ewh1gWrfoceA-2I02XVtAUHFgO6lRSUriXCT3YKB1Qxg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2evDLtvIk-wrYWtkeeUX0VEZrWdM8IzCBVrdb1MPu5gj98u2o0Yyf4K3FRGoAWJVsoMp9B0ufWhjfkdxFn7pHRhWweIQBGnIzN8Y8QEE86_zao0i7RiyszISkBRXY94EsHtRTeBRPGSkAA25_t6ZznWTbmT6STH6rBLJJhOv0Y0UzMg_P1sh3VBkS9ifeWjE0S0-TgGPRSpj5vIijN-1PGkGdkHzhrexnielkvyYHauejcEth8fD5AcFlHHmTzB9DUNaXUFPhDhuAAO0fg4879D_LcnzppbJODkH5rhD8qn_B5Ba3aP2Nwut_joC6eHewRO1KPk30pWfroY9cK6bhbe0oXPN1Fh7pp7XYp8ug8fgYrkIcpNCIYHAgJ4yy7rIyGcz8KROHjNxX0m7rE1KKs-aIblEuOFS5JawTrHr4ti_U4&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fo88f_3Awq4a7pNt5MsPGUqV-KD8BV-kYCn0ZSgxEsKo4OXeZgWCaGTxPjwa8rn9DmWsx_sfSC6Fi1SIc-G54bRbJrwt9baLH8QrRMSWYTYyWlA_8ZWtRQ9LU4WH1l8L-2jVMTisLsO8LB2wDAreeGzZcuAh5QXr46CoLh1JFJ2cexGIKITqu5wu8ZC1Pr2I7f7VIu-5EeXOKJ9Gxj4yL6zhGOs1-zh9wbvaGjXCJCRQnLPh56sg0I0raOxvqCDgsNCM5qZPTPEmEM9ntLFnytBZZx8eoFiBh4d3-uZVyVTMtUpYIJDEHCj2i1TWGoNlEntxj74Xr070hSiATK855nkQCGcjSLu63EABfLR3Xk9vzbQovRV9vAzVQIdYaruwACm-0Q1jKvI54y7CPZSPMoJycjzy1O7KQ1j54KBcPadA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cU0pyavdezz-zfipyXsojsZtAL9rKxOYNYs1DyJOHP2K43XUoO_-2Uwdh_gEdN73QXU0vrlbzoNViypktBLiqXQNg5TrtLRSx0qcmhmuGFDgCXoQeFt5DkK-eE220nzFwwkzk382zCMdzm8i04twb50vPpsQ_pvYd3eE6kSTaY4zYV-iN9nqxkBepIiDFCTBJLOtuiY7DX66SyNO8wWOFvC_sKe0_EOUomjVKI97_pAB32SqXUvwXz--Mmx1PZ6GsXqE0Uwe4Yc_gzj_PP5mTbPSGsXZA--EYs-d_4sG7NQ_t2AoVWa_xNRBbQyZfZk0bSIYzCsMe2tithCF2559OHI6bLsXvNKtJO1KorNSTVOOzV6dt7w4cf6ijp7Lj0GRKInLKCjMudAmxHNxq-Bh9v24zZnY5u5kIq7wA9TppxaA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2du_ivbEVfGZtsCfleKTdDYxHo5PUseUHOttwvOAeay7-qPzoLU9YR0HnMcxnwS2ELEiF13-XcrzZtPPaKw-Dc7f5gMuVdFrIwvmNhXGAQ_JkJikCt1OaVXmcY_EreDgamMATTXU4tOGh1HwWXQX8J4Iy0VdD6iF9OWB4ynY8kY1pw3n4wHm2gmX_KTQxP9xlAC_cI0AUOfvIOjO0W1WE0GtwQwDy1UkY7yaptD4k7fySCmsv-KKArsmiVi6IDsrRjuji1iFkh3_3XyEK3dwkEfB1BVRDLx6AiBI_0LMlNF4EAeNhZqj6urf8smcFVDwPo28x25Y7t9X1VjUzPREc5aReF_zwsURLHgyIagJYYGm02qXTqFKSmxnDlMuY-JYS78LU4atZchiJMn9JcR4y4LUckaTmyLadqbz7PcZpo&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cMbva7BpfGwkkUwAqSWTrer0eLmYscMFrUi0Uj8K3px5HgQl1HBQLAGnLwOhpK_GuJ8zNz6kWVYnmdC0RyXnEfrRX_NvHKuLBypQh07Bm4cgwg2JJS-2iLvUAFAD0WWEBqls2IifNwO6-u1DhIV79ks0EkMWeVRIlcEck5BNy13MGwutEkDxAeQmU9u8UGbdSMPbnruxY6rr7IqAspvTmpsHfIBqwchjH7oWu0ogM47PXGySK0JkhXHgxhz8kEv1ral7R6MKCenr2QyhJWM09GryZ36gX15tG6lnsfr3UMgce-9g6uxXtCjBSOTZ7DebEB6hyskQeWN0mQi1WT3eFS8JxYEsRNa8nd710rYJObbev7fK927OunAZaA-AlHLYojqNMRjbL6gUrV1NTGfjC_rF9fwXHaAYHb4xstVXg5XPw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cbNJjDudX9qoyHXZrRHelYDkAv8dK155tR0vXc_6pSJZxPqgHBDmAFYJozoLwsYg4PQ9Yqd0KKJQmcZQc0RYNPrLF8ys2HFAyuE0tYYMt4Ry18XYdHMysWeL26M-JYE3_iWSR5DEXiM-S4Lyv2LtAU1ifl-oecndYq_-rEsCreBGs9Vh1Ji_c7NdNijgVUTx8Xnm8k4YeI1jJMOtPbRbYF7RnZHVKRI26agRFArpGpAn1pkpnTf2JQC30PnCimVBCi-Ipm4T46doQR37tKhm7JQIv0h0IGCP7EM3MfHlP_jHzsSLc79rbK-ANMT8BTqC6aaCIKmf331twSR5OaD3CUlkDkdg00nRIA2lrUTxripaKTiZ5MwNOB47yp1_wEWrkhepOUnoFueS10SAsiqmBQSGdGPLX8zGStCf3fWJeutSE&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dMLlDpg8Gk0Wdw1Io0tU4XOH9rY1BoD8w3Ml8rSTsCWmABY7X3fJnzOjGEociWJDR7rH_CaDgTudY5WPwCybCxsfLxO-zYiXs2gOqt4_KpbgP7JF3qgHdHpTNNcoCeZtGhMkNCCfE8oGbzDmFsGj_0Sj8EQ3C9zJF9qqkDXePkX9kisWbuKLq-5gy5sD2q5erQRE7iNvwZQJhd175xGym4faq49qg_bx8apDbEDLMBOB4I6d2FLN4pgeRa5V8kJxeJKFnUVm4HEm3z2zKPXPg4mXimA7JZs9uj-5MJuaNJTpwcM_ACHkIEDsbEmOhUMgTOl7E1_c3Qr4Fh0rEBKn2NpkeDlpQgBh6GORVNxa9qBh45vDlOxZ9ahl1lBTN1B8O6Tw_QqNm-JaOQGKQ9gI5VwAkfnFvE2hjQu_2ZMK6j4w&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fRWYQs9gO5LzfO0TqDdRQ5isiaXsqKP9mJliT2XrL8LE3HN1V4fo4mj8tasJuwFgc5_oXuVYKj0QUC5ecb0uimxm1MgH-xFcY3EFXXNf4kFDXcqHF6nyJIz2uv1ohq8uFCor-mf_CpL8bj4GxgY6P-wJz8fiJKVraAXZye1xXtO2GOYv8O3CkNC25oZCntloG5GTC-Yqjmhh5SwA8DK2d-uC7XddG2aLLQV6QJBIc5RPq-gPmsTSWkULp-NB0yYZbFyYzAAwtKpYOepVfdv9GscupXPuY1QfnNl6V0sTupBMCmtfntlXOkkpo3M9IMUl_S5ZKMqX4BujIswD7Unvqsa8h4H9eZ73_kA5McNoHYLIf-Cz024uhioL9wLURBG-pqLR1dDhE0NxmQO43LerMl_hLFuVpaQQp0QqUHSJ96QJpR&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Néstor René Mayma Quispe",
+        "rating": 3,
+        "text": "Collique Fortress: One of the largest archaeological sites in the Comas district, covering an entire hilltop, on which the Collique Lordship was established (belonging to the Late Intermediate Period, according to J. Rowe's classification).\nThis lordship developed a fortress with several walls surrounding the entire hilltop, thus creating a defensive zone that was difficult to defeat.\nIt fell under the influence of the Cusco expansion that would constitute the future Tahuantinsuyu.\n\nCurrently, this archaeological site is neglected and is a dangerous area to visit without prior preventive measures. We must first ensure that no one is in the ruined rooms in the administrative zone (in the flat area, halfway up the hill).\nAccess can be gained from Tupac Amaru Avenue, although we reiterate the need for caution.",
+        "time": "a year ago"
+      },
+      {
+        "author": "FLOR DE LIZ MARCHENA CUSIPUMA",
+        "rating": 5,
+        "text": "YOU SHOULD ALSO SUPPORT THE LORD OF THE COLLIQ TO BECOME FAMOUS",
+        "time": "5 months ago"
+      },
+      {
+        "author": "NotDragons BG",
+        "rating": 5,
+        "text": "Very beautiful with the views from that hill.",
+        "time": "3 years ago"
+      },
+      {
+        "author": "Cesar Jamanca",
+        "rating": 3,
+        "text": "",
+        "time": "3 years ago"
+      },
+      {
+        "author": "Robert Antay",
+        "rating": 3,
+        "text": "It's a little neglected",
+        "time": "6 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Huaca Chacra Cerro I",
+    "address": "3WVW+966, Comas 15316, Peru",
+    "rating": 3.9,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -11.9065969,
+      "lng": -77.0544875
+    },
+    "url": "https://maps.google.com/?cid=3760792167336465371",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f4gggdxUcAjj2tz9-4B0yR6ksQcd3V2I4J0F3UJPgVDrNAXjhLUAsxGRvOV1JzO4NQXm4i40GQo4SRyaANcLNSkbZNIXmdbFy6q3Z0PDDG5k3j5auPy2VSPd6oKbx1anoKyMEkGnqFroN6YnOlbtw-T_B6qKXu-VjpaE7_vxiUVokl-BJHevl_CQcvGvyf3cV8xw-zPy0Ed4hOTgpMSuYkMxEWEv32y1hQDQ8UTJi1NneSKimQEGNn1qdt4G4EjUwRFmHnrK2MTSaA_uTDsgHMaIgedr_hELOIvFbSO18Rm8DnwNhk8X-bpMgDBZP_tqGKDEapza7p46yBgA5CjduvJUZGcCcUNpJEOcWFrMP_onuPpqraNhxKgYaS3hNSbmbi645W1TmeYapgysWp4pnpBWjbegVK0oigK-hyG1NFiuufoPozhr3R5XCsTqZQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d1WwFT1QsAE0XLnZfG6iYpOOcfiJ0oJiqOwzLkr6HnehZ2Zffha1iTQkTR_R7Y-Z-PiaFzrmf4esNT8zzVxIwRPVinsTkSHtFYaAiN37rSbus4xuIxdFbiE1PY81burzofjT-RZEI-l15GCGISLyj0EwpwJuBVJ0FFa5fP3wbX7zlga8I7c5qLrmD2Mak0bpm6pQ77CTWqMQGJ0UxEU_bVo04DKlUvkRkP3YKJ4zmRhLhn8i3ZcwaDX3rIz6wDuB-FA2ToGrhej9rgIjfMJ5h0wyahohLvp2QayMpfq2rjwt5v2Bafg9u3orzQu3IvAvgO6326hzFWkQK3iazahj1jtrqZ40LVWfb7THn2uWkUcH2XmF6khrq9XnHSXilwIVnHI8P02BfaXr_lTI_BjPWMtQeeIY_CStTFEMKuRQjLIkcdKDaMLYn0BGlsGy7J&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cU0L47wXcaZkshSKXqpf0ekn-mP1LGUNBrOkJG70SDImqp-NhgJ3d_yE05BMe8305kuxKvf2-EzqC1Ka5Ea_fUPVGy7UYO7tmA9xfigB-obpVcupyuCuOAK2qirihwlqITzGwzJGYQ2z2MFnaTbn5IEyq4oqQ36sGKLSuy29MSpMaArIF4EhLsgcymbLbFEBwGfT1QX5vk3aGet7YsKCEy3i7WaedYqJZG1NWB5eSGJr2hNT6FM08URpUa5HNi8DOTvWe-NQNxqAHxNEd6JvdfYRBS0wss5P1yFe8Ly3t73PR_XYRkkwJuPoNa_hUR_iw8mV9CSQLtGCRjraMprpwGvpbLosBT5o_vyxs9UG-vE8YsTqy-Tvfn66ir84hc5Jj4e7FbxP_M1YD8H2nV0PlebHKOU_PZiSlviEDZLCUobbCGn2SjzmmBhL2YQoU1&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dDwxfTmXF2wyZ5afp0_igKq3TpS--ev5Lrf-ZPY7izUotLT44ALU9_2LuXMLYxQSP2RZxzC82D6GXC-rRG1IfttBkC2QZALsGjROJvtTT20PMvRcvj58JM0SjaBZ4pjUnNtDwf5CiWzv8yRGHywD8grpECy2fbkkMemEzhARQpYaeYx-BCoXg06vvvwGXmE8QNA3vqDqEqvs8H-3D65IJUP5huCVnxqi7F_p0X69ZtxPEJQwj9dIs5X-TTithMEE0930b2icSOOMPFVUTXMXaXz330jj7SCRjncCQ7N-nRILU2t1aeDQjj4q7JrCffGwdgmMCQhRW28PGtjeaPTPIoOCRIY_8LRektpz6X3DTZu_hOyj8548u2GZ-YoZjF9F_Dw64OXn3JbFDFSwRGrSvWaDIbLA8GCspp2WmxRLGHJyr8f7-4v33EBS4gKQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cFTSqZn7R72ooW6dWK8ySkhmt3unGMJLLXYTcxEZAb8Gu9T2OkNTRRdUy6s_HrDsMSZQkCp8Wmy_tHdm-jHELWY49-LxWhf7kP2ZsnUjAVQzp0xS_NfOTE53a-XXdkojAjjv6kwcuev854zQm0ietQJUb6mqmVaHPQbOvtleGaW7Qtpj5KY5OcAP5tCllCtI9YlyO1KsY_IX4Gq-jLK9buuJg7NBhPCl_mtKFNFQfyOCLRYmFtsg_43_h-uRXnVBhrsZKdnu_PhzDxZAwG18QA8Cao2Jz4ppMaxwSrjnmrtveJAOLaRhTIjFUDFxESaREJG8vh-C6Ni0otZuJnIdxg6LTk5lWbucFaXi7luaAfdwsZJwg5Fw335FpRA3QaA9J5VcDSwUPCm7LFKASQKsn1x_hhlqkR2k2L2UdbOvezxebR-Wfa17UbK3yxsrUb&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cc_4jju26W9HSJUg6B1gBZazCkWh797eA0hvyxMdw-mELN6Vf_Mamct-LsyTk7EYBUW8PB7m3NAVWFSVmaMgiBAWmhB3h_Eeyd1JZn8-ziKVVomWt7pJAfzixzVOCL9WV3mjH9Ej3ekqMdIty2xCFzXL37ZOfuVeFrUcsf-3peY33wMVO3FUbBkf7WbRf-f2_ubs6vgSU7ACSQ6EnD5ABAB2XQvrP8JBlYmuxC8C9zMECpNpj3bkiscyzpvKdzY4VkCXWTyvydRpvd68oLby18Dy6eTyZQkvIKW_0lbPL6uvC3C6J7ckJdPex_mArB3ElUD91FwO0pcrCwcyC0xequZxJsDe5bAXfiXmOTPTrhCMVWuN883ZMC9GC61PTAs3RDVse6M0xolLDF6uji4wIMaO-u7AE3CXNDWn9__M6D466JjwZfL39VDKfUPA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dcYYvCmSId10M8i8srrDg7WfQ3QpqpRsQ9q6qTtu3cgZvfzSCfY3NEjc6NgPuf1Y4SeHaxDxvOghvK246E7c7mtmfbZ2LtWpEUdEm5oZF_w-TQll9zimX7spMPJp-PV3f-RRuSi5fLWjIZS6G44dh0dyCulHZP6VlLcBir3f0S2rcXJpyVcdwfd4_8vZsuCsjprZbyQTHWjsz79bPTvcvg44Ho9kNoHaFskXzmp_sUN3L19-CeCx9duU0BlRFGbUfq0F6opp4BlXhTbEpqT_7LTUWZqd_iRamUQcF2zrOiyH4hz1zpDTqX0maL1sJ29MXU05tp6fk6Bm_AxC7izbbWVuvjtdJzCU87arpCFvvpmxdyj7uzO3kDZ2CX_DaziKVKdHk0S88woEXTOzKqwWFCvzT3L06q2h2BcA0_qkCYxDth&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eFH0UXjsmclgxmwlLzwQPoz8ySKlJ51vQqUQtKZpBCYqqPH7FgDLmTtk-_Ab_cdOGZHpWO1zdok8-n6Bgi8fSlTRkcUgI69aKfjlTXVdW_uZdwRDDOE9G6_j1EEl6i2YDRmV2GlckWIge00F4gAYX-flRCxYykWZQLVQE3TwjQJrCHyyS6GyFlE_0tqgdh9nDG_RKcK3AiXuy3FEP9QyGGvZ51XzHxaffht4EqB525GY350MiXR1bt2dLQIvXTU66pmYxL_pq5_t1mNLpZS0dWQGDHkCo7FNf5IWTcatqkGSKNJGY1UfP_Y1KDv1Wk50BBNZ9oLeIa9IO6vHHQhWkob-FiItOtvGVNF0wpR5MDwaO_QSMmEfiOcYq0atm2k6me0UokN4ZDeew56hAsupNX-fjsYEFUpSJ_m8pSNzEGAnpvrpVFJlHARGXWMhw_&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e4p7PJQFgszIdbpNuolmoi3qtLEfnOOX676CCzuHr8kEKT6i00Rlgr-HCZa7P3xL8H6mRoPp4fpB7J3NwhAVVGLRR9CN70o3qlg_eVvh7PHWn4PrQp8ofvc_q6jPLOGabXXBIJZpdoSj5l-AGH2DdmND4bHuXUCD2c4Rrj_QjIzgY81oyVFnP9EE1gklzCjReEStWZmbLDDgC-FbP37bGJml6gYYNWBbIg0Z3cR13HCfRh_BEdLMKRiTf0I03hoP2S1KmLrYGI5o2jeE8n1LXrrAZfHYHObMdSPKe1OyysUL92M56g-9cfUxXgm9T43EZI98BIOXUzUAxFvjvIANxR5sUrY2ektwH0bNm3O603dwntKptPHUGHjmiGFMd0A6cw_jW7LqVNzJoOGtXmnR_zIUm-IZFiw54HUD4NNEnfoIDD0Dykz9nCVOhzQg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fmJds3MXqO6SgEFKG4-CDHnrhrSit_F2d68acGhLTWTeBXA5yNcb5FqLxP4Vj1ZL6jzqOPHP37p2A0zeVR3mKtw-pZuwPHOG7r1jaIDap-HIcPYIvceS_1iwzskdqjd59NQU6sUDpn-Z35MrrUD52ytgKdPCp4Zxs78RW-q3y6QZdau3GsGvik4lp0MxFdZKoS3bWY70aLsK55pfPCFeAVfij36qPJ-wBdIFzsIkPbOXiIjVJS2sRi5R6L1P9pbE43G9YlByN0gjsrsLVqLGsDv6BtfPDxK_QOOMgyFsbralP_9KIFq8zz-WgzAHvepzrctX6J86nG-G80tFGhsORX0Imktz5V6_WJ-lekfhQyfe4rQQx3aA2VmMZRVgqymoqu3BKD_OTt6qftPdnpJRxXkq3PiVWdBROp0Ppo8RBI_M22NmNCoCNgQwk_cNfW&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Ulises Ibáñez",
+        "rating": 3,
+        "text": "The view of this archaeological site could be improved by removing the tents facing the road. Walls forming ramps can be seen, and there may be a platform at the top. The view is external; there are no tourist services, but there is a guide and an orientation panel. A panel could be placed with the site's age, name, pre-Hispanic cultural group, etc.",
+        "time": "2 months ago"
+      },
+      {
+        "author": "Juan Sebastian Rios Chavez",
+        "rating": 3,
+        "text": "Oval mound of pre-Hispanic origin that has an access ramp to the upper area, as well as side walls still visible. On the top you can see the foundations and floors of the old Casa Hacienda Chacra Cerro. It is located in front of the Huaca Chacra Cerro II. Both sites were built and used as a single structure, however over time they ended up divided by the Chillón - Trapiche highway.",
+        "time": "10 months ago"
+      },
+      {
+        "author": "Luis Miguel Caballero",
+        "rating": 3,
+        "text": "This was previously a farm",
+        "time": "3 weeks ago"
+      },
+      {
+        "author": "Ivan Salazar Vela",
+        "rating": 5,
+        "text": "",
+        "time": "2 weeks ago"
+      },
+      {
+        "author": "Vidal Rodriguez",
+        "rating": 5,
+        "text": "",
+        "time": "7 months ago"
+      }
+    ]
+  }
+]

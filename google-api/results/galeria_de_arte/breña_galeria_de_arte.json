@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Galeria Gato",
+    "address": "Jr. Breña 281, Breña 15082, Peru",
+    "rating": 5,
+    "types": [
+      "art_gallery",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.059527,
+      "lng": -77.04246239999999
+    },
+    "url": "https://maps.google.com/?cid=1597796136817445253",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dYZo8B0avZK-K8D7_YszBFIloJsNPQuzbGyXchtG0odcs69DOrIY8PHCZU-eJ05olGNdeijb9lvTJ9sFIV1yPVvygL2B7oJjC9ZX4Pfrwn276VOSC1c0QKOOif4JCFpksDrQvDYDtoGWqAoWRdhQdLjO19lHyOt9dM2_NhFUecPFr3TLgJIzJ76L0yXjvuDx8bMRuSbmBrVGsxwrx5XpjhvDatQESItTT5P_wk6LoBvW-6x1Ns-tzDMCaqZ9Xlk31pejUuYBr02gLWy7gqK1EFZ7d133J2XeigJeVGuLCE6ZZ2sTImj9ACosZB1jKKfrZUkdxpn64cQn44KWFC_HBGnfM_MpPzUmosu-iY91PaEw21TaspV4yptOE61UM2Er0KnU9Ykkl7suQV3eJl3IT13Y5xsPHd4oPSscV2Fid0iiCt&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dg6xLgC_qNseerbwaPLG_u4wNUc1h9aoOiA8IuIv-f-LHV_yykLI7pHkWgPSIFYtLtO_DMADUXHPkId8Amp-3pCiG2A8aHcNL16UPDy_j5YH2T2swyOcnPi0kilQxBfn7fNDLctdwbT9NqnXTm2WQKF55mAYcZO1q7ghK3GeqoFesobYlPzdSNkqlllO5w5DEbLOdIFxRjzn3y4vzUftGMR6uI1G82MsWTgWgT0nfqMyNnO-t08iFHzFtvaet-IdNvU5MtxpkTnnj0apoHP8vqMiM1O5OBsf8OcmY86Nh3MQmek_UzqAq82FH6JVOXoDiLU7d3MTay51_sklmKCPOnKVh5XZx1V7iRjs_386ftwWj983rS9Qyw42V83HAD-vlCqHrtQIJRokBRyF2KLtif8GnXWICC31WiH-7CelrIWA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Tarissa Revilla",
+        "rating": 5,
+        "text": "",
+        "time": "5 months ago"
+      },
+      {
+        "author": "Jose E. Caro",
+        "rating": 5,
+        "text": "",
+        "time": "a month ago"
+      },
+      {
+        "author": "Las Perritas",
+        "rating": 5,
+        "text": "",
+        "time": "5 months ago"
+      },
+      {
+        "author": "Nayo Aragón Olascuaga",
+        "rating": 5,
+        "text": "",
+        "time": "5 months ago"
+      },
+      {
+        "author": "Mateo Vega",
+        "rating": 5,
+        "text": "",
+        "time": "5 months ago"
+      }
+    ]
+  }
+]

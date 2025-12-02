@@ -1,0 +1,18 @@
+[
+  {
+    "name": "La Laguna",
+    "address": "2663+R6F, Chaclacayo 15472, Peru",
+    "rating": null,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -11.9879448,
+      "lng": -76.79695099999999
+    },
+    "url": "https://maps.google.com/?cid=5896064190612644392",
+    "photos": [],
+    "reviews": []
+  }
+]

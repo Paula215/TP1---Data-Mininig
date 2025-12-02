@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Tervico",
+    "address": "Jr. Gral. Orbegoso 307, Breña 15083, Peru",
+    "rating": 5,
+    "types": [
+      "amusement_park",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.0663127,
+      "lng": -77.0506479
+    },
+    "url": "https://maps.google.com/?cid=4727643976965741300",
+    "photos": [],
+    "reviews": [
+      {
+        "author": "Pam",
+        "rating": 5,
+        "text": "",
+        "time": "3 years ago"
+      }
+    ]
+  }
+]

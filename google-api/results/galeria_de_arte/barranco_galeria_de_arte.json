@@ -1,0 +1,692 @@
+[
+  {
+    "name": "Dédalo",
+    "address": "Jirón Sáenz Peña 295, Barranco 15063, Peru",
+    "rating": 4.6,
+    "types": [
+      "art_gallery",
+      "bar",
+      "establishment",
+      "point_of_interest",
+      "store",
+      "tourist_attraction"
+    ],
+    "location": {
+      "lat": -12.1435759,
+      "lng": -77.02392669999999
+    },
+    "url": "https://maps.google.com/?cid=7373110587341000829",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e-gqToV9GWn2FAfTSwq3v8P01PCMyS7iGh7mnZzBDC7CE-HylACDOlHnGRyDEuVq5FWL6EvK5A-l2o4WB3T_MhZGv_hDoEFfAu309fNsndTFAfZR0Nt-lHBxc_ZKVR53O33zd7UBM1JxuONE0gTUVu5l5GTkNI2Orv-eu9ihWxGTUpkajNvt--nmxZ86Tjr-3P0M_3d88LbV9ypWCMpl-ngGxucVGqr323ZChflkmUraUkNJulLt70kTbzg9-ekb12u_2vhkHvME44lBYmr8aAV1um4tfmYisG9bIFxB9yLw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fcxfGsOTRdSVeX4Vng-DH9bzuO71t_Xheeq4yAyv8OUVDgjWkTe1zonYS6seAeZU9K3F6u98wgtz5HIfEzbsmL70jNqALi4pSKKRlFHTuDBtK6ptI436prsB7ju3TyHA0PGzLSVK0IA0eqctogtXo4dtSEIsT5F1L1lChumRhbBKM671-5vXdET772yVhB-EvrbaeighHGI4KtiRcx7eEikDXae6WBXE46NkHu9HDauaujvatJNQRDxBA435W0Ekc8e8ZWWBBEiz6UpSFzWIF4t4iIeaEOeMW4VtZACcfTiT2XFo3uFwEiEMqc1rRJLL3jPHzMzBSbjvMSjyDP31R-6ybm38ztpmk_DHrBFWmyUnLM_PlBbJBRJh6f8eukeEdpdZNfY61Jtiij4UbKCAfA_wSz-1tS39JcIHAsGl5cFY22&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cxKzWLY14mmUM4IIc7Q32fuATnH8JoC4hds4rO6JOTRpngeU8ZHwrj7-UR7OXJXukaVoseOPRM38PnJuNcep1D5eqzHwNFXY_atZ_vkvjIYhKCs9EsauCLgvoH5wbwQeVpuMnZWOYPIGUyEAbZzJfzLd97xM0uQkdN73QEJlzctj1mrIRswF1zk3WyNe9P89uyG-zSWYDPdzlqORg0sEDkMA4KiMFhS-Flc-SGejRRa8U9l-luQFFn9gG1HvOdd48UtqzN_wTZi9YwiM6KYfnPKPh_UghyNuDTQXd3kbdf1dS-1LG6PvZaWlMKiUm29qgJ3CjP_6Vklp0OD-5T63WJGKp1Dx33zXrpaMuVqrAGx0g8V7NX3a8gwjY8I30UxutOsZpw6YYgTwTAffiZXMEEvMEZjN2p8TjLHaUT6ENiSEgs&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cMUk8aLHV413g5PaoYbYqsFaOrUjsdx0ekqGTIvQ2U-psfacVfd3bsff-STOm05ZzOGdSDCTvMtWjVJHgCpVxrwUYJ5Fwiz_ST9FY9Wkg4zRVb2uE3HnhHWmnXwHRTVaUGd2i3HwVVZbROA3KbtCYFtPR7CZvfD3CcczLnDUgMoslGOxnowQxpeU0GxpU8vbIdHS1zBUiQLWQrDB3OD9Z2Q0uWR-2EUEXTCor1NlLPma5RS5oUnpvfP9JYvVBG__RJfsj-xS565ZHiSc3dgXgJNsLnF6j6yeMQY0jHjlx-FQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fPqmsZvhxqiWLANJNAUMiUtjZYQeT7skGKuKYCJXyvCca0Oj1IrllvikBKyr-6jgQUqpdZ5vwloFsSR9hp2OdkUxD96DheH6TDlrYv_3h3hW5xAkgwA0pFqxIWXCYcuUNONNZYqvla78r-1_OTjN1HnQ6enx0RyA0R1KF-22oCFbtKc4AGQVQSR_nnsQ64YvR4yGbB3Y87c2fcGnvSjdjndFrx6zvMcjEwApY2ojrsSWhBLkk7Ro3RXPnDEx-YClq5G_cSU0fzJrySwv6iOyx__C2DZ5Q1G2wze3KsiGTnijOjcJk9W60s2peMHSHmbqsCKXjm5K_C_R88hSr5mZg_-a0L4duRAIRbF3COnqWiZE9siaaNddc-PXUi8QXDIkH3jHJR9dyD6TlM900vOy-K8oBygKT4hojuY4hB7qUpHw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dk54sk_9i81U5irucheZ9EllleEGv4EzckVpCZlH7IpXpOaDGwlE11ZnrjgpdULxpZAzllIz8gom__ZQiWWsfMv1kOtz4HIG12lnU7POafaUpF7dS4olEovOyY7CiKXOv9Dbz4RQA-mKIoMuuesMoRblbnPXq25YwYhNhUn0NyHPFOGBnfzL82vxYx1MavRVOWrChI7FJ0kk7cE83eNU1UMntWZtIfyLdNruBkTVBxcd3DVsWon3E8vZzPyx2ici_O0QVBdRLFa6MJTp4CKYzQau-msWkJ0tfVRijibzpQqkv5Q5s9lHYqgQqP4qcLSjF0ljCWQa1hT1NsdsUOFqgpwqrq9jOzN8ralSbFClJAGiFxuU9HqRI7V64ghaGrkQGgc8tnsOw6Dy9qrQxO1-fNoJTbdXqsIgWYbG9N0LnuOA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eho5ExSFbKr7Vj2ksPIxZUzU2ck_RT5MwPRvtR5pTsDAGXNSG1PgjfmMwohWqStAnusyeCZ_YPwr-9YObuG_FGvHyCptjxxET8cLb2tWrtUeNJlXNkreNnwrh5oJN8QHaCthMYTkFsbuGjslWgXbQ8G6zdcinQspLGj7B392Q5QOXdmZYPTnozX5aYbE_Mlj9h6mJOZGR37X3T2ZzFrmvKNuM1aLDaIvyoDgBdIs1mT0MmlIz0VGnQ-vfxhlxcBHfuOA2I1QG14rxNwycGScPRxw4WJva2w_9Ottsy1BoNPYmPF1tbbX_ceheA4uhvLMP0TLclVgAk_ja_N4w8mTkZ_x2j5bPGRWgeFcv4nPlg7bfhp2kFHRxmnH9yIrFdVyeVw8UQNQXxVYhl_niR71h5UZLl8s_AhwKNbpIDcGLeAxP3&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fqPa67ux4-gx_wIYRP5npJ_bEEg4ATay5Xgsez9r_1dGkpt8PazZ13F36R4talnElj7U2ZF4WeFWEcHvJgBKt_L-p3kS0l0DL5k1Uz9E1tcyQgxvjo5GarZ-_xvBVn1PlneVu0eAh2l5XR_5X2FMnPNid2tahc2qS_9A2atHOzWo7t_FW-HqK_jjsBXI5XRZB7pn_HMrm6LaEXBVsycmRIss-wwf-s15CtlDJEq_rhpDEUJ47rk66AFOFqhXpzMqSneEdXsnx-vcKWxySQAhDG3pbvHRukkjQgrs5ZI4QkgvBBwCCVYE1eUlstPEHdbLALw-2fiXLL9UUIELCXmKhyk_14UfY0I44BAHpV1oVVuXHTh_sLRVWMnEHlx8uu5n6_4W8sRoFqanKpRTDdRfadqJkzr5ZpznkgswEwEa_uqmBy&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fKOxB-r5m0E9BtP41uo51wZbUjgImxQNgJIIvqiaXDGK5A8nriD7pt7dLhBDee-Eb_1yFwB1If8WAGtDo1K-rrT3R353h7OvyHh3a5wfeXZs48mKcomjM9C20L9LtgrO7RD8lY2vedtbuhBYoVTxy3kAMf9mduL-Ce20-bv0QxqQsiZVGYhTyiC_x1GIptRf419qMiNRN_tvhocc2t7baXRAYcDwcx9RV9Oi7wrFaV5PvOv-O_mUNsiGG1ff_QkRIgyhDP97kmZeYVZnlTo_echYBfZaR_kaPVEQJbPmFqyBlbcBRpGEDeY93ApUSFcv75IFeJRrDn9oi8XNFX_7pXDv_MtkLWqGIrVGLiilY1iYvDobLHIbpyaV--LjFmaT3bj5YNCKYwprrQX5fruqiGptNVlDa5KFfT8t8Ql3glFNOG&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cAxmWsoeeXchhRcEmluf3wiUPLvVVjEFxQVNN9-68vDIwQ-F6-NiGCp3qvVoFSMP-Ck52FNXVQ44HJnQPmr61h5H9Y3dnUTtyZ6SQWzXLcj3fvkksXvSE9ldvaeelZjypN1RVQGZxK700bTq6QKnrNHMafsNWWoMEVxMbDBu8x1g0-GIyT3Bk1xwe-n34yRU_YKyBrLHFMpxmrxgnpg1pDxW_bG3BtCt_y_I6GdOW2hnZGCM9ddneverUMrufmQvKJEAxPZVuhecFX1s6eRb28Avc03v9O_d5oeC7xdbHp3IOKcapFKJ_I3cNXh43py6f8r7hPwgWZl-puJ8x065DxMQoDLUZJvjnJRPlf8Q9lOMzXiKy9o4ruOg73-DJShq9amA0BqyGTFaxopJ_c28cQdacIEISoWkSEz_5JrKo&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Anna C",
+        "rating": 5,
+        "text": "One of the best gift shops I’ve ever been to: a great place to pick up unique upmarket goods by Peruvian designers and craftspeople. A must for discerning shoppers!\n\nI absolutely loved my visit here and ended up getting some unique jewelry. You can easily spend multiple hours looking at all the rooms, so plan accordingly if you love to shop/browse.\n\nThe shop includes homewares, clothing, a jewelry room, stationary, toys and kids items, a small selection of foods, and even a courtyard cafe with bonsai trees for sale.\n\nService is second to none. Associates will take your selections to the cashier while you continue to shop. Beautiful gift wrap is included with all purchases on request.\n\nSome reviews have mentioned that perhaps some of the craft items are cheaper elsewhere. That may be the case, but there are a lot of brands I didn’t see elsewhere and everything is of the highest quality and carefully curated.\n\nDon’t miss this store to check off your gift list for the year!",
+        "time": "a month ago"
+      },
+      {
+        "author": "Nu",
+        "rating": 5,
+        "text": "It’s such a cute store but prices are pretty bougie too! Great cafe at the back. Worth seeing but if you’re getting souvenirs I’d say this may not be the place. But for one off limited edition items, it is!",
+        "time": "4 months ago"
+      },
+      {
+        "author": "Eugenio Costa",
+        "rating": 5,
+        "text": "Amazing place to visit and browse through their different rooms. Fabulous art, handcrafts and alpaca-wool clothing & a beautiful café in a leafy courtyard at the back that's hidden from the main street.\nIt's like visiting a museum, for free, but you can buy some really nice souvenirs.",
+        "time": "2 months ago"
+      },
+      {
+        "author": "Karl Torbicki",
+        "rating": 3,
+        "text": "Customer service was amazing but triple check the expiry dates of chocolate bars. The kiosk is outdoors so perhaps not perfect storage conditions? The bar I bought was bloomed and had lost a lot of flavour/texture/was near the end of its shelf life unfortunately.",
+        "time": "5 months ago"
+      },
+      {
+        "author": "Austin Chia",
+        "rating": 5,
+        "text": "So glad we stumbled into Dédalo! Such a cool spot with an awesome mix of unique and artsy stuff. Perfect for picking up souvenirs or gifts that aren’t the usual touristy things. Everything felt super original and well-curated. We ended up spending about an hour just browsing. Definitely worth a visit!",
+        "time": "a week ago"
+      }
+    ]
+  },
+  {
+    "name": "Livia Benavides Gallery",
+    "address": "Mal. Souza 252, Barranco 15063, Peru",
+    "rating": 4.4,
+    "types": [
+      "art_gallery",
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "location": {
+      "lat": -12.1453731,
+      "lng": -77.0239556
+    },
+    "url": "https://maps.google.com/?cid=11292972833095927985",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ekl9kFwVoww26HiuG-ss3-dmDHdS5qIo1nT1y0ny04O2xMR86aUZH63wz2osVF5mFjbmOVmI4FtWZWEtpf3Wj55HgInq2M3NsyZu37fL2VeFFo0qVG6PyR6Y-douTmr4E-nlJA5QjOSmJlA-JSa8aXFlKN59qQWzyFxk_3UgwVwdR-sbD7kumojVaef2iIXvmdUnhpSC1Et8FztuWbSCq_xBQKqPLw5rKEwoVfHMpFcXfdP7JdK-zsMF6saIcFNtXhkHAN-lASx2T_DEd1-ZdGYHZViquSRjwhCB8hKQNXuA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f9qyhs2_L4ETHrlZuHbYpJWCnPlP1ueVqhP4K6SWW6FuYbTu_rP2lo3HBEJ6EsBxkfOmhieLMVKM0hfKc0_76KrlwBTpOdOgxlOm2IRho8Ae5fl5EnDoOo_iM9ZMVgzaxr57j3_TZI68Y0R_vFI5b9ydRoER7KGdMqORmiZwramndDnF7UsSoTu5xJkUqEFm85ZGCwUwog_X0T7mYerUQoFaKoCxKNAMX6RXL2GBep8YxglO3l7p_t3myrtqO6QAK0kr2POgCQgn4VBKG2DhfVdYR71xHa2_AHM6Mik4Ov3w&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dDYXA6Tm1_3n31o1oc1PHyut7YSV2UWw96fLrgagc_qDGxOqtUIQ7KBcAUDX7wVxS3VDR2udi5FW6_I6kNwByySk64ofP16caAm2cy-rgfuNBauy7ePH8LU3X9Cot0xzkUrZmVBCVXcQgMCsAk3FMJkMirc-iGGPDwYa-QdbUJ_RkuXXvi9x5x1qPJFJaJGPUzp-ANJ13fj6Jd1pPYHdY4xY1HtdU_qCKR6Rt278q5G8J-AcwVstJCeCG3ilo-9fX5k8rcpiK8TR61ukkiOWjeLpq10QbWHVtjdoeBtmebEYHjaUrxxTR6Xg0W5G4nhkeVnol3eOnVMbrCBvtnXkFuPi7EPXxqIgEa3mhRShE403pAltiWMou9tAjkOYmSbiZeCaGEs-kzFskQ617y72rzCuxSh3sjegcXF3v0F6k&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fzJxVcoStecicUfgdEWOIrFyOWdcMl6eJlrJzjBE9oX0peSZGaZ81q-mj4nvRxdk7_GMUcv8XFYuQEKxUNQDngZx4pFKM_uqj1_rwxu0KWcxQFhX_32KoUOOfWkGzbJ3b_K_FHe5wIhvLJ5UrILJ6ElhYDv_x6OdREvS7vTiVBgtc4eHQpyWmU-iUE4jigQQhv4cvGaivLNIFDBRwCnH5Js3q-pzhWkjOYXrXTBrAVqeoNZtOgiNmYSduuAGiKzjedCsQVuF-8cQGifwehJ7jsG0bZpuoXxgtN-nICQPC42PSej5p5D_wd5rBuna-GOoZ9LXv5OelVp1kzK8nCm_24P70CnUmS6QEm3jzq8VGqdngOfYw3WTuiLvsF0w1VUjxybNT1wA8kqa3vhLDUjcwXKpQmJsg_DQNR36XXgKTb6g&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2flBCnyoeTrWd0g1IBhATN2e92ZMdtj0ggrUplrot46FSRMKGExyAYB5NRd5_Db7JkJNkbEybh9wKUHWo5koQdu9rgQcLNNVsxo3n25hECt5_Wus0RtxZFrUzkIB53oLUhv6KApKkmPecvN-uWCHR5adrxZsbQ_yzS9FZztEFAe69Do8t4svt6scLPSV4dB6sded0gcJBXtpvU2Q7KV03XwuYvHg9HFuhU-4iRg3lnTFFpV-pvw6aUiAZj4thJy2EZ2TOg-aI6BxGR136Xo6WHhPv3jGTOafwZyp8xoA53sQ4zbS56TIwWTUbG5-X0rhxc-_o39LdCYSVuhakUzPyO_0nxGF59MtpgFvdgIT3ScAksuGRDjpfWoohziXrNvjQBUG22XDQSyNLE-fzK4-kq57TeJvA_c8Fkwjnsx_YU&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dQ1wJIvvB_MKS46vdaK3mZt4LHcwq3-1s25zBZjvIEzU3MfNpuy3gkMQO7EaR-N4dyGrA0rZ6kS5VRv6oq9i5FxBE65s87GvADUFrQhguBatbhNb6-AjeFnVFL8XTY0My1B5I5Fe69TUGCOtlh4rZGej-1iNQj5ePDROAtXoT3YWlcZMktFI2TRbM6Qdl6PXAwm_UqwitlgirS2Gb7Q9_kYmrZ3us0tBKr7-HadYXugVgsWGza7yBf1QIrNolDnS6KzN6LTNP4FNcdAYKaQY33Q0O4Bsh_bA7YImCTiwq0jXrchJKj6ZojfZvfMKctU9yK-m6TrWAPePOEnlf4Dwg1DZJRlkAXLQKTj3JV6FLOCdWxkXcr6zqJpZkqp9dj3EUGUV5ziB8GWNF_yPFthHWfc4kP9x22aNZaSTmbpnM&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dhtot8YS4sybze6iP9vf0DhzshVZ8Xr8nVOIq8H5F2N28Lyw4XeKgmI8AVVAJVJ-17LFtTW3J-QD_vzHiPE8zijWTIOqJ4YdlgpJL9S1Mv-xlsc7vZLxr6iEUQS9Kl0OobNR9vOufFz-VdTj-vy3T1cxfcUAfJB6k9e48pDEWQKMcTeOaM5eLNutnHPbkypsE3IviBNKui-xNLu23TlPt-gtcqc6HV5OHwrQUqd35ucELqItX2NwxngD3sbf15ssmcBL589ZGop03J4VyFoMfddkZeh_wSgIJDKqfNQBMHvlgqBcAH3yZ8kzISJkdq2F_9ZtamBrAA8Ne1OGn5KMqMc47YiZNSKc5cEPaP1Tem0rdkmYBRybEE76gGMx24QvhwuBUiGNW2bkwdHeyzo5qMkBUybjb-xnJfIo90jq4NTA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fOhxG5F0FGk0E6kLdvHIaQ_17J_XxXWAZOlzV1N8XrMFcWOc0s5yZmMVA4VDi3WK3oyeTzq5WznlAJLbIvqfeJmLbDfzF4a5qNtvcE2NL1hj-XS9v4L9a6mQC4EyhEU2RtO7H9AP7wpNFoqihTYc-L6kiFm8-8liejw0_H933i5OgQgRhOy4-1eiJcRdGgHZ526_RpJhsRKU2WuHdRHwVEgR3TA-S_Ct2GUjPeK56HD2qgfz8aLxPfwGQeENQDa18f6kFcTF2JNOqt7ZFlI0Wb5llP4bUg5mXI87ja0eEuijzNn7aooRCWmGcPbLJZGZS5WKaa6AWsOller-Iw0Swls5IHI2E_zLOXmd-qF1-eopAKZdM5tPMSDqQf3snqHnVPW_6Ru7Z_BXBErLrKR5EJ5_epysBnH6sbxsJH1hc&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fRzLwDqhk9Lgb1-LmTzAeOMthPEsbtFDgiDFbepzzsJP5DKff_Wf47V4hVwpTSe8jfdEPmq4FJtFKxcBj5AdFIiorlh9B0ob9sfssKb8MMj1j_5AkgmBj7da50H4MMrF0uOIWaaLm2HS-igQFJsxjZ8jchlOEr3wf8gcmIRgUD8Y-RUpDKAqOcqI66DaOvTLFKI3X1eVPVOc-TyKrlLHtSYWy1lmDTYfk0TqN4NfdzJuVahfUcIIdcvJ6YT-83sObcRcEpHQ3je23gNPtaUBo_b6MT1BpSgwhaGtnX2W5kqU6cPzO9ZMPP_0xwbimqdQKTy37jA4DWWIfmrwrn3jAvFeFQewzSxE-kyBfBxYEOUZBMFgxju4rnfPZ02cXgHTHWUGwIaVnzLkD7qpbPMO8cczJSwg-d4VY0DVOnZGs&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ehOiLAjfBPo7CCApBzZgv6Qj_O-2j8H7aASJhOgt8h6hUgz9n9EKGzbbPacu8qoCAA-q9JATCj7MCmBPUqbPDNodrV89FFWilYC56gPhnJ0y3ZhsvY39oljVF9KdmOPw8imainzU0HfGipmb0m90W5qlKMhu0TbxL6zG5T9yZ-vLgZ9NJ1KBqAPTQf1_S3lO8am3WBoElNir2uw2y8m4g8dErRVZt67fF9xa7cOmS1v2zyUna9IdhDiCq7jn2BtvMiN5H3X8IOyEdj1kqKEFEyEWwA886JvoFLU5yAKXWHs_azT-x_cbpZDFUaDpkNSKw3spXCuoh2WGgZDNMFpPUV58_Lakzq2QmsAd913vDxnTRQkT_euU6FbCAVrMvUMDzOXkQ35VQ8ednMM3Bodon7jxCzk_daej3M5cCNmAJEVVU&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Gabriel Braun",
+        "rating": 5,
+        "text": "Beautiful host",
+        "time": "6 years ago"
+      },
+      {
+        "author": "U",
+        "rating": 5,
+        "text": "A special experience: you can enjoy Peruvian cuisine in an old bank. A must in the old town.",
+        "time": "a year ago"
+      },
+      {
+        "author": "Ro Mantovani",
+        "rating": 5,
+        "text": "Excellent option to enjoy contemporary art. Very interesting proposals from the artists and the very well-preserved premises: well-maintained old house with excellent lighting",
+        "time": "3 years ago"
+      },
+      {
+        "author": "Juli Virgili",
+        "rating": 1,
+        "text": "We are an Argentine-Danish couple. We first met this horrible person when she came screaming at us—not talking, but yelling—telling us to leave the parking lot in front of her gallery, a PUBLIC place, without any signs prohibiting it, with the security guards patrolling all day without saying anything to us. For three months now, we have actively chosen to get to know and explore all of Peru, its landscapes, culture, and its people. We stay within the law, traveling, leaving dollars in the country at every place we visit, paying entrance fees to archaeological sites quoted in dollars, making purchases over 300 soles a week in supermarkets, buying tickets for buses, taxis, restaurants, cafes, excursions, laundromats, local crafts, museums… And yet, we had to endure this horrible being screaming in our faces that she doesn't want this kind of tourism, that we should leave, and she didn't stop kicking us out the whole time. Ma'am, if you have a problem, you talk things over, don't shout, especially not at those who consume culture and could have been your audience. We were there for three days; at no point did we camp out, take out furniture, or anything! We felt completely discriminated against, and there's no way back from that... And I remind you that in Argentina I also pay taxes, which go to the hospitals that our Peruvian brothers and sisters use 'for free,' BROKEN FACE! I recommend spending your time talking to your neighbor who has two campervans parked 24 hours a day in front of your gallery, instead of kicking out those who leave money in their country. I recommend people visit the Jade Rivera gallery and museum, an artist with beautiful works and a humble and heartfelt person whom we had the chance to meet. The murals around Barranco are also by Jade.",
+        "time": "11 months ago"
+      },
+      {
+        "author": "Eliana's",
+        "rating": 5,
+        "text": "It's in a peaceful mansion. Today, at the beginning of May 2023, there's an impressive structure at the entrance.",
+        "time": "2 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Wu Galería",
+    "address": "Jirón Sáenz Peña 129, Barranco 15063, Peru",
+    "rating": 4.3,
+    "types": [
+      "art_gallery",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1434683,
+      "lng": -77.0229097
+    },
+    "url": "https://maps.google.com/?cid=15930333488351006399",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ci9tVy4m4n5OPgnfyst6sQkvJWn0c4J_PnswNQdrJCYS3uxES07kuLP12RKgjv7ozDEMcQsoB6kQBcOTTjeqpcIqh9bHBIPn331R7J7b4BOqKPYg2OK6837Qr_x8MKOTMDQfwZ7Xtmwzmvo0a9_gSHEVduY2wvsPRFS8fs0TFOnWew1S0MVVJeMW_h4ZCXgIfcDjWMcLhO7OPlvVGj909Mv3fmNnwj-KOGt4nyJF2JxbfelVEW6Bxes7thIzOcVxxsWXnAucV1CUzp4-T67dMzCcIzqqOLwIMJ5QGzwuvXNXySn8qEHNcxoOMLI4kqRb-AZx-W8BMJq5IkvB9rRcZnd5mNpo77t9Eo8nYBdeBKaT8Lx0PC4LwbfrWvwT5cN-Jm9VBH-SFxJAnA7YKRIux9Xa07wJvCaEyTkl39R18m0q4B&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fORKPBSHr-cph8Bz0J0yXvfen_89akYmbzvy_sYy1kO1U7TV8zxhtSiydye8PjZKkwHVmY9M72FvBXw-zWs79SeXSwNVbAjw8YH0nOgalzfxUFSUNNiBnahIxmWQoo4cx6ETo5_vA_8wA69adCBpY7_087-T3XGGJnlM0p_OxTP0Yh7BaZrdO7UrsUiMdmQQQj03L1vU8xZ6IHljtPt27zu0hq-1P92qW16ww6ifPhsItDq1r8lPe9BXjh5jKWqz1PsshBHtwV4vIOeFFyC75BkFq3-VYxPBZtVPfZxup54TcWLtW2ZHIAWGTlcq9NL7PIAJY36mlTjJPyqG6Ru6rMPRD4hqG9O4FYLuPh4GEXTpvj3Oz1SiwhUpq5xLFwTsF6y1qdF39SDxNM7JZy88p13I6gMiLINaR9w5ZCDF2qp1WF&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e7mwbP5P1AJak3oVu7hMNqYDUQfAiFTaSRgIcFWns8TlsZP3GfcdLlwNa8qui9MBRtGffO6IoWY3nmVOWBc8jVOED5GViU5HwLG-v2vQrPGtyFqnCF6B4ynD5AE2HSVsKfhoDWS6it17ZcvRw1GtmAFcrqGbZ9B2pUOvPfGlVaRrRP5ZZlXbV2hLn0JphbRk8RCguJS5xB1NifUcedYQF8XT53Nx1WMgtJAH9f0JLl-3oanP48yE56Z21Me8Fw8ouNLZsp0-pmi4RlTIrcWNInQlIe7IdgxK4SQIq57gPPyRfUbVd9pnMQzjoL7v74DDUeUUtUnqPyNjC5oOcyNaGyAYte6lJ4H8HHg0ksILr05cqNxZRl85xS8zAITvziPU8DwgrPbXeYjI1O7iRUfyGo-mR9V8RxLKgHdQcLV0iFh8aD&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cJrrAGYvNQw1zBHbVxII_MxLEnQlEEQO26GpCIz9ZLbswbJZeeTsazp9vA7SOOatqQH479pGSwAmyRhFJ1u7xe7ehY56lORZUSNYid2LVxLe3gQxb0FSzcYtWLJ8aJ4ibWmFV-gFz8JjQ6bFmd-PkarVhNXw5jzsN2uiBhznNj7UVIASWv2R5EINVMD-ZOnRQi89ZVYQgS50TQs0AkTu1T-7_ngPyG3rDdfzwaVgeJgpBH3XEugRDRr13R8NOj8higuMBfSLcPpG9eGKPrlmqWpz8CBHYSCXIokoEyEI8JhV9gPjFiE9MLQYmuabmPd0g-Z2vkQXvNy6gbwQKe42hOcvPuTosxLxuw4TojCvQ5aHLIcUYvKhLDqtRyyIWOJpD3AjZXgVYAriVZkZEUfUGbPpUY2ydoDi7ePHHx8xTmqA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fDksoj_bJHCFWo7220EhvWX2DweE_x9n3Nd-VDg2G9uzRSIfvM3bZ50X8F1wby2TFbcpJ6PVUDU6Y3PMGwOzuS8FAyTQwniPlZlrAh1Axts9d6_Q95w92LRSc1cBr4Snq58LkrjT-msQgqTWMZoAX4oDr4OwhRf44yDJ7fPs9kNcUIGIBQlLyPWfglJmZpkUJUHDrZKQMKijh4tQbOpMsAxjUX7y8-0xcQE4yLheF8LzuOQS0HeFU-VRyqyb8QKMqBX3_23wweJuDi__krkiLnK2oEkb28A_4m3-zE43GIVrQyJb6XmbOqw49fbl2e05Xov1V1koTafyq_bDVL2eBpF85OH_y-RFmBjkwfI2vBAG2abCFmlQJqkqmbhSVR0JIAV8pgPYk6VSMDcMyarhvf7tnOigzX_HINzsPWhsZ5Pmq8&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d9aVD88qgXKZ2U8bPfD2YnjcNihbkSzs7i6lXs0NIT3DbxAHRCM3BhlDOfK4aKZQkBa32_eP8YqTkuuARZSZYJ9wbynkstFaUlERabi4LqGBwvOIzgLC010xTpyC_coDgm3zo8IUiJXZVt-y_TqEbVk-9MWmSPufSTppPqHIqw1Cw7E7nVGKmEJMLboQfxQCUtlBGrHDBIrQLPhbeyqyA5Us7GKUp34WFF46cCloYU7Pp51RGX34HACmU8wyPk-Eea74DgCghHFRx7Owo6e1h2tHcaVYLJEhgIBhAAYm2E5PwV3zZUSfDmF2F-FW3BbUSA6dghDtGaxcrNfouf8L18TchUL7prG9ed-tf_ezJrH1pmJc64jmbSGebpZwYMJz3VMWKbd7inBsjuzPz0BgBb9Q4Qlt8YtgfOPw2_dK7MI1Il&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dkTIEl9GBHto769Y-RGWoNOlmIRLudKrU56XQ2c5_EV-PatGh4wdFMqHeKKDmLf2lh5YVpAMst-vy5kQCHwEDxLDs1ISyO7VsnWLp1Y4wtegsG6R2a6iAWWFH_rCFKpYH4zZgcKAmA__q5ipJzUEkdAw-HptWT-gFqyJLE7OkVyb54XeWvzYRTEVHWeExWCIBe_ILLSA6-tm01nWwZ-s9nOXgZZkhqnhpxghczspSnV2YT2fP4Neh5Zx3gPoZhEUz4pLG4hkEe25T92-HXj2d-t5A2NBDoHR48QNQXilAfhVet57P_xXlgL5NTcxCsWR9vVYX51c7-dzwEKG_5kQdiBg_7W_UNVZvE8LYO3oJNEVyelsPyDwY7yonhSn0lMPJcyOjwyq8vGp2_DKXZQMZ9S1948u0jt25OZVj9wUATDw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dK6yCpxT_oHld4wzaO_w9YFrw6cqnaH7II8LDcmnAM18ZhCDNcci269n7rksKJMf_JGEfawKpK-_dPcaagrYRJktzRDmI7lTuKZQvOIXm3jDdL0ZneHlpuSGrhqwWfjnwq1-XKwYiuuD2PsclNCfIiOpqDN06ZPUN-CYtGu2mu5E1VK3h8HPbvYHoNiDq_nXJQrPTowvbzpFvNBzZ1a51wJSs4K8cPPwTRepHPd-SUBViTLj7Wtask0KtqlSeZKZLEZTsIiztMr8o9NfP8N7uaVqWNHr1-XnFtvwAM6ahbHzmuUaEJakJ_5LF7f795WCZXYlyHCTjTpGOdy1FifEuNyCuZGWVEceoaV3MOiwJKRhlhXZwrbDNftqrNaFwfuE3ip_CErFdZYTnZhEe5euvBxjZdM4mnJldw4uA0RMQ_yQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ej47_6efS1IhEGsM_ylGMlA_2Aij4baC5IPX8LGzaJLSdSwN-eM43sI_hQfKEx5luXJjDuLRgQkfN1iUeB1736_3nbY7EjT4sg3-PIjV245j41OSrY7ORcyGooK9ArBVQSKLkClK3Dq50QpyR-BfbL-QyQgFhfupN0mj1JLfJMl_zNz8IFfqfVz9YuMRltqF3cSlTS3vdhdulwCe1Mkq5dh94d0vUzvvO3yOpga3WtqHabY9ldOAvqwbN4scWtmpCfZEmZ6Xm5NwHbu89Gdw6sSjkOID_n2qCY5qTw1GxTP_yhdcnAz9xC-BN0efUtsclvOFHT-o__-Tb9a3d1jb4nXK2B2Y7Hib5ubRjPKxvKF1ZKUIdpJPcDFsHjy2sZppEP4WX-Fm5aB4hta_Hp_L97z6ulr8bn2LV2r6QnHSM&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cLe8ii9VGoAVYxd8pyyVdUZFem_vNn9AzpeZ9F9opeCRTGbM1vgBo4b1aylZsHwVvrhkyrxEyScAwaxF7M9BzMnBhUNPwEmdICCIE9fh84otb3xWnxe8bAN_77orBiwHIs7aTheAOYnJifb9ouia72s1vKznHQUohqz-G8-4er6ptGoS9vFtgmVLN7OSI4qXVA5z-s-8CWTgY54v5ySePW6m42e7Uq3q4-yjEiCr8GibaRBMKYOySVuRPXAMTr6mn9O6vvwyvZyXuyiO6jIhU8buOCg3RUaZpIuFsuFjku3zf79LIYepNILK4dz6FT6vyV5IYS93m2L7ZkPaQN2-AScfkiu7poEUCN_NJjo1QIYqyABdevEWi-ol5Z1hjg62HFUCILGHYMe12teeuFfOR5-u-EBvcsJ9_jVlJPZpHEXg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Hinal Patel",
+        "rating": 5,
+        "text": "must see gallery & concept store. shop has some affordable and unique pieces",
+        "time": "a year ago"
+      },
+      {
+        "author": "A. O.",
+        "rating": 3,
+        "text": "Cool place to see some art pieces and to shop. Has a decent selection of foreign and Peruvian brands. Knocking off two stars because the entire time there was a guy (a store associate) trailing me throughout all floors, watching me without talking (and sometimes pretending to be playing with items for sale). I did end up getting something but his presence made me uncomfortable.",
+        "time": "3 years ago"
+      },
+      {
+        "author": "M. Ban",
+        "rating": 5,
+        "text": "🙂 Excellent, Like it a lot.👍👍👍",
+        "time": "5 years ago"
+      },
+      {
+        "author": "Agustin Betbeder",
+        "rating": 5,
+        "text": "Spectacular.\nAs soon as you enter, you enter a new atmosphere. The neighborhood is beautiful; in that setting, this place is an oasis.\nAn important fact to note is that all the artists, designers, and artisans are Peruvian.\nThere are very modern, designer pieces, and other objects more traditionally inspired.\nThe place makes you realize the enormous Peruvian talent.\nThe service is very courteous and friendly, always willing to inform you. Recommended to simply explore or to pick up a unique piece.",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Anilu Arostegui",
+        "rating": 4,
+        "text": "Beautiful gallery in the heart of Barranco. Spacious and with very good areas to display. Inside it has a cafeteria.",
+        "time": "a year ago"
+      }
+    ]
+  },
+  {
+    "name": "NEO Concept Space",
+    "address": "Av. Sáenz Peña 127 Barranco Municipalidad Metropolitana de Lima LIMA, Barranco 04, Peru",
+    "rating": 4.3,
+    "types": [
+      "art_gallery",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.143471,
+      "lng": -77.02284990000001
+    },
+    "url": "https://maps.google.com/?cid=3328896446520606534",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dKngMmRaiAFCZvcUWLXQZC5_8eypycc3vCLgnk28rTa4g6RwJ7Q2CLs_efaxu4OoE-WIJxgdxFLnK7QPtNSd1ay6g6d14hRT4mfwBCNeeAURRM1gs7V4Y8OpuLFQOiqOsCqmU2po6lbDlEoppNygGPmFIuSB9pYNsawwdTn4EwLVcwFvvel5AaunepZVdETzeT--C4OGmysVZJ9jwKZ15ex4Lqw_tVUBcQsz7qRLebSzvC3uKEPnsU5V6zIeGCmUlXS08sOkdhjHO7LsKtF75BbG9Nh369IJIt1b25jXpHTT8aBQrXeyUsFS1noH1YzikTUKISC3YsF-CDTT7QYmB3Hc8WHyar2jujyEsGLKUQHEs-FHPCGl_QZZce4rO2Dp_-oP2MNpyK3V3Iq0eQfpZEMstYa8L59klU0UkKujF-g7Lq&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cDhfg6kAh1Eb0Xf4zKCT1-24M5mc11jV2TGQ2PRMHI2CRhTPsjtqC52gCfXfp3HENtMfPVYN8s-midTJK5D1WBjSEbzZtzY-qDuaMRdZV0fp96bqWmRvtWPGsWOg8-8kR98-F1_pufz8qZTGZOE4js6ffrBr-RYo8Wh14YFkReF1TSpefxEs_LjTdEzm1wnCEoRkn6cQxzOHuJ4vY8BggEs7SHrjd9OcWIgsKM-7R3lu37DLJU-CsaeBK_PX1pTfl3eDjQTy8tdkwB3WXRTKYGzoGjFOrSZ8b3lF8Zf4w1IQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eJ1tkB51IWzwFbWuZu_-3S0JU14GPgsH5hsa8xkcWOx8OxSXCkp-2xcUBdDakfyuGCZDO6mzeSCQdqry1yjC3uO04QazTV3qXSCJFOeEua11nFG12kTl8h1ZU8LuHJluJNBGzkpTdLmuLHNjr9rqaS4gn-E9wUQJEXXgAwJE69tz6R_G-rHMiEcjLhHOxA4wfDYFOdstjltBSCS4kPw-8Q-N5qwWAmDpbRiX4rd79pGIxbWKGAWK60yPiYyJafZwaEKgDLCxmf3FH4NbNUdX0SJXRN2JmaVAMhIrVh_nxHWA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eprgZ_hrkKCrAax--0QMevs7P7SqotMAiobXtYhoBd7keM8WGz30PBsY1xqX5v712xCHUI6lGucd31evosfRHFO_aG4jUGbQWRCgayWFojWTXKUr1WnhFIkV2YrZGTg8-rpcAhd09lG7CnLMU5IsLOexlV-Uabwa7tn98OEuehpTR-IG1IVjprPKXcNcEOsLi3naENfz1LKrrp_Eiq2uO9xXn8B1BHZsW4p73jf9Ftj5RQR_QSeiV-ATYKViqaSXO8a4VcFidC6T2b4yzNLpJH604VcVjoF6tVAVDLwk2sYGLtOdO-MzmpbrrwvMpo56ULiC6iQKq1hLmAzULCbikFrisLpFth21P5o5u4DjvwWCmAzQeRF5yX9OjcEykpY1LuqF1bWTmWs95VyU4x6jMGMhWYi_ARdAixEPMSq8TK5Q&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dU0qR_5YDeCl-fOan4XryvDFjH1w1gHXdLrwA2FNE6YtVGf1w4NUmCOPvGdYhOjGPeWzSPLbL8XXcdZNpw1APszivj33XjYNx_mYbJMj8J9ojBCwaqdsgEjaZJAD84PXAbbXVKdaQIQ_SgkQO6xhajHHnkrrmbwF4LZLnExUEqPoWx17Wrbl0lkXdibc_LXyqJ_TQhLtmOGl6Z2FtenubEQZNfWlvEJ_6UQiR8yKosRWyZluR2Ffml8nVp3ESjPVMVaIgvK7Q7KHXdeAKCLRyJS8UjsSGZWKLnMjE9Y-i1s5VaOoclExFl8569IzS0MoyLFHRB94344vDxnIT8AL2ohsSXhVhzTblxzV4retYkMgkn1UpsTHDmTehG6Lc5MDyLMJ0B6Elw7ZM0w-ywERieDyrF0qAF38pRJpDpc_HUGg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fskdHuuudGm-WLY96dL040INfv80-3su3KSdJ7jLow16onmmr9mkDFxP7-W6gz9CqBLwIr3L__HXjfwSbvMlQtEJ46GMs5X7ad7vtZtqg6FN9dPCKXEZ2-S4o8DjQFsXSRUyXdW8vuk5EwtBsCXwAHmOuSEeEnBdM9L5Hr6CVj5fm-CQzN6e-_4UZdwmbsFCS7AkW92le2HVlDL7D3ZG52Au9fjXkou3oNtaYxMDsJLM8jJQTZesyb_uRzUXBnonfZnKwpM8rBuLByk1hCKPKWBWBASyFbF6pWE5bLarjfd_wf_aTQdHXqv0Avw6v4hRwBUIyeKkkYZlkx8cHZotm-0aIce3mu_pA1YoB7hWl7JfWGUXnB8cZjIEi-xRdLmLv3_3N9MUKuJVoi93KKILzTql0tEyDYVma256YUSrWTLuU4&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dO-qzJOMy80KK1_RPa_LU3RmG8Me84Vm3G3SLKdr6c-S8uIoTA5n5Ss3I5TDoCAgJierJ1XVAeoWsFU7-UqFhm0iuRVEKc6X7WsMBn7Hw9YAYSvwPXxTOqH4Ud4dssZfeCk8M-eCnzHqPp6Y8bfczx8xMn63Vyr6Tq-rfI5MnSz49a-b6fWp5o0QKCJqtWxpI84dGEcUlY_bw8nxciD_KzSsMe0oivstRM15GaBenx-Uwj2ChzXsxjTnXGzlthQcJ9o_83LXKudFF0Ymv_qYfesgfxfv2iQYZXpE3AnLry8eTp_N_bR9lLRdTC0LOAfeBAKDJjj4LRKAVicUKWUokjvg1jgu9obUB9t01DJ1_Ocyh913D83ajuTlmOwpVS1UekvunxrOXvKAJQuXP3AhKG1X-1CTeO5n_4f5-47FgS-A&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d57FJH1m4YN0LlixYy8RDzfqslU-6kOtMg04lxYb3W2jpmtusAvFayCJuYNWS0xHkis3D-qsERy_MtQQy3hq_p62Ih2VEzrz35tkMZctC5oYxastYfHek4ITH86rvP7aBw7dIkeDbQ4yXIbXywOAV1nFerkxbJoRO1bsJm9HnVWk9LbEY_gWDOWqlzLGnHvLGqhpQMt68yyPZDHlPLPIAmIhGVWosLBMxPaADjNm15fN9qnsrnVf_MaAJFnpL0ED66UoW3JTRDCDuQX4gOm_-bdgMe5V7je8I58cAZzKKxlQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dpgVEiBP5WewjT9zSpBJbm2SAf6-vFyO1DG4Yg4zKemQRI0KZaDGsPLado8LmcHKb0h2jSIsJw7n6RFor8tYg1wrX0DwGD1Qvzu_omGqzwr5p8zguHJCy2Q5uc1-X9dYGgd2JmpWuiEtr_c6C1r9sI1vLJirZcj9sLGc4TjJhNMhSNI2tc7byKFjPWFXa8tMEDHhzlOtezJuOsbC_uVcMC6vDs9kOMWNi3d-Rg-Y3PjOYq2xsC_qoa8aebNYPprnwXoIvg7V1IBfHDl4s_U5YJfu7tEAly4gvss-XEMs5rYg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eN8dCNbrq3Aa4Sm8IYdADtX_sSV44EGMUYplJovFQUuMU4_6-TxoZrcSUi8yqvkHTewPeBAYwSAWxC_hUGTSQ8mP0sa9c1oynqvwgQm8UcWVSbTnhlOBWFx8sIfFyGZC-VjJookfttKpeCJBDx_qA8LTWqj6YTOHjj1MxfTRuVqZikw0M-Ducegh0M-z8n4OjKA-FWnZVNt5o4gi6LWpq1ciW6USBjU9ozt8mSjgu_RHXXfBqastCNgDo7Fg51Xg0MW1M65TuwtmIJ2hsClzM9ATxGlb9h7D8hxj4xBBEP0A&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Katherine Meng",
+        "rating": 5,
+        "text": "Love it here :^D\n3 floors of mixed Peruvian designers, gallery-wall art, sculptures, home decor, accessories, and even stationary.",
+        "time": "3 years ago"
+      },
+      {
+        "author": "Nicole Chavez",
+        "rating": 1,
+        "text": "Much like the experience of one other reviewer, during my visit here, my mother and I were followed around the store by a sales associate as we looked at the various items on sale. This place left a bad taste in my mouth, as when I first walked in, I asked that same sales associate kindly for the restroom, and after being told there wasn’t one, I left for Dedalo down the block to find one. When I came back to the store after going to Dedalo, I walked around and looked at all the items on sale. What caught my ear and left a bad taste in my mouth was that a lighter-skinned Peruvian woman who was also walking around was given access to their bathroom after I had been told there wasn't one. My visit to this store made me feel uncomfortable because of their racial profiling and discrimination.",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Natalie Porter",
+        "rating": 3,
+        "text": "A beautiful building if you love architecture but as a whole I found this place pretentious. No one was helpful so I had no idea in regards to art what was for sale or just display.\n\nI did find an item there that I know was overpriced in comparison to what I’ve found elsewhere so would question if that’s the case with other items there.",
+        "time": "a year ago"
+      },
+      {
+        "author": "A. O.",
+        "rating": 3,
+        "text": "Cool store featuring a good selection of modern items. I ended up buying some stuff but this store associate kept following me around throughout all floors without any word and pretended to be fiddling with items for sale. Made me very uncomfortable and made the shopping experience bad.",
+        "time": "3 years ago"
+      },
+      {
+        "author": "Alejandra Vargas Rios",
+        "rating": 5,
+        "text": "Good place to visit if you are walking around Barranco looking for galleries.\nThe place is spacious and there are several art exhibitions and you can also buy from different independent brands. There is everything from clothes to books.\nWalking through the store is quite an experience and the location is good since you can park along Saenz Peña Avenue or in surrounding streets.",
+        "time": "3 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Grada Galería",
+    "address": "Bajada de Baños 349, Barranco 15063, Peru",
+    "rating": 4.9,
+    "types": [
+      "art_gallery",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1491125,
+      "lng": -77.0223656
+    },
+    "url": "https://maps.google.com/?cid=8520306039897250852",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fsqdzUXtg0HNdQXPm68fQwFahvvm-JGKCwh7O7-kMkV36_4M6VV6VTJRcNNeEiEelaK7xyI9sT0lN2oYz1FqCZZ6d0rzU_ctlmC_aFJ9UC2mqtJCSo3JjVD4FUlU5o3iQeQqqvitDiisVW2izAVNl4hhz_8W5gcUi4x0c7pMYaBVeXp7Beiva4BKk8-EaPmHjUEpF8JsBhuUtVq9udoPivPcIXK8ctBtxG3hlxlxNezeqwKDILfMjmKIbdYd8P5RENIPHR1UbQQ96vP0AQj_EIBog_vChCh73Zr3VitGOCEd-K6Lmn315hCjufspOaL6fPQmW0TOPrdbfYBTy_GJkiQLO_fMLngbfALVb_8wqzF2sIXf6ftpsWIOJ5DeS7NCZxqeRcWT4w-_qH1CestaAiYNHDUVYqjyDHVXaCJFw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dNhNKnCHI8dxetipDJ95Zn9RfNQNukdDBbIRv6ac84EI0zwecUlvYKvHmPTyxm6bTPQwR2hGXayHcavL27PW-Xg-Ymk4dFFoyewNH1Z6LVo0IuSqDZOJkzoUqhBDtyZf6APB-76yhtXHE96YV9I7Z069s4X2vGIV2XRAagJ5Cm9DObuEwHkjFEQIjJEGsp4DRHGMRXEuWURNP_g74K6NyppLRVEW3p7rg5HkJDV3xDMfTzIMQKDKP-D2gyfIesWSFa_pJY7eqcadf--HXpqWHw7OYfgywej66qenZeA3y_p2M23WLvxbysLOot4cKx4zXVINNDJQ0a_uyi4XumkVQAdsLAtAmryskedkFUAsKkJkDJ5XG6d3j-foUaVW3xOpta4t3_EUXqqO4LoC3qzh2FkJiiu8x5sCyHzOauHf8AUA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cErAtq2ZiO1nAnaXcWZ2t7rZQl2J-UMC8nAio0KD4JUYiZultHVT9d3kKLodk8CGWHMhqIBfmBnKcaHjQxP1_OwpyJSOBdJ6fVCC8Co2BfP6P07YsMcb1fDuXsphLJ7ovVu13Whff6n9thUupfw8PC5nSLOxZYSyq_AwZGUtcmrpE5PUufqb91Ta1cHG9m8p4eydnzOgETzZVzdRfqiwRjhQcmwDYG3DFNKO8Hh2IzpSdt6-r1ByVoYsWxqp0PL9K9yHOYH8mcow3q5PdDfTuyos--RAi4Nw_qq0UpnjgIFq7UNVdYsE2cF9Fji9ObPpQb9e2uuRqo6p4BXsahjKawb-b78bkvh9lbSlMLsrLcAq4Bx5hDEwOt0Xw9kS3kfxy8Rh5n6fJDTUuFkDZparPjgqxswnyuopyBNjH_cN_x5Q&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2elm0oovm9dUqB1AJnz7W2KysnGH13NR1uQioq45SUNn3uqLR5oMNzVbS1rYpGa2PBDXuMxQRW0PHkMqCU7qVYVGjz-bawijPCkvAMAZuykBQZ9fdVpyJAwsGe8wlC-o5Jwh4R4GxmUAMQmi_GcRdqANEsobIiFHPkfOrRg1qwWQvSOY-vzUDLBrHCpzGIt0amZ9UNikmpqKcT9sL7Tf23yv-6kJV-h3E39by78M_6ApAHor425a5Zr4E1B8M9y9E_J1mjt4A2pijr33j3YwcPGFJiENBhsgRfmFeoG-Pl3hpbTiA6expAz_Mgeyn9MuP9Qx1GG26NJBKn-SHNCcaiLHs-z5JzzXkBpAk1GVILpCEl_oDul_kKmkpgM1nB-tJltG2fmQoMDbeBNEfyx3V4FBV0Chlhjzkw3vv-eu38&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c7xwwZRB0a7eEG_ATWBTK-ZJsT1S1ocHFh56OEZEbX9ZWEXIC187uP__9w0MwnDHNp_ThWmm0xet9m725yF-wg-KVpMGHiVfpMEJukTaSEEwmmd-1-tctAoe7ulZ9NlfGSgDnTHf89T4YNnRd2evkDpELrc8yaeqQF_DiaMzsQO9uwqLiBvl17U_g8SWaBtmw-SSJ7YuhzVDWzs3PylAJ0fblL-cl23nxtK0CeCZE7qBcVO7JN0UzAs4DBqnPGbcFuttpen3XP8KkGwlT5dGPgmOK4OqWpUg6IaXarjvPMBw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dmbYWPv4azO0Vp_gF82ZVcanWHR4ZEHmmEvQFoPXz6vE1xV8KKfvWXLPDrEN3RBgnF3pLmeWnh0nPH_-bRmChCKCIHkfmBndb5OqUV3pjoqG6nPR907ZP5_BzohD94nE0pPX23Cn2Q8oMQfNaf7ntW5-8LuZ_4q5sFH25N6_RAtXuraSgI6tHPfMg7WEVydmNYahKzWphpVqWp4oEzneUbJi-WrAwAJ0g1Rr-At07RAtQCriXaupFexbStQJtClwlXL0vEOwi_zl6tFmyzVm95n3qkJ4rwAtC16N73nPKaJw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c7DgmjeSFrJkUWVIogK_6XJKkbDSj4Q4uqdhdbweRNaQ1gi7AKpTQEm5VX5CPFJVnQnBuWl9OA5Vor77NmomSNWTcXoYofw2X1gqzVCa8zJPDFHy14rroqCpzAPqFZN0Qxkysb_oYmFEx7WVDHDyHcMn7tm9jw5beGlpY_q7ObLDmvcIWqutQiQGjS3ubXGCF-EKq30RfFU-LYScLhNvYc4SIR7FrrsXIioVHUERacS6n0z0U6fGYGSDALdEWGgpjPjlP4lVP_k5f2ycSf9YiwKlEoDOkqiCP0LH2q0GcjpRAXGIJFABK1frL6OBgF6l2k6NnbkaGZ82660vnQyXjuet_lw-EFzhwyzbwdL3-rLaXIL-jkrwesxZGDmcqf9x221zBmVszLIYWzgAo8CbAf6sDvMprDTlJUqRTjR1IMgA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eqyvQDKeBGxlrhk1jpVgi96lhRPbNT6x98DN54wnV-t_HXBwLRcjmPJcuicl5EAEbmXqCm4KZ24fgsMBFC632xGOag63t6qH064XF8jNqHbB377yncQJPFQyXDLdtgbmMx6hyrbz_aXckssg8KrTvE5ANSuGm00AhbhZJC75dM8tQaPAofhHV26q_kvo6_nkGkMOHHXCrImAZMLCJPw5EEcLCsCS6zxzrW8QqSvBsnBLy_Z7KhHVJbJjINd3mXxwmdEL0opKjpRomkzxqx4D8keYshRuThT2c8gPfdMjQQ0QsHwZ-6eTkxVtLj_-KcyqrmF4T-SL4XQkqlMNs56bfJhYhLAPFO97QRvmDEXu6pEqO6Kc86OHYJKyNuWBzqRUTjxqMiHac1sVyFd2B3pxe3AfIyuF7_KXSum6xJE1eGSt4&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c9S0_8O1fwsxG7UIWDLb-8AUDGuxzH9qtj4LLsh4ffHDmA7IdYQnIJ0h9r7IZsDUbLm11NhsimkBKEJ8xI08G56d5_IsHKHpzoh1xCgOfs5vhQnPsKaFyQX-kMkesW_pBfVArwEpX1cMMAUc2tegM1Nud15xQD0Ju-6dj8nj6wKBej5owLtzWOKkgkaifanVRopeGUZiR9tmBaiYN7y9CvocWOPisH0yHUgk50MBYviB-O5jjheFknBS8iNL8lR8S2fBbReBT0ooMLgaG82LnwfsHC-LIhm9L-XtqxkFUDIg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dq61-kSMXIea1DH9oT8L9ZAFonTV7bxwOlHDAFa5gSAUbyHnQs7sRUQuvdZG3ysplQXv4dp8Qv4mq95EN2FECQHovGGlbZzRPPqQWS7bMGiwFg6MKruVqI3ww_12MoSrwhrLsyzfEdGHY4lEwspV_jpc0xCVzEqW9NLZN7f3mX27N8e5aIgqKcr6bxnJ8WREAPn5FctR8X7eQvbX-S1fVxuyNxs8HZqG7PFLB4uwzh5od7_nHoUQ8-Z2SH9rebYwjwuolpS1Bz_Vv19eB1CkFlQcdvnG8MU3PSN9KE7gEPqbEpAqrem5CClXaOvtBjR7u5yHX3PFeoPCM5_5RvUMoNCSO0KeCs5dIuC-iguDlsNl_nqG1go5IJaE6Bp7PARNZEgUpdLqpdJ2xd7ZkrFXM9tJWeuNrP_c24X319XD5Mlw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Keith Moore",
+        "rating": 5,
+        "text": "This is one of the better art galleries in the neighborhood.  There are some lovely pieces to see here, and the whole place is very relaxing, with a nice place to sit out on the porch.",
+        "time": "2 months ago"
+      },
+      {
+        "author": "Chelsea _________",
+        "rating": 5,
+        "text": "Beautiful art gallery in Barranco. The two lovely girls working in there were so kind and helpful and knowledgeable about not only the art in the gallery, but the artwork on the streets of barranco. Definitely a must to check out while here in Lima !",
+        "time": "10 months ago"
+      },
+      {
+        "author": "Daniel Gurevich",
+        "rating": 5,
+        "text": "Highly recommended! Helpful staff and unique works of art.",
+        "time": "a month ago"
+      },
+      {
+        "author": "rayo mati",
+        "rating": 5,
+        "text": "Beautiful gallery, full of amazing art. Would highly reccomend visiting if you are exploring Barranco!",
+        "time": "8 months ago"
+      },
+      {
+        "author": "Andreina Gutierrez",
+        "rating": 5,
+        "text": "It is an incredible place to learn about part of the culture of Barranco and Peru.",
+        "time": "8 months ago"
+      }
+    ]
+  },
+  {
+    "name": "Proyecto AMIL",
+    "address": "Av. Pedro de Osma 409, Barranco 15063, Peru",
+    "rating": 4.5,
+    "types": [
+      "art_gallery",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1541048,
+      "lng": -77.0229366
+    },
+    "url": "https://maps.google.com/?cid=4806942313365138641",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fJtScdo2Bl61BAZeDKI81h1cldg_9MvMaoxJTSRGj2fymQ2v88snQ5Ilar54RYzdYnK26BQBZcLu_S9H0Nz1dsaixfDZgoZn6MHRcCvEx5pUGazae3QyZ4PeBi64gfkmlH7OzhvcuUUrXuifT4F5aaHH36LNyjKlEHqEKgDlgSqbwBHsrLmN_WSZj8E0st4aPkFEP1NC7LCCFv1v5ADMAfhFnoQpp-uPjxy7JTULr76EZgVi2t0IFxz2LQtQG4pqk8Q2ZFIZ91PZNNoHzZPPnJ6QLK6ylE2PrxNgIE4vqmR8-LoPwXg3Ee-64BiKikvLYNSoVDU_PW8PkkVcK1GcB0w14Y9dqFa85nRcXTAeB-yj51FE-A7V9rFmKwCuqC0Akod2IlXznBlF7-isW7v9mMHLVQsysmpJnwlHHQEQ4&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cI7g3OuHszyxD9VzGhqrEKFGavQVQL5riHAh_0ezjijgef1nTxG9-c54XY0qQM2BncQjPs_rQB6hhXlKx1bLwCFOPMV7B-7DXrE-vRMZHvv613hroqZe6IBFb9jsfReuHUedZdleQKnW904-tQdkXRI0VcbCM6_PNMhxbAlDj2AG4TqXKGuh4sxjGVtz2v6WQmIHYErWOuYay3ETH2PlO7gqk8fr5F897NgelsiArZuOu9ps9mjWxEO7zTqJmZYD2Utv1P0qgondblgtQMfmmMBcbjyGQu11CpDO2edcdosNA7_cHheeJOLqm9My-jHQi7linyDR2lf_oLwUlVlzIiBbHk46Bin3n9k2brkNE-iq9VlE1YmHqVvtoh1zVi8jyhvcF3sJW2svrKCaNlZyKhvl4Ki8lB2p9mNnITAxlXLXw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eydfsV-1NyHymXm8MbDrtLe_oWYZfmorvp0h0oLOlLhn4BLeVuuIsHfhPMoYTO9bw2oh4dRrWqkEMqJjUh7YxQu4ABTyXnQfl7R5icVU8eWUusn6997PuEbrGZZMh-LN-3i3AszVAV7WC-_0PGxK-_8HQugTkjpgvm8et2k8IazgvFq820aP7sgDdIJeTBiUyJjICWjawGhkV5XBg9r9N53v1GNguyyfl6Lqlsp1Ru_J_0lHhTYmNTTdlbaayEiBFwYY4x-8x68LFNUE-UWzV1r68-i8GSZWd5-TbuAuVXWv3PddDd4duETs7goFZeps6UJfs-CeGbQn-sbVuJHb6E--QlQHTI-YY4WjrfQJPnT4pXhpPQCxH9p2DJLQzDWxH9HFOl2Q8Cj30IurPyID_9BYnPAv2VmUjpHEJu2WTQpS0&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fKrb7wUJBOeUOfEzoXBf8FFhaJmz_UbGOhpTOY6RXLyojX-A5dE1J2dRopKnCjir22VU9dogTWN9yjPsfp_fW-Wx074QCUTic1OyqQgBTDyXK3Qku-OzIP3yFt41ilMZlgagAWOzk-V0OW2eRPGNN6yv7tjG4CY1XfiI_yZ6Dg_x-7wGVIGjsviPPMCByIKc5vs71HDkCLTGD8UbC892nPHk1ZkZP7ds1mMPiYAJVryzu-UZoIjLGbIhScQc4tQYhDDPzyvhHqVjKVQCj5WK4LH2dtXaP9cRrBM5uyEHBR_Ntn-xnXskJ2E9HxTIUPOuyKiwDBlRQq1ce_6u7c8hsVh4XNeDmJJ2Cxr0pGiZmu55iVflMUUe1KZP9R5SMZYt7C3OZXb_5p2Ad2lH1HIs6xxr6vl8Shi_2e1v5icL8&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dH3PGLm47ywgk8WS2_bgPGe8oaQl-LnAEivGG1HW4_9YSQ4n0Pl3oxh4dwvoyMELyy2-QsCRn0gp_3c76sJN7OUIRJhyqNGeMOIc7lt1_BL34ph0OCr0cUSi7vrCD7GD8oG1aocIZe8arjaJlA_kiEjgT5IaOtXpEFhO-YvDyltM_zWcbZYn29O7DqHf07DZRT7TXWdtqYgXHwq11sVfdymSqY0oiTePpbEpHBxruXWUUWa-tS0YW3e70M0-dAPD2nFGAykkLNr4xlzafH1W-27Juq-LDzyNADa_fFi-Ikx0RTF6PkkioufJJgkc7UsylEt6CaiSldKKoXhGjKk-UvPNZ3EA66xqvX1ewqzVRQBO0OsMQcwXuvYMjCppKuAdhSrKOrTdlOPEPCa3HvRLmWSOD1Ekdmh3js_8XDwQE&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dPRgye4kwZLis8mKF4zBWRZBwkVpIBELIwKkB_zeWabCsSB2HSiHAjUbWa4nqygGnorXiSq46LF0Ep4xtNVZjrTpOe7vVTiW1DSgnmvUTeZehNZ72ryajsrdjURUyXtr-QPMZ80YiHQf0S-RgN9A79FRAGaT7c7LdvgrNSstld6CE-otgn1ILFpu8CaYMKMN7plpL88Wm6QcQGt2jmlwDB2Y8a0_AEhFtvpygM-J9unXRdKhPQ8SyKg1X99LJOHe3bOtkaQsn35UgEbEIkWrnUFZJCgyUUzJnhuru_jpCUf1ay7nOsRKNodMaIXDCA9ubEydJRSSTlLW9hbeZ9gVIRhEk00dlrjBETwrQP0_5sqcGMsBnSENvMcMz9mXd_yJ1ozkLEoWhDtTvtLsaGbvgew2YDt157pmXmR4TqAZU&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dd6SzNUw50mfvKs0ziBoD0kXKBGUfbjIu5ZFoIjf5g2rp8kBKn78emDgbFZs6WX59untFdA0dRYPhqb9I2nsTcDa1MHvGxgnvGzzfS_qkZ_Ws155H6yhT6oTxLnKV_dX6P8RKgEP6GQUTWQQn62oO95p4scSFgmpylqL0lZFSckn8gDvoQpZGiAFn5gF1xYMpfum8RRNHPmWzMZ44sJZmSBczyli6J-I5zy6AmgaTAYMDPiVUGNFZz9qKFQJGziSKmwMFKyJaqJp-qUYl2n-5jUXQQ5f7X-NG5TOj0zURrUxrCllsi03-G96Pu_hCC_pC2L8FPoKYy1f8a7JK5oGk35gw_VtCFnltQmiwALsmqODORidlcKHKJZkwKBlU8bDHytjAo0k-CMZNz-FGpBWEL2uCjV-2IjgMRKzoPPNytfTtf&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cPLcRMN_Xsc92IIVjeuyMZ5_w5HIuheuI4tsr0zewRIl9EXKC4mpOG4naOBFVysUJYAGpodl_1Qr6tcFIRwsGIEWSFlKECer2y7bAd7qGAYJEKLAYlFBZAABsT7U4LwaR8S5QvuS1Aduu6KB_jILvaLf-G23HL1k42ZdHQVxHr5WaThAz_KO4Dc_MIz69S-K3ET8OYeRoWqIE2IJF1MF8diGkNBXWtCNyk-UhhA6II7-kGl2p6KQJ8HRSHYLywVBb57oY2Q35W2gxTnMrOv6e_CKtfg3OXuS-aO7Kpa_usNfPMaDaCYU4pGs952kAE7hTXGC7i9WpjMGy-yzMj63kE44De2sDTTg-b0Jpy7vzCnMr6Pa824UEvtJ1xV0liQNl2Glge2fS33Nxey5DBn_c_LLEX_rWie0QOmc37vR-bqQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c5qrNjGXIHuN0zeuH7tvSn-eYkwJq1fHkCCSaD6HP3UiVpZ4np_L7QIU7jmXxyTuj6yxt6x4HH9y69lLM6-Sqk8pTcD_Zpv56n9h_06vormjao6wMHherR85h9EYLNX7co0AARUWlwa-_s4enbKfG_hXz7RXWFaRXRhA9EBwZVxsg7f6vx3hAX8x-_EnHUJOdZrkszu_NeQPOw7ANptoFNwTGfiHkNDemWGBqq_Px5Sk8Y1o3se4yGu9gFAqbW1ro3foVvAac5SaMjlQqd7ElN3KY1G4hfAoXQuVvl5pS5Sk8hDXZXe-0XR9hEYBQ8W5bxhppX4BLY6ClpzeNCKCWvtY_DonNvXt6h0uvboidqT4Pd4LtHI2mcXW0vPE_DDAXfzQ99wtBKM03vtnK7r8qf-hfxhc7TPgUmDsRJtXqV2uY&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eDGh91onRC59J_zArnzR21NCfs9LrHxdblwpgxbQ26QT5VT9iAvv4otL72JU1XQh6pfDAVBERwCmfnZFvzmiUCHt96QzanpT1_PhVsKUQ2SqkDtzbhpbuTCMzlX-cTnkYPtVYS78ot0yM8UMV9Pfo0bOmEeY1uYNjPDJpV1oUgRfhHcQZcb_eFaY4wyaEo7IWihnlNgbAhoF0MLp4FIuAjGYZrGuOa3rIIQ3oK6LccjIfrwJH6oiRtRbX42mXpMsiXJg3Dbt1pLvU8YPcbsr8qZ7yVvN2VsryjPErjY9vAqDchRLADcDWx-54MUnreZEyiHkmOTjTB395SKh33-B_NT_6VIMptJWub2NvT7pbWEwxejUhAt8S4oGRqTx301S_2ocyf4MUrveDST6L0cnwytFqzKSRYGJvoTmWj-d1uxd3i&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Ivo Poblete",
+        "rating": 5,
+        "text": "A permanent collective of artists that have assembled in the basement of a formerly booming mall.\n\nAs of March of 2019 Yoko Ono work is being shown.",
+        "time": "6 years ago"
+      },
+      {
+        "author": "Carol de Ferreyros",
+        "rating": 5,
+        "text": "Made me ponder life's decisiones. Well done.",
+        "time": "6 years ago"
+      },
+      {
+        "author": "Malvina Novikova",
+        "rating": 1,
+        "text": "Terrible",
+        "time": "6 years ago"
+      },
+      {
+        "author": "Ana Paola Gálvez Pasco",
+        "rating": 4,
+        "text": "Interesting and entertaining. They sometimes offer art workshops.",
+        "time": "3 months ago"
+      },
+      {
+        "author": "Jean-Baptiste NICOLAS",
+        "rating": 3,
+        "text": "When I went there (February 2025), the contemporary art exhibition there was, honestly, of no interest.\nPerhaps there are some quality pieces sometimes...",
+        "time": "7 months ago"
+      }
+    ]
+  },
+  {
+    "name": "Galería Jade Rivera World",
+    "address": "Bajada de Baños 343, Barranco 15063, Peru",
+    "rating": 4.6,
+    "types": [
+      "art_gallery",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1489638,
+      "lng": -77.02222809999999
+    },
+    "url": "https://maps.google.com/?cid=2642109852323503237",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ftzLxgeJ44mJGN9aehvmHuh0B84PK9Ins-qE0CsUmMzQGW2stk_NebfjJxEcgR4NqK1KZWRRtfCi3eWIP8iobOnMDm8vDCmOSgvOHEkXUOm4N4MXj13Jna9QjC5k-40i0TqHqCDQRTDAQlJm2HvZf5EmGD315O1mLmv234sFBJzqLK1Xtgha45s8JbHgIbboPBz4zL50rxoKGGGVMQ0afFqW8oSrJ6MS6e8kWWsLJltgH2l3GRPJ-cjbegG-yjSBDU6a_hzYMCpy_Jvgf8O87EZlNJGSRqXI1D4xwsZGDAeg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fEXYWcwZPSV8o2gfeUNUD27jHTcklMxrAibd1KC_-SJO4HmjHD8cBIBeJARes3BfFxA99QY6tRvgZ7Vz4NQWnYQkfd1FaXgDH61qNwI8xQjlOeMpS8ydxu5OSv-OiCgO4u0xYzxRBWLZ98AIsPdcjaR1QxhnTru2cEQDQilGohAaTEotrLiZrulSD_Fo2mGastCduQjrpG3oiT7obW75_xobEL_DNVMcY_CkmTCzINzcU4HPtZNT8WHLbUxVaJ0AbpJPzU5vX6pK6vP6gFO-SYCUaQlKVnghp1iCP4SshFpYrcpCwnaWv88avk8L7wWuTfXrQSjeouOYiBVM33nrAjAvH31VoXT_mHy2uIVzgB85bic2lFV91LNh39zkxE3mHP0z3kaOQGAeCuT3nvYlpYI5KnwTg0n5UiJDjMHIumoPV7&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fM_002ojS8yxZ5AZZ_Y_ZhufUUd8jqfSv80wQ1U5Zu6zrkb2CpHT9HG1rTWeK5EPYsZ3SADzlh8N9XoAx5ICQBp--rfPCzg5UlBh3M_exkD1nP6NRyaLRGwz5O2MKIQqkxSD5ERtJnMuo6ZEoRm3T5DNPoHK8JayxNe5kn1zKaik5fTbQGhmzMuMbLmIBhIYa2ubb9cW9ryOehLN-txqmye3GLTXK155ZmO8C3z-VHK4ZvbRHbxuc2BpPv_UxhGNSJkt-kb7Fb3sbeRj1pr3ydZ_ll17-AqbfVYQy4kOlguv4JI9tib8jQMQGVTNmY3gvclPf-B6NynFI9tnDVALTVbLkVtjFavqo7Hvnt6KXGgQdnff3QdPDAVWZ0d-DoICWh3AOHgpzpak29tKn2Jni5sM58Pa5A7o0AsH20HJ1dWQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dotNSLGz46GwjcezMOXOkYf9DI8sR20Kp67NL2EdSb4IA8fRizpsNgMc2FcAOmaa4bNjCJ7xFXjfgk8UzOeQXav8DrIek6m2tDyfm5Mn6pR6YJgcvLbB5UKnYeE-6-rWQ3BrbABlXJVERdVkJhbiewU_gjC_HBLbC6Owh7tghmQ8PiCrOc-LyiXOkGkN_nWfxn_-tYd3o7-aeGP8VmLVVVQJkxdcURWtHiwJmLKjNCX0Fj95WbITSyd4MZ4oKHIcygVSQFSTwFMmPqh3cSaDqV0HE9MPma4bnM85flbmj13Q&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dfpMXRwT9Cryks5eTwaOlbHckY2h2ALjxOKYcwtuEhOU_joPl8O3SIpNdtU12XQYA2AcmFcLPBS1NQgsM-pJfWNGR6JOLq4zmwkZIwg_1694UHHYRc7mfnMolUFN0erRqwtSTNbTDz-NtYM7qXPhb2QYnCfJVCTalgaiP7NAPkdSaVTwLnBOYZo3FlYgnSFGuc73nKJll8KCujtCYx77bn3Qp-sorPdqU-qm0Cv9T3ckQpIawKPhm-SbgLrraZwrMvWvchzlzJ9qs-7uv2BtwH7dByzJk_it9qr3YcT6CpJjlhUKdt-QGhlDznmctY6PwcHBlKTptT48J9eVJbxZBaCdTxcDVi6XdrTzq-TiuR3CNYKkX4xWBrBwGMdZUw2sH0ruIoxv-Wb22qdqSdNqRha3Ox9l7ODjJNawxSeTUuUA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eiI1D9lVeXT5Qt57BY1PRDgWHZyd2-BAl9x92aIIzbnqRNI5GQ-v2sHqTUAk1CbYn7wSkYn-1GFsr_DBWI9CxgdsbJfW1CsR4GUMesmsGWvYMS35VKuhU6uVofvasGt4sS3rNx5flp1e6dAd_fvCVXrR9rigSiD4DHYnr0Fq3fqvPDYGmV64jQfyOKFRk0CLsQIIhD7sBMGxTkK-d6Dyo-SWDZH1DpcaWacN_wRkBe-n6GkKiC84Jp9qpE8Oe537Z98QDbKjhC-e35RYebVaGy_Ek2reiZRC9yrCoE2ZdteWKQdypa3Wu1vxqWOh7XLoSx1o3No1kjRbiCEKf782oLZzqHDQ1niWZ6uEWbP7GLSjx05iT7qoi7nDGNWsmrDaY5q4vxIDEWHF_1aXwNzqi2oX4TTs5yKppAQxfNrUzrPQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dF-GBv0Sj6I09YoqYUXiBottjMQ5y6M4nzpo0fOKHYrgNZDpnbZsaHwNdciEbz04MGkELVcxy51F70ousbTBr8du3o11sZb6A8q6ZLVHxZ5v7MJ1IMx0blSY13FFz0rerQw4VVGSySgDjL5zY2a8d1O8XUCLBOMGd6VZQEgrQd3L66TsTD8tj7RATT9eeCxubemQ2MvkguYHY43_e8SHxBsMXXb-IyLrgZvb8atT3Nk3bVWIdLXzZzrdHAbxdqhbcrAkKWCBOcIMouJMZ1CTgX3aiompDNd0W-xwm6G-stUuR-Wqpb1G7AMg7ZZzpaz1oTNgO2W4-9LJhQgcc4kZwW4cXieSXzVCn9cS1cXBku0o_K7BDbL8K4Hxvzr_OeKELfCRJRcc_vSw_mt8Utl63PQk4qSAyZLZmgnYfX1eerVg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d5qp87HHr0yij7S7Nsn0czs2iTlnQGXzjhqlBvpsvuz92b3RhvBKljJI02aQ5YE5VDMDmyqiaqZ94woynDu1hhwFEL223kFuMWFe7or22U9LoMoHDBf2RQKf-RTNKVdky2ju5Y-7MO9gAle5t1xfdFl9mnXr01Ct18pq53HNj9CBh1sg756l1uMN2P0DkL75s23T-1X9iNnhF_FTltYS5uBPd2hBbXIkSBTJufzfCWjDy7ICv6aSjX-M8eozK7mETaHpJGqnunGSvhX9tIUAagZtC0GUUPS_ScMdc6xwA-ik-PqAePZwn4Ut2KSbwdJZIprcu_zOaHTwjCcv1YbtZ0rWhODpiETCYyh0gssYyMovRR2CB46YDJq5ljq0-ewrjETsjMJ8nKVBl3uzYZjM_ndjX_8G7q5zWZP11_frXObUBg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ecOObG64utzlQFYmrXJXXLM2YhVDaAMY6lO436UNWN3ozY0jQUFDVKQPg3lnWt8QocZS0SORP19E1gixZ_obGJGWangn2tKE6pguv23ZaSerWtxukIgoiJrdFPIK3HPfhU48QofpVASDxTXEV6TOL6psv9vK2i0ej9rBlhS-M7sMlMbXFHMNtMCKYqwO5Av8AcjojqbZ93FS0agreyeotLEbgvl-6wO3Pkfw_epbUtg1-g9fnvFOV5zqZDs6HUGoKgfIrGa_PF-vVBzfHh7c5vYgecg1wdKO8pRCSLyks3iJqpwaWGabamvr0EYRe1kXSw0NBkHwDAGGdx-_12ZmdsRNwJunGv_ev1RqH9QJFfGQBcnp7ZVqQpFOqCzLIqLx1N5dTRIoT8uX35KPwAav-G4QBzzzOBUwvE5t-ZKsE9sbND&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c6qY5IZIpd8nGX06YzgtxawiNPZ7kbbRaIyELbKxLEHiaa_dYoqdZBTYE-fq1Ik-atHyo71ojWnm5bHmnEFAnUvb-VWP_hDqqREE6Q-gOuM15-ILwx8m54vjwXC0aReJKG4erfVL6NeHN97JFBYT7DX7UbawcWL6rQzHyly0HgBhLCi4rA6kaJ6LDvMLbBIgieqbV6Ot5FFCWq_KeEx_D-a5iEfVFqwnBoXI4s9lIupCJvyIfhCxqIEbQAddUNpRB4lfhrCBOZjT9RC1FCmgzEgiU1IJSoMUjECtXlRQlBDJoUgbvOAlmeNCR3PBkYGdU7LbZpMbgrC5eGxJdhbj2IqzbAKG2xPzbvDpNJMKz23zpPaYuUtDD1Ux2e3skdjx4BbAL2WBGGcuXg-Y458Op0Du2HRQsggQCvTyxQvyg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Chelsea _________",
+        "rating": 5,
+        "text": "What a gallery. The artwork in there is just amazing, and the staff were so incredibly helpful and lovely! Edie was very welcoming as soon as my sister and I walked in and spoke such good English, I really appreciate people like this. Must see spot in Barranco",
+        "time": "10 months ago"
+      },
+      {
+        "author": "Keith Moore",
+        "rating": 4,
+        "text": "This is one of several art galleries in this area.  It had some interesting pieces, and the staff was welcoming.",
+        "time": "2 months ago"
+      },
+      {
+        "author": "samuel dean",
+        "rating": 5,
+        "text": "Free art gallery which was amazing! The person working was very nice and gave us a history of the artist and the gallery. He was awesome. We ended up buying stickers and postcards. Definitely a place to check out but you have to find the hidden door!",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Clive Cadillo",
+        "rating": 5,
+        "text": "Had an incredible experience viewing the art produced by Jade Rivera and even picked up a toy from their collection! The staff was super friendly and educated me on the artists story and art. Shout out Sofia for all the help :)",
+        "time": "7 months ago"
+      },
+      {
+        "author": "spoorthi Shres",
+        "rating": 5,
+        "text": "This is an art gallery of street art, one can purchase the print copies of street art by this artist at this place. The interiors of the gallery is interesting. This is a must visit place to visit in Barranco, Lima. One can find multiple street art of this artist across this town",
+        "time": "3 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Reckless Galeria",
+    "address": "Ignacio Mariategui 160, Barranco 15063, Peru",
+    "rating": 4.4,
+    "types": [
+      "art_gallery",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1475785,
+      "lng": -77.01845440000001
+    },
+    "url": "https://maps.google.com/?cid=2443364197899102152",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fQ-QHUlKFsYSIq_3VRmEJ5zhcbTtKpYqLZ5dk4RYglinkKZtYL9xg_DU8JJGie1kDce_I8UaH78DrKKJBCHgs_c0hT18VMGIZ-3BftkvrlI8caOAmMCujv9Z6tp0bIHRxRZok0RNgHeB7GhAsw0NaBMynoqMXocHYrZamDM6B5qHJs1Zr5HYTh7RjwiJXehUcmPVoZUD-mqQyF2VLmikpRHscD7Pfu5vUcgqMvMoGp-PwsZbqdNvEOSB4EEY6iefLRf5g5bn1Z_Qs95lFTtr_M5ydRrOVmNyX8aJ_by_suTQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dvet0qklEyzfCybdc3DU1jOnDHN0snymVfWxITOOX8vvdeQDci7wHQnJPYRXoYQptj0OBRb5FNRhfVcLcztQ7n5PGtwHXRoBBq2XxG2Vi9rbdVK5iZPVa9V3MPTbkAm8w1isxzpO9LJLPDX8EJ6_yY96ciAaHcaqYzoihawI0a08DYr9WMle0Y3aZKeT0czCauGV5em5q9Ua7cW0SyF7ncK52on8owIf-2Lj8VrFNDmTS3jT33sLco8tA52ZANI6ShPh77l9hzxv1R4Ct9EJolFWOp3U-tpclO5zgJwv8C8Q&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fEyArEoV6sdTqBqgm8rS-Lj340epEQe5qXwSH1P_ghf8DO34lkSI3eIPdKhVQ-tH_Ds_XnJjHzQ-drdecsDBF8IXRezFh_hhrfws4mz_e-tJ8nC3PNH37QZ4HraN2-edY7klb4ppI2Oqhiae5HmUj-5Fppf5LUEWbS2Qacaxzm-rvcGIltEiJY8BdY-0oXibBdnYBmQ8VQRoxg8gahZR33qQ9KnRkHcE3soQDF5oE5xd8hJrjVDHH4z0XNi95FFnHavQIkFoV2KlBMA9gpeIFjNeyhG4h0WpTntjaBfQuMlg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fBtM6WTBFaGedKDlEPskAJ26Lla3BXJikqEQ8ESm4TTLfLz-zMx-VMU8rGKvyIaYbdd348yGseDPYVUyUdhb8xpceilvj_Y5S9ByD7V2SvprAaPEVqgq_Wb8i3p2xnP9wz9xP95LdcZH-Qoki3Rg_TOVRV-f8psFk2B0NNWBtwaDCtrM1xTgCMfRq9PE2URokBRz-CDEVh3nhOSQ1VEyard5I_J1EA245HOiCW25O3QYM_ajrEB--kHQ9FU0wohlI_NZYH1D43n8M_ueIkpi5XZQxAcFTIgM7t5r1YXRjopA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fMUAIpaqrSow_xZf74mQVbtzZqU_QOy1oh-1eQOfJyvv_L2XWgoxq7cGFuu1yMLM2BcsN_8HZT01sE2KFVrmd1mopNtQ1vqse4XUZAl7zXoIPK4jmGPSQKdRe4Gsmgyxx5YHC64-fvLzeSFpjCYH8lYPMQCZOn9_mEnxLF6YhHeREQWqflx5OLlGusB23wZ7FNCO0Rir4p0ZlUCD_RePS6TKN-sO_c6XicZ4-2dFx-HKr_i5-nyQgBVpOrZZ7yKHrE0TM9ng9vFTFV2rnNVbW7vWvpOkKv-zUd7IoX1pHgJA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e4fU8EsIYQemB3OTBzvm6BB_sZ5VqXdjc9dT29nS7dE17xJv6zlTCCHlElirE38dV_cnDM4t58o-JEp0gXogthEHCY0j1G4FDTsiZojigDn7HYG7JuHkmBXyuX02EK0TXXpu4XKAVR6U83qJUaZMo5MriBJg2A9aSxSwMoe_nchcW3JiZaUnrnWgizfPruK_JGBtHClsti8OgdE3uTYPki6C24gsBGNI5x4up5pgbI87PtOZaNcCDRrRXkARDjMpi2UYqZTHuKFnyjTPhNaRAxHzOPQ5PHIaNKjLrKXojoWg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ef6VJtoiyZB7vQhpnIyZEVnC9KkoT2mfIypfORwzQvUkJ_ndZ0ztKBzOgBtBjKsCGe6ZTSS4BU-VruNub26kFzomhl_dZnmTVGemvi3aU2I9jiheHsELNH1Z9chrkkQL8PsmEtRFkw2VwS40kXLcDLASwoF5L9I7D1TslzFW4Mgl3a2wPnwul4VKokqxDvm4ls-r-D33axxU3Sc0Qxdv9LbEuAeCbg5Caj-McfM8YA2E021vzeHcwkTSQjdMrd4f2zq2gpujKBfO4jAgZbB9QQj-Xe3ZrykIKdVjaYNs-jSw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ed0WKwxEhm5kfLaa87ZpkJEJTMvK2bimFdX4ygj-a9B-h7KQGa9_cH2OHid0r8KGK2Nr22a8nQgCsLy_UfhWQspUYLFnLUtg-CPlv7KzSSMfxDbJXpjFOzxJwqBN96HVQvc6N8EKb23ITqcB3Vzo7jo4cT9NDL9U2HdLAGRCzLU3t7IJx71k47rC_6nSCYuO4rkOqSsQbKeQGwzNKyVJkopnC8oBwHJdWXX2WKIEacODXu8QTkjJUUyaiExctgdC2ttXGMSbN7fG615tBa01dKGEWKLiCK7nQH0EyhNk3Wgw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dg5OB6Cm8hP5o-4rU7Z8Ib9J21I5-eCjIc69D1pEfuD5Q6uHdAh_PZ-wXz7tMhOcgVQOszSqDVCpQ7886ItrNrBeIHaH642H5OoV5DJk6JWTGI6XtehZndQjZZEzJ1_JtRE5-YFmIcSyNLLO-StXcxaybM3yuqx-EV3XfpbLdcJd9T8KTk40vCWTC6r2pScAd5l3ksVKBxPkGTNn-vovdu_oagV095qRTHHxxo2r5dZa8C1pOV46CTt2lQJ0a5rfL2zs8MKbpaCxnjSuXeDvJwRZVNdT1eFnTjTMxvcxNBMA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Daniel Omar Bernedo Chávez",
+        "rating": 5,
+        "text": "A good place for emerging peruvian artists.",
+        "time": "a year ago"
+      },
+      {
+        "author": "Miguel Chávez",
+        "rating": 5,
+        "text": "I went to a Martín Tokeshi exhibition. The place felt quite cozy.",
+        "time": "3 months ago"
+      },
+      {
+        "author": "Valeria Aragón",
+        "rating": 5,
+        "text": "Great space, it has very interesting and diverse proposals!",
+        "time": "10 months ago"
+      },
+      {
+        "author": "Harumi Kusen",
+        "rating": 5,
+        "text": "Incredible proposal, the best of young contemporary art.",
+        "time": "a year ago"
+      },
+      {
+        "author": "Gabriela Elgegren",
+        "rating": 5,
+        "text": "It is the best gallery in Lima",
+        "time": "a year ago"
+      }
+    ]
+  },
+  {
+    "name": "El Gato Tulipán",
+    "address": "Bajada de Baños 350, Barranco 15063, Peru",
+    "rating": 4.6,
+    "types": [
+      "art_gallery",
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1497484,
+      "lng": -77.0230833
+    },
+    "url": "https://maps.google.com/?cid=12466975642853333540",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d3sXM6gdJfiX81Sz4r3siude4v0rHvzlnDY-HVGoM0U-qkNe-4Aium1qdQu26HRdzEd2y0DNug_4qUI6x_6znwroaGBdU-nELhbnCtUuIb3hXoCiMZcloM9PJI-cbTWBEX71WAZDuAoUKDzTPpkIGqNlTRCSA_tg0n8t8uq2BunV9A9xenNB5B4gJSoZ8Sv_gPqugUzHRqBK6WO6aBIxduoskqMb2u7LR2vBHcJqQw7sawNS7iTsyzildR3iA_W29I6qPyBcW47Zo4QAkviFJ4ojqqXmvhaRql-BG_pJ8vOg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eh5JK2efSR4pXlI1zK7-BWxNuGUZ43be2eADknR0oxeXu6JPBzzSSZnLZl3vdcVpji21IOuML7Dl2snFSG9sLU4BYWDmhrVOz4BwTms0D9yVeNVeCHOOPGd0aexZFQSLU6DpT9-J4HvAJ-S64UKCF8XXaZG1fQOKmrOXAAqhazK-MC1FG_dG8sYem6LwcN-_hQ4dvIgetS79EHOe_RSyclxp3DaBfMEY7W7uUHy8U1JpKI-f6Ol1JeCP26SfS3Ym5rhdcaJ-suGHBFQ0QdDccvyIV1Ycg4jt12VTRj226xHA40P9UgN7ePfrNcCclXQ-c-Q7OfyzyRTxN3bEdGp5HMH1uftWD66OH9mvVSYhioT1mNjregzmewmDF6wpCGXX-zEwqMZ7kmGo2Kvaksdd15_41Ttb9EP7t4ioXr8p33zA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d0XKDnDhMTLlrmAjxapUelexzqLXIXVO02WmoGtc_UCjzfTrbJ9h9yyBJTthJKCJvEY8JOYYkii-fF5IF7yv6WclejIBA3myBZBOQBuGQc6CYSzdC3bGOdyUsqgUjTJnoLK1qrxtkIdjW1PJlWngH4Jhph3tUIjZJGIXwT9dTyz2wO77nE3vR6ALyeYPJeUKo7BztEg0G9x1jIpMNAF_f9SxsCcCwF-7p26gAn6Pv4Hk1Xq8PFUOmZjeRD-bNI0phhP2fLTtJBz5OBToNyVh-Azc1W151oTgrrbZnELtMpDqoesjCg0ePShmrH6a7tDMGh7phR14I39ve7okfp69820mAwaQUDPWSgZeWWgfN8WT4_JIh0J7dILRDrGQcvE372hgiiqowsf_WuI2YqHWuQsOvL7L9ArBlLyQcrUWipkOX4&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dBmFFX---VnIrWTLf1-RM70bA7eW_3rwQul2Vtn-Vp18dl7eTVqLlvRYfNFCzMlwforjcJuxZpo_UYiG4DhhcQhL9ZIuasxZE3-NbxKoVs-9fX2Iu6AkpgXy6O0fU9BWopiUZEnZ0o4AniSGusxPvuFGCDb5tTv4OCv2kkMOorlhsU0ITNNUp7wGEsGWKUQL5MWYQDLon_sG0ECCLHOKQfEd3bYgx5jWpSboRjXH1wAPYT8FeQACto0JWXi9rW0p2PPl96jee3uBNyB1xDjlt2T9WEJPg34YtqdGIQELFDHBX4LmU3d3rFmzidvdFpJkkOtwVS5vN5bO2F6OtY3OMdWy2wHRXW9itajnDa0Zzf84BG_LIbPxzTAO20KFYlrtJWCg1CSGuAysQZ172RmpnNRIxpq60OnJAJMcFcUCw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f4b-7YZwZkxrzlvXXxbfarUemjpM8zu-Oe17ZEgZg-FmTA7hqHL7DN1Gw8nXtFp7iCKgizf-K-tG688y7ICwB2eIlx-sCXQWYecYAMT0wYhhXMQjOqoIltRZxWDKCTSLVM3QEr1t_hiXgkyQK0CyzGunhKeQ9nopRAABjE6ItP8a7qVeiS_bO2uCmbH99atsl1ynsWvhTDwLrWZiM9suyYEdflbeGmRk1JC9inr_G06hW9zYHRw_j2a-bIhneQzOFtaC3Sjz9X3ht0G5COAKywpO17O7w3mZYtWkDHV95saCOBBvfatQI82ntzq4vM6BKl1GLreWVCVf5ebnNKnWlz5n-oJieRjwluXccvns4GCXxsB7iGwj3AKX6zq1EWtV7Twz5XybbuEoYgq0k6-5AcGD6JgFzaqIHWKOuG9icQ4w&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ctaTNvJlEG0Hoj7fD_tyjuEd5wzfbon6quq9L0ClkzVdq-aR9AW6F-zwCemd10fduatRWFPwUG97F4kzaCJxEc9uXFkQFRDGplKg895eYJPVo3yy8zxldm-BNmdkDWQVQUf3w_WPmWErweceAd3DivOWvqoF5A34378xsRYyN7tPe2HDqGyH7IvXK_9RUtlEpQJtDFfZhIfsZVT-hOMMCLzWKwDL4a-0T88XGrs4SK_D-sHkQObUr8kBqa66BQgOA8TgvvfrQgQB1Ia8uJqVq9CYVItePolvxzwOPMKMvH5Q&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cXOZ6B4aWtUuI14oLE3BXADtdyo7YYdbFO04Kgf2rpFy1Z04JfgN5cz5QpJpIlcpZiNvT-S-o2pG0iVV_JT_YIeHDmoc65LXV7UCIy0A9Z9GyX-ycn_jX60tqf6xt1UeI7WD_SoGReT08u7FCBUbIxreib0xl5Jv695ihFA9T6fMxbao56npisGQeB-GnbeRyIQFdoFfmns8RoiijFx6i-vybcUnfLZgsr23GMup_C688eFyFfLJVXPU_joQuC1vfH5a_IbYHKgcwxmIcNkki23qf0LNBLsoHCVQfGzbMgqV4QzH1z0qjwuOD5Eo1Scw_nfwvdIypu2JwGDPnVRzrEILtBrhagtCHSRn2d5zRKdLzTMxzv3YztSeh1zX7-eASfmtwyc00oivvphPOGmAJBhEuPeA6ipIZgzb99KbtPIB9V&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f2nCwPQ62bq7wG4uHbLPCOCIaHh1qNuEd4JRCH-hG4g5SJXQXWnzUp-tRA-1kFIUsPMK0Oxy-ErzqpiUA5_mDZD11XSWdUQlpJNhC8BKX3eCVM7TYxVcj2IOmQDP98DDaXwPrL6oy6u7CLKin5LLaI3Mn5SeuI-1fsCqa1aFg4mJCwEjcUXN6g_xGofdhI9L5xtzk5M5z0OYHS4QVhBqzv8-SngjFo0uJaCdDZP58cjNuh-0kngtoHsgOdtvxdFFtUZHeHi2rhGkQDQksorwfZSQpk1gjSi4yLHgTA5_19J92S_jH_vxNGUjDBZBoBubt1e-iZ86_SXk_t3ebUS_CqwPKNDWN_iuuDxm8iHJPI8SL2Yt_XQ9cQNQA3h9X5vS9erOx20KUDsZeUVEsawc7kf3lVTepWjWd0fqLZyLdwTg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d7sIis-QiP248Numo1ucDcyNpjsZJE0YpcPrW42hwI4CDuEP_nLkglhYPX6hWdSg8YuS8lq9VHJHof5lB5Bw8fVXa8cRx4BSEYjlAdG3m8qWdGK-YsQeAt-Sf-xEUPGkYCvWCwPFIXGhPupBY7JClBlg2tyJTt6UHKKzCI6SadMbHHPmiANZ0OqKSQQWQnRor9i3RvlrQDwDPwa5JKw6R3d1y9eJZKzRK6g8ir9wNVCVYo5cXxQ-eJleOpMXI8GIsm9MWYhbZQ992hAfyLF8R5q6j6UhxI0NHKM54P8_q9tJF0aXQjTTryaNY1h4KM9DWSa5NoCMefnDT4JxZtzi1mIHBXqByBshHQAecNlBSbz4SLW945vomzRDCyUYw9Jkia0Se_p8Ib3HYY73m3b3PYwKSbbuaUzZ4tXeloT6tcm2mu&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eZ4IBvkpUDMMIfurpAEgBLGG6MRJxp4bd-9RwZADpXCzAP-8KUeL1NQupFH9KYLoHIT4FjJCZHMh0zwvvB20-5PZit3UFL9AORj7FO5mzGRg1--D-HtBCjoqN_sVrPqf7kSLtIw5854kQwtLV8s0DFKLWI2WS4655BHu7YxoBca9WjRRSvX4nP9Gi1Mb654KrgnNsc62SRK1MT1vIQ4pz5mHi0B6YxcrS4wv_zAyzGVSEXE4rB_Pf0L2puFYk7qj0yKrAcPNc8d4-75RxN0CjVdxrx7wbNZGiPcF4CWYWgihG7UAeNqhNpVYdTD3lhjcyIo1RSYRRhRhGr6rk1ltIr2njWGwQPEK7ah3SzWrrnKu9hp2Iyl_x8nVcJTY7WGmAcytIzAVO_Gyq9ZB-CvGMX0ccZjEM9pnGlQ-fn8_454g&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "christopher Berry",
+        "rating": 5,
+        "text": "Make sure you go upstairs! such a lovely vibe. Great place to relax with a friendly atmosphere.",
+        "time": "a month ago"
+      },
+      {
+        "author": "Alfonso Pereyra",
+        "rating": 5,
+        "text": "This place is amazing! Good vibe, three cats! (Including Miau Tse Tung), attentive and friendly bartenders, live music (salsa, baby!), and a great terrace with a spectacular view (see pics).\n\nI'd give it six stars if I could! 💙❤️💜",
+        "time": "a year ago"
+      },
+      {
+        "author": "Drew Clark",
+        "rating": 5,
+        "text": "Fun little place to stop to get a coffee or a drink. I had an expresso and spoke with the bartenders for a little bit and petted the cats. I went up on the rooftop and there was a beautiful view of barranco and a great seating area. Definitely stop in!",
+        "time": "6 years ago"
+      },
+      {
+        "author": "Krystal Nguyen",
+        "rating": 5,
+        "text": "Really cool place to chill. They owner is a great classical guitar player. He’s well connected with the local art industry. You may find one of the kinds art pieces at a very reasonable price. They have concerts and music lessons on the weekend. There is also a terrace upstair open to everyone",
+        "time": "7 years ago"
+      },
+      {
+        "author": "Jeff Lindberg",
+        "rating": 5,
+        "text": "Incredible exposition of Adriana Peralta until September 2025 worth checking out.",
+        "time": "2 months ago"
+      }
+    ]
+  },
+  {
+    "name": "Widart Gallery",
+    "address": "Felipe Pardo 113, Barranco 15063, Peru",
+    "rating": null,
+    "types": [
+      "art_gallery",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.147022,
+      "lng": -77.0203659
+    },
+    "url": "https://maps.google.com/?cid=6504764384853598492",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d8BZpqA3eG03pTGnSgPwhIxB-iwXsLzXOOIQswvlSpv01GKzsOwcHHKu13iZbMWl568g18rd0y0i8ZEMnUgDcKtuC5GlsGaYovKYIjmshPu_dRmUxChFtgjH-TC6kVufXx3BsXEkMD-bpBykihGQRNJ01Qgf2bZQmiwTDaN4OI2PI0wnC0GUYCkJ5j8f3hIXDXT5_bIgalBQnaw9Zc8VuifXkWeoPyHpx3oo2OO_asu4PwkgmsG4HMkpZIYAZoi2yuImpiW7qx6_QpO4EA5EYPa-_5uocl2F5PXemIaoRX3dGneGkAGBI27fCuATti0PWyDPpJn6D0GTLy8h25gdsNBJIG8B7WHYS2RLyvOzZ6azb-puOUNoWgRmZ_8P8dZ7UpNB7119LLir4aifys5fQSROOHOeBEZ7K8-uoOvGmcai6qK2PAHI6P0fCt8J3V&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ehUTt3reWxgklHAx6dYOchWL0y_TGwRiIwL7rpeBji7rpXJmZz3ZmFQ1GJWQxVyc8yhuq_93WrpSxQ0Y_XdMpzHpP6-KqD1fO6RPZJ5oVTBUVF__nqZxMVELTlmADeipt1XNZTHzJo01DvVC1WUjGu492wuDiNILjGm7K_JDL7J8PTxz9hbdHrocImx0yX9_I4TAGDo3f2sLT7H4pp3HxYWo15t-kviBerk4FdkXPxVmX5J9B0kF9JsNqdTRHzehzJ3L-Gf4LGKhXiqdwX8NuxPDV9K5im26styR53OgHWQ2E-rfBU703-mFx4bf4tucC4bifu5Kf05anU_aJ9NgIJJDFMIqlKUya-gg8I3SwskzhiqZwnvOVm3mrcc6k-mKAyJikS1RyupH229CM5njQ1GswVjAmvQV0Rup321F5XLxq5xLgNu7_vuGlx0GAM&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fn1uGU-a652qAPMqIHNqXuD_rni2sUsfBhHGMlx802e4nwjD_Uy57ltgfta0pZzBuQ-KB8mxgUuUS9Dy3XoynQrSor4lB1q5l4zatGgjGEy1K6rwqnQs1cMzdcvm9osHlNo5JmFIUUv8Yg6JWkbjO4WcQEUGTNAH54BK2hQyivSK8JpcbYrsM5CCGkDrAInYQ_s2H05wIA5HwYpiBG1-nkOylqgZoDYUkM6RsAZ3GahueSMLFIlbPbnCgejhdbOKm9PXFlmQlgLdhqh0MN8pc_Tx1T3AXExEvvlcK9EcmoxMeuuyzLQNbJmM6xFEgIuyWXrX4HVapnQgzqMRrAat1I1MaS6KBQRQP6PUFvlQSzBWc5SKDoY1Y9pJiM3Ej76N8D0_3rt8EUbnUUmJCws9tcaggaxENtJ9y8naKgP_XJFoyACv34XN4Ww5rVyrHO&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fT0s4rrhs9pGs5yFpDSjxMmNPjPL60WqreHb_ATcbeP_OA-XlOP8rkYNM6htglwA8IyavH0U0QxiDuNGx7-DolDa2SNDjTMM7r38wjaDK7aTsrvJSM1kuJz-ljyr_iZlUxR8tkEkkDl1RXPk0uqyOZWG7M-wqMAJ4azMZvtRRhxQlDVWebkK3T8jcQutZ4vC68FjRCjE2AemzvdznYO7uVS8y03Rq6agr547zHBAOcf7PKyRacHWoX-HGeqZjiEH4WuSwrYpwAs14NeMg5tQIr89M9sGD7-FshXe0zqteJXJ6eOzsXVmryhC0OsIMyOX-x1-rHv6-bqykH6j1Bi23Yf0I1_WZ_yBSC7n8l9I1aJq8HDKQTG4_p_8_AWFysvS8ahBw1dG0XGw1Skt9OfryeTnEjWAimU4GDrPHEAOgc_iDfsqr9DV550_T_KjG4&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fRUy_90NKzqeNiXVCcgRx5k7sC5-wnyP-dF9qpITar-Z97ThGRWaJ8gUhdAdmn1-rnJtM6V7qYW7nTc5Ky9jPt51rwYcr8X7K-fy0T4xXVyKirg_LO2j8hBffWmzHrOUv3uBv1CdAVteT0kRuN-x6PIli3dDoCs6HTgDXhF7wScmevtsXLGUU8FEVtK1dXanFKVvKxiHBJ3eLMWdue4d378TMRIUBDRwCrdr_r4gN1z5HvWO9pg1a4eDj3Lc57c76z6wC4G13bIFDxnk2gQQ4Qcx_zExUbVQk0i4DX0Y0bTFp54b-0w0arg8yv7Ltf6y02FDelbns55C-YfHy5ZP1dxrzX-4QuVHd32gdtddvIuNHB7hxAeYja3QFTHyQBns920AWR2Gl4YBS6j5FW3dgOAXC0zoDKuvh_8DKfLFBPsxAEe9qxuOGEijQjmw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eXOm4rqqAXT0Go98obu_A4gO5grO8hX-wIpKWCkuTWurob1F3_elaQrHOrhtpi35iLimUg74y3bPkkpg5MpdYZ6Rjpt3r60wedngk1yPVHFOEC288Tq1PNaZBbx8CbN5Olgr_rFAjtavpheedfbFNwxZ7Nduseq4xzWLQR4-4YD0nGQH_ZTm9maq2ODu3XFkYm7e54pdohMVktXPcdeOqYQz5HSH7zocIeBPrPM1m7MULm3SYS7M5_SjFAxpZ8Hm1wwdtJcEuR7oLat8KjKEUXSogsL6CzgFcakuPdkQXaNRW1NnK1vcuNuomYSlfdgKg30i5LWiDcDDlXoxQP4IV8wFnrxBss1s1bxSkB5awGTa_tbUhJhXPIvstaPdCxKv0srGmUadKMUkndBaspKoGNSbn-3hjY7KZXhKb7cTxhAuhZjSl1iXe69O1wB2uC&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cVKi_oLypZ1fokcXfl17Vwjird1uvd8CM-4r__DCJiTE7H9G9jefyWSVm9bk2hJmG4CEQoegXvMPnHoQFMkCsy7905Czn4izi6D3Lb_e_GU9aZDd1mltQQk0FzIQn9DEvwCYepct8cOBiJSyerNfQL_rM6GXZ9-wUTWc9WuxGgohEqEdYpzICtrP6beMW9jLbKirMJ0a_pKI_Id_KkZCpYFL5TqK54u4xR_VMYuhQNp3PSeDaceCzpnn-_bPJkTa9orN5KKTGmzhCE8p69DU2s-wwlsjBeNqKpzVZlOyQvMV9ESFkbWZx7OQr-gyOSQasxkDzqJPyH-xI-_BHaBRAXSRQhaRgCcteP2wrxXOX_KECE3-bUyPYrceSj5VRuaig-o0F6Tw0NFF8y1gOMTQ5dwsoBY_FF0wkMKzTdqEyeaDVloXibNq9KUB0NPERi&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fmguinBvBpvRdEeVtopgDTf0IfHtUzbh-7d3NVnxRsKIDetlDhvng4nivOYbQK9VkEM9jStvqEUPhsOcyEk60nJQU5E9Uvrw-HJs4XiF-HL_AOhXYqzSPGSzBlZAcUM3tZWYJt3Ey-Q_yhB4_BckIqSBk555aW7yM54GoxIp826Pzpag5RjS2O9v5nyxNYJ1nIE7MghLekefgsgSmGITa2IS0Eu4qFM3HUUWnWnrtxuszjMJJPWOsJe4BqRN7F0up1-IJkhFUTxt3_0vqYc0fmgOWRVSCddt0jtD5uPlVgzRV1UnHdc6ywgGfrLkdbQJhmU-HZSLrVXGnhsGLVWn5f4jO6OhkwNTPFnRg8eYoqnM9zDAnpkixIvV6sGBFY9pVDMqQCUTA9H1ky9dFXHCGzWE5G_UurGNdEMwUmlYw_QbGWhMOBfUzcFNdAWyoq&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Cosita Rica Galería",
+    "address": "Av. San Martín 209, Barranco 15063, Peru",
+    "rating": 4,
+    "types": [
+      "art_gallery",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1445163,
+      "lng": -77.02315639999999
+    },
+    "url": "https://maps.google.com/?cid=2024900559184893141",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dEw0-E4GnK0i-yCvSzYyUNE5rVFpdPfqq0jxY6fpbEmZZW3hI46qRujUQ2yZuYi97XxWIkjeegotIYAGIQGQuFBK4AbYtZeMcZErUlRODtSLXNW0ruakFOQyJMSVPYWXIR3sm8ZjYzYJzKJxDCWNWcFC-n6-CX-81N_rl8RiNrE2inNCBpcMncEshE19WFi6sRBs9xpzUXXC7Z54GdTjyLgcONSdOZalwvNI7OGcD73Zlojo8Ra4vpAW40Db2O2hAbkLQNd-fmpD6D2RSpEfns-hFk1KipwcDehaX9OHxnc_Gt8EUeG7sa83Aw9GCqqaTxmYxdsCtseZRlFb_EiCAqXh8akFQ7jU_bTQk-6scwAGeQFOKoO3zTuFG_AhVWeZs2NC0JURYWoVw513xS0XQqNBI3pCfVNh1oXTUguIHKjw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dO4dAFkEIjZvhl7JV_DSgeyM7mJ0ZfkDl6DysubZhsxrGvY_g4SmLg9rpPobCurqmGQg0LMWm3SrXKaUd1H36alWieVMx-fY0cd4y9_X91dQjuQDAPLDOVZdsBTxAcAtkyLXLAXayROskZsQDDROrVr5E3p4Q8hBy1HgNepuQTEzHepTYMGGHeahi-MwjEbPrw46N5yvomKTBJ01q_V3XDnUHmDG1rumEe3Jg06IiSZ2jRmrdwQP3K6-YfBHN0Q8dtRgHATqhSWswPVfsItDWma1fqUaNCjiw-SqHIiFVDhLE8IzNmoI2cIYdTiTskahbs5WJcxMH0sw3GAeKRh7mIIlj4MrJ8dwkR9GrDnljwWLNDMyS4VERHN7EuTnBT_NIPchp5K40HIIswueCu-MnNJqljXDrRQLz0MOktsXY&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Vanessa Silva",
+        "rating": 4,
+        "text": "A little difficult to locate because there is no signage.",
+        "time": "3 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Bodegalería",
+    "address": "C. Ignacio Merino 108, Barranco 15063, Peru",
+    "rating": 5,
+    "types": [
+      "art_gallery",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1459078,
+      "lng": -77.0214116
+    },
+    "url": "https://maps.google.com/?cid=111173311835222545",
+    "photos": [],
+    "reviews": [
+      {
+        "author": "Kazzuy tamadochi xd",
+        "rating": 5,
+        "text": "There was a puppet show and the painter explained his paintings very beautifully, the lady at the shop was very lively and attentive.",
+        "time": "7 months ago"
+      }
+    ]
+  },
+  {
+    "name": "artelama",
+    "address": "401a, Jiron Martinez de Pinillos 126, Barranco 15049, Peru",
+    "rating": null,
+    "types": [
+      "art_gallery",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1443303,
+      "lng": -77.0225318
+    },
+    "url": "https://maps.google.com/?cid=17780089800291303378",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eFdbFbQiSvSNxRIbmn4uv485orcmbAqQXlc_R1YWaX-WLbIz85Y8gmnM5f-TRvx-7rUWIVRyS3frD_pqOFy-_wmbMjKvFzAAiWIXc7jJPK-sC5UXz3cDtXRFFeg13YV4htjWCNWZM3mYEOb2ksMWxn9hZTdyOfqZCZflkMUtT_0o0afJTTK_nsBx_0JLVAF18T_MfARaeMJD3F7qSyGW-mJaC3czSJQz-bh3zUcehB9NtY8V3X6jD2VQGzEolbYCYudpnf84mWoVYvFdXyoGUQHpcmW5A_AfR9KL-sMb2TeQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Espacio Encuentro",
+    "address": "Cajamarca 106, Barranco 15063, Peru",
+    "rating": 4.9,
+    "types": [
+      "art_gallery",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1440373,
+      "lng": -77.021565
+    },
+    "url": "https://maps.google.com/?cid=2599876183942504264",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dxwuxFeIz2fw3TFS9P9BtUrvgrT7PXDDxIBx4bDzW2cV8H2I-b3k-n2dUtcUIbeX39rSL-lBNq7m2PPjy2s0Qds4xlOzYkWpkcIOg36PV0LALgT0l4066r6ev57j5wDwSlIwznEaCJlITHogmXPNu7NjDZV8_AsAsoTrvfJKO3ylYIlzR73HFQL1pVwMgI9-KOELrG52vQ0JrKTyfFtR0m9QBx2Cl4kby7Jho3UePiSFQmwAcO0Vv0WCE3-XNeg5wMpnyEgzQaKoBvonDxNQov21EfL_OwS3lzpkW9DWj-1g&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fJI0F6-1AdXMvUcsb3d0CSCfI8UuDJBuTvhA5-14nm6SwNy3SgqA_ItXrU0lDYlm8nUrwbG8vo527aoZJpuUZDE9jYZB0L5zCXed8aJawr1gC16h4CYYCulzApx2qTMPvlwxfSVOBxAunTbHlxj8hr6FAEiNBJn-OX0-_XShN3FxlOfbiXqSlKKZLLSz7dx0qDwjEY9luHWVy85UalwxYOPA7QODSg-9Jb5UmHif-pwnp0z8q4KoblCRbW8T6-tlKNVxACYsgBUqeLVhkI74czVpSwGdQ0dSVqon1pPVkVZw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c67YkG5zXX8pYYVY8fB_KN0i-NnAW4qBanvWW4u64zYcaR33zsd5UmiK-RrI3Pwln8H_ski5t5cL5yBmk_3WxL5Tjxj_uH0fn-AZm7-u_3eI26UpvQIgS8q5eDLWFV-Vhziu7AbuCVIQ7R_G1Lr_Qwlx_BcyLCsbcVD3DTCpUMjmCcARFPTvmOWzAMfz5CFWRr93OJ8kahAn8cuNv7PpzBvYj_02XqKgcZoFR8KD2n9-0k7lPQRGdLCgzzQpMjr90-W_huKCLIJmJL1Rl7Yhts44g9o8mWjhEgztBur0KFJUwG0fHM0qDHxM9yVh40Aye0z7A3ZEu88XnWW0Tj7rfWHdm8QWvlzMI9R53tp0Ku2m2ylw7tuTxd2dfgY_uZP7vJMAlyrIO7rDT8qPrWpZu-6IVeEzUc-YL6EQrjyHJZveiyTOHzG5m8OaiKXA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fUvDh1xarIekcfZnbBDVjiF-Iio8zivSJpjvGph1Bwil_F3ah9qJGniRA3QFOputN3_BJLsG9eWBZQdjGO8a9mnLygQXNqM8Ge5YRoZtIIHd32LFibVQAEUgKcMWO7dELTfsA1ZAl0wTs2B7sGbHepgGeCW_n0Rd-V4-879CypHj-I7i7eiI50YLtSgG0eLYXuTMEXhqWxjx5U9WBKG-9bWW8lQJEo-YLEF0Df8nPDqN3HIMtgQdfVuVRBLjiTw8kD3zMyI_pL0yfBO_tiKk65VbAW2N-or2mGdIDiQ1PfYRGGKiCy4YsWZ7KBCyvF5UFkIPjuKSJay601CCvG02UFKJKWCTFWXTJCA-Ckh4olRJZF_Ab5JQtNGlqKHbbLY7rZjYteSooFHfFYMiY1qwVEwlwU3vfS_-JEez2eIkYUCA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dcMuWFr3jkQLoUIVeBqAQA7QC8CUE_Obnir6wdRjuudzjf7QCLabVt7QbTG9XSHM7UiirzQFVpbgKk1rvk2I-C-b6cQJI6fQPepTn724gkvvp4HnpcaEm_rKfr6ytjAdRHphecMLYMF5n99yhgJ4HzJ1X10X97mAZkJpOjgb--XG_HoJXl1Zl8zYA3da1hpasZOYevd7h3IJ4p7a335lz4-8WZaC77Jo7qBenWBBs6kDlSamv-mARuydD1OlB9fOr6HD4sL3-rtWujRwGzs_7XrMQ1bYy_G7YW8iP3-gHSQJkqExTlfTG4nV8sYcbcG4AP9vCfK6rKAA_26XopJJRdMj4pRzT85ch9JuWXAfW7-ikWbkvoNlZZdN9KJwhonJKiBly_QkBc9ZdQ55Orr7qWhpgPuwimreMsU8WUnxOwVliZFVwErtqPBtm2AA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fKEt6jdpsLtkYTBfH7XRosbU-MLtyYh-S-FQSRrP8b7iTE7hNbFvu7orQEH6pJWy-AyzmmKffHaaVJqvund8NbsTNXJHD2oAIlLbZOtIMuZzWnAyQxvCKv394PuxxEJzhU9ZQmeQ1ioJevpQsdiIhRAs3cpGaoS1CDuDgvpN5jTCFjHuG_CZW6Ocjdc5i51oFcRO3GxNYFVohp9vCZUzOTPzQOgOghX3qyCfp8FZzdiZBe7IQNmDjfMknjmEqrd2z5_T4Z0PTpgqGP5jd2Z10J-nY_moM8NrlICI3gj1vgVQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dWEmWpGvr1eNj6dGL49XTd6ryeDfBBBzwGtHfohXkKh-g9bA6FUoiL3oheUMnjaQxrX_oseUavQ86K21fD-Tl8CCdnoWYsxWOq76TQio9wOtW89SXK7cj0b8D7pFXXepzw67J4pCLS6_BTSBb4uc7j-A4P9HUHHtmTJFhmA7ujGKikfno8kCHNd1oUn9gKDuH_kippQGJump6cB7fSlFKwJhe4GlXkrkGLVDCSNdVVIS22L86N34jK0IlTLImNouX3PbZJCTD8vkfFE6BiK8B8y7cnYNPmnhMlHWWOVUxm9zGqzbf_eXJHKKnOkWAbWxdJ-cUN7Qp-mFCNJ3cflkHtuc-ksdcWw9x-dWuRt40C7kMknMfMofuj8cLyDHHMnxyhnFcxkjgEaheHpEYSWJSTEagfZ3IMW6wkzlaOo65y3nkufjg-CYwmLpDPZEmX&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fUPsCxAFsFnjVq_QLTxMzsjGJuR3LOXUJ4iGhGPbOXdS03_yACXsqr1Pg28P8uIrxoBMkunpMz4zs1MM203AzJ1jbQirgkUk-aswtfhSOXwwF7GQewq62MkmUpFwuSyCZSHkGGCEQbrpcsOZQi6gCuwiXDeWRmP5ZcjXyCs4JgT9BRiNH8cP-4MCnWYV0sdYWoElmiTn8AZ2AFpjmvuPbBDVhzPbwup6i5oK4mxGsO2tkfYJU8aW48r1RevTI7y0-lEURe4hyLzR5oCLvGibEerRhtKcr2B_M9BZ6QKWDJFw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cLHWdBbe0IeXvHbdTyzIT9PFZHxKrvUMaQfNaBwKp-l0YLZ5G1eCm_NYcBj0tISzOatcfqQsWXTtEOaw0mrizaGI89NJ4Fn1F7dvYjcfxH2zlpQhlUBEL7FabEZXQpK8hTFo5DWgkq_Wo-_fKPbhP1bAtrkykNKbJ8XNQtgYp9SX0tc07PPQ98VlbYAwWEuQ264Adw8wuXR347vLeN_-tfn23IsOTsYUYUVtu0W7hL_n1cBAQRaTe8qrORcrtKAJTtRQe4Pun7GDFkbX29uHQHDUH2SapDHpok7LXO-G8vU6DkcEHzOuNVIB4J805oeQ-O5na_S-E8p4732Vvz7OCFffHVCNBtXPMXXxQyvNi-pywE4nLkxPMc1kPZMbzbQ_1AIAOgIVRa5IrAj1Nnr5d5pAkjejgDJKQu1ki6m1XSui29WqWEiFZEsCS-Wtz5&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eUBZVgfRtYSLbozc4-947OfZIxyLSgD3JVP1lXrlAgqSyUkrQ5RYqawT5ZDsYTa04X7e0uCXWtG3KlD96fAYR7weu_IKQx5RZhuoQGKgVF3z0xOINVbpXIF4TilZhAjDLRKkTdBAXH6S43uqqTCq-V7c1s_7lJPzy8LS6ji6OfmqN14cNP1EO2AwjwEKMzJv4MysRMUlxnHSq3MFvK0nHlcXX8y0_ud_6rPZ96-yVcqgl2MyJqcWa_16pEvZAN1z5WV7xFj_Qmuzd6OYmxRYBz3my6_B1F1YghsFaq2CgykE8WGEUfSRpI2QcMXE1pbX_G8KLzjFE0yPjIe9IM7oOI0RprW7D-v8Ufwv1qEg2vsBz24lIvx-MZ__TM4aPFucE7g5TbeUC5cG1mg1iHb4qBvEKQfXy_VXyxI76jooDgdT8gKrpu77TrRHOlVh-c&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Jaime Zegarra M",
+        "rating": 5,
+        "text": "A very well-distributed gallery, super comfortable spaces, as a new proposal it is great",
+        "time": "2 weeks ago"
+      },
+      {
+        "author": "Javiera Alcázar",
+        "rating": 5,
+        "text": "I went for a workshop and couldn't visit the gallery, but the shop is very nice!",
+        "time": "8 months ago"
+      },
+      {
+        "author": "cassandra zavaleta",
+        "rating": 5,
+        "text": "Beautiful place, definitely a \"meeting space\"",
+        "time": "a year ago"
+      },
+      {
+        "author": "Gerson Añaños",
+        "rating": 5,
+        "text": "There's a shop and a constantly rotating selection of art exhibits on the second floor. The store carries products in all price ranges and supports local artists. It's recommended to visit at least once if you're nearby.",
+        "time": "6 months ago"
+      },
+      {
+        "author": "Jose Antonio Lujan Torres",
+        "rating": 4,
+        "text": "A place to visit.",
+        "time": "a year ago"
+      }
+    ]
+  }
+]

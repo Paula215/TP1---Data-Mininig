@@ -1,0 +1,237 @@
+[
+  {
+    "name": "PUCP Cultural Center",
+    "address": "Av. Camino Real 1075, San Isidro 15073, Peru",
+    "rating": 4.6,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1046116,
+      "lng": -77.038718
+    },
+    "url": "https://maps.google.com/?cid=1186467382044103116",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eEyUjt2BjalkWRju0A8K812Z9SUTKwBkAldsgAiC1fvB6Gy4l2PdMgLgFfum662yqm83CRrKW3Zdfm35N6_Ncz3upn4u4vwY9slKPL2y6693Y9VjEQYDntO60p6ccZxxqW8847_9sW7eLoFatLos_rc7Mjq34il5jnLxFpXv0zWQy4_61_T1BLX_Sn5jbNxJGJRuVZSjoe7i-ZiZaLEO-CNFXqrCXrL_VHLa4UUlUukpajrZd2FUxz_2zwOajGpIUB6SnTLoIPZ1_ibRiKnxfG_5vJc2v9UuBwIRFe_3V7CzN200MthhOOzped7ba7xoRaUt4-E5M-Z_TM4KWFTdbIuivDYxBIobm-O_zK_uEP921uCbZdESEltsPcfPuqFq8vW8s0RGhe8AycxONYO6HYpMmIDukIw0U0PYA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dzSRw0Dnpvex9Wzy_uf1d_GnSia2rqMD90WDECreVsVZ40txLhVfJM2DMk1YaafpxqPvs_Sa_BtDYjQrmSzYo88qnFGqcBjybZvKt8hbw95OnGt8pgI1tcICQc_R8vNoghZYh1Vh7YFi39C8tYMbJ2dTgLMkk9kihw--M1jrp0YMHQnFmShfBaD10fKBWR9mY3k4lu7CMaML-o28WogXP2cKA9xd5sSuOk3riKZh8e-Bu1kQI7zgdk-X2KBwOLkj9scLA65MXyhVTndExNaPNQUvZqGly3WfYjSodL62yzViRYIvmulkjSi-PT1MrgUk3RpFN54eieUcZNvw_VUrKZCK-dh0AjAzhYOegTvSIsa609czm_0bsbZLRDGW7Rww4FKMo9THSZVPcb0JRans9HXzVMdL0BadwXfUWpSYaMN6VW&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fxZUcReH5AV-yuCmqtciLbxlmsvnj8zTPsuUAtPhjkKU6sKtlkvKjBKGw3ZTntsUd6ytnlkWVR8SwmmT5SOv3Arua_CHCl7oAwfBX9G-2IxFf2KjpMwi5xllMxSm7YOF-_3Ese1aM1T2x2KKeX-7sqLMvSnWzT4g-YbzFBF6dza9xVy_KA6vs9RAP-DCq0SF1QvVxqcbTKQLbn33RPazIahE491QSp4ZZArBG7VLDgsee5pRIFkFBmjtz0nG3l0mgnMjyO86-cC1pnMOLdvFpy519O2HZxPGpq3ndrdzelRSjJCEZ7lI7u-5Qi2lcZylvjZHVNDpIJWekUi9c43_-GSpLI6drGfu1FznFDipXEHYeebDuVq9BnMfbNckvgTatGhXXwaXFizDsKNO8a40pu-TQOSAQjY1frPMwTcbw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2csANcWwrtb7sF2XWkqCISKjTsPwuR3Bf5pHdr1nkUW-CZOxgqwpl6kCylO_DJYOB0T71mbVw4fzAHw21GOtUNFyaMjW9w8Fq5q3K0S8tq7sTSz340vz9yqrd5gEQvlQvUtgdS0dT13iCSRN0Q6c-zqbZwq_wBUSOf4nUwsyV5vk_94YeXIHUNiRCDoxRNMDyL5UTC-pHYPgIqbfKPg7BsEKc7JW5LGvF3_nmHUg4Krd2At23-6w-6-0gvyNqY5G6GQM-elKc-VPXmzDBYi4FWj3e1h7P19QAAyts68vI8MJWVX2OuKo4hoxSHZrPP3PlY5j7vGiGX6t-qY6VeQ2RxAo8r7ImhpwanD4O5x9iDG97DP5y7axKM7CKvFUNTYPtD5ExYpmbeqI8X9L4fPWFBXCAAao4b9L-UWuIcbDPY&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fsdwUVPm1LbjCbT9SleeiQwMrC8bZkMcn1R4JlwzKluBMDyTCNWfi1nS66gVrQ3lSD-bIc6iQIKPG78NfIRYECdxIuBDn7UNWgxDQeOymi4B120ofzhhE3pPhATZkP0KIX3Dd-xmdqwpPvrm90w3hYFrwBZe5uKTL4COTcnrCkgKyIY7ABlyN2giJ5Q46YhBjmcKbl2kt2yYzeyuP4AyVWdktUqUf1arsC4CRyRFQyNj-ftyMdrXgEtBHmDxvPE3gpE3-giYDMuZTcA_dWiw-mDOce6Ziwjq1F8V-r_GrzjXvVFJ0Xd18yZeLIrygGu5-GBbXwtoe_axh-lGNiT7zdmXLNuUMDizIYUsL_ctgsF8SMpOjTcPNlCv1y1ERqMC8uotIsFcMITbUm-4MptQQ6B0H0_nNGx-o6syWSDH9Yi9DjtNILJNVX0UNcZml8&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d6Z6O3gO3_a7TyAsffYHSa38bYZdmaIT4yipabQ92IHTtfYwYnCZO_NX92xFZeYz9HiQDQPcI2ZWevHuovIibhyB5F7BxrkIIYHCcSBwyqk3vpCpH-NrlQMIFC4e15xbRUBbAnpOyvTfyqrObT9_f6QX1y8eL3JYQNH3aF1Oahe2z4yHZiaEBbtOJQpbxw_THR160WPtmV9-F2mjI3gZ9tdrSmaNc2_BDKJyNl4qF5fcZXWR4t7-HAVfWRtiBU64G0733lA8cJbFFFMKK5cXZrzsVmnbpK0j6Jk8AYd5kFYm-jS9b6lSQKn2TB5Bh58LGJ9tVBXcW_IZ9JwwUsLMi43FTFa5s0P1hVWivYx0L6yO3mOKdsCRpgXBAZF31zA8zkh95UriNX7kEioJy7GRt7yjeTkHroSYQhe1bPBxrlx6n7&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f3Ie6tFUr8VNnil26D94anoahlDCWflbUDBER_oZDuaHL7hBtfDKfh2APY3rOpmIGB4Bae7N_fYI6c1lxQ_SFaLfqrMh_cN83C7nr3stn_6cU685svQSRFEVFUT1FqSB98k4r0-TzH0tngriAzV0AzWULsAtuZjBtnzc4P633XEx6qvwsQVXQeEo5CM9JavIjtw38JRnCP4XvgwNYiXxOHGyV_2VNGxJB79tnJ3kAhQevsOf1er1tzUI_3VYpHx3wBB8Bz1R_WWRDLcB9NvBYD3cI6MnyrVXgkXeYVkwVv8nFI_6-tm8RQGtikWPSfVTZZMrs8t0qo0HgRZRJurhq5SQHsgK9yHbImH7-L7ypUBdmVqcPBKbUeTJYXM7jiSMsd7S98zOVT0C2NasnwvudoxQbezJ9hOU36DhAYEPDXHmU&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cfxtXXg4DKJkgZLF0pUasi_ao6JD6DEaHODhd37tVHY0VubNparfnebAn9xXwKZuY1N0yGnym59mhgdXIUdiA-qSJkN7haUupNTfaqt2jM5pfdSsEohpgdmSK1hoJ0Ifr0TsimZ5a7rIZpyvpSSm6njaORWsJyk2B85qLZIDbcs8NeM7qL7jNZeMpY9gD5j4NWFyBNuv1q7TBLc81VHXD0lCDy60VRjmu1JIN56STfvUpq_JGnZdpWe0z1lM1b8nEugY6_Sla0hJmAxMG2pj4K0XWZvZ1J9xZAnJ_ifwgtHdMtipTgfvI6fRjnkjNv-qzOZEqUxoyUmtYhamvs0-jH4ioazWWnZPlQ_YiNSmFwT6W8VvMeT0Qxx0-mp87iNflwRCz75CBT6MgW6m2q2CCzvOs9EyDTJOQ59RMV_fOQlfMC&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fTK7KyhJ7zTBjfi-HQ0-O4u7U5hpBiD4fKSQQqWzVf2CHMW8p_kFf7LRMrESLov5s7l6Zz7s7-SyzkR7YuxaUR--fKBH1CSfpSI62WrvE6Lsi1DD4hVzdrtSN-jjJ2JAsdB1t1RKhW-pRJ7kP2rM4N_aKpsILQ--0hbjN9aSeR4ZBT9CGcdfIQMmDtfe-4JsRz18ZXMxMLb7V0OmNa6VjHxwk9KLGsNZ9fHjTlkMlguTpOtRy0IU3pgkH842F8J0GhSLwpo1io8yFHcL0881_aHX6yTdlqkob01ldHjAjmT_o8tVdjO4F7G0jl5L-j131SiZX5Ug36prs9Zme18U7HJM6-YyywQfOm9KusvNHqq0OhEtUEFvea_Y7iTYSzgBWB0CrHoOEhJWbFN5xIMGjy-FRAKCQNzw4_9trVzuo&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fKchY0KG4qn6xjMou9N1TiHhw4Vke5JI3FW6lgMabs0e4t13lz45lM2YHDfrHP4OdkKEwwvvJ8x6TIH8Q78aHjV9YxXmV_9JtiXyPcchVHttsUydlv6_AHSz0dEJxR-1y-i40JLnkCuoz9-X1MSQdqubYM11KhjEp8sPCLWYt4jGsZwim_BHgWX6JlgNRDKcVTN3XX-eN0zM89eMvZSQE0O-aVZbR-XVGHRHvkoqSXUj0OSZD5M9mPw_YPdXb16R3g8QVi56-XB9goWiga3n1mdO3yUY23zJZbx1HvootDXjolqcgmmHZ8D-bep51gXkNtmkGXvZ8Tqp-CxZf9635bacVuizRZs2s3hJKcTN_jWxnMOEBVFXkLawOhApQ4U1nn0Jsmy1h7OSuUp-hKOgi6BWQXTBv2DpsaWvzh5t9m794-&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Ana Vergara",
+        "rating": 5,
+        "text": "Love this cultural center, super central, great selection of movies, great spot for plays too. Cafeteria is also nice with seating inside and outside. The gallery is thoughtfully curated.",
+        "time": "a month ago"
+      },
+      {
+        "author": "Fausto Antonio Huaman Adama",
+        "rating": 5,
+        "text": "It's a good experience, if you like cultural and artistic place, it's your place...",
+        "time": "6 years ago"
+      },
+      {
+        "author": "Diego Echeverri Garcia",
+        "rating": 5,
+        "text": "The perfect place to enjoy the art and share",
+        "time": "2 months ago"
+      },
+      {
+        "author": "balooko31",
+        "rating": 5,
+        "text": "Nice exhibition, worth checking out.",
+        "time": "a year ago"
+      },
+      {
+        "author": "Mateo Hervas",
+        "rating": 4,
+        "text": "The movie theater offers movies that are not massively distributed. The sound quality is good. The confort of the seats could be better",
+        "time": "a year ago"
+      }
+    ]
+  },
+  {
+    "name": "Centro Cultural CAFAE-SE",
+    "address": "Av. Arequipa 2985, San Isidro 15046, Peru",
+    "rating": 4.2,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.0953161,
+      "lng": -77.03270739999999
+    },
+    "url": "https://maps.google.com/?cid=16033579636798223228",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d-blcdRLPDUmn4HDUPMxZHn9g4DXD7nMnhkw843deMsjGKEf378_SNYvKVgKZfPFNHUizi-Wh7sCdhvkX1nfcZxlwM5wMqyztILKEx8V1wWbCCl6qXDlUQLq_mDb0xAfplpqr29FxGkOAQJAtAw7YJ9rO5p0NLco1Iv8pn_vhw02sDx3fSav4c_9pNOP152PZ9obNw5NM47TadjYVvH-MKrltq0lA_B5TKmiUcl6DRxKO_mJOTy4FTBbt7YBXpaNqEC0AazGoBslC2KQvGzIz61FYdMjicUaddgHz3G1_0Cg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f9uYE8EYIjfGjsfr_0WhHkyrKlZWrfv-dqBmD06Rs9s2t2lY_dFMC44PStPG0rYeWOc4k29sX-u-dCECRzFWmkJFVLgYN6n9c8CXl0zZIfO8IqFqdQ8VIs1u7a0xMg1Hed-TyzH5ovgnyJ4M-ZheHL4NALUvjmjaZhrCZ7H0TOaPQnnGGxL6So5tHi6QGhSSxnzDiWNLLlW2FJoUOWkKhAaqDJBszVEJChYMd2T60aOGXw1fm6rwr__Xc0-Xs-_dM80wR7pGh_jVd1q3xKnyiZkv48lg0zLs9Y_Jp0zLAMSw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eDtYA4MUNdZ4YM-c3Etw3IXQLjhT5D5DpGlpEQfAA4RtyxXQ-8FoXhgQjIatlMd69YWFr-SC7K-s5MSZ_UO7GK6VOe2awczCGAtVPtatEg5okPTTyGm7-J07aAlerj5z9FmtiO3QOELFWSLWbE3ZewoTi43UMrv-e8MsCXm6fVcr7cVzWCqyqaNRlbZmQRf-q0VLKtxHpzoYwDuDvaLzaovgkCL2ZWo0fpFw0g_B1aojbWLNVPRfJdFWsQ7Nr7mGRLodE3Ooqz-C27EmQi8cGX2mcBrkXU7RqovMObV1dZx5lHN23KLn1TKli5OQ8abm4K9XI0D-5Rw2af8NrriBTgYglO18S_7fBYdV0YRzb63q3lyGRutfwDB_xtEQynfqZ49I7KZcaNFr9l4yhIPyBcPg7DpwiJPdrWNZxOcaw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fmo2PhK2Bq7TYLkN9_aWa9FqT4tbkQYZfXa4fY3k6pceBRskiMsi4xhSYYZvrzfkrIdU30uDi7K87gZTEghesbBCvW35xFY44jlu3AaH_GpWPM1d_509q5v7igBgu34-iQbRTiqQGu1cfrzPViPO26yuuZi5H4e6MM_pRhFIFC15cc0zNYMWniwOK0AhWNihyPJpG_S8FkrsFjbElqNiAFnisuZrvh_Q3O6rvLOYAJjmV072Gas-k80m37eC9PtstzCX-UVo3bZSCt91-eRgO7qYd6Yu6mAvyTfKqE1C_kncB4SEs_-J82ksaP4yU3671VUH6vXJ4hAhKUcZy0atM9atODcdvAjM0UIFYFA2o1etQPrxriUYTwVHudju2gDvAoKD6OeKJjpb9aoKXc-gRaf15swlsff3uefPENvnPchA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2elTlnwP6XtrUPgkx2hKNkUKHsvmxkcNGzBRUjfLaCtAgv14kH8rwvp8yqk1aKKNkSU3Mi7L7DMn6pliYbHyDJl5igQK56qkahPYHa-LppYDXHNI3pg6U4Du3M9Kbv2RRgkbZvQ0b2TOQyqkTQqAvxdWYb9JilsnNu-VFzaAh_gGXVf-kSxRM7reGbSb2tUrMPiPCVlbGL-otnzktcO5ouv-QuCOYmmvZYpU-3d3yhvcTbGEfJASbUci-C7sFo47le4libFVXOY-Z_ATWcQQHYBFC9A4v49N7KYSEEu7HAQDA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f9Pt_6SAc5VujpuLaF1o1wAyJPKBEEWXINEricH11oRd2tsDCqbpWdtn0UXl_Vge8fC0sdaaVe-pbAdKGSIMTL1evUYRoTp2VrzBUpUrb29UYlYl2wMfSWeUbimpU_dn_oyICMXfGaRWI5BxVc_CPM_ip-bDrM7cW-wr2AmKKl30zEBqLzz8IG5cPb_K3-Mxo9UZEItQd3PCDIAZ0PVjvzYEY0x1UQ7zZ-Z3IG8oZO7OIH0iNT36a9wbyrFUQ97uhevgJhSNnj0GemgHEY9yzQWqXdHXwR2PWdt3QOoCxkJ0vCZ9Ie5EDKdb4V4TrzjH2I7Jl0l691m7eliaSF73h1GsFK7tZCoQXRNNvfOHRYo7tOHUDPvCZiSKVHcEDFNZvPmh3ANvcl3lu292oUHxrIFu1iAyXPTrJK3XS_fu0Mmw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fx3nCSROE8YtosPPoy_EDdgOfQkMMU7XvqqmV2E4DreiiycMhXmgowhb9cYSQk9oKgQhi-ZRnUiNVwp7c-adzECC_Ma-U-uc0H225IZlVHwLRw4LAMeLCv4kdxRU54CEiyvoCJFBSj5AM0rH5idQtFbihNlJrZDv1JCF5ypzfceuncWWf-XMf8NL9WQQqwZdzk5Iw2tw2kMHB_L9JhVv3PjdIBu248TlwzyLZm0XRplmXQyVd5gpJFf-VNNipjGc0nUAHil0xR9IGn_r50IHEMNzSSRfnA2FDKvn-oMmShAA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e7iZrpXUYzf6NxVyOAZcdrr8t4G1G3zxNMg2IB_vfWKzfRRWRXowZI-4IGk1vbSbVwaFaPW7FGsMJzia-zPp_6qCUdPK67vlz3giKTME0nQB_Q9K6WHWo4V9XPkhYDMppY2YjQ2Br_VcbHOSNDRE2OgO4MVSpY7LM9-ztoMNrBdPgcDWOnb_GQE16vxewoacobQ8XsPWV92Hv5Fy2xvlzvGWJWRdsub9qPCuK1X4KK26QuqF_jdu7AMn_Naul6xbv2LCfOr41SS-GlktnCe_PFAldLyjcZ1K__NBR1mTYeng&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dt0OkLIA8IpoSoOlKmLoCUOUXkjprbekk5RL-NJejsv0K6hwdgiRUoXj72BRrA4CuvkOVupfEBky0zcwhIqD0IrAPu7y63zWQ4272o0ySPYDhf9bE_kOfPARPIqXDfk2GjXhya6EhAvAb6XzAaR1dmFkf1PV1ggsseKlVDinxX2GC7HSJzP_E5m7Zd_aiAVg1lWRQHhWM7zZKdMSiVC9As4Zgm_QIJbYPnt9166GW4g2bdCQpkP6BgoDENVTwIPBqxa9_rqj3pcszrbS4B8gzHWeKUfvxHsuPgeS0LdiLNIu5KnfH5hOYWwjOz3gfNIgY_3A0oy92Pa6kgJ4VJwCJNEmKR3V-TKznKC7OA48vc4uQ4EIkRZC6iDaeh3QDBIf_ogFCsgt22w4F_rmw8XXeuFCoAtauIEdWOTy3yaL9QKYk&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fv0tplzK4wHT8msaju435Cl1nZSSuMkbZl2n4R8kBdpWYuZnhy9P22ITb6Ou6tO2TbXkJZ-13ZG_UaTa_nVQlCL4MKrgsUCh__sLSCWc5uk9RGzGf5s74ePBmD0gWdhTD6lzma1KA8sPciYka4Eh4UHQueOcfXpnUF939iQwgvuvqmDsl2I7dNk6KoQ4HVeaa8vwizEJnvgHIqL-bK_DVh1LeZNpUqYib7Pvqmhb7LZu_VZV_jMkBKADe4equvIq17eBmPA0WCQAmfgiZE-1RswNxgodn1x89Re9gODTSebyEN1b9bIFO7PuUoaY0OI8_tAhAUV-dTJdtY_ozrp8bK7QamFAG6exo9Y9MQzauHF8xOKfN4KEu-2QJCpbp3kEjERQKsVioaeGOdglKBhtzMNG5sb31Cn00clIuLiDz5FQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "jose vadillo",
+        "rating": 5,
+        "text": "Great place for a theatre tin\nMe!",
+        "time": "2 months ago"
+      },
+      {
+        "author": "marco roncagliolo",
+        "rating": 5,
+        "text": "This Cultural Center has a library and a gallery of art, which are great.",
+        "time": "6 years ago"
+      },
+      {
+        "author": "Beatriz Padilla",
+        "rating": 4,
+        "text": "Nice place well equipped",
+        "time": "6 years ago"
+      },
+      {
+        "author": "Sabina Aimar",
+        "rating": 5,
+        "text": "Very good",
+        "time": "6 years ago"
+      },
+      {
+        "author": "Patricia Rodrigues",
+        "rating": 5,
+        "text": "Lindisimo",
+        "time": "3 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Centro Cultural El Olivar de San Isidro",
+    "address": "LIMA, C. La República 455, San Isidro 27, Peru",
+    "rating": 4.7,
+    "types": [
+      "art_gallery",
+      "establishment",
+      "library",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.101474,
+      "lng": -77.0357528
+    },
+    "url": "https://maps.google.com/?cid=16004056894090646950",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fw3wLRUaGZbJelbXChNRC3J7aoFX6mHHyuRxkPleB0gAdF8o8bCEgKon8Guf1LdNKCmKyp1GjqSrm2D_9S5lW4U6SY5fkkgn_YVRNtyhbekJtQOXUICcRvA_2B0E_YmZD2Lwn3C4T1QFqf_nvkk_cWdr9nvxw681FcvaU2shgBqBl1chazXVCTofwfmeXgD6VAHxUyaiPY9kiLKn0FIyr3h-x-sT3TQgGqYnT8NVOuJfxj7YSMFrcIRQYr_mjpsECVcCbwfgSZ47QdW9aRDEm_OXdn43plW1N1G7MsDaBSWDgp9rJkOZ-xL7WCXAF9aiTAG7vdA0FUl5qiqdjXVB9iAeMwGEja3JVQH_e59pamYpx16s_Tk7a68OaX_oDE3LorFljvUW_T890MYXkzLGkeA8Qb-ezcJv72gkSesuRubG1zx7X1TtHmXxL1uXtT&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dBdgKtjcEIg_ph0t_43vzAC16Gg_nCfksgLUzqKOUlVfxnmPBi8HS4jNTU3DQIhzSrKRHnrK8ZBufuVSoMddzwXtWHetK4iNp5Ad5iZIFvV8lPkZskJMahDD69GlIMvwJXTzv8uFlBMct72OyuD2sKrw48BMLFAXte_uuohjW4ETJfeA-464KOFArnQSmya1HCmG3K-wQSbKJ4c3SoophATlYdPZnNF6yMGDcN0NhNydEp-0xp7vhsfC-ZSwdbyvExzyUhGZtHzrWDnQDbROeWOA44PlhPVhhgupaVYy02Qy3Wow8bZ5ka9HvYPbIA5j8pIPad_8YZyRXfX0FmGkIZ6fN2r7it_9iOtDiBaU0KXBSTU1IEIPWnuHW-lhn_YdheKNsVyD3OAtqXSiV7MX3xYx2SRvOUM9uPPBi9HWOmYg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eoikg8LTkXuNEOJQJ5zAbStYRS3UOJiQqBoFMXgNa9AVvY413Gvf7lh52XhJ1wrdzt__58jBPwhtwOBKeoDjhdAaAWsB-Z1U0FVtlZOskWkOYcYPJAUe0SEUKs9pe4PwRvIB5Ql9AuAQUvxOMhmLLdvU8sx5o_7KpurAPjCz0g76F6plh5hKjPmeuLOk0J8x-hR150yo3EEmrLKbTFubgh4k8YzxsS15y07SCuu9QEjvxXLS9IRyvDX-pfsavKYsYODSNfwqTfdAnWyZthoVx1obQAEaqFiNkabj7Fm4FS9WB1tMqnscsgF8sDEqW4cQEYffT14XtOMP5ogKwsjV524Hk7qHUQA1Rlt7NC6FrX2pY6zG90lpvzRdZl95WV3WvwE9fnhhLysA8v1ZYzPQ4FiTPKYQ95jsrsPKBCVlu6cQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dXxB27lVwNOYzI6JQ_Oteb-eHhzyspa-dUUGUGvHpuhIKY58oPY0xSNrKbYWJreUZ9RMQDNC9PVYhSPYVsXqvNhJDEgky4UEDGowu-r1NDPWGCvoZxmWelwprRqjPknju1JnNqsd8oal2u8q7XHhqXDmbzhJQqOVs-xcNd7LiZPLZIxTc10sd3ub3ZqBbtgxtem6SNu-wBmT6vnkZ_d1K4-Cv-Ew_E8lmsQmARTuR7hCUWbKqmbLN27iumhDjfuKhI1Pd0SScdEHb9b2oB0nf-Lum5RGg0_zbDg8V_JRmHuXVdJWJp6IWqTQrjwQ3AfdMOVTmR_P6WkGs0pGKRdlRsU0SYwyTaunUjIiPt5DjHxTDAfg4qcMsWAGN91GhxRHPD-iQy9Pl2XwiI2I1aMUl9GVlrG_ay0gMobnV8HgxAQw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eXaRxsnmfncZwh1ZRy6As10KQpNbXra3inzVZ9Hqmy-Xsg3Tyi33axszg3SaqNZTkmEZwiA29bXN9ccs_NomrBVnxV4nSKstTPPn0-BGsO2QfVLgt8oor-3N4W7A86i_y5B01-T9JIkNUUQGD0RzPu_yEwg-SZ1USE0KFmZRjbnSGzqoo_MPuQuQD-jAcR7YwvUMiy_JheqweSEYqc9DzxCNm-VOo5XzSY0O-fHvoXOuE2SoQFVhnijmb4_7ETFyCOP7uVCZr9nvkJkOByyFfGqSUl0aGVWNehPyqaGMivsX0P21X1nrXAzj0w9JXs5gQtnrf39k4cTYSEreeTr0LbtH7FaSSPprRzKBroSdCM7xwyRHB-SPl2WcY3Fz1ITVyqi9OBfzulb9-pLhh9PtiEhBi_cQrs847wL5Ux-60&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dAYXQosXlpIlXiTPNoNavX1Im9ip7pJE7iSDyUCW08bd0LsmvwrE_IvOoWlJzzXkUESfN0mTsqbdSNHYUykl4rCLHym6wX7nbEiXoBrkyXeMAdZs6D1IpzBkJTdeDIDG2VOC8NFtxWCaol2AY5PCHdiNWixa1AciUAqA_AjLZzIJdd7JIjSNlicHfHcIWRU6ito6z5ulEvQ51pafUPRMDFOAacTBUbGEUJJ_ZYnTiR20qbTLXXIulNakDbXPIs_NI2lhCWIR152NGZ-dmdIWCpGPIx1A44GiL8dLqSiVE4MgNDAuTNhMhV0qkpyN5CmG4OVxLeGQozPMlxbRI-fPYi8C0ox74_11VXKBmr3pcrXTcFzLbN150qNta2L9IiuZnN4rn9utqgWpqRsLlYDExuZrbkzdfnxwLTYTbU893y3g&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c0Z0DOnpbsCW_mjGSoZWFEJPfMZjAuDygkDjfD9SwpWzQPDhBR4fHfzcbIGC47yDFnww5c2WIBQv_WmN4TadCT3__zfJbfJjfQl7DhbQSfQsKaA6kgxAT4WqboO1UVmRKfYdlFTn7L2P0huTbWGyF_CZBGwkahFmA2dz9MxBn9_vtu300XEFkujAkZ8yShwnW1DatcyTC97TWWMsWs86IzxzFMLc5m1dF3ySW4RpRLrbkzblhExP1hDDvZT1fBAVUWSF6ZKB-lZ0bbmC7D9a_-4M7oI43yBnHBVirVb9St16slzDDwuK2dYbR7PnopGLWXFEAhK-EQCa2P9RF__MiRx3KGunuW0OAW4M4almHkhrJ3H_Lvo0_PenBTTM5HfEREvFvgUcCwr1NPp75d9lSmXBprZwQag9_b9Yvjuck0Eg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cWzPCHACw-lQcIM2DBhDGnT4U21xUSQ_65nHuDORUaiHSOO3P7zxdD5KjuRFVm4FpCtN8R6em7C8FPGMKs1g2oP7_Uyr5r5K0e3z0BHK29fmUqwV5p8vQ06ZShOxTY-4Qaf2o1yOnemK-9C_dvkkYUl1f2_1minZMcNCYaiUKHPikFAjoAh0T4cC_MSCEXU7XwpFrAr-cRwrIy7TWdTAhFLi7oGkNk8FUjA_jmdRzpaOKjDRJROFL0k-gfWLdsMxXn0fnQzvl0-at0Rc2fJjX4CK8tdo5_HF9ZtPuwvG13M7NcCf53leEPLlIaze8xbFqebJGVY0aG7MXlbwzhx2d9HxDetHeKdCSWmLRUpR79_BrEpgl9IvkZRIVUJt_YHXgwCOSlaOchOXMJq6OfLM1xvF36UfGIWVNAtw7dJ6ctAC55YpkaCN5_z9wyzgXe&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ctzleuRmgxhIvBlgzH5VnZ3AhTBBEiwydlC8Q-38eNIa-MNxakGTl6537hXaApKrYHfifHpebGDAWiX508AGX5unuqCpbr6EBiMn8KB8iVliWfiunjPk-KPp_rPoG5zybG2isUokQ7Z9N3LQIhAv4OtsS7p3kB5pMTXMeBSQmtLEQnhFIyTpcW4WnDa9f1SlbU9nwA-TmpJdJXg-6o_4S9l-RI4NANQbj4OJgIxdA0isBqYMZU4by7rHNGLAONbaXdG_fG54eq_UqEHb1U3HHu-ENI2O2Nx5suBbNAnqb30QlMaDlwQhfGDUZzexq_g7qTsB90x4FsBptNoR1xfktjoFCAVmBX7WGrw9XOdBgWEW8pa9jI7g2VJ7cyHs5oZqwNrsoTIP3u3E_CCm7AhO1Go7HhsqNbZukhRsBpaZa4iNC_&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c-oHnVOxxkEwRWlSj8D0PcAU7p0_iZtoCY_lumBhhIRle6eHz1j6WPpzJbmM1eB37QKoleDetDPHVCJellaGK7DUBjY2pQulK0sjBCt8bRv45n-qZk1bRyIsNsUDkYaExDKb7W6IzE5ebUeu9SyvhXSJSEejulwLqeFbXw1vmOzyH8NY3Xb9kiShKa7pDgk9jE0Bi9oJ8c8da9jQr7QpbwNukT5L5gnSuRLf2IgOHTyREXIvAPysNwHVcHgxnU7w3G2Xsm3qQ-5EFHGvkYQS76co6maZ0LdgO9aIsJfXrT5J7EI4aqHT6LiRylBVgHwI3TnJU6TUwPbs3gOPVRlNIHyWW238a1SpzB682OxybVXctvsAKV0Hj_dkXoCsGn3ZgW-gPEVmffQs37SaJdCE2oLy7DVNVhJjZ1mIYf-7o-xQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Valentin Malakhov",
+        "rating": 5,
+        "text": "nice kids theatre",
+        "time": "8 years ago"
+      },
+      {
+        "author": "Carlos Eduardo Mejía Sarmiento",
+        "rating": 5,
+        "text": "This cultural establishment, located in El Olivar de San Isidro, is very beautiful and peaceful. I attended a very interesting modern art exhibition there at the end of August 2025. I highly recommend it!",
+        "time": "3 weeks ago"
+      },
+      {
+        "author": "Valentina Hidalgo",
+        "rating": 5,
+        "text": "The Cultural Center has a beautiful room where girls and boys can practice ballet classes in the afternoons.",
+        "time": "5 months ago"
+      },
+      {
+        "author": "Walter Martin Prado Silva",
+        "rating": 5,
+        "text": "I loved it. It's a beautiful concert hall, small but meets all expectations. Easy to get to from Arequipa Avenue via the blue corridor.",
+        "time": "a year ago"
+      },
+      {
+        "author": "Luis Zavaleta Magia",
+        "rating": 5,
+        "text": "The first time I went to the theater downstairs next to the art gallery and the show was very good, they do an activity called \"Children's Hour\" on Tuesdays at 5 pm, they previously published it on the Facebook page of the municipality of San Isidro....well, the facilities are super good and today I went to the zoom room to present my magic show, everyone was super friendly and attentive, the room was very good for the show!",
+        "time": "2 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Palacio Municipal y de la Cultura",
+    "address": "Av. Los Incas 270, San Isidro 15073, Peru",
+    "rating": 4.6,
+    "types": [
+      "establishment",
+      "local_government_office",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.0991073,
+      "lng": -77.03469539999999
+    },
+    "url": "https://maps.google.com/?cid=13199469462668964685",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cr91oVk43aVFQAMzXTGK-eqGG63vlr6yAmyjlZ3oUsQYN2DZ73zzz0ZxL0Ouu09a7IxXN5t43P25YeOHGBGvD50x1O0mGEUvclKlLCble7segFJdRmsCfBlWS0bzeiU-0fOYv4Sl1M4R2J81Mrm0K9wEGxZNplFhI2F8YHUpfG1ja2iOYoual9tfchc2O4xlK4gv04SJB4AB7_EVCWE1vnQNLASbiBa4hM90FMLK8gC9q0UIyooD4CJp82wDQVW1oXvicgxFb0qK4Gz2LhLbv_F0JXtJITsZCRKTpJA9KJ8IXqD5rVfkFA8Jz4zIn0mQ7AKBdeTB59X8WU82EZj0ATgs5516MDjuwDrS1I35SMKQNRsBaKCEoyC6SuQugtfwC3Opm1n39QHkdkmGIm0u9Jt05IFysfiw57cy_8TwqXhuq6&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ecg6N3SOONWt63RKJsdIioLHvGos1e_1rPfVAeV0pctIk3A8JqJwLsetObB9ld77FGqGFnBQf2ZEt1BGxr-mZxGpgZuOx8oXI6MHIB1g2lSFatDSnS7kj7jjIn1gP-VHtPs96oLhw0IMgMKllJOmqUUe4JIQq6mwtejOx5H0lrEIc9myai1bN05jJuXjwwDhkxqZUme-luVSngumhHx4075yZvJXi5dbRjFpQwA06lKhqvPfUgI2S1AqibEL_yG28xKk1ebZt2cn61CpQRUvRvHY4ZBwADppJwKYxngcXtejTdO2mf28iEM1pWzXxlKG00_hPuJqEEAtx_Kll0gRQL-MOIVbnel5qe_eaSUSlMY39ZQC36EswSAtmvHPMxqNqNI4Q9csxXRE6f0uX8nGgzfdweZIdX3p4HYZw4I9ajraI&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dsVA9lwP9j0R1iw_mTavrlnWOIDvmjF-ExQAjHvwN2qdxdRdwuOV08I-jFJ1o8xCB-94tGjIZFTnpVTapZsIKIgjQCxyybAwy3tFJdIbneuJtzIvMvMnw_WRo7B3XNz665x7_xejcc6ap8hETmeLIKnd4881g12fGvodEcs3ER-K4K5Bn5JQjr_VYb7kLzJ6wb4_VapisFnlnVFcTESvpdIYMUaC-gBIWt3LXh8uavcoccOGYwXMVDcxgV26dsFNFedDnUJShc6Y6PDFmwmuFrbaWzd9nK9xC61pwMioCjUtinYM3wSScUGUWRw_F6ZnglHOUfyi1PZNmHcjsuEDg9b8KlS0ukJhRwwa6PAuq8dID0c5Pw8AlFt3E__WhZna71x4XqzbnbUzZLMlQGLjmKT320TJNO6_gi6aj3OywYbQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e5U2gt-k5SyaS5dYQb16usABsHYgFsYnmliug9buJ09Zt_KnWxWW17kUy5ADJHIXYYJdjG07QxtxWL3Fzg9MYtbDRDDU3TIij9b9S7sTKOstPSHYvRmBKzgnWyND5ZqpBRNVp1-QejVq0PZV-dDb4vjC4uqwe5QFRHLMidXGfoDvX1ErqBhv2PKaewU1EM4xKqGv1zdRhn2s7p40abaYbS0iLaUnHVcMQePON5ZirALOYvLcnWluLmt8TTTeD-Qbrd0978ePfzFKZloYrKJ5Q_MAYDKiAbkD7sjY9WWlq0Xy_wjgeqpKwMIX1tiy9iR2KQfm8PZaDq3Hp6rYi4rmC_0POuri--rtBgvyUrI6tYAwTIagWh8_G-w3gtJ_GJFJRI2gSHKNHzckuTpI-HUUsByXzHaOg09tjxLdJFyGUsPA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fDR6oKs0jeg3mRLrHuyxGRjm_GGnsp0DR5Do7rZG1py3ynPzXWBZjSw7nqSJKiA0T8KuUuQiZQbOBjmvZqfUOZXINSpQID-N-g_y6TqeXkkF5ufrDyqLorubhE0S0nzsrSuvmC0zh5EtIN86RtfZ2WLfV-7UlOIIDe_8OI1IbxPdcrpgjzMeyxH2U3qCSuHgAqO2mt-ddccRS3x2KN2pl5YaLL7KgBJP5eF7uc_zzvaRNxgOXii3lqToazEiGBIeeU1xYUyjMJ9DWlBhSNCmay4tfao2kDcjSzf8iiyuilJan3zTXyxbLTh_8i7g_nTHvEgPv3JJBgPknCk05dI5P7Rq-3s31yfxWGyc_eTdYGXH2zheLr6aNkUkgNYBrlSkBC89KSrOnBSC8GI9IdeQEcy_rRvY5pmfuMELd-NUvPDA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eqxIFGg1nZZmx_HQ18j3ZUxBWZhH8k79JbX2cIyR0y7cHvslH24b9qPe5XzoFv2v7DCd1lb-vtEtxJ6nKmP9A7jVp7-KVLJqucjCVU06uqh-qQNZ6O00J8RL5Ux6a8pdomCFif4GlMk-Uf72v_GjNC6vyFNMLhP7pz5CDax4AYY2LiuELaVs6gGXv2OTSMdJBaK7YAfGwcH2nTptTUZfElIRT47aCd13aBUDQ5tZRVBfiLcthye6ovVcApiyBt2F719yuuCA4XxcE66hZMhODFTH7y6odgyDLFIyMEzPMKSX3tqQf-BZTKGOh_7V46icV4iJZDSwvpY7GV7I9Y8FfIAj3KcAS4VZNk_bBdAZqJDoyd7pl63AogqBdoYO3ib1wJ6Nuf7VeSXIUe_wDdH8HgxrPhg6h1CrJZ1z172Ts&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fODhMA_Sha7HfW3NlKj6f7c4V2P4jskqMYb6UVUCSAlVcITH_gPcPIKeeJTFyQHCsVVIE702sLylpv0TpWyWP2UaHjObm5N38_MSdhAt1vBapSGANcRv8dlHeDcOLWXTIgBPai4SDOnClgT17EMnptMc0IWjVSBXsTpof1tqdBkiMjPpO2qVTpAVq032CogN4RwgwSL6aCIV1J0Vx6dqR7u3-B-PYDA-Etkjd8oPmkIFOPb6l1d8V0dcasegiY-FOgQS6wgxd7WnxWm84yO4K17ezFvqBX_ERdp2Gf3hpdIDOeo3DSIwAPKfrcZaZZcbCS8eF9neyN6MdOfRxuiFnnIxV9CN8UYhMx-DfoW79lpl6yWr4TWUif6P8aFuTmlq5_E3yF9SJfpQX86bopK34gZqBTcmcppx-HTGAXDh8KhA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eS1zzOKt3f0vTzg4UiHla85o5vjBI6quZXCHeP0uhqTBOnzoFn06X-ixVRWvl7JgVgk7ul92l9RPo1-JD0aI8auOS9VtvhWfAnqi9k8KRchAtOdOAkszzQnZcb3wmtHlRQrefSBAd9t0hNMhrpKupyI-k3q6OykvuE89c4cpWLefrscked6CiYAmfgGtZsP-OZP0u8Y96ELLEPT07gAMzhSlxjxY0zbNnoNA4Jdp6HMIxm_DcHJNi7LGnw1VYTGkBzzbi7V964--NLBJlR2-Ak4tGl0rNgJ2SrBcpXXZk_VMj4C2FYJJM9f7fg1Ls0AXw0MCF9Nxtwb1jwCG__-Dte1O6-6D7Ax1X3LWEobzc9r6hxsxdmBa8RLqyfo8VW2JYP8hxGUR1ObF0nTF88EaS0yetn3oeb_eEXwe-v3Rc&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ceRh_38fGJ7Z8vNpp-g6Q_bwCCQnw6JvMRGdGMTHyX4PFcDU-RfY15a8j1NOERttChrp9tZNvImoSJxFMjCNx-VZU3bgzGNOcaorzZkxacdreiEmaCtmFqm3AoZkbj6ir7TLKAH_VNG1LGazbYD8f3WQ06PDoLK9KHzvuh5kFNGlTg4ArxzTImlynNSJPVIK_bcoUkRjTzWor62-FV2hJsj3UG4Y66hGT8Cq2qDqW5FTrZ1sKXJ6ah13AmBws3jzZo8NDXlxJxMwcLJmyhRBJ7vZ6ZqmLh6nFrWgaJlZiQMXQJ2wHFFcotYRHMIrjVq49hVaxozhUXWoAcHGUyJoRNXdOh2SsR2KybWLqC199JxXNa7odnmskRhkfbOX8MyMfwOUxXy3h-CSLlJKkSfpgjiGwOilyyZMgRwxZRJbL9rg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eXn7Fvu6L_HNhNriKY0dPZOP8yOpaP5mu8bI8vMTfA1VsNgx3VpZhyA5d6plPp0SaXNrAYPStyRwsx6L7naO4CCvt0c-DeO-_HOKFSg4iyojsAuffJR5ebf9gGJWgA8Qz6cxgJFJ2DuTMPK-prPdLrlBso0qbpz-8eYbMaAE8-HMayX2O59GqZhxCW0LuD-wkhI_F5acd4gsZrQdNclH-Snfn-qfOkvkLcsnbFOnv0a6lekbjtQ54XbyPwEnEAnA0dQ6PznuiOZIRTYshGVhhFXqdCXtGBuVs6LtCiwa_lxBeu2ojcP2wy35P-EPZIY7K5mcHZOVO6pf1Gr-kIwGan14urc-IyOjKUI-FwD-Z0FijQ6_PqL8JIJ_NKGuvozHIRlZ5p3mqXSHbEnt81RhwdPKKa9Yig1GZ23eS3gDw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Sun “Bucky” Times",
+        "rating": 5,
+        "text": "Love the architecture of it, nice green areas around, lots of trees near by to provide fresh oxygen for that early morning run through a historic place.",
+        "time": "8 years ago"
+      },
+      {
+        "author": "Monica Palomino",
+        "rating": 5,
+        "text": "The Municipal Palace is a welcoming place steeped in history, with various exhibitions open to the community where artists share their work with the public. A perfect place to visit.",
+        "time": "in the last week"
+      },
+      {
+        "author": "Carlos Rafael García Escalona",
+        "rating": 5,
+        "text": "It is a beautiful, well-preserved and decorated mansion that supports cultural promotion in the San Isidro District and the city of Lima. It offers art exhibitions, cultural workshops, and recitals. It is part of a cultural, ecological, and tourist circuit in El Olivar Park. It also offers an excellent café.",
+        "time": "6 years ago"
+      },
+      {
+        "author": "Jaime Alcántara Alegría",
+        "rating": 5,
+        "text": "Located in the heart of Olivar, next to the small lagoon, it's a small but spectacular space for promoting art in San Isidro.\n\nIt has a permanent art exhibition, and on the second floor, painting and music teaching spaces.\n\nLiving near the San Isidro Cultural Center was one of the best experiences of living in Lima.",
+        "time": "6 years ago"
+      },
+      {
+        "author": "Paul Rios Ruiz",
+        "rating": 5,
+        "text": "On this visit for the bicentennial of Peru, the municipality of San Isidro exhibits paintings of famous people of Peru, heroes of independence, as well as all the mayors.",
+        "time": "4 years ago"
+      }
+    ]
+  }
+]

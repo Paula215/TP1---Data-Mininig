@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Laguna Azul",
+    "address": "Av Industrial 3652, Independencia 15311, Peru",
+    "rating": 4,
+    "types": [
+      "amusement_park",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -11.9912393,
+      "lng": -77.059145
+    },
+    "url": "https://maps.google.com/?cid=3282755536460496119",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dKgkIRz4HrIu868MCFVpXYdWt3qSLIZm2RVUN9mXfbBPV8Hp973_mIX91S6AmelvqFC59O81Ymnc48WfMILHXazB0jLhLGSORGRagPVVODhuHhAsp5D5M_nDDfhiYK9M9iBJma5AOd3dCgqQ5sC0rnnh2W0c9UTUeYE5D3a--Yupu9_b1yr6sHte6TexP-zEJQNWQbv3-4L44RQ4nO_S75wxsYE4CBGlUWCBmlme_Rr1a7Laucfijf88RCFWTdiOlhFfD-380ZKRVT_XfP_oDfOEvGPTmQtAiVNHOwueIEPw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ejAy3r8UkplyS0LuQ-Cnja-_cIAc-UOOE7BgzjaiaPf4VMJiA8OMcLgLyF7dBtukfHISrTn_vwotir82eOHFs3id0uhvLm1_iMh4fdC89RW3IRYRbBeCFzR44VECTCCc7PmLheBuTiAB6CbcHeFzsCrpMj2rPxxIxlJz5ChLmLwqQJDoicdUN5aEPMmLsDBJeNj4JsskzmIZb4KW8G7KRw_Kh9QKgrjVIsDfHF7yM-1xM99WiUGNmNkV-Ig3YI6_bfVBtVMRMVEfC5t7YYoaUD2gOZZj8Da4ARBpK2_diAow&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ceWvNJ3w-tUV2gJx99SqOjiau_gnAZzd2Sb2zILyoBdIb9DgN2eKEiGtKn3bUdVTBqbADKgLszFs-zC1eoBOblLxe5lI3t2Bf4-YAKevEMAg64olSiZVR5wjxY8VfUQJJXgqUb3VaH6I8xX_4nqtI4YUwN1onn6wvMWreOqdx9E8nrkkPmxZkOyKjCZvMyXUl4q1vFeSMMIoNMqlhKfkEMAT-RZYzIGIonJy2dpM3rNyr7mCH61uOF8yLPylwJZXM1meuTWkN_DBWTpWqehtOoQFf4SihLzKOeIq77XoG_rlOHP7LF589JYl1zbzRKkgB_RxAyi6WzhrmgFr_I874S0uYp1IjfB2Ts0_735FErD3UQqO9QASU9NUPdtzNidEgDwWMY_ei1sZc7JF66vb6nNjAHfjvPxN-w71pXfk2JF0wV2nNMpbjxoIzm0A&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d2YmSN63UCK1e7L-p4pxTy_gGA3fEd8rmG-gtbIkPzWxEw1oCLf2YWCt1WQqvzQPbtAUcstzfJ_UsscqkUP0bTmq6gy7kX8O_DAKAWo6a6gml1EGZBjVsYUS4dC0_7YGV37s1GbVuFHIqXiOFOEhrU90ryow8I-ShiVxnk8fqCetXh-eBuAYUjKVfqdiIroq2jQUCnlP5TKYmdMrl5TgtbTQkVzKGfq5wfcl7mxkAJcuwIjRM8vDEb5Zf-sgYvznOjXfjTFhdtuSUndVXgaYk6Oi6mRstC-LdqIX1qiQKd6oeZGtbHcmcFEBzGe5FXuK0uoxIjy2-0boBY6f3zp4xXrv7WEjyddO551D7v46ihSHufd1b7dod3YAa_8VEJD4hbqiXcdassUJki4gZgGumYU8pAW44ddnHj-kjUdlP_YQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fQnlE3_c6Al_JUxH1-_1Xkrwa5ScVwpaT-8Du4Uwr41noXxtQaJmmmG6AGmUc2oxB4qWA7CZSs3yEZNnlVdOvwLigFhLNqTIHkm10G81XRTM2vgmW8iOQU79zybkfrZwAWOZ6vzWuu19o_nokDPh185D9-bcIB8NTH1aFaHO6PY2UGa-FlInE0AeJf8ByZfz5hc6FziYKkgFvzm_mzdSa4GciZm6-b2JtaX0pksKfV-EhZnon7dAK54d5lXZg8k7lSYSZvuZsLnuNy1miSFxqHaqbp7kHZ6AbjrR1Px_WTK_OoEf4n5Y3-pWfaKbIAexR1U0H8C_tIiAiUg0cAFOU6OU0PHrylz9T98t7EAMr-8MrndZkniRyeDGOOXWcN3-DqcsPehf-2oSuLiC7vKtlWVRepz-770YnfWv1Oz8pfo-wU&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fARL-ikeAid4gekVREMEt9SVsAvroY8la8H8SluAekg1F0hfadPvKsxyvhN8oRQvKwTgK3yeyu36w2J2l4xtQ6WQ8FMdATyglnJI8ZFWbHvQixkI9Xz0REBleSgvECQgok3x8p3JiY31fJOuEZQi-mrUxO4a25QlVSwKI24ty9DZpqBbyzrnbZQksyXUAEP-3N2FMfG1BvuBPPk5yto0WY3GYJs5oNwB2QoPO0KSiGELn9IZrd93JxcbqEV3uk_XXqCh8DW-eJd0BDBq7reMfPZwM_EsrLUWwFay3IEnsHzaXgC32OsIzhPzFnxegwFtY2augV-d3mKXUHdIaU1cQzELNDrqTsB4UR8-u2xJke010VYaSHNRDmHJOShUL6AbXGdU7bSfxpREO161k8CS3dNSOVsT5FfW43zpjRBWJDZOtz&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ep6vI5-vDcCVzI24_se3OuKLyqLynxmAyYUWZ4w4qNx-d3WxTaXvoC9VgrCBCq_yU6N-tzvKiY3TovJuCpJIDpiJn6uDIiA1ENXyF5_iESOqCflc0d9S8u1w21pj7NTDHsGwWBE3NxPHR-NmIP-0ZjIJEL4Hp4AVqnrICOsuFoPcEUO0Bg9bC01QPly0KVhA_znw4Ka2zzsxw08SnbTt9OU6RkLnA-4Q8M5jBPva_B-Jlguk7X0U_QSAltZLGXsSovDnIbaUa02jwDzk_gxOhyqbOAnQKvoCh_zMl8gcfAXaHoePFkO_l2DwiTlPMN9HGPMXlx-yIwfRg8VUAf4abDlNm5YmYbjT-EiS9st-U1jQkQOX6w-eQ-DB9qI_4t4KC0zkOYYVTM_0qgme8q_-Y-EYvopsw66KVU46PbBgec9sJX&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eLeMvCR8bI3ITkdp01DCJ39VS7gafNMXgChh8oXaUdI9je_YQvtX-2popGLnvNrSjW2wUbVm3MbkEWlgQrRZpP3dB3QgedmBrgp3Rm_L5Svdr9mA9-Mk_6YeIT9LqVEBlVOcE4MfuQc3ixkRNn2UkonMJ3UDJb1Wiw6I87dx5gvA7TptTjp1kZGt0Q6_KMBy1hovlRFPsg_EcaoP_DIfT4KLnA_rvFwmfRJwg-qa5irQUmbxOAwZP5A2DY8_N-WoOtJMiBfoVm0iFUXt7vpxT_TvEeVcUEXLZ5NQ3fD8e9ZYT4xR81Pb7fsUuva42P_pGQLjpKK_MwpC91Rhwk3cwVMM-UpTOBWH5DfFgwf0cyqnrd1ut3Udo_Mns6hg6Gkkqn_oCt9AfAc_OKmibqY_FMjwcowfgkCZy_VkkI7Ck&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eNKgVvhKP81_qI-nRcfi7jYbPKRrH0e0iHbiElAPxNsHgN5Zk8soXw-LdRdplXVTC7jxfC2qSBrniATwi1goUO5r1VwXq3nwX_g5L_AyKORMiSYTMdGhuAZ2GilmEEyaa2VXKKTLW17GfqxKpfW3yUvg9JL_q5pGzubDPx9SolJR5PO8RGVcSgfF4zcS3ueNNvAwxDgl7RXgvr0LD9_WacNYHHT12gVucfKmRbYPodysmOB5U_Bcdq2Sdq4dsbrPS345guZC9eayQ9DZuEJrIdnJLMMU0EgR1vaYAQMfnXdibYWbozZzGpBZCJMZo7uDlBxDJt5nZbV_ExJNsA6KBovzwZhNj0MLIgrGQuBVqa_dZjBIWcFO8EvZ390GBmMTWaW2Ny7y0TQhD5Q8vct4efOj3nUeUBvvX8uEsGYw0&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ehbihTft_b4yrrTzzOEJNPt9oyE3Zlc8fUoRAXJx16T4JHS2Oy1dGpukVvCd4mrPWCSm0zZbAxSXKSSMOIVqEPqz6nlXuUdU2_MFqyh35VlYIo4NY6Kvytdojszz-3Ot1N1RnrBS58g-SxY4IaGZkLGfLFCNVUGr19OQxH6goH6omTAFL9MO5TmVO2fmsASLHALLW0m4gRl6Qx19GyR3sR6McO7XC828Wstv83T0eQ_rBzOXrhMXfVutbtJpAnd8pBeWyuFcJXzHEGZwTyfv12HFRxd6E2SjgOlDHtnkv1KtTajV_c_5bsmZb0ysED0Z5dVTTPfe73NfPaZje0W2Lp-A1GD55zpqGgkO9uu1H0JTMXv0AYkAsStGIY7LFVMO4e8Ci_vQk_8G9n0lBai1jdGQJMMb-VnuTOILNohUP5OV8y&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Joaquin Dario Cahui Cabanillas",
+        "rating": 5,
+        "text": "20/10 y god",
+        "time": "7 months ago"
+      },
+      {
+        "author": "Lhoris Mirakrana",
+        "rating": 5,
+        "text": "It's a clean and large swimming pool. They provide swimming classes too.",
+        "time": "8 years ago"
+      },
+      {
+        "author": "Leonardo Vilcas",
+        "rating": 5,
+        "text": "Good place",
+        "time": "8 years ago"
+      },
+      {
+        "author": "felipe adithya",
+        "rating": 3,
+        "text": "More or less",
+        "time": "5 years ago"
+      },
+      {
+        "author": "Luis Gerardo Cuba Puente",
+        "rating": 5,
+        "text": "Excellent place to enjoy and entertain with loved ones, I recommend it.",
+        "time": "8 months ago"
+      }
+    ]
+  }
+]

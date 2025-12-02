@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Abstracta Galería",
+    "address": "Calle Cesar Vallejo Mz10 Lote19, Chorrillos 15064, Peru",
+    "rating": null,
+    "types": [
+      "art_gallery",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1789467,
+      "lng": -77.02305129999999
+    },
+    "url": "https://maps.google.com/?cid=4383437983179961233",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2egOjrTI2QUpxzPthIlDOS-jn-9pttv7OFrhTOw_f7dXrI8r4DEHly8GtVFEhsk-QszsNnHItpWVhTDjbo1JSwYjyHfBcWxgO179yLyC34jGPariqZ4PznQqJlfNUDCnYky5oygASSvhNMCOyUc76YZ9E3SyEBux2QSjRuVa9kgEYpk0per-JjKUGtwIHlGrmpXIuSZCvMrnvD4NotXMlxZabnr0MrdpZAtwzp0wJbmNcrldp3EpK7sHC0o-JJRObdT3YgQEMA_1cib8O20SbtUSLy2ii_GN5T5_z671ZI25g&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fZUozZT2JaBuz35Y2RKZqTYW5rLLtaJ9Uon4B5YTfGkymp7Y6hruM4IYUiv4RNzUg1C59DR3UuEieSKv2KVXd-VOH0ldIJt3YmO5Jnmy8OtEs5uNw_7SXplcx_NlWhh6xXrue1mhxmusozPrWx-ybQejlcv1H21rp51Q3IM2ah0mcnX6oQEfIk51YDZlhRKn9OuNyvRErUohaggV_cDQR4JUhBXL90uhCXA2ezKdG2iqgSCfPZfJ16vZG56zpyPo9MSu6ehlb2PjvmKL9-cUwQZnXHYL_EklZoG8hg4qCkzA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "CodeArte",
+    "address": "QXRJ+29J, Chorrillos 15066, Peru",
+    "rating": 5,
+    "types": [
+      "art_gallery",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.2099225,
+      "lng": -77.01912109999999
+    },
+    "url": "https://maps.google.com/?cid=15490837659157781572",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eHBaPhpXKOybdHlHSzdxgKVZQYk_4D0WmT3o5ZC1mDn-vkgJL7D8e9UVoVQ303LLPTHa6sosNC7YlJgMjdwFZhk4PqkoxJ0QxFzF2RXvdUjVQg-dLQOD3I0qkz3PpxPcBfSCLOtVVl6DFdsQ5a2Zdlr60UQWaz5czfxjjZ6Cm_rmWuMZiVKOpBy448iNtlQciFWzh6-F4IiklbS3MexNM6dan2oizlqEomNzbPrU7SbP9_WvSGhV6hA3m5U6g_lP2VgUlFsO27n3CCHxoga_vPzU_S75Agq49cAcS6r0rZiQBuOio793jdAYqKcS_5ToPQM6x99GjaBMmrTCyzgooAWLhZnDK-SlzlZqd2emu9UqReaAYUTQEM6dedXQaO0fn0pJp5HZbcavuviPnzzTOTGFXuSxZx0RNguN7vcsk&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eUM8cgAmJhzgSUDMjppf0rDGi-tmM_VD1Ez4GpjOiiKyiWejPGmOH3skiGm8n9oU8FQlrohRIJmvAFBSkCMQ9nie4e92Am1FEe59mqEaxl8a7TeaJKR2POvbI9V_rmz3mGPBiEjYhLlN7dUn8tafgqxOc6mlmJDE7C3In5iEg-4RleYG9r5aKCjOQwnf79avlRvx2m_dkaSqB7o92uI1NKTqZfxPrek35y_1Bp8ZIY7bxvl39xQ-McBuYt05qYjL390zgq7XESYqRXA3eFaTt5F1VtuTiaRfjCh5GmfOfGf0sENZc1gKzJo4W_2Kn9cIyg_DuzxNc-0sg3SwfSYQTzzcDm96rlnRWcoxWXZcNoetDDACS_KhjJdbW3vdKjlIcOmB9AANvraYn7noRVvPCoI2yK3yUL8f1BhtKXw0G13w&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fWDho5yHgsFCTOHvjTwe_ptV4sEeIYNiSHwEEupKpwV6geC-mUEL1MHWCEwjrwUlcY_b9FFyV0MOaP_Bd5bcoQDulqwBcyr_uFRMs1_Al1r2PDw_vYq_u6LiakfKMyn8xCs99MWdpORvTM9eBCgZLY0wDck05e-uqQ2cdvAj1-XYkXCeCxD4-qGpgYm7B7pYnEAVWcNMIdjG7EAreXbFbZfQ8I0r1e-9qsB3_S06XQ9GChDX3fIlNYN_geryzQJRQ4jyKvrXOhgv8JwuAFwOaV6lpyABPnmuj4J13KFc_-fsMNdNVcXDGYQ0O6vtkmLr5G4hd-ZOqG5TMpv2TbowsLd29tIuoCGLMve4k0BNgqnOUjrBMp020bEWrAxszrRHRfUCGzQlBsKIiE26jHLElxXEaXSw94KQjNjZxVng8&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d0FPzqsdcpOV4DOWr2oCg08ngDaSw4O4S4My4bmRuEiYPjt3neJCXJ0bnoE7vOw_hCkOYAIINZmH0824ZXB6GUpwuStLMpF8ocdR7cra5GVid5k8Jktadn3AXYRhDYk5FIFk-J3LHsi7_ICvFTWCvD896IXUCvRhOcsfxQcvPR_x2bAqURpECo7-BdM66PXWmN13Vj8AKXa_feGlIo5w-J6sZmVG2sy-MVV_NutaX28Lpne05pcNoaa82D-riTPirAzS4Fk3uix2H069xuSdXov6hpWloA1Jvp13LcHrebStjpaHXOtTS0Cej4dXTXgsUACZgkAcB-8QgAzVfTPntR5aboL7Gff6_i-ZEwzq8vRH6biJ7jGfcS09uCI2KgprfEG4_00kk51Jkp5ZF8gAbr2C0NjaUgkD4UcRZ5SBk6zg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fHEB82uzS5039Nd7_AinwnqXHIQoVQGa1gZz0WGt16mU9GzPqHuzGhxc1MPBFbqH4SiGyismRAFcVo75djmvRdpvB_JA2trbzZRArkGS1iMOJ9aAOseYUGEgBTI0lEE8T7VO3054mrpJH-15ZsC2vlaiA-XRbl_tDKp8UmDelOm1HxKj9EWOZO1u9FJKvZIv3gkLCilUTUSbnko30Va9CDdrJ2jgklmUDk6UfLMMVSwju1Xw2VRRafKdQQxIDdX0cDxo73wHII-KlJegxX1G_Lg8YPLkDsEqzn_edtzvUJPLncq0BauArzxY3-dufClaf-VKL7dtmv96gHiA8-e4G0fgLXbwtSQB5U2JyJsUOhnirmTEojw1AkZTQvH0qH7HIejg9vIiwkcuzComlKvhKU-48dWeRTR-Ak6Hsj97tLfuVH&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c9_OrlfO3dcDN8BqA4nGbs-9nXQ5AHHJmVhgATomEeGatbI137pxJ2aIgwoe_nlYj8RZccrBBmngBpyX6JdApDWFtmXP2RhlVCUiJwp7jMZLPkLxTiLQqdcn5Uhuy_8Tc6OtRH47U1ffJe4e5kUHglKtgIDmBnVfJ4PSCJPczEveFAQHkj5LSLjSuSDdY2bZfPOi91j36xxBJ-ZRGPbQXEpnV8Lb5D1uFYwzSjjvPzVp2MHDpsDihLbhRrV63Le4AYlINpOzOY3Yf31XzdPRb7lbBYCivJycNklaZwdbHrEimGlQdEHuT_rXhDfjMXL5TUahEFFz8UFHCsbuzNscvyLQzSHwewmR1S2DErFTYwPjB-PPo7X-k3n5ekfS7BN-DRt2bP-cWj2Dg8Y0CiB-eV6bToiiUaXoUErHDz7_V0hGbq&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fP8IXuWx3IAtfQIZZds3Zw8QCBy4rxiiCUZeguY6QRKT4-oPtEbTmlQce0TZyhqNULTNK84E8LosZUACzbkIAu6f9tfGWppVIsIuTZggkFvD1Muhou_1T8q0KMERVASvWJUhPiZAeuT3kB8saSSNdZ-XcjclLj826bqJhkrO6oNLF5MlychyUFwD8g13C2y0WCftnic3UqtkNm03hsS9V2xPD5Uc7yv-rEoBewRc865JWEIKGENhU-vu_SfzszjojLA-lh30mjueXqKrByU9X-IgncES8DrFJTegk7WWcEcWcIcpy_EHEq4qdsDz1gX_VAQNGduUyEIKtsZ7dhXGeR2vLqDLP6IA4P7WcCO09MKGmLHwq0uZyKwLnrPj3eeA-8WwP0KvmOO4VQe0QOw_62Hi3dGOUzROeH8Dx23eSYgA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eNh8VT1mI9SEf7DiVpSp6PG8hk3ZyW2o-oQtgvCIbwmHr-S8fDhl-lt9KCpLuQy5Lz_eV68TzUkcYKC6nUV6Otzbt2_9I_35nip-zu5N7l1jqstUPUPXKVC2gqtoMnXLENmFRIX0YpxtvQV46L_lg8lq_PqCLdUGNV5VKniHqQ8-8PeURJZR9Gk7z9BZvhTtEr6dbEsuTjufbt3E0fuqArAbyWgbMZqzxxd77o8P4wWYsGE4Sv82RspY4ZOoQfQgadJNDdBgsezyt1mdtvzv5iMXLMgseR1mRjz-Xu4grHZueza8z7QjD5aB6XKb5Z42xT5NYoGULoXjI3v2XQq5PsND_1m3nbI4JOpFko37pBLSUgmqOuWaUwkOREp1sFtboAcVXwudgPurnoItIsUZmpMZxapPynGAZ0ek69l6jATQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cXbcAKt3MTWvvkUgh7-sim_TbdV6GXj2tiCeKXiiLwELogm-1YqZZt7ahAmgguaOLP7W9k2GmRtNpoBWawqBL1DDnKaU87L8q62jURUjF0Fah29wdbcUYePJE6-_DdtMxFulbBjV1BBI6uZKqyZfMLWlJM6TLwrzpb2QEKgjdCFe8AiP9_ebcZsns7nFivA1sh80oF_FyJMCIEW5KyUxvifMXGufdbAjDCPaIWXSwWns5ifEA3v1s957bwzN6V9ZZykYl2nvU4HhA2UmMydfG1JQ74g1yeAZm7-fH4YmkGVr19KoUvdtXEXTfd818wYbBSY8nWTcWbND63E5KJKoje2zJ5ojxuyklG3JzBn_be7Ih05FsfS6VnvBe6ml1qaY-R_Vruqv_kyomdnRvX68blE4G4JIOrfOt_GskeEYzRs0dS&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eGu1snsHWjH6jDP2j6Hs5REPnuG0EIjA6TVfraYfBebYT1z5B74jnFpQFad_jcwREYHq5NCOUwsR_WbYKO-MQFjOUbVAc3qS4fyf3H9-6DlH5UjYJNXMbgU-qp3_D_x3pxjJ51e2AWvJERj6qZ-cF1ZwQtXuW2-Qx4enjJuXE7OABEd9WzwTaZ0KA2vyL9OjqR_XbRtiGu70Jt_EhBj7Py3rVs0YzRYNKgP9jLcGMm0UW6RFqNgaJEGXrMlXmhrdJdo-ZEGGLa-KhOcJwFMD6V4aB9_XRF2VC0etUM_45Hk6qYoTVlvOtWFb3-rmoQCX8PEJ4Yw1BPhxs-r8HrAU9m9sRqVv9svUYcQnwwtHuhMEN5vjL3SIDWeHf5PCeaH0m4x9mFxkzZ2r0zvZ_B38V35Hfkvf2U3uLYzOAVN-kn-OKL&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Augusto Vasquez vasquez",
+        "rating": 5,
+        "text": "",
+        "time": "4 years ago"
+      }
+    ]
+  }
+]

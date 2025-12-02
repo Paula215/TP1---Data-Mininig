@@ -1,0 +1,965 @@
+[
+  {
+    "name": "Playa Punta Roquitas",
+    "address": "VXG4+RGV de la Costa Verde, Circuito de Playas, Miraflores 15074, Peru",
+    "rating": 4.5,
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "location": {
+      "lat": -12.1228933,
+      "lng": -77.0437007
+    },
+    "url": "https://maps.google.com/?cid=2997590779394560512",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dAOWv-QWkdtKvAKdjdH3wWfK8kh4RVOT5oj6fO6nyJBCncw8fjNuzJgf7PvmEw-E0mfXaBnl0GX1VKyA6XogBlLi0antk0VdliHZbye1RbQaaTGAE4bqdBzDRjhemDvM4pfyBbClEGA4kU85aXPT_UCdcJDU60JHRU4W34i6KQsvMRG5DLhv-QoC8fgAMAYlMrHxC115ElhmaLL4YVDIpDmRBTefsFLphZB0cujata5jXekHyIeozejx0IevaXKeBG7Q4_KBPJI11nKq0H3uReux0zgPHpgdjuE7SemHrE8TLlqRetnbwMAeINdMM-xyJNItjYIzjaBpjef6MJ5PpGaRusgtJpyels2KvhqCPB3QFxX_YxVSdIeczoyHXVgv-e5N5Td995F4Xwf9V9xvKiyAU7pEtw3n0QzOdl3CukOu0&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eVLvaTURT2UujrGQhLFvsB-oLOitwq0I9lJA31mSIzI5stW5jQni4Park9dvN2-wX7LadFPmf1kJsz78x5i12OVae1yZVbK9zTCaF_xAi_6myJ2joc2YvXGAmMbDv8Bs6d0ghtWJfyiWIvobpHEic1qyi83prvbiIWk4XYAVjykIF7K4iEc4QJDOVNad7iigDShs6JRRczpFoVUnnyBr94r9TKetPOoKlbZVocKtLafa51BM4jLZvMxOIskfT1E8nCCA5f4zx-Va3U7WSJTvz9DRd5FfJa1Ig58DfmLEEqFHQ-9pJ944f9R6sfSEMBLtx8kflzdZB6GjLWaEM6pF30D_cPvNGBVkeO5ZqPCuzP6_i_F_5ni4jJCfkd2NiHpx1LvkTh3MCmS1uIYY4h3hyanKlGudv7LThI-7ZU7TrQsfo&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cikehDAW5WP4NsKdedUkK2hz-KMjNRjsTy_QnO__Kr04vi9vrfdgIa1J7fe9khvjRrvA8eJsO8L81VKYta_U3EB8UxWLv9VJabs9IYFXpx2sh5Lkut8lbMqfL2rW_5VHFv4SS2yHAhSWy8-fFbQPokUmUvF5Cu8MPsx1vzH-OpcuNGn24ZMmGsJhLE5ADe5PPF0xP0_EDjGCidFfFqjd_KP1g_PbLorDr_KkCNkkOv3cd2aNDTwecNB85kRvfKobYf9pLg21SXjER2Y9x1KB_yC-_YTosCe_YshgBE5WW3dQ-OfMTKVcNqzJvV-4T7xukQWffh2PkI61LChWbrGdXqz0Sa2kIyMp9fY7YbJsAtN76ustjlDb7s5rMTpK_zJGbeh5B948VnAY4ciRWIW2bsbD6UFZ03NtusU4xUUDnLzLE&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cWJzRq-4TiwpyTa6bFmNfjNgjkF5lDgKpuvBv24J-UuAe90r4Qu91BEozTzmKdxauw1kXGE9a5_rrkv3rLXJzpTtXxvuPtkDit2mtuDWsRzMZpa4BRtw1DqK_GFjYzG-g9CS4o08OQ9xCorYoFUb2RM3ppDi_7jGTqV_H0BkQizugtRJQ9tIHkY1ZgSBLy3peJ-8oDgmPebG1ULLoyyNwCBVPJHDd3kryeLY2B3ESc0qv6K18Yy9CBgkNhw1DMZ-jG3SrrQSwAO_k-Ei0-qb3vC7uk_97W3ynul0x_pw-4pswBD2FcFam6pgBuAo_OF78lQ5MN2EoMrrymH9cVf34ZTpYtJWxVaXtt-UuJy_fiF4y2I1mlDOCyYwxQ8LvDSxqawYyUmoA-Uo-sJeOqpayn5CklW0xP0IEh-RHI5Wpy1Q&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eVT0wixXAkuOr2PsbQO3FbVR4OK1Nr2vbxFyGJVOIcD37HMU_0HFXHjy20xu830iOrtrat3vd8XAlnhy9_u32LCEobr4igushUsPiLD7HflntnJNTd4jXaBq_bgzzpfhMeKQY9g8tvAC4n3fUcIqOcZTiPfiob3rKG7chjQiWT5vADgBl85XvgYm2IqxHZ93UUQTNEHKHAV_lcDBsu7pRiSdYJFFLn7ho-DBY-7dKNZs0IOHBuC1LEar7M_HWhoJLfwKFC7VaVUrehBR-O-qTuVrbacPXvPhQd4LWLrEE4kjv-TJ8zJtCSvGwmgxZ6EoVfwKcm87HfW9fxhbZuLh1_ymCYAGkPaObeVHz5_nfG9y-hSfdu9oXxRBpZIck4Q62AfhOdVWVFOSX42a2U8K08E1XFj-K5LBb-htQfK_5A52JD&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dzFiN-iJJsR4_lH1Jp6o7lEaMCcETzsuNCmjU8AvPcOlCKmOwpiZfrjkKAbTbqDKrACW3JC7C1ue82lez2Sc0UW7UY8TbueQk3n-sDUyLEbpaBOtj2ck0-_G2eR_b5YzXDhtrGDA1c6nUgrD54YMegrj7PNHVg5nHKHz5r1bgW4ZoPUwSKhMdYAz2cndXfEF7OCYQGpqUxMuVElKJf0YEOPYLF6HZesno6iI-8yiovneQ1tLiIgYXGsx5ytjCnihHDqSSxo0sfiikVAD49V7xxHi6TLbL_-3MovrTZNPpQuAP30dcUSnYDzmgusyHQLTyIOR6woSnsC4RyQF5BOaIOJeB59_M1XJhcvD8w4GOc8AgaXKiNm0Sib-_73Ju3uI_02Xv6FK1blTJn3uVZenmP53-Rzq2Py4vSfL5gU9YExbZg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dNanfgWn3GEN-_vBLb8w1TO-UKxoy3Yqi7cmDTD22eW0C1fBMpyAqiSyJZZuVeUepji6mRH5jarfVDF6DafmervjcWoyf8QgE2D1Yer4DQEyoIFtJOS3oDosu7yzXp0pVx0TPCGFcgjvdgxofAF8eb4Ap5Kn7JVZmIdBlrs7Jg39txVAJ7ogdsOnf100rINmUI7zhu0lEviLhnbM0oYHO9lyV7rOq0hf6u87e4wpeObKYb1Jqn_6j38aokHTDbPPHG4Xlo0RNFtNZf01Fz9Ea59U8mng7_EogvuUSJJpkzSYYi2y0e2shBPEAtTB74cBtDil_lAt4TFJvq4640L3nwNt-tt16GjTEj8BukuHokaVP-TU5k1TcSTl7nlBAAVNpQ4Ssjn6ZqBclI0yRO2RFwZdpM34CUmKeUcPgNYB-3QlIX&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cvXXGiC5Wy44r9bphFoSD6IppB_5KeX0lPH2E2pRAW19VOGNFfXic3ddXAA3WOx0APfoK0KmazF7FUiy-uneIAwnj9PjJjxkkcL37yyG2B_s7qyib39rGPaHu5N-_gbCkG20de9LZTxTiPaCfKiXqB75QbQ76sty9X-yONSDQWyRXZlFp7R5_N3xjiGm85pliN0KERODXOFaexaTEng2FpJwcwT-ibAgx1mvzu--cRNYUV542_KCkVSbftkaEgOIghJRRlVLuW35-idugZCbA3JWG64nsnZALNm9fFPibkkAX_LF3hyK7sRkVyF12B_dKPIA-L1erTrJFJYnfbNYJkp0kLPIts6xrkYifBgSmShuKcj-GYM2jB319BaCivoe9MpizvyeRbfvis0u5ovgV26PNRg4fYRvOmZccXRnJjZqM&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cIyrMloMAfVnOIQlrN8eIqKMN-xrzqYZQo2WwOdZC05M5EirprFHjylWL9O-ejTnRGeX4Ud7uNbd5UT7ug3TmwsvDxjsWaLyaRUPqQ0SWpgqXvIdMZxp5oEuK5TVx5Tz3au5m-Cbu9xOEjd8PyUEnxvVvO2G3_rhJXXNoU1LMpoPmBwYAjGOJOd_EyVqEKQpcX-Q7WqEaPorsV5eMG3Srs8dHWEjaJsRDigCI9cUdsWYRHKlXYbCUUadSf54AggNrRBjFsOHKWhZX1o8xEGIkryYVCHNx3Sriw56gVLTZHXBSzIMRptfvfcrz7VcX0YiIQdI0GFLo8siB1PDHM-XQpcCMFyMtjde0SrWc_08x6YZaqQxZFv-PO3AjvyLJXYmf6NYDCSKt41Sci_LqcmLt7ZJndooxgrDgQE0OV3b_Qv-j9&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dTFEfH41K9IaTC7n8E3XPNDoUOYgVVkyNOuk9h_wxgbNn4_LgLHAskEFxZ-eeB5_Gmr5NqCd3sBfU-mV6iU-gwbe1zUxWffZKMUTVNc9hsUiLQE-HtRLmvzU3zTRGO7oON7u2BgpGYBYpH-MyTLpFsCR6GnEfA648Tk6SqGrC8umN2v_NMOMyX0CrwUXogxUQJGqaIPsyE9mAb9tK60DMDZtSkSLdcbvApgQ4fuEFCcGn6Oouue1GlDskPrfQdrqczyA-MmQT38KV25On3EumQF7Ko1DHvLEjgf8lqYGWyGMn3Vt8xRRTJ_XKbgUyi7WAmPtUm07ADaoPUFQJycbKQ-tMXxEaesP36j1QgaeNzounmWk8GzuVDlgmJtwRFhw3SJN8RyuWQMda7xfh4zsm9DmZv5PeRbrExsr72-wk4KIb2&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Purba Dutta",
+        "rating": 5,
+        "text": "Playa Punta Roquitas is one of the most popular beaches in Lima, especially known for surfing. The waves are consistent and attract both beginners and experienced surfers, with surf schools and board rentals available right by the shore. The beach itself is rocky rather than sandy, so it’s not the best spot for sunbathing or swimming, but it makes up for it with its lively surf culture.\n\nThere’s a pedestrian path above the beach along the Malecón, offering beautiful views of the Pacific Ocean, and it’s a great place to watch the surfers. Sunset views are spectacular. Parking can be tricky during busy times, and the beach doesn’t have many facilities beyond surf-related services, so plan accordingly.\n\nOverall, Playa Punta Roquitas is perfect if you’re into surfing or just want to enjoy the ocean atmosphere in Miraflores. For a relaxing beach day, you might prefer another spot, but for surf and energy, this place is hard to beat.",
+        "time": "2 weeks ago"
+      },
+      {
+        "author": "Phillip Brooks",
+        "rating": 5,
+        "text": "This is a great place for watching or trying out surfing or just to watch the waves crashing down.\n\nIt's just down from the Cliff parks, there are a few places with steps down.\n\nThere is an area with lots of Surf schools of you want a lesson.\n\nMy girlfriend and I were on a run along the cliff parks, the Love park then the Chinese park then down the steps and along the sea front 🌊.\n\nIt was great to see the waves crashing down, the sound of the stones rolling and the small of the Pacific.",
+        "time": "5 months ago"
+      },
+      {
+        "author": "Paul Trudell",
+        "rating": 4,
+        "text": "Great place to watch the surfers or try a hand at it yourself.  There are local shops set up to rent equipment and pay for surfing sessions.  Beachs are rocky and not easy to swim in.",
+        "time": "7 months ago"
+      },
+      {
+        "author": "Andres Vargas Higuera",
+        "rating": 5,
+        "text": "It's a beautiful rocky beach, popular with surfers. Early morning is the perfect time for a refreshing swim or simply relaxing and watching the waves",
+        "time": "a year ago"
+      },
+      {
+        "author": "T Mc",
+        "rating": 5,
+        "text": "A very scenic view, and a nice place to stroll, sit by the beach , have a quick swim or surf.\nTo get to the sea by walking, there is access down a gentle meandering path on the side of a cliff that joins a walking over bridge above the motoway.\nThere is also a small carpark if you drive there.",
+        "time": "6 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Playa Redondo Park",
+    "address": "Circuito de Playas 5217, Miraflores 15074, Peru",
+    "rating": 4.4,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "location": {
+      "lat": -12.1318538,
+      "lng": -77.0328538
+    },
+    "url": "https://maps.google.com/?cid=18340039890390971060",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ciXFXg-GfvKVG9-gemitaLtMbWR1huY2XqcNXwjsy4n_Bx7UPlioQKSDUrhh-R-UsWCsqufSOuL5fky4_KIxYNm5xQboQDThTT8Tu_8_SE_XBwtd4U3e_DS8WxPKhyP9r7roHeCNL9bXo6fZ14Uo7pHqxFxXn4V0riiAA_QJdd8N5AcnyWCqU6RNq-d4PJ6mDVCK8djzUCyl2Qtsy-TFqlxACp8XNZhyersnmfmGOnopTVK3VaozEWSj8ON9d2F-MnpToMISwry3ttj7BbTwpoEj_GjB1PMASM8_0q8NVe3jRAqcousPEbBgbBKgMrDPmyaQL6NunkGF0GW_4_c9VaWQvVZhNKE44H4Yl8KQzoZ-DogeTqr3KUs7grzD2zK87Gdoe71ZpMAzB-vPQbmhyI71ypQuKigZDmzkeg4_laiss-&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dAuZPhQmgltRk0W6qXZTU3yi5ihVsV5sMNgI_PouE0Ou5exWQhnAUhuqV-y8JQS_gJK9Q53yHzpkFVOSRczHMAVlATffqFJuKe3-YnVMsM6PnK8LTimKDi-jBvhN_yGYveRzFoYF00dD50p2MAdkRkN9Ihxi84g2B89V1QybtwBYXSZtDbvC_d6-37Kyv9x41ekvcnIM1Opdy9218fM3cWiIg00tKuBFFw4aORvPrYX1wPlLCY4AbO1ZzXznPnSBEgKJnSekiXEUivXCftwzm0ljlj9DoPJRxswE6Ody8jg_zGWAxz42cfyj_xiRWcxPKTTTD3uIuCrdU6g0xHrwS1MLxO5PfNFhelkYN4E4Dbge6eH0UUERXGPqLTiQPPdz3JCPu4m-ffmp3u2YZROMGrhJtuJ0fqTCFXR8tVnHqIyoXr&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eCsqE2vqDhcDSTjD-FNQwJcrH4fKK4JR9RWD318vrbic79sGnoYArqTfLiFjfpgN4fsCwMD5SwcVDm5wmBPftdlF5VijRIle8CI1P530Bw521dz262l22vh_TnH2fa0z-blsi4L5c94RMDV-RyUdtXPXxaCMfyR0XjWh77rIzfV9DPhPQeLU3Zzx96deKzFl8DtIPsXhPbFyN4hr4CIgMcqL2DE7uzw7cCGn546BNQGCRsfOWLJAWnCXM6dVRshyB1xBVI0bDSqmbTlEH7O6WhOmQKuf_K0z5aanu-TIUwomZVli_4kJyk-KmsWrizWZKisxhEnzC_jFP6FBWBqBqL6rmaa647gJoxDMkPTWycfIJyCYpnkyZ6FCXG0z7NBrjXnosAnC7zJmC8g6BOatR9Wrc4Dd5jnH3IsJlrj5c&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dmnIY4o3sl2vMv1HWLNU4uMBWeXIxZ2wWYrjh6rWKA7xA30OyorAK82FBNbhDT3Glxktb1-jskUswLIYy3Ohy1NvQC0dhc3QWkujlAd8C3Ufr5KhUaf3USAzzUfXp3RaLFCVG0GtLhO7vD2k1W4MSU9KpItz8_H32Uyr8w-ntUnu-rOpmiY_dk2VVvw7dN440o4Ve2e2SnXiX-t7Pm50uwGT2ROjH5wacZfCKt4xPz3d5Inw7h3thk5_bo8MqKTysF8N-tljjMZolBazgz9gLQloayZZLr4AF3u8Xj8EFdnagRNZnqMAADCIAmMinF-broRs4QqqrSKpImH6BTifFv8w98cOMMHoEM_7aQfCRb_Nudr6T2jhXjbg49Bb94E4cZzq5r35CcVoQ4oxOXqA3hWfolPpsfW4h4Wkk0Js0yFQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eEnn1C9bs7uK7tLhyX7l8WO_eIgd6ATupFlxezbxUSr4o02LnSCfuXt00UbsLVSxnXbErZ1zwXTEo-YvRvh1hup4CTXDu-ZcfjDs7k1eUHkc13FcaVpCFsn4cZQzuQSQBwBd3hnU4phQhqC3rWw2i1Ff-ONfirbJcfGt-npeU07OlMV8EwIBfyKHqzLVHvC2iQUCgau4-b9o9gqkZO_459e9_t5tvIAUPuujHPlExnsXvMHD1Sjw00ENIjXqFbjUjqRB5f3BzRaVbXj0lxGcR_O80QHYQrYB6eWm4kE4S3mGeT2GwR41H2xKKuosj8w8OVdqLSJLDL0oZ0qVVZUHCOMxqShvZwnsfdRJCm48CNdHNnULvaIqJmIxz77D-1eQqun906EmeJYjx_88eIA8scV3gKCSFY7BMhuQmy4Qqd6w&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cJD2Xx_LTU_hhNpklysTYHaBHtgkp8OIlSW_DtrKFmtHVVJHklJCHCwEWmkMemc6GNsVXJcu4-iP0mQN9AdJ_WM9RpeLgOiGEdVwGjpu3RJXgiWeUigIX6X7FL-H1--fz4WP8osODsm59W0l7BNWHGr_s3nt0RfoOgvH6lf83ACUf67e246uGMEeJXhFm-JljcqnVcAsfIiQi7Zr48zpKeZ3KusHaX_ZC4pwMAIWp3efQbRqJ5PtaZegoW2xDu4gpYKdqX0lgtpLqGzbnkpx_ritKuGUHdyPPeEgzVTe-lPP0xWH7OIRPzhBm_Cd3CLpzjqBDpq9hfWc8VguxLH705H2izATCnyfv9LBKp71Afq0V8KZd8b7TnHxJBRwXMtkl_lSzfAT7fSaxx2sWIWYfjaX0rdARa1JX8A1JjYonosP4&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e5NQkctAMHb-fhBK7bkTQQFcbOfEd-MpN-7_VNBzaC4K6hKxor1gmsmtN9T9Y5GBpZO49rB-XGlSN-lSS0ffRXkkNctRrHPBM0JyHCT-4ZdU1iud67qx3sQnabUx3osANwMvfF2h2m_3Z17gr5sQFVg8MMnqADbkFTWr_CQ2SiyPHCh_7hCxvNIUpfQZy23S4JRagKaBEPsiaT0-xTKGx0vqU_r7-3MzOFP1QtToukKgXYoUlnh3l574RW9Z_ff0vyR5sDzHP3zkXdC12cbIl3C2vjIRF1LixYuejw7h3Mm6O_XkCqtDzpQ9Kr3Tn28qtHJMNnJMZGWBCIXq-4W-s8DPz6ptX9S33XXsrdjaKLWfh1q2bHZ1EBB0cY-IX8pqOeNDKfnnq2n4V3-OheOylwg-vpPpjWI6EMWZoUGKHer4pX&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c-M5AKtjhKx0MD0ncfM8Ec4mCRJZSY0hTDb13BVJvZBv3fRbPV0ZD_jxnJXYsNc2ryd9sayDGo6RI-uAC5qGqQUeEAGfEksK51gfv06oLaettxVs7h02qQoD_NOmy7zNo3m5Z7KntvmRVlbSUe0nxAlLef-4ik3OZ1IMC-XGTaKqF1NWqytlRLB7cSr0djW7rWrwYY2lB6SO8AFAlNlF9GIg0zcBDnRwv7nJLZBwijdrNSoldDaHwUcOImu8zhLCweAS4q8LnOkyRy3CMwUQs1Xo7hhisxMHFQhyybkE8DMkvIUxTKLn-9VsRLActJnOtobo_XLQya4MG0uGp20zeLPKjDDdx2G-9s-aqim1nrgL79SK5P-J_PRG0Rz8n8qeigkiOA6XlffW6cwUN8wFcXX_0WBV9QGRh2nA3fm_Y&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ddwZwijvvNpZXzvAWVRBiJTQaKZjjB0LhoN5xpYAwNmE7XXDz9TqOKoaol1iycUXwPJcAy0JrSHAgcW9mEAJlbVr0ox5QYFxptKEjNgMe45J16dDxpsYkWB6BcY_lqOZHSH0fR7G4aCzxIGNf_fFQlzZitAUlWDVZIn6QxAR4iXBBo7ak87aId1cG-_Jq3aQrTZAgsSAiwIeeZiN6xbofZvJsDDFvo8UzXHHMEjSnjSRG-rnrdIEmYTmvjLbD9RbRQxo2XNmqhJHu1kAcK6_0W9NOqHES2kStPSvARI-y_W8oRm-5DUWGHPrrOabM-nPvVHU6iH9BkvYoyXiLWBCNN1JjqvzQNC_yCEKiUrhHeDUMIwgr0kcQPuiaQwo8MeVc4T51RjAjnOpNgTZwfRJF3WpJqNsYBf1aLcP-FQhce6A&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fx6Scazg64_US0itOBLpRP5NfU6XN_gn76Kuyxi3e5mpTNc6UkOi2QyMAr6FLMppnXTM6vECfxbkwEIV7grRTJl_dLYg81yHdyt8ow7YBvJm4tPA-YJXC_NV5IXIrd--Jcm6pfx1MzOH-VvgW5TufIgVtl5xPJZ-VgSE7Kyd7qdxazEQy1m_XIWsIlZzkrk3Tj_CZNZ-5HT1YUDV7GMTzV3mOvJILaSDkKimX_tPqxmxcKp44BxO264jYvIot9YQjh3R-4iTSaEYVlh7IsUFgWLn8Tyrb0_HIV9FivdUKpP5ePeBkwVFSCmp5bVIAUTIZHl9_5rQmPDtZIJ_FsN-QUCJErbatQMz1058l-fq6yWqqaKJ0USG_qlxMfJFDpjJbaiVcZef4WOwA_9nWivglBd_BoAHr_p3aeW-Ur82Q&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "M J",
+        "rating": 5,
+        "text": "Fantastic beach on Pacific coast, a heaven for beachgoers. This beach is specially loved by vave surfers. I give it to the authorities to keep the beach clean and tidy. Also security around the beach and surrounding areas is well kept. 👍😎",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Dale Plotzki",
+        "rating": 2,
+        "text": "#LocalGuidesSurf\n2 stars for the wave, not the beach or park. I hate this wave. It is a boucning, small backwash runner. People take it as a left for small distances but it always closes out. There is very little paddling to get to this spot which is why I think people surf here. It jacks up very quickly, then gets hit by the backwash coming off the beach and flattens out to nothing; the wave washes right out from under your feet. Finally, the way the Eddy from the current works, this is rumoured to be the dirtiest wave on the Costa Verde, which is a bummer.",
+        "time": "6 years ago"
+      },
+      {
+        "author": "David Berm",
+        "rating": 5,
+        "text": "Went here for a surfing class and got absolutely destroyed. Great waves, but go only if you know what you are doing.",
+        "time": "a year ago"
+      },
+      {
+        "author": "Lula",
+        "rating": 5,
+        "text": "Many surfers in this area . The sunset is amazing",
+        "time": "5 years ago"
+      },
+      {
+        "author": "Boris La Noire",
+        "rating": 4,
+        "text": "Very  clean and safe place  to go ,there is no sand, but the water  was awesome",
+        "time": "2 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Playita Costa Verde",
+    "address": "Playita Costa Verde, Cto. de Playas de la Costa Verde, Miraflores 15074, Peru",
+    "rating": 4.2,
+    "types": [
+      "establishment",
+      "natural_feature"
+    ],
+    "location": {
+      "lat": -12.1172938,
+      "lng": -77.0493065
+    },
+    "url": "https://maps.google.com/?cid=5262631136318752735",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fbMY7SjQfz_1tl3VTzBm3GsSwAcS_ROEthfp3rppZ_JceXDcSWxJ_ULczsgBxZ_NI86VMVuCNG6r3k3LEw3yLfIWKc_xMg0NO9aDS58rtKjKkTtEmoCNgC5FhgMXoHCJQ2tK6mCHE-yB-Q6r7wh5-vwCxrQ_AdYWTDSeIlHR4iKWNCOrMxRhrlp_c_PMNWtUqG3mjn23q0Uj5DBq1zdttcJxGpjUsq2Vk2-hxaw-cG-L4UgIi1hk9Q_JtavNJp0nvgz1yyQk3VddNNpKTsf8GVNmuFu_NnVweu8dLWelOhcGdUia14Ua6RxY87rGOgDUoamge_eFq9Y-g92MjC5_eVONbb90v43YJbCG9XQsiNqMOlW4sQhebNsuO3oChIMOQAcO3vwPjI-RrKmjt0BxN7FI0VvoZZpowdG_mwccSBPtai-FU1XhKuMrDimGQV&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cLekc8OjvJq937M1ca9i8a9Zk83IjfEy84-65j78ptaGwreF-7hrHQuEHTLwpdPOlf7cFyLzfgqV2rZiJGAg_m-Js9RN_E2Rv8o2o1ifyyMIA3dgxjmUEUkRQSKsdR7yJ8ViaVhsajcmevIU0yOe-9cSjgyDRmxrcyAj7PONV8IIH094OBOXXdHZg29OUfNd1QpHkhwXQp85MKLkHp0AOcLSlcjJ5Uc9_PcI8b9p4JYM2MSfqIMulGRKjgI2fLhQdG_CxgqjEa_AbsCaVJ5Y1vN-8Z19fZCLPrz90HlH67H4hyHPb4kLF31st_8QK8NqpSkUZqS9MkmFc2ZHrbEPiFvRF8WlDu0Y8RBX_hysO2z9reMBOoaJQ52e_7WTgfc3F0eTm1Fnoaa9x_UDLq2jSlBK2KoWlmLtQY5flabm_7wtMkX8-92oc6myXIKjh6&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fWwn4ezDqivr_VGUzw_MAMRyqb6K-oxKI7J31jpRt6fPIIe_p7V3erwHv4Mg3MZ-_Yypj7DvVhyYiqxdJeXMvMxDPPTd7qrdNUGwjPftmSgso9k1v8KPQP8JcHLuvB8u4qB8LsUr3qtQqVfN5Ndy-eKWApEXlWvNWBeOt-BtcqscN6DGjkmROUbxl-6FDRHM8PnoXXMadEnh--cdgBE34yaw5Q22ncCFIlB1K1hK0NEofu02DAAnxiQf_XB6oDOWiHYY3q_-iC5mUEKJmWF77GvWQ1NgLqrIkjazRAvroZd-buPhOwoAPVXFzt9YFwv_96K1ij87uiclAo0iDV_tw9OrtilEt2VAFjZji1H6lmUM8R7GdI_gHDo8R4DSyYcytOSsD9gshaI0MlUSwA99if_rVDVG5zYEv3dwqRko61mzA2-ifMqpEHho6RYjD4&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d1k7vrSHFmw6c8anQaU44HrV36B1zNRIFN5ioaq2ejSiO6OJrV9WgwOkLLup2QLE7k3l5jkxRjvvqrGdhZsbpRidvmtDn0mktXRVT35BOakpw4yhMXys8jyj7oTOd3rxZMBVrt-zrT57Uuq9NiRvLBLOTynkRTjBIErxti0PlLTVO7RcD9TNA9AfT1vXaJEYf3zXGQJm8CvqP1xqlxq5S55xlH2w6mbr6mXqIrSgZQHsLkAW4vFdENkLONks4Ynsrw08LeQRrTe-X2BqUhTH7IHPRApMPpbHQAMAPfh-CF6Dju1G3Uqj6A-tdsNXVplPs-3PqAtC47y0j1vqN3EQaGSSjbpo8JdzbIoLqmesrsqXqvoJd1kXG1aj-7KvnbVFTsuovVES_OdIbwWPb8kl1UHQBeQZnz2uRjebjm1z2fCuM7&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eYdYmLT_bxOUF7VFH4SwWPFhJLVmyiThqM4So54SI_12cL2oIagTrfXRM-MMWY0D3nRM4LI4IzxirqM53TOAhO7z1MiDG2NMeayojklcymva7WpnV-J_I1ScALJEVr09DrYec37Kco3JDRlRqDjMCwHIVrb5UzUGz_OFhCiZD8hUqKFkSFSFd4d5b9LrldVfZbdULMFGvv-SQla7YyJvQXE4feziw1K16gJcZwJz-c9U1cqcrk-Un509dYnzb2Tm8lktQwjuWcDFt-79ZtJqg28eb8TbB-hOAgCbR9XwRcggiGRFAENzthhnCPKqAyj_mX3xb1aQmPHmyebY9RQWBZ6rA2CK369AzKszkXkLRbZAd-8xk1GcH7UPvRO7XAYgLWR71RG2Z_Nq9R_JtbxRRFN8iEEYzEW1OwbjWVZ-l-hHrKy2V5eC9qlzTe-3yK&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e6Ksw4paUgBMvCqMXOInYOOQmD4fdRKiaomW-A9TdmFf-eOC34r0EBhgsPUyRa2UdslTzFKixKjYIJQSwZ1jIlJBcvDIVtqWusrtW5GYrJ4Tc3FZocjH5aswNZx0EBxYp2jNqEv9rBhT8p_0rowlFioC_bAwCFcZxbOMbnEKXho_8MUQosc71UJ0DT1a0dtGaKh-fzMa-bjIxWcgxDpfM8Gv487YeooXSYLENqiLm0UtlunfdU_920Ah4Wpsu2TvrMucEato7tJjZf9jger5e_HUn2M1QjGGIsrbPTHQhiOh5kmtVd4OeyF4QFG_QrnXUzFzXfe_wg8gWvIb3txmSVgR6VQ_JFX1h5HYY5_JnbZKn7wShdtjFMRx0vqYjLqLwz7o-834BYNve-JnC-TDDeBvy4GGBXwyJouwK-1t6d9Yk&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2flH1pa3K4r3SdWRvsPDsN45n-M-yJZOLHQ02CADZzV7SyzuTd0HnR808ncQYkIYBtR3fLsGj7-auHLFU_PrMpWXuVRzXJOOCaq-MlyxNO_i_VJwfhGNWR1tyieZb-tLZ9DVpKttW3fhQcVa_2vDGDrJQISmVrOwK_W2rY0hK4DYWfDz3jPyUP6QSH_A-HbrzCiK0Tc1W-YNXI2s0IoamPopVQPdeAIYz03weQeLfNxtNmIdlqGKPfjbC9pdP0PntQrqL3XM4Zw-etdmrH5PmdsY2WZmuhbMmL7yLeHQm1XpnLtrveTuILUj3cH-f9RXb7OrndrpuL_GzDR68enm7CEfDkKEv7q54KMQW9dZq5GbnvTFtRQic0NionQrvcJCQ_DojE6z1Azlh23iriDMFnXG10VQ4V6h4I5G9DudpnME7U&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dTbRAGX7P8HxunSoSgt3cS5Po8-wlLahS-hbmq-CR5-yiJrTxFFHQaNZfMbIm-VRuBttv44r3OAy_x6YiTPxhyQr0JlewOPfAO918XoptAT6-4nSHdNhgQ28FopACEKlEo4jE3DHQCwlZ7SQA3Tx-bgADbZ-xF1E7uHfGYWyL90PqTTrko5-eN42QZ-fBzTVXHh3v8BK_p-YZCJI3ZjsyTLVRqQRRFh5Jt4nV-TTf6hNXWZ9m7s4v6rIDhpIOTr6DMn7CIkukF990AdoX4fzhnOSYmTM1ExQL4Svt3xpiHz5dzScmVOrkoaiRolG6idauEOQfl8B-TriZ7bEXe-Q4c793Azt6V0cRASElGRXUtyPsth2IpwHLZBVuN3nryXyykjAGOfov2Q93nvwaQI5lb-zldvd9XS5hTByONMJRRIw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ci6ZVkFZGvg4vXR9-9uIHaTspOPXVK_QiAV68NQV8QxbW9o9-VvSnfiXaPcvhUBeEJe1z-ubQX-cGpsetTnNpdN9-013IRkjDhPfqGGbBcVHgYGdb3bzYwoKnCDj5OydPApAxYZ5qYymM8PwLn59PJjv6DWRR2iN8V4FPgPqfGD2rXRPkbPe0spNHgSFG5n5V9RmYzhMaGg29QPQgJrZZgL8hSbc_s4Uq0DalsAyqEGw0HFHSWe3ZW12XklP_tZFfwpciMlFyzf80bMwucvP3jBuzooYQ4TDEHu6ITm8OKWexyomLlfgQhevFdqXulgB9jQGjaorcuURUirsin0dnufindZHhGjR-WX54T5qfkw5hTcpAN6t4t_qZbAoHCYo7DQssQbH8LDnRZr50oWa2bgd9m-4bAtuONuZQb2GE-SzAObMrh8PC3p6H8sQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eUGgmk5VyRlyIDgIySsdtiouwbs34XZBGh8aqsEkbY3x9-9lF9fbhLuqcWxrYVxto7mGUA9U-ZD8u6bMD2bzK89EEbG475gbegigcTUsJlR1v4UbXTIqxMbYmUZ__dBQXdGqAtogbJfKlxs-2wwtZB463djE0JppASdHw3jD3umWXAIMyeOZXWOYtj0npciPt9GV80zj8eQY_HHc52I6A_N4ByNMSpxV2gH_iUoWoaFdK_kumL6LK6ACi9ImFFvsndHzgpa7cWFVcuL7bELdcf5XlyGbZLpnRlF8uMJxDAZnUNGVjpmRiSUBrsaq7Eu_E2jowgybGFAhBxe1djKwRufA-vLuZnWGHZOjwyc4UjnIcKFL-MqloNFrCs8tgLa_QPkEVbyJ_Excwt9aaoK3VB4Zqv94jNt9ETI15nJ7BpZPvv&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Purba Dutta",
+        "rating": 4,
+        "text": "Playita Costa Verde is one of the more family-friendly beaches along Lima’s Costa Verde. Unlike the rockier stretches nearby, this small beach has a gentler setting and is popular with locals who come to relax, swim, or enjoy a picnic by the water. The atmosphere is calmer compared to the big surf beaches, making it a good spot if you’re looking for a casual beach day in the city.\n\nIt’s easily accessible from the coastal highway, with some basic facilities around, though parking can get tight on busy weekends. The ocean view is beautiful, and it’s a nice place to spend a couple of hours away from the hustle of Miraflores. While it may not have the fine white sand of tropical beaches, its convenience and laid-back vibe make it a worthwhile stop.",
+        "time": "2 weeks ago"
+      },
+      {
+        "author": "Nicolai Bustinza",
+        "rating": 5,
+        "text": "I went to Costa Verde Beach at night and loved the atmosphere. It's a peaceful place to walk, enjoy the sound of the ocean, and see the city lights reflected in the water. The area is safe and clean, and I like to come here to relax after a long day. It's a bit far from Callao, but it's always worth spending some time by the ocean and unwinding a bit.",
+        "time": "a month ago"
+      },
+      {
+        "author": "jhonatan riza",
+        "rating": 4,
+        "text": "I found space to park my motorcycle.\nNice beach. They don't allow alcohol, but I think it's better this way. You can watch the sunset and throw rocks into the sea.",
+        "time": "7 months ago"
+      },
+      {
+        "author": "JERRY RAMIREZ CHIMBO",
+        "rating": 5,
+        "text": "1).\n2).\n3).",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Juliana Juli",
+        "rating": 3,
+        "text": "It is a beach with quite a few stones, you can get to this beach from the boardwalk, specifically from the María Reiche park where it has a descent with many stairs.\nI find it difficult to enter to bathe on this beach. However, some surfers enter to practice their sport.\nOn the other hand, this beach is more secluded than Punta Roquitas beach, which you can also go down from the boardwalk.",
+        "time": "3 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Playa Los Delfines",
+    "address": "Playa Los Delfines, Circuito de Playas, Miraflores 15074, Peru",
+    "rating": 4.2,
+    "types": [
+      "establishment",
+      "natural_feature"
+    ],
+    "location": {
+      "lat": -12.1180188,
+      "lng": -77.0479821
+    },
+    "url": "https://maps.google.com/?cid=12991937424279514371",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eb4_OUhIlxj03MeNefAHVf1pv0_692qDwgd9tSbFEDF_Agsg8d62GgAIxR3oUANH3qnex3syo6bctLs7ccU_Z6jdC_7-0qaSRD3OyCbQcoPCxPinB72ItB70SFB88xy5sAdfTEHkN7XQ9XujFmrdZ862UGduNMEl8NWAzeFgh_9Gt94hylrphQv5XL_TymUwSguFmfA5CqJzNDljH-pgsSxCx4GVOqaQ6_rRJbU5DeFcYwyW9phofbS3wwnR-oxCmA9mHOJfi2hdD3oqZ3PusQhWeJH_5hiPui0A5pI84xT226CEgEN0utcYP5kEB1PfxVtOe3Z6Ef8JgfmGED1OjuvoANLQpmMXyEtELWg1zm06_S-4by87l_mEHRky6MmUTpEvYGz0QXD9JWxLx76m_axnmrRKjQCZZLmKc7Nhl9Yg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dVBGbkF5ykILm0kyZ6EZSyJ03WodPqq8DTVOJRq6r6ocKeRpZjr47N8tls_n2cxHhR1zT8LHvoWcJdjOE9qLXCNJx-h6PmanBfMgUELKeISELM4ppIQOsO716PZ3HfIlQnTP0TrXuT0NvYRAQNCk8_4pTb_-071TZ9nUSjoyJDAFCHVYc1rmsfD786_s7Hq9i46QCEmGp0WUV2nnCAkJjSZmWuizH06A4K4w0KN3w7A44uq3mNnl8doDbIV_zorvA6ifWD0_rf05A7ErVjrL8RVcmfjW6DE6A-q0ag6asVZuvHGW2lCIQnhpksxP35w3xabqd44NqvFKO9i45aqokVKuXt_WBP01lVKCPuyU0s4BeXnwbIq6tCkF06r8pbuStHvIqEWT03ixvatt0IOKOZHXiCoeAzEfznDT1JZnrhsTTc&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dEafN7WFL0eyaQLQ8IhEcVe6L4rGQ4kab7Iwk8t6qumBIipaXokbQxjt_xHDqZllGxtGfbE3ipoJ6oGh6TjrSm_m1biKrsuCVnUrJYo_KjFLyEjsMikqZJR0Rx3KKtKf8Ves99M_yVdhohKYdWW1iP8O6UyduZTgk4woMNx9G5qmJe1Fr6V1hxT93rckoY3LrtdOF4064CEROibq-6aRQhP9ePrEwC6-xo0GyJkqueG6ja-uFO3vrBtoiITPvEeoE0adeUr2mLyqd7mEJX7xdahsF82rJ7WKIJ6GGRWLcfT9peF9HzjnfRo7xEbPFSGIMEKPLA2nCr-vlcy8CN2G6Coz2mX6guC_Chi-sox5hZJw-epUNLCA9nVIVcwT7M1KC0w1WkZ1xAllRKyaab_FkCEKI0zKMWfKPv75XhARE&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cu19ihvNV5kvmgqvL0CTHADdetfijacpCzvaeb7XomGJ4AsgPRccL5QP4plR-neAAW9hzjKhv-nxsT80MxohWGvl2noT4XGt20qrUh2Yo5i4eJqnQkoAjsOy6bbo-kKbOpmnklJCIfRxdZlnVPsEmr4uLxUnkNudaqdCtfGCqoN023RTI3bOU7LLLBd9cdyuz9VbpMxXbG4BIRlmdPmjpsB_71rTKQoOxkw626d8FQwkRDjOmV9AV3HgiO89lr9hjxH2U8S2jxZ3vKJYVg1uSdaZHv4yJkuaPnEKZHGnhVGQggpV-XxTc8yNFWfTuKJZkvvlDA_DmuiqR9AlmRDJlBxGfFCJr08v6iGDE56HtuyfminIkzekMnrquWd_2KZcoE5jK1bkrvkOttr0kLXw4dN_YJqiYpY5VLpKKY78J5Fg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d5t2Q8V4nC8tU7KmYuttzgGPqYJ1H-NYAhdyH7hLu7JxT5dHl8AlTUG0iSc895ITtCowbx4DhUOyzoLDhu5CPZGBGccmFDvHEkP8Bblu1FsZhOkLkG_iFqH2UxoH3ftfeRwQcW3bQoVHjZ9A7HSBdiUdC051gVnfoS1uWy7-z2AJzpk4HuuVMupCkR26dlEOK-3YHihncz_PZKFcFl9eKRcLUdgpeeE4Dpo6BwD54uGOxgb5H-NRNxGz8jEpp3lUxVHfhl_yvXBOvHzF6a--qfT137Mz1fRKsdvN2Hg8MaVcQGeIt1ohXiQlXdD0zD7d-Fdxc6f7Bi6SeU2bblIsbIWXjereknxn9OdGRb_pfUxF5LZSwLykHF4ECl0JaUgqSD_kFY2gsj9V__v0QcnGbf8PnjB-PBotJw15FP81OwAg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2chI675tFwBhqCUkahUsYZrpK-qLfZc7_t1JaJscPG-yVoka4KkbmScu32aAtcHRRnXwZyif91WQ4fx6gZcW46yrZzHMnrlhnQ2Qwos0SO3cxLRKE6S8o0vP25ybCwvqxMuqKAKgLAE8CaLtl7nMP_hU4eUbeQQ4MGJqfBB2s3agMXK4VSfdpbL5TnNifGkfhs3lhx7Osoun9gTugn90f3-eimDL9WpilyuklskG5KsTZ3uBhZc1IcDNsdQqy1zlcjDg1jyGxlvROryZz9umZy4JkyMcAcT_VPIxPz76UlTpBybx6ozPzZzj5SNsT9EoPRuNKxoYXhiqjvt2VxOwYglhSQbNBqxSAn0rZFaeK21h6ayrdepkHn7rp-9UTAda33ujK8CYzgkcalCVlZwiGeiRdhFcG7YIWk31_Ilr_3Z6DXv&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d2XKT8pzbLaz8xAuZlcnR2kWRphgNxJbvRic3Zygl1qA4Zzt8SN5ROySEFH_7hy1gUsSIX6GprUq5cy9jUeeE5Q7dgCX2Mysb-VytdHoGn5AXjOjSoZZVbEDjC84QrI8D8RrsdjYg9zGHxGx-6ffE1MM0sExEoaZxRTnB8kL4pHqvdZ175aT9HakV2zoyd4OtV97iobYNh3LVUemliMjEBzEU5liyHQG_991JUH8ZsRFI0ZivWLX9ebbKJJr1O8P7MJyqCctg7Ao43sbCEPHx_iOomk_neKTu5EWq092YACIoCLzcMKu6rhWbem6M534ljQREftuVzCAzxVE0SZuOGHOxYgTGPTpRRH5nC0shMol92L_KhmVGHvtpaqeNtZnb8snNoH5rWpuRhNMX_KclF0j4jk-m5gRTgyEuNmfGbeXMraWZ17NJlfVfQ3YnM&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fmcEwbXgJl9GdtDzTxd8dj3eGXyXkxGuuc8If5Qqa1gIhDyjPBoOt_UjjziTRs5wHTV-PC88g-Yka9cXGVOQQZbRknt9_nLts-JIrsXNKtOc-F6L5eVJi30ojGPFCH_vvscDA7DTFKPwX_fzbOejYkE8siepxXlRf9qooWV5HlnGtEKNB8f94fM9VSSLukUDpz7nV67yG5ozFai_REZfe_egUdNg6D98nN1ZlphikQTs_r1O2jgfls491SWCZCp0BLsePYS0EbP7_6IJ1bIQSZTPuhqARqCkJZ6WJRmhYahveo7gzs8VpD15tBNUR41RxUNy01aaA5QgbuRMJx5N2U4L37bkbL1EohkLz7Dmo3Pr58Pokn9r_tdl3sHbL24-fsgImbm_5T7B_DgJ7ebwHJml52mjQuhNzjZcpPN6KLAIN9MebC6X9mtKwj6ZtL&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e5KQQ8I_uEV58EyCCzGHq8sKKGv6Pl4nE7swxTs1U_-7lSFxWhNDA_0iHqNQlgYSKl5os6o4F9i7ngl13ALohomGPED1299I3aW6oabv6zHSVVmXls1DneHE-QeIuI0IDZ5SkxfSQQI2g3YmlWK5g-ufytuJdcvzadzT3Rx3DM610OXKQcf-LM_PfHptgOKqRWQ2Xro_CiqlpuVtytTzD7iB4pIDiacVK9fPyQp9vKZ7CTOluLcL7xBE_Ix16cc9Os8WhAjjFGQSMI-BR54X_Xeh8ygQp21XisYpDdvLknJz9MbM2ButHRM2qf9sW2LhrHBkUsJ1y3fgpsU_9owUnaz3lttjjS07Yb0nkA4VNGaPiorAkcE36rhoVs5uw1hLHTI6xCPnfBiVsEH7Joj1M-xiC1l2S7wsC3LYFpawxV6whqF1O_RKAMqgzOkKpE&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c16OGBoADoUvAgYNCUIdlUAKeFZAgqvDIFAU93HxQRLLKC_frifXxuQcDBFAhGn4KzwC0Rd_G6hr49gxBmSLvs0SzzKmAxMyG6p-2ZZIeaxa4wQ90hv-kRaTdbsfxtCoqMm1upA4u4r2CHcwXpI3l1M8fbeR3AOV3n2ubZ7NO7ZITn_CpNFHxPLS2bJvvyJVmU5gM2BA50ISE9ADrwhMp6fB7_JkCRKW13tA5HK7awx3s4ErniahJyUQT2uiFSAWanNCsQ613sMCGJZF7E0CxtWR1amEbv9_Tkw1coco80wfXxmyQTBrhTQyo2XjFuuvgvV4FmdgR3TFOaSH-GV6LEDjOLNNGhYxKNQ22n9EaT6UeGEJiSW9frQ4Q0EcCVnZLzLLh9EnCODEdkDzgLxv2rjyskHzZ0YLjk1Mn-d0DimA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Purba Dutta",
+        "rating": 4,
+        "text": "Playa Los Delfines is a quieter, rocky beach in Miraflores, popular with locals who enjoy jogging or walking along the Malecón rather than swimming. The beach itself isn’t sandy, so it’s not ideal for sunbathing, but it offers peaceful ocean views and a more relaxed atmosphere compared to the busier surf spots nearby.\n\nIt’s also known for the large dolphin statue that gives the beach its name, making it a nice photo stop. The surrounding cliffs and coastal paths provide beautiful views, especially at sunset. There aren’t many facilities directly on the beach, so it’s best to visit for the scenery, a walk, or some quiet time by the water.",
+        "time": "2 weeks ago"
+      },
+      {
+        "author": "Rytis S",
+        "rating": 5,
+        "text": "Pebble beach with long Pacific waves. Accessible through a pedestrian bridge across the highway. Nice ocean feeling. Do recommend checking.",
+        "time": "5 years ago"
+      },
+      {
+        "author": "Constantin Cosminsky",
+        "rating": 4,
+        "text": "Nice waves",
+        "time": "3 years ago"
+      },
+      {
+        "author": "Samuel B.",
+        "rating": 3,
+        "text": "It's rocky and the water is relatively cold. There are no restaurants or food nearby for a snack or a meal. I only recommend it for a visit, to appreciate the view, and to sunbathe. It's very safe and peaceful, though.",
+        "time": "a year ago"
+      },
+      {
+        "author": "monica nieves",
+        "rating": 5,
+        "text": "A very nice place.",
+        "time": "5 months ago"
+      }
+    ]
+  },
+  {
+    "name": "Playa Redondo II",
+    "address": "Playa Redondo II, Miraflores 15074, Peru",
+    "rating": 4.4,
+    "types": [
+      "establishment",
+      "natural_feature"
+    ],
+    "location": {
+      "lat": -12.133025,
+      "lng": -77.0313487
+    },
+    "url": "https://maps.google.com/?cid=18273040047842012114",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c9zzMZ0wKIPRQoQBH3nR7TBCnmADXX8WcBT0Nf19_m6Gj-03jASE-qcysnM_ZxleoDhpdtZCR5XZVZ1ot70e64PlN_WLThnfrVjSd-8MzHM1QrroyYa2T-9PhmM0ubNZH-uglsGn5rEuGMADzb7wLwl-d3o0DqcDRvjTNl0UoqC7yGRWDGEwSfKPee9xLPMlwdnySdisDzCi4EzejCThjaekvR38OL9IaiiRY8jAABW9MYQM5he55Z8lBWzWGxqepDYTyUNMEzXBS0phnBGmdntadPrLnW1szGWzoJMPQjODet2tdUrLMIzbjfrDPeGU2GkM0PquqO0HgZJr945huQmLAeGbVbc5EXyNo6COZ0EfJHLYKLK48RS4b5W4vHkWMT6b3DLpq7QJ3ax_N6J_I47PpJ2RzzAaYXNVD8W68&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dD2D-Ixr378ympnglEme3L_cuAHJBqE2BUmobAfeic0489PgOo-FYON4QTm_UA9_BFOmYOkqE4rgT7Nm2O0xFdY56XrP7HM3XnsDrJO2_m4McmLGwh61zhYjnS333kGNIwyJ843N2CatUnUPsxbSLGsMJ2rQnPhO6nZkuVquy3o7zTPKCR9gGxNV_Pgz7fLcl7XDqWv76KSYvEFCk_1kxscLmepgNg338n-flkGifgzKhyD7JmVvt7FH8in__lG_K_KMzzACEWEiti0s23NU5N2lLLfWGy7lBRPLvDrtLcAigRT3FPW94iZdVLfhtQjnHLw1xi2mR8Kly7sdXxouclF9yPn3u5mf3o5Rtsci5MTm96xo-MKZD1xLtElxy3MXd-MFSw09eEjS3Q8hgIOszvyU_Tw3lzmjmR-9ATk7Zdbw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eGC_kZn8lkT6DZZiVEISDltJwLGzZBdhP-ow3Gh5intw4UoJ9PYsYYSq3m9nL--reLHVkFRJKI8UrX9a3WHRWPuMfqOaLsUGfhRwiX8P9NjpkTvScD07yIL05ooR6kNsLYnN1D9NfhvxmAmWrSYijIv0UHi_LdprOQJbzSnu9B0ZT-13LDeX7K_0lU9F8ztJOZQdA5kjm34CeOwe-k20da1LkHww7Yj3mTokgrXMyh0XZTXVhfwhZl4HK7CsGV_HKe1MNvyRRaiVV6JNcqtZnEbG9u3Uc6dnquXuBsPlxL_xFCCfSC5oA5pOXW_Ca0OPk4L7CSmoj7_cf1RavnLZem7stsHj6do0PnJES34_YTDxsXaPicn-dAzUOp9XMRBOSmReO7QAkZjzWr1sc9H7RZja9SBhSno5AWftJ3VdXbLqoZ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dIaPvCJVyVoDRivsobAREAmjEBIyk3tikqyPoCxElZheuNHMDHCP5kqPH_FT5rDsE8fzEMvKxk3P50pQ_4TssDYRhUl_ln5RpFRr-Hl-E79iqTb_5km6DFU1m0S7DXWHX4UJfY0-1Xe_U-8hX0iSE4UXiEdpKsvxi2z3SiHsxmHnFfpFwKnXrbbtjgZ_gBgAWaAbUid9DjXiMDLAh0b3lr7ivd7356XlEZRj7aXPjqRnPKIIhPni4Ax4GY0vwgr5r12UAtOiL08Ov3CuG9oAqJrS5FDt1WmKPvf-KNzp-ZC8B8z7zKZL-XmjzfW3NHAuU56vitoMjWsZeojynixqlGU0l4pLdgghjeu2jrd9bZu2PUMjBtqMVN57-lRMphUHCPXgY4fJAQxUGmAyb7rjTMp6PEmISp9kvIF1Qy1GBxghwSO2xmhMyeZL00oje6&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fEwlbO6-s6TwlPujwnKlqIkKLMOjkW3noDQrJ7-44LVSnz806mmNStu_2UfEXqYdu4mc7N7hmGJdwABGF86z2b9SFZr72Of7cE_caApIBcVLg-fTbkisUch9_MBzf9W0p0QPyFG2WYGCDyxQHqp30fEqXH5a0fIvkYOA69L_JkQ83PSofV0R6fXgTGGcm7hKBrtm54CKYGVb-QXQXrsv6xb-RhnqsgR0MyqQmmrp35ubQgrO_idSJY5CXjZ3dhY9P6wegib_VgetfpCDFgUex6IkBXNTtUHU5thEELAVZRvHVyc8W4IFGVYFSvHPMpNglDMX44l4--qdmYxtfmLWFar2W8hioGruQjZksxmVrcHLukOe9dRb0_-9GcgekBv47AFh6I4g7IvzRGCBi6lBd-zEtALAX9V9uw2w9L4ogiZj-I&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cwNJVNbHHivHG6iscljxBRgYeugysau7X401UjTxnV06X0ooLvOQrpSH87XO7FIRE0qZ_bJFGtcmh5KXjWfPbkxc1vlYBO28X16bxGphwwDM8wRl7utYocrHoKHamJiuaTtpSwkkJrYTzMkI1bBjXrdmqHghfjgwSCfo7R2fNOJKpuFbmc6ovRKBKCKUujGWVbA1YBfaobY6ut4ok41G35OG8_fN_h9zA0Jh9k3ynAhUPsGVGRKcAcmUQXNWADquU4n5nsYfdMCp7M0hw_j-KCFv9CC__8tzmPztuL6s92ZGofI7qXYUt1fczj3MXCb2sd-Qhr8mY62y2Djfk-mESxTLvWwKsXzG1lzeL4EvezDr2mi18qy8k4hNHsAiAPkLANyYx4g216nwwnRYUl0ynTVi2PHbyK4-yFxlTGykyBKAc&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2djqDbapmnBmDgAgu3tvCLkSnJJV1ZpjNmZvei77VS13mseBsdV-PnLRXTf45D5ZgIyjAM-Vjvr1e_UxW1VK49S2PISA8AZyzO4GrikqddLrWn-x7iyjHDMhPMax3IE4qfYSRubCsvmLtotloaOYRjmgizSGgRBgnHsU6nwP3GDsHy3KREZCDV6xs7pnqpglWbuMfHAaqKwY9ZdhmssnQ0Ldah9vxSXM8lsugVMbjWxTmxL0_g_1x2D3eV3D8SoDFSOu27H_xnAlRK7QEIyjr5I_rWgSgPgBddGw3WoTZmVv8nO_DbrcTu-BU8bv0p1P8kbf_GhlBEJQFgdgkcZsc4CQIVtdRpcSQ-f8NjXgbhz6xt5ODc9Xe_A2c1GOFVrqbH8z0YMhkDfcOB_poayyKjnQschH1LkXyb5j2QzOVvJLR7Z&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f2T8KJX2w0KdFOJxyfL_KnCrPm4vN5nqh7GHEYD5V7cKjJ1vJvdbcoEHSmKGbb917cU50sncKf3CHvyR7o1ged0hwtdv-fg71EhOOg3WzQ28jcLDDBJgCOUua-b4UKj923AkI3HOl5QeE4m-Hn_58D10BNAVOac9F9ceL1TwsllRgpPZHP8Fy8KqBdlUT0ajz-uOL_L2NRfDYNBwozRPj1JJP64SxWxl7E-Exn3esvkWhbQYXWgQNy79KY28is4QIY1JDYOI5M4n2vz2o6Y5_VzlG6fdnIgVt6942SqzyqotpF2EOF-TyLPBprA09Nvi6vAUYkscIjZ8bYPnp5p1ozpCsRjr99Nq3ubDUXst4YNdVN0ki26QdcmDfmlZb1iAxXtMs-MUGuGGlgafQibccYpqgGQQRwbN235DJ5uia53RNiEJ08ARaffnuofA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fP1mWzxbeT1JTKOFgiiLxXzwL0Tydbl-bsGTghRlkRUyBBKZUNg_vuIwWy9YSKgvbFLYNykmXHbfFjXXUHvU9dqF3hAoyHayr9ZhWQqQlZCSRGnD3fAPy0Hv-YVq1v3yX4IQ2ibObL1YztcWsyp-_PYkKBBmRhK2dBNVq48XKp-Kr5SldAdCx_es-5R-M4BS8yfODPnhaefuAUOpSiw90ImvzjAEwmSOHuwo7MvAciTzEpgQFfhZttmgjnVEthwZiCkUnvU5kK-IjzWDu9c-Jx46MTdi6HESwQ7LyB06ChxGbw86A4Y6fQN7bS1ghiOmRXrIZMRQ_nPDjda1YGj7Cy6e5Gt62N9x78Y1loJ_6obRjUYy2mp2xL6bA_q1mQ9uCR4falqQT83fmSur3ZytIL6zfTBE4ncRzZ2FBzZnVlRZY&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fDEj62s836Ikk6zMVz1v9ibx9Kg_mXkzoi5Tyc9hMgrAVXjMWJR6A-5b01ely4HLh1D_Ed4AaxHiEqGYkmc_4JU6Hm9goxtFS3sFXtJ42FtCO6l8L3MTNWQ8OoLmgwZy_V0PVSSVidbtTiyF7_hkQo4XJKBtBHwt1EyDGoenL3DCLz1eatb1SeCVaCFnb9xOQ5PrkcfkexEuvj3pBozK9YfM7gy5XVXSlEXpWPqIlt0_KutzBEng7ES1iSZa_N-X_y7-FomFFBazhUzRU_bmlv6qs-k_5tPiX9wzdTElQD2cJD-hiZf0fH2TKhwC1fBPVM3Bvqy0OfUGb45UChovwAPB48CozciNVIfCOnaZGvPBqE6N_x-zVVokSbZLph4UrAk6LKXBfD9_WJggqqertuXkoR2OMMufivR-o_01Y9Tg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Joy Piao",
+        "rating": 5,
+        "text": "That sound from the ocean on the pebble beach is so unique and soothing!",
+        "time": "2 months ago"
+      },
+      {
+        "author": "Kane Anderson",
+        "rating": 5,
+        "text": "Surfing galore. Plenty of available lessons and locals in this rocky but friendly beach.",
+        "time": "5 months ago"
+      },
+      {
+        "author": "Alice Zymelka",
+        "rating": 5,
+        "text": "Nice beach with parking lot and public toilets available.\nIt's a little tricky to reach the entrance of the parking when coming by car, so be sure to drive careful.\nThe view from there is really beautiful",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Guilherme Lino",
+        "rating": 4,
+        "text": "Great cannabis",
+        "time": "3 years ago"
+      },
+      {
+        "author": "Adrian Ortiz",
+        "rating": 3,
+        "text": "The beach has a somewhat sad appearance, even though it's wide, with medium-small stones and moderate waves. It has parking, a lifeguard stand, a kiosk, soccer fields, and is good for walking. It's wide, but there aren't many people camping on the rocks. It's below Larcomar.",
+        "time": "3 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Playa Piedritas",
+    "address": "Circuito de Playas 4407, Miraflores 15074, Peru",
+    "rating": 4,
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "location": {
+      "lat": -12.1371292,
+      "lng": -77.028977
+    },
+    "url": "https://maps.google.com/?cid=676119593047403565",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f8q0uXrd6dnXsQ4CyqpDhfrdQwEtivyv_Xc4gB9vWU4bJDDrJ4MYEgBGJ2lTZ9jLnYCrT1_XOHnW8Xfl64T4CT3r10peCFEOc-qf6H7DmPjFonkdd8JLH0N2GRL-B6f8J4SG4my1rFQWBAazk4YDZmZpkpVo8CjZWF0SYtuo_CQ_7ZDJJabP6ddXz6T5aJ-x9FlU4UcCCrO6eWg-ZZxu0f6T0HS8oDoz7swAOvJCBVGAWsBljptG5jK-rTWMB8aHvMGGWasHFAQaZPJzbEvIAD7ATVjZScxqLv1lOTOdLIMRRjpoJz_WOWAmMJyXyF7WcdGij6dnVcSfg4d10Uxsr7pI0RUT9LtfxrHd-Gz_rerEBvptR311ZU1FIWOo-HGMKL6XS-r53A7ars4p_W3vWliiws-_vPL4mfItDJZLcn0A&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f3VaYvFfT-_SUMvO3zo--jEXsnj-c6ft0BEHlrUcwltt99WYiAIZdUT5oQ8j5nmRujhdFEcbsybYyhlCeBdp_a_XqvNBh1zgvWDZzwsEKdUaN9jZGz3YHclJ_xz1utWlzBKFemYzEH-obWVHhpdaUWxJsuDgPlJK0rWstXHvCa6SPVlHzomSOey_NR6c6dKw1mVQfm0U7ezB5BDQWig1-ynQrOR1G0Xz_lt1HzUy5uXimqAzqm0o4lXthWtfB8wfaLg-YPP-2vsdCxZkWPgbpnugOAJFSgOg4zWH4nNBPgrAX4ED71wW60wtgc3ZwQyy2BCu6_lQ-_qNXHr7trgRcTtpYCOZkdDsW63NXPESrgErlLErNtfNzPqv5gvtMPxTMAcmmbC246FPdnPKA3eYf7Oi4Xdolhv6G3Y_tKrVuQflor&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2exvl-vh3iYI35GHWhs3ryKSvwBySjVju2okmYiL_aCcDP4iThBWOEJaNc4zbCgy-bEzPzE0f3JionoPGoUOL1mHhHivfwQXbT3ZEDbXzgDKeSItZkvgFlGWl0gDDfJMOF05fc-X5AxW9lJ_wc-yuEaD4iCed83GUI_8FdhqDOu1YAO4FxHOapc9XaKcurKgJuVJjQmQK6oBeUwh02i7SY6NxCGaiICYqG3JqRm02a3AnFdFWy_ekdsQnOJaC2JLKYxKOKvoHPuKTEPfnc2xkxyijPYIpQNAiNJntQ6nR1daGZzlhdvIYp094vla6acyxmYcTMytGwC8afdn4fYmjuUfgXw6183pxoAZuilH-v3Ew1Xjom37a5fE5nby4higlUfAUGDOKs19023_BJmP3SaJo4VKvNjPpuMHAIUlkBJpw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fnVI1MZ3ZJqiH0Gq0tjuwDRdKDaJiAdaUIHqA-gOwI-FdmrbbOiAq8RlnViXnArZRRB0tj3cZMIJ4dFejTNFDnjCi-GS_F6nY6M0EXGMBVH2b6iXPMJxbFNHA7ddYPhxwMl2OjcUle9m9_WJC2dVez6Cijwkbge2EIktg3G6XTBwGFEQIr2HdfwV1F497HJxT-fZJOcOu3_XINKLu9ZjK45qUSrk3jGriGILpEqbxRe11hV0iEcVOIucNzYBAcqQaPSHffMX-clqO-fQl5jpcV1bQH9hDuEqpLO5W0UauX9JRAUmZlptX-eRkf2wICPsh4tLcWWyiyVaZB1RUyyt7VRh_EwCpovzs-_TcfMCLJ8fsLW1vxC24UTuzfO5FQowka_LhEKoYAz1up4dfS6kEAgJP4TGvnUHq65CYZdvhwwaVh&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eYuyQohX07SOxgPKdyUJbuWSnfAqaDa_nlOr9zMpayOFkMo-HzdB118W3wI0DB1LXizHUpg8syVJMB0JvLcqAZYFKndvE1VSCwVl9Kkjd_nVBQNvQpcFKGltXpiDV39yq-HEfegenw46eedO1gqZUjyBMIWRMwziBdbzyWWGQv00ZmpsAyNpGH8cBw-f4gGxOm33c1PEI6YZ4hOmkn2jE-GRuEbVVI3cmLZ8MGiNqQcou13okJ6etN00DEjmruoJsC2ngzpFhGVaRznywkdiAJPjD6eWy5eWlYul8pdF4lwrTUeTQBaDPyf-T_oacUwG0NX0YRflsKKRNzYN4kAQ4boX93RhtLbpjAtXbMXCFQghgPW9TQtWBS0GqPoururueVe_37Lxhe_4814lnZrj8xRJwp3VV6utebmd5p-fb6Og&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dbztH7-0zFRJnWh5V9O2fOJIcxeWCHlEDWed2amk9Ev1MCXa51cPv2Rhmt-p47ZtFYMgnLxscoopDbH-LZ2fHnbkXvifBeJyQzR_pPlEO7OYXkeniPLsplXIXJ6EAPxmHudAXpHe09XmYyQeoZeErb-JJ16ggl5Yf4aOgQ9lCfrf37B5_nSqqABwWo2zF_KxrqxeMIgxBJl4zcM-t8_wsTmUI-bZEtbtFctyQhIo3hxXlNqBlNkQa5s7a-RMwtF1ji_E3FNbBPa9tPWPyzhBAdkNW2lYoAAobh7uv0TfYzPfwDmZuGij7pK1y3ptnwxfjUpB8T2OVy1ydhTldaiU5TvNyXYi2HEL-50G9dgtgJ-L-gfdg7yVVuRtOqyue-KMEWX3Yex2kJ0WxOrKfuO6krdEZF1BCqGU0J40SpF50&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cFwXvTdeXJWKNJN1oRFctHOuDzIuJSraibbhBm3NcI2AvRJEoG7IdplLCw-J8ZhaAVuYg9Q2Zg5cOIZYquD6QGdFK2KAs2ja15bZ-SKzXmFMbAy2zpXtGyQ9ha4Ddr9idYfs8T4swChSy1Pnl1Myi0-QggsaNjxF2KrBobiAiUHzQTRNfwlHx54tHxMkLhwDM6e1nkD4TfkA9b769Hb6pUAPQDDfOvzTSTjRk5D2sfQvoZTr8oc24GASE7X80SJxB34NIZlr1VvTdYXCDQbcU9VtKdLXjuJrhb_JchxyawYg0Une0_JFWMRToqt-X3FYrM_3tJ9jDxNUixF-palQmBWZgmmrRDHJsT3BCgbCUFrkIdF65qtqRuXsb1iO3pOZNqgTv7GtlzeEGfMG9KkCcBQpO_1p3D65_mF2yFOhz0P4xB&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dy68Mn0vCiiqdtjf8iQ6r6mkYSYDvrFPiVgUapc1YDrjTQTaSm_neJa3d6bm-9IiLcr61yR2SOBhpB1ntDvvBrha0RLafKYvXbvvjPSbVGcq4XIKPeY7MepS53eJHuAzt7oIc3fXfPsMryZxfGsCEhoZAXxfyvbfF3HTTSoeQCXWK8vgrGE7i_e3qvMGdRQ6L0LZTot4m7Uz87a-wRUK3AV25n-IVQ1MEASOnt6H7k5g0L5NWQmg8qrgpACmJDmeeMqwBvhggBCHJFOmbzktIixi88zzCOp6urPK96xC0Lerd1LcwFMLqzPc-2g1DhwI77WL5wmSuwPDLP86mAySDmGnwLST5ho4bHdM6ZDDugT2mZmnplf_T4slUTxIOQAF8o20ETP-sYT9sZg4SyqhtLGN_P4eOux_Y798yv7GQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d_yHmm7UqYC4SSvRCRu6gZdi7oh2rCPRpOhyWXKPSUrzBPYcjmEBrq7_Qp8R6LyZT-O6q7L8cQ32Lgz_VDUp0RzOkYsS4XnK9F75uii4183maHpfn0cpqyU5Yr4B0YY61-I1EIGirZujTKMSS1em8AD7a9A--l4r-e_ArUyRwVwGy0g6krJvGnXdNPcZDvIrFiAKQYXK_Ke6xYliozQv2iMTJ7t31xW9Kg2l9BAqRh08nUwoIrNisjb_YxAev6BOTNTNVqIzo5uTy28__8VVZ5bfUyinLKrZjblfmxryTDW0fGSOLOXCW2t_xCv81CLkQoMqvvYs7tKmGL4Zti8QABnwL6j5060VgMDrj-X6cAPmwDArXxKuYG0IjlqXqd15EpVmnoYZR6y4V3Cpl4HZbPJga7XWbGroaJik0K1mlQNA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dccO1iO7UZie2EoUV4_dCBZhqvVlDShxn6IISoN3o3e7TOtdUsi8DHWjjx8LRB0gF_0OJ04mddCGws6d160e9SajLDOJclICfH_EG30uZW3_pnej-GyT839u2kdO9FFxIC_DNZSnpXeTHbFU8nrD9kX20e7rGUl0KcA0hAal0z3n0blU7M7VWFPBNhxUAg9vuDTbKHti6VitC2UqpNL7KYntVjkBNOky_VhKn6IjnB3gq9urzJrXKOAk96t2wNUeQfynLQlqgjBDysjEChbU1YPGBTmsfOes64vZ5RjaTBxCxF8TyZ0JCyoFWeNAb0mXuzFiXgXvEMhvS_NhyiiF4SeETq7mf7TaqvWgeAhUtEyqkUvFyrUqCyZwc8NcH7Pk9iG_tVyewo6derVcugXHZnLar1zOUtLuqmQ9Hxmp1WoAPm&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Amy Kingan",
+        "rating": 5,
+        "text": "Cool place. Bit of a walk down, but worth the trek. Lots happening.",
+        "time": "a year ago"
+      },
+      {
+        "author": "Ole Leon",
+        "rating": 5,
+        "text": "Enjoying a sunset with the sound of the waves hitting the pebbles on the shore is the charm of this beach, because there are any number of pebbles. We enjoyed a beautiful Lima sunset and saw several pelicans and seagulls feeding here.\nThere's parking and easy access. I wouldn't recommend swimming here, due to the number of pebbles, but I would recommend it for enjoying a beautiful sunset.",
+        "time": "3 years ago"
+      },
+      {
+        "author": "Jean Chaparro",
+        "rating": 5,
+        "text": "Very nice, this place is very quiet, it gives you a prosperity and a tranquility that is priceless. Surely right now that it is winter the beaches are very cold, but come in anyway, my friend, the beach relaxes you, it gives you good vibes and releases all those impurities. I really liked being in Lima, but remember I went in the summer, the beach was still a bit cold because I went at night, and well, it is easy to get to, there are not many people, it is pleasant.",
+        "time": "6 years ago"
+      },
+      {
+        "author": "Luccas Camargos",
+        "rating": 5,
+        "text": "Ótima para passar a tarde",
+        "time": "2 weeks ago"
+      },
+      {
+        "author": "Israel Atoche",
+        "rating": 5,
+        "text": "The place is perfect to go and de-stress from the city, it is next to the road, it has parking that is usually full in summer, the caretaker actually asks you for a tip since it is public",
+        "time": "9 months ago"
+      }
+    ]
+  },
+  {
+    "name": "Playa Waikiki",
+    "address": "Playa Waikiki, Miraflores, Peru",
+    "rating": 4.4,
+    "types": [
+      "establishment",
+      "natural_feature"
+    ],
+    "location": {
+      "lat": -12.1275077,
+      "lng": -77.0376911
+    },
+    "url": "https://maps.google.com/?cid=7851395745085973528",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cpd192GSz-5i72vZ0UZoCDuBgJanTxrfXAWETzTg_Efk_65M5-IWGAB-hBwz5SVKAU_Wp70i-eyUXll_HYFz4b02Qt6FMjFDGCHzqKCeYgTZ2Iiuuzasem9qyRnBqdlpvhkw0qULfWlfTbrK1rt5Ya1PJyYJLg22fAA_g3mLM1laEesJ8jkYVVKDD5JdKHeMYQPaLqwT-cHEDnZ4zVG3jltuirq5g4puOmXb20IGfz12vqkHHXnt2SsPRGqGCw-4kc6Ig9KMcDWucJ7b8vOumbc6KVO49QLCJWIIycYAdZ1vntPN9DOFn9_LFz3zjcfTNpFRTyxUFSb68BQqdGAkMHP7evea0MQrZ8aTv8B_zZ4Wun4SodTnarlkRHLLxx_SGdQVZ8HkG3dwkH1yrO-82Qmot-xM8mxKNRXrC_FXnwrQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eTOJhNv1ehwifogN4j5pcUaif38IyrO21lNSTzIa5llm-5ZCtu2wcU2Si7a25a6zZ02Zay2wxdLSAGd6soyIauPofB9mo0FiWx4d0qQlj3LQxHXrfQgpgsJaJnz7LYjvfnZz-cic4KpF4p1Rul-r6lAXZqqI7jQlwSIfz95SYZ1ItwNHr8zII2g2cDXWigfRF4FHA5Ju1Df8FAC2W5ydmCcbrFYGvjL4Hxc2X6MdtJ-YUJvz2AAWubR3VxLy38FIlC64e4dcyccDfDptf0tx9XJUHRcJgoXrn5tNjjtqjv-ySHVzStFC1QV6n_az6M_2DYnK3e4A8z_oINvpEBaWraCfyx_z2dRISu6OuBR6tJQ6H_aBQji2aJOiu5f9cWYu9voDdXflb0m9yEkgUySeNAZkIETdF_cla5TeTCp7CGAQTs&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eubb5yar8Lkg_dqL7IcIuDwtNuLb9vH7JaPYekuXHAAx7l9Jr2_2tF1VJmDSYMGIgDfQFH3wQ5UuZ1702GRnDAK7HN_CZIIG5rHxbQFP2pe9KzmxewKonC1SunBZqxFX-z9uF3qs3hDyfyfShBc3ciZ-yx5WXLSbUecLq0BeA_sb5B2t4U6GCaZjfxavMJa3Mr01tRzVlTkD9URigey4ZjQZuKM1v6uaPbtw3RsZWtpc-BoMPNvfA7NPQ1ETH6SqoOEWZ-7BBT104hWseelEkzXfJ-SrfoYm9H0u-RAUIhxaki3TUZYRj9JegLFjQSKGAtdQToXgqomqw1YjbO7jrOK6WC3JSuwt4RjT8pnqO2jzSHwLdlHwdJ3N95h--_JtNNU-EIPdqbyBqB_WH9r1L2reT3-PRy6vVo6xJGR5J48n7i&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eTHQGS3jWrpaGGDyN-jeQRow_77uKPwZMDPV4H1piQy0oLsQ34l2kKhb29vfkDfloVPPo9exwjrkUzhtZRFSegoEOpGQJQoUZP48P4Jafrdf-yZJLtFS_Al5poQESwGonkEz93u1SbYsvPwa3Snk8ICN-tbXOA2GdAUxGo6GPCFpW2TkLWTX1hlYIMY-TKfgHeVlSNMvJESel_10gyVPY885ByFL2HqKoWTUFgOdEzxW6ovKjnxiEe7gyV-7W8IRmOWJXEwKnSpO9TucQUE_FrT35nGXuIeuWWC6yvKjz5GScvV6ey7PE_TWke5Ff3vRalQnFexB0hG9wgXryJOhjEHJa8ipK3IRB1m4_ZA3jNapqwXIEScPIqX5ewBaCQxhbgckM2kzZ4cSXohDjtwhosJyjgfeJRpmFkpnkPq9XwFv0&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cGLK3o35PxaPE0Y4Ku62ZarhgwEto8pJQa5_3kqKYqCjgNu9fKamoYGoySm46pZBVw8EdE5hGB3nHpwSF70e2REZ11D4P8m5aGI4lGkeaOhaVMXA95uQQGWzrz3gYiRQ1tKwwvoGjkYQc7iNpCEzHb-nh2J-axPcZ2UICWPlnjMYJs9AGWex0B4ARZCifYU8lBE5_D6qBR9X8QqNdiCdCEqLw6ZhoxpbYCQdCxirF-N7fXkJ-pCLhtGyIPl4s5fbzjCHU7ocfqV5giwvdGERoN1U6s5Qn_9qZiPFr_Maz0DnRiO8LuXwotTQSQeupIEtsbHZk_QWHhJXpMndyosbfRZ3eT6EbxRh9LSLxDk-lGOn_U_RpkwopGIgU1HtbZImk31DE4Snzw1x9249MGCXNER7iPPWbUxl2q51W7V1SEtCYEP8xdlNlNI8HJJV1T&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dmQWPc5iUHwackl74KkgT2T8ou8ES8GzgTy-YyklGN7BQPpXFxGzEPyFHuYt-6y5zW4uhWGgYPgWzH9OLJkIn02AajHF8cL8JGD5SYkZc9kMwjpVFzowiAO940fiVggTO3rM4YIYsaaC5YOQsNdGo4jPMVRcBvfVn_NIryUsUHq6oiL7kbGlANDRyg2QQvB865bqD4JOvA5UHwR7wAAoHCo_o02qeVcPrqeX5EuL1I6N9icQTYOs_JZilnm489AJ1yMOZLyonSzZggel7Uvrepz9RIvt6XJFdhPT2rdfpUm2k4oqs4_ZQC91YmXN6FHdWtexXIny2VsuCadq8nywbxFWfp8BoJXQWubCuiKoc1NX7X8fApq1QEhEh758ZXK96OHYK2LnlBWawi3tS2RAWfnpsj4aKYvrACoOQwIeyj_jxC&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eQCvmJpL1s1lE446UfEkyW_3rVJMZl41vfAUv5DJsuOI1t0Ti0FhtaDLv3gwoqnqNwj_a5BDBrFT18n3Y-7z6MNRe3lKA-E6gNLrZVx2pbnVnNbK4itFb_Vym6g1P9Yw5xBkKwEZvB3EkoBSvef9t7FoP_RjKQwcwOD7KEO75sEtF9vpXJXNgIn-I_K2ZJLJvoFjdn0JbnX0ynTwyN6kqQUKnkvVb3E024OVWBwBZxXdc8zPn26o38QEvszvAisghnYAL9av2_ROqTj6QQkXIhi8y_3tiABICjdUAQygd57DWO1cb_VogJDjijy9w5ESGNKIkeGpA888RAElNUst5w5VdO_gMEbFfJfFjpPUX7n8JSk3OPQ2Pz1VPd5COWJaVvPg6-JLpxJmuR75izqDENSau-PM70iAaS36ihALf0jQaQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dGxeMKJ9E_4X-nN82wluSARBEIbf2vHjzyARA2XeWYSYMWrow_g-0HT6aKdmmO6UAFZkU5JWRuqTh7JQFq2OjXU4c-Yp5JeASxGL28Wo4VoOwW5gmilExBBKRvgXzRSf0OQGjqmWewCa51qu8QZyu5-mVnW9j7TIRHRS2LnkfIVNCOqoCakQmTsG8Om3LIvO3f9Y8ivm0CnBlw_MlqWms-vXxH6EhJii6uWq2VK-iHNp9YV3czbAeHp8oh5qP8WYtrhpedGDPcOUW7IYBis1uEN8LqkZQoiaqzKJJb_V1RGyL3mZcEERVednlP1eNoP7uKCiKtdGPRhOhk5PceXX_BtciA6K-LXqsJ8yTfIA1Hmb1AfJUnP0BQp6FUCGVD9jIzEo7Q8xnBtsIoglbEBMkLHMR_ezTtqC_qkc-lKe8Z-j0&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dHQ7bD2RZc9EuWhvb8Kr9EfZOcC4fVfLNx8yzEs6xPw_gRjosapZ83NEqWQmYJotf-7hHgGlKYHIGG-N4BPxy87Xullh_fX2cwxn5VK9Vf6A2TURVUuX3YT9slj2HpQwAdPY_GCdr-c73fXGIf6u5pcAofsGylOX73lSSImpPJgTobAwq35xQPB1xdRWUzVMoq30t1lnI4tupu_eEnwcDihOrwJUjD6T2cPI46b24STA1f_tqzDV217ZwrclOrzn_MgXu_M93BG4z_WxlNL8qZI_ZaMaiyjhJEoDO-HiSrfbu4TDxoS9mJd3L4xq8CZNwTtJxUzxS_Q4aohQAgGEvGtQCxDQV4mPU_1tFyr8BZCyPUJ-RViGBvIUPz6W2HaRJ-ONRu9U14P9ZWlT8mbf8mn7oTXYXPne4OnCF5mXFG0o4tRgzfZrEyeIx1BUSN&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fk8IhdynAP0dsrrxgjSbIO7riaOdHDoBSQ7EUeYEX6PnWkCzRGhHaqceXeRr28ihN8F7uEl1B1id11cD3rd_bRTalLVi5K8sdDB_CCGgHRjf7Selr-0TvcCIF6cm39zjSXaGOXv6g52bSc1lZD0zQOEXWVK9xbyVcbJj9DYFZwyaqrIEDnJPrwCplLgBrpaR8V_K0BPjA1qIqo4mw5rvjeOA_g53tgfQgZrcDnuy-JjZQkbkYdPSZLs8yIhynHICa7F105FBRQ4CtgXJhVrcyD3OG8WlSh4n8xsBxOWofpHQyKHmAwiaZcixtVsWDZ1q9Le5kttb3sm9W5vSQ5aDtDRhUNQeDZ9nQE945D6f3maixWRv1CpxChSarx9WepD93D98S6TpC7eIP6GEoyw2xGkKu4SgxZlLskiQWG3Q6o30qy&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Purba Dutta",
+        "rating": 4,
+        "text": "Playa Waikiki is a well-known surf spot in Miraflores, located right below the Parque del Amor. It’s a favorite among beginner surfers thanks to its smaller, more manageable waves and the number of surf schools offering lessons and rentals right on the beach. The name gives it a fun, laid-back vibe, and the surf community here is welcoming.\n\nLike most of Lima’s beaches, it’s rocky rather than sandy, so it’s not ideal for lounging or swimming. Instead, the charm is in its surf culture and its accessibility—it’s one of the easiest beaches to reach from central Miraflores. The Malecón above gives beautiful views of the action below, and sunsets here are especially nice.\n\nPlaya Waikiki is best if you want to learn to surf, rent a board for a few hours, or simply watch the lively scene by the water.",
+        "time": "2 weeks ago"
+      },
+      {
+        "author": "Jamaiquino",
+        "rating": 5,
+        "text": "First time seeing a stone beach. Water is nice. I think this water is for experience swimmers because the rocks can be slippery.",
+        "time": "3 years ago"
+      },
+      {
+        "author": "Piotr Michalski",
+        "rating": 5,
+        "text": "A fantastic pebble beach (similar to the beaches of Batumi for example) with top-notch views of Lima's cliffs. Rich in wildlife. Great for the first contact with Lima and the Pacific Ocean. Once there you can't miss the peculiar sound when the waves backtrack.",
+        "time": "7 years ago"
+      },
+      {
+        "author": "Zachary Barnwell",
+        "rating": 4,
+        "text": "Very busy beach over the weekend. Lots of smooth rocks the size of a fist instead of sand.  Recommend water shoes. Waves are medium to large. Good waves for surfers since they break way out before the shore.",
+        "time": "a year ago"
+      },
+      {
+        "author": "L.K. Reyes",
+        "rating": 4,
+        "text": "Very nice relaxing beach!",
+        "time": "2 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Playa La Estrella",
+    "address": "Playa La Estrella, Miraflores, Peru",
+    "rating": 3.8,
+    "types": [
+      "establishment",
+      "natural_feature"
+    ],
+    "location": {
+      "lat": -12.1381462,
+      "lng": -77.0286497
+    },
+    "url": "https://maps.google.com/?cid=7371021587305194310",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dufSNE01VpWSjpT8_K0wjfc1eoJPuSjXZzjYOZNvAqo_BDZvknu2ZbUNSrtmVvjLPkgaUozum5wfYmvUKB6dmy635WpZBPyYsAFL0ZfhJ888m3b5dp6oKy19YUzien4FZfPAKQOhohMM3O5BRdEyVIo105He0L9Im20EQvDZVXrHu4UmSFF46Yz8-UU3MoP9IzPfqZEMZRc1Xd85x2PI3jlfNwZXU3aDkWr2mhXk8bRfZSyygZKKzBbZ9kynOL7ZhzMVzgK1S8mcgM9CymmuM4sdFXm9LEqgGzQpDX_uCRdnH8cUH5xpcvp_hs0xuusfUf5pRiEjOfzSGELh-mFdYNIxSQqxhFw7znbjRKyygsKGfzVb0xMQsvxNuD0ob-eq9gbSSD16_tLN8PhVkXAd-Vws5YvSGzjlnVtC6ClO_DwbDa1jtG6XcB1W4abECj&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d6ksFWft4obdfG3h3nFBU-0egjC4n-69y5Qj-brS8tNjjk18_rXPtCfZNp_alGf9DEXMRShrwczBlmSDCaJQGSrEtgs0hn56NXZNoC7RH1ku1MIlvS3YGsQIrLgbVN_GCMdem637H0olb6JVUkc46pffrEfmDaQNo-6QZW20LttLzbOZm0hS4XX5ySCkBHclXjQo0u8r5dZBIY8WCUR6QvzofCCP15TA9GXsa5gi5U3JOLV3nux-pduV8sA5aPX1_CCMn15Kk4Pth0iBhZ5hCXghRXhXy6ysKcxwozuqdIn8f2C5EDaXdupvXeb5T5AdnuNDYlRNnhZLRVbC06FksSr3elEtuCViMyFX0ZPoBHX2wyVZgK8AD6hFWdhqxVZFsfc_90tupDVEBJXU_-s4paNlfu772sGxUxw8wjAwKCI6g&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dmmNHQB17-qgHMRcGKOkmAdmOs4VN5jIhRPbXD0iFW13ArYkX3QlwS34QVjCJUTK0PnHLQucrwq4mBYWf5zEDW3cSnLw5iMrg84HSqE0Mjfq8_22g_uR3EpL4Q9nz8lnDZQdKRxJa9P-TVURG1DI-200hURUGzvaE07srGs0zZBsjmXUWccvvYYLhIkBvaYTi0vAizJAZ_06gLNb3BiLBsPPMvjUICY9Ob4EQueRrJ3edeMlpAYDWU89oTazrNT3wr2w_6bzTlxDOrXVhi06_flmKbnBdcagrlIKxOSyyuPb01_Tn942M6OGNVcOOBaIYinsM2q8BvkyIpTeForll12YMVwWf4XfBgS0WKNphVDT-GMSJCWUgRDNdhe1ch7lf8tRihzud0rG3kJuVl6GWpW-WkXnFuhH7g2m_h-0NnSg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2flojvQCmA7NEosxz4jQavvh65i1H2lACoLxc31yqpO4MXQAu-O4vALRlVC2OB679ki8GOkPD7DZ-EgK6QxtdUQuAu1Q8TpoP062Ag1SxtRCQCPWWUjrVHmugzfE8dhH1pi8PyWA_iJx-wT42QoLnCovGp_1f3_w-uhOeew0clC70DTkpjuZxSF4kYDc4S0quLLRLkrlGKFZIbEY_FQ241xXrF3qpv_uUCq9qG02xQE4UBRKdUBk-OLHZyRHqrPp8UEa3SWu1DyI8d7c5tAZfFRon28y_TkVevwGjT_vDp2_BuBWEzvAHR34lHLCaIGd6ZlO35GI-EPU2UVhMH5IC1z9paRBetJbi7p4PJ-NqRyL78GEUzscNLPLBldtGyjz0ESYtR7FkqLTo3wmSNSrBLflVwrWSjn_r6_0D4BusXVHA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dVEJSdFbmqRWUG5-kzyhJhWkUbwqSzSHGV6JnDS6qv8-9CG4kWZz-V94gDNRroMYLKeWCChkvvAkHOk_W1cCCmighd8bZC3ogE6bkExdDakm9pIcVpVMnjOF99Vit4hSSAhd1jNh_sQ0cb6T24yun1rEbE-yNX8cQHrv2gmKKXHqhIviboEaz0EKmbBEDWMwlrIn0_zGQq8QffBv1tuhbowRt4fTblXHs8K2xezNKgEVJpzQBMoKD1P3dKsikUUjfOdgqNh2s78NdkTyL7Ix40a_glqtki4acbXOUTXvlz4UxdUaz0dx0h9aqRE2-a1bYaS8GaRt2zVnrHUqqVFj0gphvO6muBiImNlwGQPTXlBd_5G5Eq51RDSA9taOqCRES8onmYWgjpVDLiVLvCrMfjhsYdhh8LhmdhTE7xsyQJFOTquE86H-7uai-kPQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fT6-qX8BUHysc1K48ktRwAh_65sHy2fzeQaRYgERZJ_f7EwlTQEKQNl0v5WbCl9C_pLjOIA4dnQgjW2lbpXSl04b5UN_wkC_PgZH9YaDQzYSRq965vcpqJYkSqrKg0O0XJEEfiwueoTDPxUxNal7ebfDkbdsNASIZ74XpH1EcbmwxdFZaFXGvVQzwzUEHD536DjCGVCcM5ppMQ481JfI0qpk3q8TBIpRHnKTy-jmeHFswyCSI4SLVUPWPRD0fBJ8-AhL0zU8-x3fF7UlDIrPjwlCAXaqBZzLTDS_w9UG44RXMjody4ygKiz4k5FHiEDhwaK3ZsbVL7HTEqJ5U3q-52F-GCjfReM8k9M-aF9m14vVDBjSr44j2CRWJf6cv2Erfu9364g5y93CBnQpawj0wkcCNv9rKTuKbjiWbTQC3FxnEM&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fg9hW1ec1Zr5L0PPEBmuMNu1TsDPwuFC1EHG2QRwQuKI765NN1hwHA5zGJyE3E3Jvt1hBSNOHEY46RfQDzUvwrP7NNbYOoNbgKqusHop42KPkNPrt06N5FcAke3S69Bu4S6ZIcQ2ENNwgXTDOOH17mWy_u1XnUagX3Ql3Znpg2dZ6rMzEq4PTAv2MWGZPKKzDEPixeEb0pX6jzyWQLobG-Pl0FDs2jyHFHjnla-C9H1wn8yLtN9yyYmmaJnNlJWBvU54BBokjk6raVOPT2k2ugK2ivkp_8SUNjMsiNIVlfVY7Y4a4x84L4h19CwgwYp7iANhtAOkrq1N69NPAToznm2gyL6nFUtMVaM6GQjiErGUz7FSOb1a3jqzg-ZCsmrIyAqGBqQGfmbFVSKwisevSjA3_GGcL_aYZ1mAbP1XqNYfnDZdzAvmcOIr-46uU7&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cjH7pERpKquq__ZN962HWYzpuCY40OnGZWIhXWtM7yhjPbX1BsJP5Isd4ddHjPqkZz4jAuX1eoQ2pT720Y70pPtSaYYDKM2n7q0wzLUsxo3l9lIpYl_nEhBwqEuHjg8hG8m-Ab_c7KDRmanGzdJIAEZngAVOje8W9ANNuXXdRUdte05K2nse6YaU3DYLVJE93fj38aIhzz2J2zS50R4zQXqnfUFSOhBJTZe01M-CCmUjjPFpn7yYB9gPCxDqSPAB-jvJPNA4lMTZjK-1uQTVvxIgYeF9-JXLdsM_LPbc8isfs_-2bq4Z-9GpRekMKzZ6ig_Vjygok9uEyJogxRe8xZgyLG1fLO3IdDVUXcV2bBYOartMljgPxI2c525KbwaQvMOistViyOUXCCWoSc1Qd9TLXz7oMJ9RIPJZZMEV55DWBJHSjDmwJK93TnOQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cSCIahSI3qI7CSP9YEDyG0aLFYH0rNfOCodRWdPhlkxg7N6J3dI2zY2VhiIHHrRmK51ZL_0e7KkeH8m0_Xn_QohSWE10KLe7_DJUXU4ERZs5krxQG57420MnMOz1Rw2rWBM_7Lfj56uKxiMGZ2WnkDXRrSwp84oAwEq_7ds_YqBPeUWB6vWQJvIYrXjSclZwwYAWaIbOUZDh3Csit4cYiA00uaj1R2yvckapn0RgsJkWNkvTJqZvO3VjUTeo1ZRZGseQPS1kxGZfGCHDBv17HVULsauUWthAXvlfSGUsafY63D-IkJpYpfB-hXkhE3qVd7UPfRP_wZ4HkCdc7Yo5l0XIpV6k5vMKqLKXU2k2YI2VMl9m0hB6X-7gaDrD7ouWrGnZP4nzEMqBJ_HcgweqnGBuygzoS9-YGkEdmz1CIs8qAG&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d7qqT4ZjzpNe1J0tiPjymxTOIneX9PVWLNd4jDJ7E18GkksKj2OpjicLwvvMY9YzUcMOJbtPzchalx_OTVOJ8PGg9sD4_awu3dyDvGTcroEZuD-odiKdBVfmSfyfiX1BsVYEBsM8fgavNscSmGukbYCqxmyIHOHEyckaocKAguAsaT5BuZKiHiG92OV6MlpbpeDJ0aVG2RcCzLpmTH31SpHJbFtPIUWEw6pNLVVMGHV0_mMXzTyK-MA1EurH6_BdI3Ln5nXeXkCdN0nEKUiQ0S2_RqAzFoaBiI5JMqF-xKBi8b748swncpSRiki_i75Gzcsp_5WdF4Z8bCB4X2Cu2_UCpLyPgkq06DNRt6AkS1fK7MrUrQ37HmEXIWsQndhdLPhSvuSMReF8Ej_hqRfQYdRghaaEVKax9FpwtPz7RwzUMg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Purba Dutta",
+        "rating": 4,
+        "text": "Playa La Estrella is one of the calmer beaches along the Costa Verde, located near the Bajada Balta in Miraflores. It has a quieter atmosphere compared to the busier surf beaches like Makaha or Redondo, making it a pleasant spot for a peaceful walk or to sit by the water. The rocky shore and moderate waves mean it’s not the best for swimming or lounging, but it’s perfect if you want to enjoy ocean views without heavy crowds.\n\nThe beach takes its name from the nearby Parque La Estrella above the cliffs, which offers a great view of the coastline. It’s also a nice place to catch the sunset or simply enjoy the sound of the waves.\n\nPlaya La Estrella is best for those seeking a low-key, scenic beach stop in Miraflores rather than an active surf scene.",
+        "time": "2 weeks ago"
+      },
+      {
+        "author": "Tony Mora",
+        "rating": 5,
+        "text": "Yes, it is a beautiful beach,  clear water & clean sand. The water is a little to cold for me, maybe in the summer time time is best for swimming. The view of the beach through the horizon is breathtaking, blue 💙 waters 💧and calm waves. The the local beach goers seems to have a great time. So far the view of beach is incredible, I want to jump to the beach waters but I better not, I better  play it in the save way. I had a great experience here, we will come back.  Thank you  to our body guard for taking us to this location, it is so beautiful,  we love 💘 it.  Sincerely,  TONY MORA 🙏.",
+        "time": "4 years ago"
+      },
+      {
+        "author": "Brian Baber",
+        "rating": 1,
+        "text": "Loud music playing from cars at all hours of the night to as early as 5:30 am. Where is the security?",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Erin McClarty",
+        "rating": 5,
+        "text": "Beautiful",
+        "time": "5 years ago"
+      },
+      {
+        "author": "Adrian Ortiz",
+        "rating": 2,
+        "text": "A medium-sized pebble beach with a steep drop-off along almost its entire short length. The waves are medium-sized, breaking almost on the shore, making swimming difficult. It's somewhat deserted, and its seawall needs work. The waters are somewhat greenish. There is a lifeguard station just below the Armendariz descent.",
+        "time": "3 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Playa Redondo I",
+    "address": "Playa Redondo I, Miraflores 15074, Peru",
+    "rating": 4.2,
+    "types": [
+      "establishment",
+      "natural_feature"
+    ],
+    "location": {
+      "lat": -12.1352144,
+      "lng": -77.0295493
+    },
+    "url": "https://maps.google.com/?cid=9097198152446688394",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c68jUzb0521FnIX1Obtk-LfghWtifR47hiPKi4G6ovR0tPfoDDvVR7HMloOBklEyhYkC4k1DGW_1LA5l73urncQFlPRZ82Z6mqXqluHTR-8cPUqyfpoMQA1dL1wq93nlbgHf1Wpa8tzuK00oTdPMADigKsFci_43SbBPIUi-ZEMcns91SrzP78f7EEtTHzDGlmpimSfR0KFD5u8Py8MBdsLROBnpd4MeKH02qF-E8k4AuMbD_cYd--nAJGccCMzwi8md0oBpbq1_7UgGC8ICIJrrXacA90Zu9MRCZxpDI3FuuzQw3n4au0ai2JsmMNyEIwQ2eEHAt5XMBNzg3TGHwCg0uLb1gXtw8Ciyme-u4HW68p9MaAQdRR3BB0c74h6QZhicE6WqaFeI8uB95l53c3F-Ym4_8tnT5K1lxmkzI&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d1zf-LN0yfqycyh2hHFK2ECAgWwMEd0UiAWsES5qayOF3t36YW4QZBkp92ouMJQrPz04VtQfLqNjWMwkuGKL8bXe2JZGo0BGuKZBWOBusy9VXgXoMj9ZU53iulyj4-5EJWLubrwpONgMucIp6Z9UHwjbMlKVBSR9SkIrMyW1ACE4-XEnCYnbOFRcEl3oDh-Av_i1rsGMeqBeZmbL0SxFKdISKmcQpN2UUnt5acDLOaDt3zHDlEXyVksJJN5Y1ts7VhDja_Msd8x_JZZeFSdgvPArSp8nj_SD3mVIUrDsE1MK0LFNEdToR857PxVcMCWdSO1MDLiW6EjUsgpK5OGuZ4JA73MZ5iI4T8kfkyLfu9fnwFDuFTJXpyOv0J-JpPhhWZ8fuJH3zMCrG3dH0FLynUHE6sRo2658RfrM5iibFl0T5-hVieXbztZuCHfFbt&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dYhWTMXMVO_4I1a3-2GoJMn47vDasjBQ6Dz-lcfJnpCW6nWsn4Obz2L4tLyU0gYj38pnyAvL-CAU_Tp_s20p2-w6dZM1Ig4dirHSSAPvOI40G0zm9iG-56scb6RJwLV9cHo7OvN299BWJsTd-MrNKcARSNiSSoJ2IA4KW81emauTBzY1ucuM76QOTE9JZWErDATu9IQspxxarnvvGIcRSw95lLQCmN0TDaT8-wrKrwsXd-INmNlSkIcrMGzOc7glRixerG3cs0CVHLN4NpfKcVQGVo9xwGZGMRXayHnXgrx2lUBPs-Jigk2eqDCnXRW9ERx6wpfHOGtcicI0Nz6TaTeKBC099wFT307fFLzTJSnHb65f6R02PAeD0DNJZYvL2x0SWZfcBSuB6Ad48BLCb4JHV3PuZLb1LeIecDpf452kGS&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d3WI0V-C0bIQdgqu0z8iUNnUXl5YsT4DLjNssTvcS-qMkWmEmgUCstaNdJHi8ZYGPeNP8K-dP8Duu05EaMuRk3jcGMo1f3tYog_XeaqODqSm7pk9ATM13kPZr_a568Jdo3hbDfaHVf8dbANztmNjI4fE1wrlFxLtHelmvC1FWohLeFZd9jZ1U5XRxKnq55uwmSDnLQvWyvcrTQUDcKtRhL9y5JMFnpGfIItlDR54t4D5T3C8wD3-XWeE_zXZomsspoInaIYmiOZIsev4RZfJb0QGKE74IWmX980AZbglvOQgja_UbnYn6eE2nEEhx9T48Ioi7gwx3FCUI6l4srPrNY9ZdPv0sQ8IbrcE1vs3j3BvncnlI9BvcZtL6OS6KZrqwiDxRySMpACvPSiYUYgFCvE5AUyvVAATCiBKmbk7Q&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fkAsqLfOP6SnOm67pbBwvAsaR30ewvsimbLt-L4FXBMCO9FwYsmEZwETstv2H5LJNHcKl7_ZYrlf-I00IgjdV42ijlicl44jTLBbSUkYIE8UkNGH5eoPg01bOqrpzNywMrf-Oprl6dG3Xzs7_b9YNa1r90uhbUzfV3iqfvE8ThJsfrDrvnIOS9SQbUf0yPDvd9nFt3ZwgrWUTQXroQ-dGz46dZjv5mTWj2tC_wVMhtFhdNrQ9ctmnMPN4GzVlJXbtev0EIyIMViCcCHFQAqj3eNobXxNCz4eBoIRdbMos-qqyunGR0YTg5ENhxMSo4-RYrkPo5WYFSDvOOZ0GVAlN-AajCgQoFq4h8DOMWIPCp6HwU9atW3cfoNYNkIxTm8dl09Gr8njtKIMNij7Z6UrdSYK7aUude0YQpAuoIPj8aaiCe&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fjFLzVX2x9CENMPVCCvBVI2uQMzq_v91ADLZrpHClo0RC429W-j_LtX8PMC8Adfh90Jy73Y7jiqBx_alIlRi_E5G-USQ1C3ptESWfLh9Wqbn7jNBZJ13BaLxZavPrkZ9_cz9kQlobcid16n2DsJnzHxi5cEeCCJi4K_ifbayfDiZQ0Zaduq-0pnV8iAv5srKJeFP7Fyk8BtcMxa0beYVL56fRyuUjrala7sQ7sqeF_jzh8jjpNjRn-0KJ92YaPvqbQM1nCCg9cVWqWab9aEFbwsvLyfFWmWcUBZw5vlg5LQg9PLuBrvxMNs9M-lA4UcxoQvV4eac7lyUJCTYKt-NM6KFjwp73LrZIkNwm0zYqKX0c2gD-Is32NFUjoTxVwr4ToIb6BGkMu4ukLAGDA8mtwY8JyOk5LbunJOg8Xe2LVvaHQfzf3JyDClMDxYg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eycVLBK8pSdP_zfTbahFRyyJ0XBfq9W_-1A7nixlHVOw0f2tD_3wQQmoCJI3uCdHsEufWZTKUy9J29iSNWLwNm83uuVjt7JZeH1rVVEooSZiOiPy2UCjjawoUGu5VyhCREqkKNztdz0cIswty51WirAc8YAw5nnZLCJGlDUkohrQkxVbrnyRefWRArGdW5YXHwdzkHULMkhg9tNzc-lXcxJoNGSHEhRPz5XigsB7w_oePeycLsicgXhDockoIsnk5uLToxkwpOYw41e-xzxCWuhd-kb5R_XVyFWCnqp16PyMtuS1_6DG1AfIT_MLnGu_JJATAWeZ75jrMYG4KfcigVRWFUDlyDxvHjGueRZDsho7FUCr3eUenr8ZjzJ-WPfCmiTr-vQJXXVQ3oD2RB7ZZJO7ACFy-K4XpFqnLVnZyBOxVeKPV7ESNyZGUIaNVP&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fDrUAJaHQy0zIRYaWWM714xKqdNkqNTrdxdCT8mAn9rCWW-ug9e_SYsXWdi9il4wb_2_rCAURBEzW48LOdHmHnPglIx4ciSyXvpOdtw0lQUMz3LBpsC7191LYnxpVR4XOuXPEGKVdSor5V430VHyY3RG1yjpvoRsv-YBCDvdiZmy5UuK6rA_URMbPGvwzRbT6P8vG1mnDyTkcOvUjgT9164CGndtF0BzTg-TkscVrw8Gtet8glqqbYdw3m6eOHwxiXiwnzQ0vcmrV2rPfs6qy8rYbAN_2LJMVg5sPyk_UAYpooKTTPbnp5yS6-rTRtQdukwbcIA-ljKys6hB0PuSOPS3r-_PSMuSv16RJKBPeYussmCZKsgJHQ_F5e00RSwYgQJjhUB7ji_KvxPa5yRIO-BOOYWlf30AOaP4nH7PPvdTYB&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cKsQnlSrlLlHNnS9HsIIPlaw2k9gQLCNFBy1cuZBNkDf3FeL2xTLO_10COdlm7kmdBpCun_2Y1EN6LYKSbxeFgF4kFC6kUMnRoFN3ynRUxGTc7gT1H2ov2tVkdf9AR_SyWo2Tax0E1mtfpIW8jFWxc5gxDvwrMDYIVUq-Zn6RprjGRjQ0o4KJZIkMBVxHLa10_K2iaJPuDx4VUGqKBOkhfPZolIgwaVI-2lVV-7afYw4gRR5gmfXrz4b9w2EYxM_D6kZNltZ_BTssvg8KOjW66AzEl-yaVvJA58ru5HOH8YHCKzZij5yW1_LjdW4kIO9TulH_x13TRtbQkJnGBI9JGvhA06BvENCplaHPO0mdDYM0zh9TgUqNRJAf7pk6d5UVKhKcsiZedt--Tx5dBWUm6cxOkf3h6ZuG8n4DOJNzUvirP&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fxtPFAqfMIOAA0Fd40Mzw2agnKsvorkl7MLPedWYyxAyA7dQ07c6OvGy8-zjGVbi1is3xQHeOZKmYzOP3HSFM4b7UCsXE4lGegT4pSMD1LxBXctke3HotHF4bg4hsOrKPNT5UKc07rCHO95Mqzsjtq7X-BXjG4-qy_HIbqYVveKTWEsW2fvT3jWmbLCNZ4SJkpgPynFGea7tDy6ao2-fcpKH_qNDNCbyHueNQnzxmE8p_oNCJmlJ_ORCnhAQZ_jicbgfOjNP_XnpFIMoe3TuziRxfgTUMcW1VqUgcoYtAtftMdXvWiP4_niWVuU-ooFZA7uUmrArgom3A4n62VdaT9xrTED2CUk_n1YpXhGTzLFw9-34hNEeOxHp4ntFMEBp7GvrK_JeUKbmkUWqd8InI1v5FLN470yYKFPrX-0DNbfQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Purba Dutta",
+        "rating": 4,
+        "text": "Playa Redondo I is a popular beach along the Costa Verde, especially loved by surfers for its strong and consistent waves. The conditions are better suited for intermediate and advanced surfers, as the waves can be powerful and challenging. Surf schools and rentals are available, but most of the action here is from more experienced riders.\n\nLike most of Lima’s beaches, Redondo I is rocky, so it’s not designed for lounging or swimming. Instead, it’s all about surf culture and ocean views. The Malecón above the cliffs provides excellent lookout points where you can watch surfers riding the waves, and the sunsets are spectacular.\n\nIf you’re a confident surfer or just want to enjoy Lima’s surf scene at its most energetic, Playa Redondo I is a great spot to visit.",
+        "time": "2 weeks ago"
+      },
+      {
+        "author": "Tasnia Hasan",
+        "rating": 5,
+        "text": "Very beautiful, and peaceful place where you can sit and lose track of time! The beach is well maintained, it's very clean. If you are visiting Lima, visiting this beach is highly recommended.",
+        "time": "a month ago"
+      },
+      {
+        "author": "Estefania Puño",
+        "rating": 4,
+        "text": "The beach has sand and stones. If you want to go in the sea, you have to wear aquashoes, or there's a man who brings you seawater in a large bucket and charges you S/. It also has medical stations and several security guards.",
+        "time": "8 months ago"
+      },
+      {
+        "author": "Adrian Ortiz",
+        "rating": 3,
+        "text": "The beach is improving its appearance. They've added sand and thatched umbrellas in one area. It's wide, with medium-sized pebbles and moderate waves. It has parking, a lifeguard station, a kiosk, soccer fields, and is good for walking. It's more crowded than its sister beach, Ronda, due to the sandy area. It's located below Larcomar.",
+        "time": "3 years ago"
+      },
+      {
+        "author": "Walter Fernandez",
+        "rating": 5,
+        "text": "It has a security post and you can leave your vehicle safely.",
+        "time": "3 months ago"
+      }
+    ]
+  },
+  {
+    "name": "La Pampilla",
+    "address": "La Pampilla, Miraflores, Peru",
+    "rating": 4.4,
+    "types": [
+      "establishment",
+      "natural_feature"
+    ],
+    "location": {
+      "lat": -12.1249854,
+      "lng": -77.0398501
+    },
+    "url": "https://maps.google.com/?cid=8153218887313046824",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cqA4ybG1CA20jj78mMRMpUFjLxa3TmpyXoLZ3tGqOXtZZfadzBPXdD_n-kcE2hVPKZTUh_kkLaKIawycEF6fRsGthdynSoTmS8xk1nJNohT7NPEYwWSUDFNWSXGziWJuZ2nt3s6cB1OT9PJOdwkpLWVovojvY4fNkwoxEcupRCmZkUBrs7geOw_eHPEDRp17jssgof6aK5ch3wSeOwsLZ5KFGwfSWJ27rzS74RDB1C83AE8QzeF8yCDsU4y3DeKISc5UTNa81UFgQ4xYpwO74mM8WMWH3opeRtPGnhXoQVHDBdHnHOjBugwdBd2vfTzLS1hBx_hFnFNcLirY0YUTgUDi7TpcwQRHTZbQ9_zG9WG2jvmlptn-X4lnki8BtH3XeCgME-fyW-o56I07I5pOkz3ozEF2LGYzhpzBz4VPR9UQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2efWXYl7XL9j2zVA7KoNfFtsziQPBAfUwjtTUVspwT2fiClziT4eBJPwfrPmXnXhae4zxrxzJzi_pJWs9J2nRBGjY18iR4AErjQDOCxFwwnxUJVHfiKXsHiQeU1nI28Jl_tymelVh7sq4jE_5GJ6r7sLoQhDOx3g_npS-VctUcVFT9YEGyp4R-aPqKfBpqX6lzPuCXLbABWcs1CwUzeSZQhmqSFQwxYcqsH_U084lPjShZnkkR5Wyc_Frlch9Er_0h1zSP8xpTmCBR5lEOOe9DR69WRmzLZWIrfwFr5wWgKreI-jSAQNo2vKpDlXTChk7ukLNxqXn3oSuP0UNoVves9-pNIHpYkw0sVA699mJ5oe9PQfXQoJ_kgQAlhWDM03avXkqGI6E3JMR8IWEMuazQGhRO9-sOQ_wCbBytZ2iUpYw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dihNT7hS5KGGFXMmRAOc-wURHokj-G493mXlXdGg9IZOifd8z5KGsa1SjXirZNOPQx2rikUy71u2olT8kn5TnoA27lYUDgqrmwuGgMWKbJVUc5sKYhQFKAmdkocvIb5D_hqvSysDDx5iWf-eGtLTz6n8IRXi-v3xj5fmqVRuqWc7tyanfxUs9sPhd-ymcqbsioibNcOA2Ma1ohLGk1lcaO3FtYN4SlzvYQzatP0NhVCB8kBwxDfphcnan7Ydpk2wVESOPThI8bB60iSq1M8Cn1jz_iVap7m2A-KwFCii0IHiRBxYxtpriQHgDrQ0NmUcfkXRDGUaoyzt5Uesp8banJcWOwPC-AJiczwv7Em0qKLtzmdqW_QP1cCb-O1q-oFJiS-O-jpPDqHbS9BpnHjhignqnl05VbCGQaMpBJUZCtJOZ_&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cejlcY9S-OW1P-YlInbIYetNUiDaKHH1eCW68DHOvc31HTNUTdoY2V-fN-l8ukk-hiEakolf7oCrU1EW0hRMbZwo-ONV88JznCe65qy5wZ3AUXKJKeNHuZALXaV7IdozIZjFn72FHuycv1pYq7vRgpakO76HiQJxjYaErXvlR1zmKcweHKNgPjkVYJNX-9LhThDkkM8ARSMBhz6sVq8GaZyzdMV4VJn0LVmSmxmTaJrnWTDEEMd7yhPzzLNqSTCDDO3iHrnI-XqUT4XMsq-RGJhe9ZDvlxTcu-okACE0pF6tbHo8oVqUtO0y7UZ5w76sYQt_K8ZOrNHPHngernDeYx_oBbElNnanwGp-B616tjm5K4vZMbr_KCpqN5A2SqAYVIKiLRI2Kw8JCGtrAX1TumICaMarvuc1zmxbXDDXMKGSXp&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fxaxOf-Eylp1GPb7YmJvB7NZEq2Gb322-G-V7CdbP6BuXOV0Iu6DOPss6NPJS-5ZEBm4ooIjvcXQmqgW2lczg2jmWJdlON1BaFX4KL03bNQ7_sgWdf6U7Y1f_iRxL29sPb4hIzNxkKkhAEr4S3Fy08vyfoRn8Cu23UAmnfDHlvcoMz35rtAdsT288FK8u2qv2Depd4TAEefBE8NyiuHToynjDTOTrN1L3OmUVZ2ndgUbiy_N4EgViUrKYKEKf8um_BFQA8RtxLT_7b9FssHj7_YDyF1h96j9TeLVAs3PocpOlRlRMWwmKV88deYbpG1YTTXMVNBZVg4OgF6C3ivlJEylqKx_wv2sjDnrr2zN1vKZqJE-JYuCGWKS5xVi8pKYSKOSIni9LrGQlwcNDz6KkwoG07tr0SbsZhbw4ersANeG7W&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f2vbuzdOQCv7g6C3dmSFI2EMAmAeGg4DBpdKxi0spiRlW5CHp1h_2w3-yguw3-7-7wPY7mUSFtnupH5_IoX7SuVkchkQnJkD5I3TReTMwVAW_d4Lbg9foPLtAbFiY82-5IT1fQtuH7IyQagIKNYNLsCbTBky52xzZ2P6G_s0z2yTB3k-PkOeQcN73kQdshTiLznRXKWM3KEJiuRha3EhmFg00AHhG3BVIpIxkf3Jh_EP0VjoYgrtdzok9-oBFS6dhPeaLcUBnrBb8YALLeB9t1sqEV8fLZbUdmo8-hE6DoVX2M3FAW6zkaMRVTTuLUOmpdBq3m8TQ7qrKa7-Pm9cHa3X0GKWSIfIDe-Sn9zAmDyrwzQg0X0afsZYu33jvKR641fMNogREWZIW_SDg9HxbR80vvH_HH9ke823mgfwQT3MgsEEjli2zECsSgSOUd&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eU6eRYK3cTXJoKXcVUmlfk3zm9Nb7vxRf27y5kuonJyAuk0YlK6oWDXOcozS41zxIAZJWa-JDnsbsFQCQ97LpW3KBXmiQiG_xDwuxr3-Axk4XVNx8fDpwER9OgtiNMup6u-aOlUXxUGhDCK19R3mqNGNVrxIazj_U7VNytO2Rrk32WVsqvYDr-_omDBZjEjZ2lA9Zr1V_VFHGV3MUgfgi1dDy2vJ0vRqBacbk1XWawa2AFjKVHr_p2MD6bjyAd-w9x8MbzzJP74QHZocbtxwiTCsEXFUSmd3-JD6o5xcN7bcPaIJOytPHQBBSla7L13iI9iYCd-QMnPzWOgBPpgQTs8e3M7aHtlobYuz8lCvcm_1Y3GU4qtuGh0Zray8jA6UhHi6AI-wrQql6Jt3NoGTr2gOJghl11BAYCfpI1c68&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fXyWJOterrfDx3A9ztTN9XgUM79_Rj0o2yI-WRUajERHUB8oUIqeOo_QPwhBYqXx_GE5j3yuyvioUaXHo5r_GA_lRRuH_CiCOsPfXOvFuFZYeyVZckVrkz_heRuNU9DsEdgC3gvwPc_wUV99enwG2UY9K52OsIrLo6Xytvmp3tqCEWPg04KaF0h45cY2vzp4lBRHvWvQSADugEmJ5m_o9R7xOiBhbt1iICcEVdWVZFKAj1m1qHhf3dDnPUK6LNGYtPH97XEKjAjz2hZEajhDXDhocB630eNi1IgZb9wNaMIYO594raLE8TpaEF9BG56P1LG3Sl2iJwk0t6QxyzZ41h2lTllZRAPARtb_Bk4hjrDoCh-WRTxTjMbd1F8xRmZ2s_zfuAoJxjNaGDStWx7SjqAbaEk9PqgMHdsyqMpCYIbCqR&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c2InBPuafRU63DtMDpx6dZ4dGcaxiih-oZl9VGOdDdw3Xrq2_1A8LY_i07bdWUk4tLIj_fNnOLG9fHDcSt2f6Dv_BO6Q7jYt6rmb4CnjwDIN6Ub8Hqi4y099KAUq_LqS8Nxg5d7vLYTPKBTjL23i4AKqSRp8X3255V-3UZ0q4tjVX-ufqYzDaYMCyfQHaeLvwpVDo9xKB1vXZTOTWN2U8W1EPntWEYqHzQMEf6OegC-zCm_cLBacreGrNcMBM4yHsv-BeB1dfB8EU5Cg3NIDDuzr7cpf3imUJ04rP80DeijfgTzFuHp_YEZz3nMLrOK-kGZ4ZF8JRKeuTMb6ayNeKjEQO11SfJrRLhdhuOPHs3vhoytMgoRxd59s9kS09B_6zKwOgALGj-G2-3WMx0gY4hnc3TE2oUnL0RSpMaxShD6F_cWgcFbl9nqpcGyw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2du7zZSmzzjSDnDBIQBtJV3qGgt58pAbF7SHAR88btf-gsq_5yxRBCRlRKMVXaswaIMeadq-GoT-b0m6Qnw37eQMrZCNEV8QiX2eroK9ZnPMrxbDauQuQWwwg8aImZruE6bMQ8AKYGErsdxiPlTYbwlLwAB-qN1bwgYv2XLgkw_nXHVz7xrJCcZbHK8OcLuIYbWh_YyEY-DgaX6xJCUBHHs72nLJLaABPpzPs_sZ7uZviXN7qPjkusR1Y7Kjs3_CNYt2OkQPGeLNkMXJi4YnQasn99TAstHXW1s99bXbH_rpCAVQXW7y1ePfWTXNuIhHP1bJ8ejhf27fO0D_DPbnRj4txNAfFJKiA3rbgaEhJbvaIdsjfV04c7wxpCIx2_bEejG1nRwW5ckCjCsKdGOHuME5YSs7qxJtSFCckhLbLH2_557&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Purba Dutta",
+        "rating": 4,
+        "text": "Playa La Pampilla is one of the top surfing beaches in Lima, especially for beginners and intermediate surfers. The waves are more manageable compared to Punta Roquitas, and there are plenty of surf schools and board rentals available right at the shore. The surf community here is friendly, and you’ll often see people taking lessons or practicing in groups.\n\nThe beach itself is rocky, not sandy, so it’s not the best for lounging or swimming. Still, the energy from the surfers and the beautiful views of the Pacific make it worth a visit. It’s located conveniently below Miraflores, and the Malecón above offers excellent vantage points to watch the surfers or enjoy a sunset walk.\n\nOverall, Playa La Pampilla is ideal if you want to try surfing in Lima or simply soak in the vibrant surf culture.",
+        "time": "2 weeks ago"
+      },
+      {
+        "author": "Dale Plotzki",
+        "rating": 5,
+        "text": "#LocalGuidesSurf\nArguably the Costa Verdes best ride, and one of those rare rights in Peru. From the peak, you can ride a perfect head-high wave to the beach. A good 25 second ride. But the spot is very picky; too much tide and the wave flattens out; too much size and the current pulls you out of position. Works best all the way up to 2m on a low to mid tide.",
+        "time": "6 years ago"
+      },
+      {
+        "author": "Ole Leon",
+        "rating": 4,
+        "text": "When we arrived, the sun wasn't very bright and it was cloudy, chilly, and breezy. Then the sun began to come out, and the area became more enjoyable. Many parts of the entire coastal path aren't maintained and are somewhat neglected—the benches, the lanterns, even the bicycle and pedestrian bridge. Keeping these details in mind, it's still beautiful to walk near the beach.",
+        "time": "4 years ago"
+      },
+      {
+        "author": "Diana Lewis",
+        "rating": 4,
+        "text": "Beach with small stones, you can rest peacefully, few people. Waves a little strong, wear shoes because it is a little painful to walk on the pebbles",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Adrian Ortiz",
+        "rating": 3,
+        "text": "A beach with small stones in the north and large ones in the south. You can even lay out your towel or swim in the pool. It has medium to large waves with strong retreat. There are lifeguards, and swimming is a bit rough. There are surfers in the background. Cars park along the waterfront.",
+        "time": "3 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Playa Makaha",
+    "address": "Playa Makaha, Miraflores, Peru",
+    "rating": 4.4,
+    "types": [
+      "establishment",
+      "natural_feature"
+    ],
+    "location": {
+      "lat": -12.1296266,
+      "lng": -77.0362517
+    },
+    "url": "https://maps.google.com/?cid=3145102849864420646",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fMK7rBvP3JbfwsCSujxXe3vypP-fSP0zPu2mdUK0OveNtWEUtifOJkDlG5DIz47fKX_rWIG4Q_kStqZSVIghsOUOYhlM-IvQL22TLYwwWZ3RNrJlcl1zyG_yBtr-VcInhbBMR_1eeSonJXMJGMMRQxvlQ18p2EvG4i-Ws11RMht_2myPf7FfjwCkmD9n5weIjjHx1lbZfMoaxDqlw5NjJDwA3XikCpz94D6zXqJpPW4XSJbwgW0xWFsspioeJ9hmPY5tbGUZyZ5xg3IJSBA_ZKMZlgXhDLTmk9jyTkMBKlaxE95hiT07r54u--w8PwD8WX4WPlOstgi9mva8xXDmm2yD4_QKingB-_vyKJHwrdyt3e9Ko7ZZ76AwPxq2Esb7YiSfygYPlKzT5GZqijv_8Ln167k_765p48SObShKetAA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eTET-md51rLl4C-iqfW75KH5rwVQ5kJpewM9pnSxbFkuE53UwqaIVrODfFqiOxZRyeaeZTVGI4aRJ9Ue-DJu2JtqKLazq69vzlcIsPxONfaHs6apg1PzdOM2oJR8M2DOiAftVvxaijydgfpcvxBVo1oR_l-T0C1zM21Y-PRCW6rNHQjHHUbZqEuKJ2KK_pNhKmiHR_KHidE5w4Z3B5cBYWI8VzKIIi42nN2aIc886oyX6SR3hj5Qqu9K6MVXHajmGI_rysSgYVbKmAWAnAqYPlF7EIftHQRqhiC_WiGwFMdFh3T7H9qltTFppKBTLOQGGKNZj4nHr-4i5HFgJa-ZBD3ZBd1oeh0_DiKvTDegJ8_c9LwW72OtR-VIc4BKRGESzVaADCPHtBjjSOCrQNakjmtU45JPJ2vYqFRsnACvtkZg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dUl_TJnVub3n2oid7lNgBW224hELOZy9qHUvmtxI-zIdgKVW8I_GUHD72gYyZvDYiXVt-NMCFd7p7uGkXU7zTRUjXutdfGxt-C2eV029DvupJp8vPsUSEcmGNODRl-FLtuDVK5acMWFGyYoGpqfxJy12WeuWKPWYKkjp_-BdrofWkVsihM6-yQc6CUURJ7yWmx_5AFKZF89NdedvekY-zZMoJCCtrw524bzmoh71Zv9xTJAr7Cmr2jgmG4XVP9RxunKEp6gh_gHomPGKI8OVSJmIF-flLjAdgpRqigyXi5Qg7yoBk0lNAiNnfEcC6zC43DzUy1tlUPRlot-5i14DtguhIRLU-ksp_xauPhyEqwwE-iqKQ-ovvqtdRehOLhxSXupKYxY6R4pA5_YuZKROmDBhU57Jf38zxWCzIZLhg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fDnp2Tqh9XMoqBHaeiCh-2yuZ7VOeSerKAB_BWBgPtwM9o5g-fgHRFpOzezcGL4J0zY45sCoGHJcV3LFAnSy2M2P8uUaDWRw1bIDuTxKtfthiuERL0ThRXyeXKeaOWoW_cpiiTXV7UKMKs6r3swhlwPe7VUispuYeuVP5Ei0vthWFJYBZGSsOLEv-RCCLti0UjmuY7gHm51-lQWj9jsZ4wntHCBS1dMw8OAbq_YJZidLj8LGgLhE4wU3Ai8fqcV_zMAR5b9THHHxj8QoFGU0ryimVwNIkGh38JhuuIo-Pv4LK2U5vEgOO8adaZ0O4Tb1t8ejn4HY4bR5Z3rmVjQvHYeJtpSVGqKJOFwnQH0zfo1MYVpAwu3T2tLD14u8IMrgqGB2zuZ313--jPmjfK3H4TnvG-8aW5eU2z9v4wVwrqmdS1kMoqOa8bHGs2GSoo&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dJ0N6iMNB_nMx_K8Ybo1Q_jz1LkBBRzvTVJqzliSL-Y8t56iibbbXjbcf_1GB5i_1ePUwn9n8eJIxL6KrptpP3djRHtcDP_eccUCcqOBO_xD0sv6FBJGyR1MRhuLmazksvTOj8EEbqT59szzVVpgue09KfhhCgJNxIgRWriGBiB9ZCvpOA6b2-5bIMQNnqIUUkdtMdDnbHHg4SQx81bavLuvAPS3Z2-8rWq5JgeuktOPPbnz4ptWbdkb7VGlS9khrxd7dJGvdJ99czsbMY-kwypX7zGmgNgosXvWGV6SvqMnH-_g7S3gM5jiKCWYI_n0MJAhG75ROacLCDw9pOOY7j2WJ9e3Hjz2H-h7u_N87nX4eLtoQdNiWmdb58Ue-b9zjSzwpzjkjR7Oh-m3_p7N7AhMd2Z1Q2CLPMucp_tsZETQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dQCO7-V6aUyohIwr6-_qflKDPjFKDMZqtGxWMKktP4pmzJdBLVH1WI29Gc0dQHNuMaYER0T1Q9vHCzRhGjpGyb8h9wBd-seGO6oqZdfgMx-hwA9IUbQhR_a5bu38fhXGmF142_62XELJihULgwbh_-V2T8vODfhyGZjyF4cBfT2lAJ3GqZPq6ypUOalBkPNXjACQw3WuW5JnujuFHgPWakLw-6QBx024cZ3A_sGny0Iwu5xLKNE0WekynBI00nNNeYtiPHSE-IgT7_-JQuZ28g5iZPuNT4bY_t2GvaldUEg3OW4dSkEI7bcdicXuXYUGd3SV1DkNzVBlCvXXEXY3Dyjq67uHAy42Ojzvxye75GIA6N64lZ3JD6addvFD_h0ImamZu50HYhPl42sf773wxW9dq9997Fi5a0BNtRI0TvPq19&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dwzMaSnUg-BjksVWZsK4iqGzX7f5ydHXovp1WoGBZhGjIv23ltLlt12J9ZNIb69-YLWtn-KVLwGIrGmz7aXOM89TC5hpz8azQBUVdoaBgoa9fxYmZw4MP1NpA35kWFsf_TFT-31LlrBkxp-Jvyti50QhYsuZOIc9FuCFsWVVftl8Ashu3WfWlL2OIDK2f4WdhItQ0tgsjXLUrcXbRFSE-DYsIqrbQdSXVFElatRCnT3s4ASbRTxTr0O4svB7LZM_agnxSd92NNoFk6lrLWRLFndwzloKFXmdgrB5gsLzPxb4Wgk1sTdcIXEWV23FDe4c0PxAeTl-qLEwxfCCDdRFp2gBl_8SYIxkd62EOf-OFdhPQBM0unFuRlCk6jce_CqQQpaUGTORo-oVczisTAmlOVy7-2KrOVKdCxjz91eOuKamE&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dA6J50SFhL8loe3QTdPgDQBZwBxcF8Om99E_bnYgoCyjru0ADOwR19T47jmslyRiV-FUu0-G62wQdw1PnmiXE0PHOChp4OGcs90g0kdBMeh3cCUmdYp4RfSFHW3bRBl4og4SyGZkxg49difhxgWssDW8hU7YsbskuCov2oIHq7PNe8cLc__Gvn6Jsr_zGulkrP8rmkvQVOWFEPBYjsKpiAkzvAmmITVn_Uy4WSb6z7OLvOPI2u1hZb1E5P9zdjUn_OAebpIXeAIcjZ9hodOzQVZdvkKskv5ypniVIlqZe3yHNgPzv016Ahmhd2sWUsNxoBiY2KYL2Jsj7L8Xlt_LwSbEtM7ky_MjLvbloAP4jYqDVRIKvLiHjM_pvUHrxNCc4GXtRveTepEjQyA3XQbTSOJ224IQHa_5wtIdAIS2D9Zhmo&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fZYvy5bPJ4QAy2iQCjv3xAyVLGCpTqP49ih6t2sxCG_x2eKp04l5iebJgl5NBEE_oXJyLnMSc2jYJAG8fAPJq06iUHmXy-XANFxMoEqrWA9Qs9MGrThngMuMp1HA4gfw6emIY4EChu0rpFtuGLoSXiuLQvKISOr_x6CpgfwcKnNDfrpbPVKDeWn_dA4AJlAvK56ruDj7akVe5nKS-h_7uV82uAHUh6AEU8O63aLXWg4Fk355-gRi4txzQczrg-NCk5ae6XSQSILA0RBhJfZWOyAnb5L_vJUFuMt-c-y0UCYXz7E0ucTVLafBbQxOHadaTdDbA3gpWttkD_P8l5uri19wlE_yaIALnNglnoTlTPMZKFvLC4Ajx0TS6rcRQko6Q1yag7klYvxIkCE4GrBisrkHh-fyUO6hDjP-JwXdj7gQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eRAwBDRuY9iwGFY7U4goncdg1qbzqjCUA087yPlGHtw_3AvNVq4Xsbra9RB4lISnweejjsz4W8ZJZ9RaPCUYdt3O5z_FYJXTjp0DN55MKRDMW4-17LiacxZ3TEq9zkWom5Ao55gv6NvA5WUVXu3viPxYGFsxzW_Q8sM0BUfPIsojugzjOY0farWRi7If3IYNAxKW-6OVA2SyfS5hpzycocahMqaLDb_6tfX0Ngz-UiTfivw8UcFLxeUFVZ4fXu95hsBsN4WykPlSzG_mmL1IGZiaknqn92zUilxPaGgthkkerAhOgYWyf7YAK0Xv7uyL1r2YGZI_7FhFD4ERg4tH0bK4c_RkE8FOj5NsmdBVy34Jzt8GAilSRJlESDbjnnbGh-AB3b8j9sxm9o7nSYq87tCQY64dR0uE7Bi0O10i2HeA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Purba Dutta",
+        "rating": 4,
+        "text": "Playa Makaha is one of the most iconic surfing beaches in Lima and a must-visit for anyone wanting to catch waves along the Costa Verde. Known for its consistent surf, it attracts both beginners and seasoned surfers. Several surf schools and board rental shops operate right at the beach, making it one of the easiest spots to learn or practice.\n\nThe beach is rocky, like most in Lima, so it’s not ideal for sunbathing, but the lively surf culture more than makes up for it. The view of the cliffs and the Malecón above adds to the atmosphere, and it’s also a great place to simply watch surfers in action if you’re not hitting the water yourself.\n\nOverall, Playa Makaha is best for surfing and soaking up Lima’s coastal energy—one of the top choices for water sports in Miraflores.",
+        "time": "2 weeks ago"
+      },
+      {
+        "author": "Young Cho",
+        "rating": 5,
+        "text": "I took a surf lesson for the fist time. They provided me a wetsuit, shoes and a surf board. It was twenty minutes of basic skills on site and then one hour in water. The temperature was 18'C and the water was a little bit cold. It was definitely fun.",
+        "time": "2 months ago"
+      },
+      {
+        "author": "Eran Rubman",
+        "rating": 4,
+        "text": "Nice surfing beach, but there are sea urchins. Make sure you wear water shoes and try not to step on the rocks.",
+        "time": "2 weeks ago"
+      },
+      {
+        "author": "Sam",
+        "rating": 4,
+        "text": "Great for beginner surfers. The beach is all rocks, not sand, so wear sandals. The locals are nice, ans surf lessons are reasonably priced. My girlfriend amd I went surfing for the first time and we both got up on the surfboard. She didn't even know how to swim. There's ussually a few locals with GoPros who will sell you pictures and videos of you surfing. Great experience!",
+        "time": "4 years ago"
+      },
+      {
+        "author": "G. A.",
+        "rating": 4,
+        "text": "Playa Makaha or Macaca hmmm. Nice from afar but once up close the beach smells weird and the muscles are spoiling on the rocks and flys everywhere. If you don't mind this then it's ok.",
+        "time": "2 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Mirador de la Playa Redondo",
+    "address": "Circuito de Playas 3773, Miraflores 15074, Peru",
+    "rating": 4.6,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1335131,
+      "lng": -77.03101749999999
+    },
+    "url": "https://maps.google.com/?cid=10244902045398978772",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eqR0LF5JjTtQTGB6la7ew98qPDVuNCnc3KeGnIgEWtrrobmPum1DnC2SvIZEZQ_DKAQVKZTuqDt8T5Vca8ygY-XoNQkO6NQ0CWe1-u62gNhYdhcscAt072Mtmw6iIaOF-Bmv9dCVOoVHEAtZDxwW2zCDcGqD3fCxsUx6hxYIFBtKC9CYu5Wn8Fw9y2ofdCfQJx-Tv24I_wraublLEVGSCXipowqGsfZ-6FecjhDDrzwFr02srK3URtTdHLVdfP0O-vT6hXS6uJIhEP-4TRuNcidZljqYbrOMVGDNHUHUTCkdinZB6mcVkVD5oZsLLd7jEJAoOGvmKraIN2ce_9EWsNJMqRxe7I7VOqs6WQ7kW-u_N98u3Cs3mxMlKqzchpCEP6n0fnnkhD74_SLZiA27COkZwq_Ha_9mzA79pg2Ag&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ff-kaE2xQW2HWGVh3o_K4dk9_Vjo2vbMgtmqTUDAQOVH7vrRBz18bQJd1D29ns-SuwywNHaBJ886qeYr1KHrQti3Jt3OYCVJ8b8aKZ4XsmHDqNg3zrFF2c3jxj1RdVJD7fZTdjPyjrT3ZIFjUet9BsTujvA3_kabpC6roYqs19w5xMDa2V_EMmlJY1R062j3m_L7YHTC0lxgkQhI-0gIrdTxsdF40b0yID8JvxQIVzlkGYm_RZs4NICYzmygUyUa6iXQ_1pECORU-z2VYxR3hQcm5-wMvt5Eqxs4j7InY0R1MqZsbnv_9CC35oiCHzMbaeVi-3pfTXCEJ4HYP6DpiZwCJhb_43v2KtLqFJ0CYwF3LXo2HeL5f7KGf9YwZu2i28iiqOqgJRT0VoiP4hR52g5lis2dPA6umddrPoZuMm3Ot-&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cBfXEfWZeMKv_HKaNymaxaV-Ni9m6BfMCDxs2F03V3Mj9PG8I_m61Hj9lJ-C38rpBPy5Q3181wARUelRQc8rS_jYzCUtBthYuq1qSrxCmeEBgLFwB03n783FM4m8ILB6ZAFstF-R-1j36gdUtqLTMD-v_GOxziGb5MEafaR7_1wYfhRDhDBqRchkwuce_n8SAdz5v10dm57R9PcuAHIKk0glnGbL7mfz-7B6RXcaL87wMPCQuqclfOcmmYNFApSETJibUpfeBMulv5oAWOaFKyKPrxmt3xVmBgideKHTD2RZj2jCmnUekqM-0OB07KPak1o0RwRk5wC42CTb5Xh_zDOvpympfCaL5LYqAMedSDg_UfL5mRaLMtmbxL4jeWK2z1lEl_OFOPdoR1DrNoy0uV6jMPqbF5We3rW6gu2C1gtLs&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c-7V78Zf9wmPTOXkg1dflWNtAxyspUJpa8a2LqrrzyU8Ixo8moDEy7Hj7tKlngZhI7dFtxeK7QKZM-TyxVTXt_wZaBRVweuKPmxBDOgqJ4EcXhlb6p29pr4Bh91PtMSzLmT_hBf6VmRFBKM5Fv1Dh4dE3lPkhKimnwoZct2XRG-7N7Z2VgAtacgA9Ez8nJEeHgchZH0kAbORi2YU-CoTTZjBRy0liV-bbfEecMaBvllYw2WUzwjYoxm_5BNsrSuFJiL7f8b9iPPEW8GFfG2Sp5bBnHBpa8vMdUjrYWML_FBUVLDjDevpYLNS9_XfcUOA9X62mksusywROPtj5WuO1bwSL9BWzbfvUj-wiFKiCLKUCRnpUzzuALlT5Wrr8Zr7RQ-7z0Sk2now6BBr8V090NHpIS8cmSVZb7u5RvMe32oPF0&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dJHnGNLKYPdiQYdMjGeeTi25PY_aKMIDnutbMe2uMQyZppO7KutMEy_o9BJO6cfR_q0d9NqTDkqa9oiW7Lm89uYY43Q2qo0DIEU4gTPYfUh4w8o8itlJs1DNQb7iTwf_48Dfg6hoR8VibagHfRJplfjspeia4JtmmyaRxk-X0H4SkdAC8vWecMlWdmiQrswJFH_lkaq6ZMZhrH4rVrx5uZGfI4wLGGDBextGy5OzYwWoez2W1O7IMiY4oEGi1gIRsDEdD1TONqmsOciR42yK3wbQgjQ3STqBVusUJov_Lk9MIOU6rb2qxU104Bb-7m7RmcdDTMxJlANTpvn9-nL1VVCraFUJS_4uS-aR8vwiVQv0QuwS8_c0oS9KJjAhCyF_A9lhyetFKTV2c_M-pMl38-J4j6ijpLLBhUx4yKwpAlnPxk&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cwpwnvr7KBxXAI9DDHZfbpQ3zX3Wm1Ajgs5f8zSawkoHo7mSRSVB7JiRVc73YlmHw4OklR3LVSCjy5E5PsqIzifxGUiRrlE3J5ZS234fMm7_cn7rGfNQYdLhfpc_XaqTdAGjrFxn2F7Ag0oNd6BJ2VWLDD1biYk3ivbiwF7_25hNAO4Qr6PtE9iSUMkNbqjnVsKXcld1DX2MeiPAM5diPVxdUDvGjWgNuXNGcg1U-9oMrFqUuw9tmvCB7bhDA-NcZJV8OvmfUibXtWnVy11SDONeaZB8AXGxFY4Dv1u9XdVno1xgUgupqcTFgVwQgy-M2a3pBUS8IISC6SOuH8WHdnFXTSBlhd-OantSUNwGKuc_YsdjXe7mgQZQitIsCix9nPi9-LDOHPtIt1rbcwKkh5sV4Y2DWMtSOVvVOhanylz3Xi&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fO_Xxj0vfQfn9nOVcP2uqmC6MjFkxrzsPNqIMqkfXA6CFfrdLb0AY_4ysix6FuqZwx70uss7pFMBdjLhKLmVOkIHyJciK_C7JNDv2-mCB40ow0bgA5GQFPqW1mwmrnWLjwX8eA-a1yM1tp_aIWPF36ExjkcRtShBPDBUlLloNt3FpzVninJq_SqTgTRq6TQbWI_hKnUPRhnPrtEB53XZWloya7HJFg9HuMUxWb64jyPlbHRNlt0HhOT07_q2W53TvEYdGVa8URJOgF4dTLtWIKlxohVM8IzuHHT-wChH-w72dzuqzRc6rg3vOj-5KPtCDocW6_zCvkkj1kBuo5PSCmrP6WpJ938AOltnM0rYZ6ZrO8jQWRxOQuBGhMQSFCtHtIC-fP18jMSXSdUHpkqqclPSKnvkIQ-QfYlaJJIyqnHQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c-_B8isu7D0RV76_gxdsCqbpZlmdq7BvuU4gDUSpL7kjWYdPN4w3LIG_oF-FZeI_dSHarug7gRl3LuEE05OIkfQWQPfs0gAGHKRLxIpD2BTkvK4oOinneFgbVP3vKiCFEVOlu-GMzemms4wuZ6wPM8s4rjYgNORlMUB0PV8ClUugiYDJ4eCekFJe1IEKlMXW5Tev9716gUYPiOxxGx9mt2acmRSNVyEEIgfqwsnWHcEXG37dSBSq7ox1UkSQQ53IcPzIcfxwxUmm9segiJAKM3Ey80T8TMnwWj93t9dDMTLxgAOhcpz6VctUP5JDeYHlDKiHpQWi_Wc-40SZLXj3z8oFro3OKZoKhgdNatGXBxfWs_fPLE82gR15-o0cThtf1PQQGCFhSyneyJEK3r-UXxOVa0yoSqVOvjvRa4Yr27Fmrx&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fvQPkxX44Q-471zyOmHfzKJOSs3LIBtfPdF0c9IS_gXXFRXRw9ack35mnBxIi8BVfJgQiDoMQozphTBSUn_DVHC2NzWlkVMVJqIycj1-tHSXvFTMYB2IzyGiq_Onp_c7MN4A_FeiJ9tJB06jAPbl0hqVEwWmG_3wuPicg-dr_aE0t3oieIXifbk98vwzoTFBHkDtbBbuTR9ConKn827k78821S-2EA-xjex7o7YDenssten4ZI0zwFX8yod8H84au_4kRM_cnqMqK-W8gxupueQr_by-srBxA_ErUqkM_nxFk-UFg5I1X_8o_58ctBSgbgwgvro1-G1u3LxHMwAuQQBJOGFlepiFXykj4FsEABu4xDewU3Pl3SA62xam1s6an6GLWceYw5jmLeULgdieNY5t9pXqTnfJcG1fh5T6GdvQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2djbo-UCkES2GCG2OtrP9y-zEnD-s7Emqac4gsgkWrdzJrENybJ3tP7xDpgR7wDIbcKzZ_2lmQBcqeDgT1VsE_2UTUucFS0t3mpae-4SGnE4B0DJpfea-KKx5coTRhzCiUp7ny7bNPNy9h4U3cs4NzTd6vKjER7EhaPtJb7Bg1-35iD8TfikzauDFKJPhk7vwJbi9Lzx_jV1Ms1EGKjct1fApDgY-rbXlRcu8yAeO-8kj-ouUI2q1dxUsG-BuxjTOwMetOU_pGNceDJP2gl7MuGSEOwRwZe9J57LNmrVpCKAhuKWGcRdbHLv5o70jLhQ3tuISNd_JSySGkWri1gvrtdVutbwDKZvF6rr6UShU55FZXGOFNos0wHHB-3OpqVo3F3jBap7-zoDUOO0u2vT3bhFtVE2dSj8L1Laa8zYOvE8yV_&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Pedro Trebbi",
+        "rating": 5,
+        "text": "Lugar calmo, seguro e incrível para ver o por do sol.",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Franklin C J",
+        "rating": 4,
+        "text": "Redondo Beach in Miraflores is a popular spot for surfers and vacationers. In the summer, the heat and sun are intense, so bring sunscreen. I tried a delicious raspadilla (or shaved ice) with delicious flavors at a good price (there was a special offer for two). A great place to visit any day of the week.",
+        "time": "a year ago"
+      },
+      {
+        "author": "MasterKillua",
+        "rating": 5,
+        "text": "It's a very pretty place. It has a good view.",
+        "time": "3 years ago"
+      },
+      {
+        "author": "Laysín Cok Céspedes",
+        "rating": 4,
+        "text": "Spacious and clean. Recommended for children.",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Julio Cesar Rosillo Alvarez",
+        "rating": 5,
+        "text": "Incredible",
+        "time": "6 months ago"
+      }
+    ]
+  },
+  {
+    "name": "Costa verde Miraflores",
+    "address": "Circuito de Playas 3773, Miraflores 15074, Peru",
+    "rating": 4.7,
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "location": {
+      "lat": -12.1333774,
+      "lng": -77.0308522
+    },
+    "url": "https://maps.google.com/?cid=11299367555420830960",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cdIKpx1YHAdD1t0L1pUTMgKzSn1GDHaG58jlkLYBCn04VBPHiWu4t7oCYnb5T9lmnPzTKeskmsZn5nPfM6K8F9lHHH8nF6lxJjkzOe5sPvP5uHJFamUyj3Np5v4f3W_3sUQafyCmDdy3MBgpAiOgUsk20xVCILjvasZoh0DQPCYkLHRUj-rzI2Jw7pTXYZCeV_yUjGrdlQgnMCcgYCwzf7hWwb3okip_i1umQovX5HLIQhVHGglz_TVwaylMVhQm3nwgYL8m9lRsladgDP9Zwv_xHTUZNKTjpfGxnQizzeaeQ1gbWoqtWn4uXJThz38nUd_jnz_iXkq_VN5Yo0Au3gzd7q3c0Ju1pzU8VfJ9UUEU772TAcnlDO4kE0MQ36Pj3hSIjCduU60tGtJyw7HsvZJEkXVdE2Mclzfh1o_j6zqGWv&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cjfHyGxnBplA5lT8Tshw_l4NOWxnPqU3F5HFg08eH-WefHelV9Dm8WI3PQl_aaNk6kv-ZWeiROtN6db-wIqV2o5lG1655PVCbgXNBLNxA3It8ZIrmYCYg-XWOEX4gwseIX_0Nt36SkFKpazlWWPcmu4eoBa6Pf90NK073sAIoZNbW7buN8hpKqJ_54TbgicAhddgEpC3YdZHKJQFtVzA-BAyb_Y6RReQwq2w8U6O4OjOJDpS9EFIDnrdwi94NBEqwv_jIYKzYHkdMoB_-oL-aEtz_SdrZEuAe14xRSf0mjGtXFArFPV2IYW7mBU2ZJCovvbVNVvrasnLynTT3AwypZTJf0NENUjyjg5V9qwmpirVBpzPAVFJmXeI2QAO_R4ujxAvSCxCpy8WdWU7iJWdT9vMat33zteygpx7P4MpMsJ1jX&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dDAdxRikF5fscGTofypyrkJ01q_aLmOBSUsV-gGIYbZQ-Jy1N1R6wfostWxyi73c3qNabwYpLH59Iqag8EJwem75MwxIRq-vI4T7gMN_fauqZEYMCNP9jtmycLUW766E-FUO5ytfuR8pMRaveTOqHd5LJdAcYXY5SzJv2mXUwnAmLtsa6qDu4TiPEsGgcS4_-GUPtbVGW3p7fXtmA2VdLrieTSk-M_X7Et7aqU0i1ynj9vu-nIhTZPo_qBs4XldzWrT_NS5zUYHQn6-Ffe8qXEqXIlxzTKZLlNsy7VjEPrbQ_btXclPFBszmTvdoy4F4e_jyp47esvCPRdJRFohOsDCCf00vfmHYcOt-aNcOTzpVOW191gngTSKNczMekOdFCsBho8iWM_BW6UittwmHSzbPJDi0D8qQemjUVvwUlSEA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fDVJBeH9jjSK8s920gK5Vs2av7stzbN1Uw4I6i6XNNt0ru7Kd_iQ160xBapJRGtd1WzoyKxnDllXOi21okDcAKqpg8KMadigryc9D55caKgMCmKsO0HrQxM4nIJAS5p61YmhkADouJ93maQuNZZHGIDvc3SiDjImrFNL0SrccJY7opsPUiMezR2NuufBuOQbtmtmuBMmLW0xe0k0oJRBZSwkCr6wqvzuhqtsdymM2H5okFaqlaPhOxF8ambFGC_EQ1Y9I6S4MDDW9drT0wVX20YagufxFPOWLjYbQDDqSlKFoBk8e42LDSidrQPVrxa-xGbS2XCABddW35sRBRahGcmhk1eyAjccILfGq8hc6UoBOgxe623Jjkkb1YOpv8Si_wQkQ19Dq_lFtpq2UcvUIWjq11WbYiycFnWU9k4M3Pk6w&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fsYbVtwstT89-FMYZAu03-vsJE6hWH23DBzFjqZqJExI7CZohG2YS3PXvTYHxkgXsCiYYZKo7dmQbIgG4zIBWmzr1HdbMKxGtaOUGZrzrwi-i99B_pbZdp9HgYeDMy4Ydn9sigvibUX5XmuUgOlA608xZ_N4eeEQPxFV_EgsM33sjZO_ZZHJC1rqkZbBBWecNj8oNXggGmRf-Cp2PyKDW3G2j84I50ADRXjqjEIW1EhTxkjuXMzQbBBNGLI1Hho8wLkUDOmie33LxcomS1BIpAICppHrJRxhUKfOKzK-wsZfxEtdgoyjtceVsbnMftdwrfUX8wd_jaUw-bxNw9BScvHl7Lb1qPLidB8bKAOXWeoYj_OCGC_SjkUM5hnFnS2po3_0MZ5KkP9B1cOcwJXNvkV4BDAynwAY3PRj7Gg1n59XJ6&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dWUTaMeyFbSgORBJnRyZTm2CKvuS6_13iQeSeW3Jh0GSK-VSo-UrjnqMQR_C70KnwxOrQa5PcAkXAZapvkLGLahpCBGUy4CLRQE2XqhgQ4prvZgvJEhQwQtOez2U79vDYychhxJ82b1keDWPXh7M0M__zVCYvI-n8NLtrcA_aCmcedVYOc3hT-LpnhQhHCKG21YK3ksrCs9r9rGJE0eXF99wAKYHhHyLUGsxVspr4YUeNkwDecwHbGWdnWvNL8BxRsxyjuLsiBXsHDEBjl5_i8hd20fo7QXqnTCre70Q-0dxkP81xZcN3SopTqgrGGMeus5j72DXW0741vFoW31tAEehswHDwc2ElTz4A5vFeYCPgH1g3zsgcJax5M7vx2-U4tk41vZfNrGLAWfk9bh2ZYEkj3BoKhYoHTJe-NruE&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d1NQ3CO8Vygumk4zpuPM_RxyFNhDnbtnwHzncV8pqeCz5aWtkopdPYvPJMZmepcPLkmj_9JRQX0eZxGtgw57dtTHK-HozSxbpWdS9CNuDafoLPx1ExD8qdjCIYOeF7YOBp9TpCWo-v-IppVhksLklKolHt7S8sT6IQmBRlsKZ272FBYEYIhiAXB58v2B5mtrZDTH0ZnY3hYY8tnWXUyWAf4dp352LJFPNKOfF30CwU1r2G60qpt4_XR4xsKIDz50idWuG3PDNm9jixkkywHLsAAcmkrIb7414HCs9Ihl7aMnuSbWGQe6CA8LMVuaBSU6yxqBy1oMRunYmH8_xaplwDzX5v9K1q4DYdG1K-Z2TO1bgOMUIp3dHQd02fSZLuLKs4AXD_Zm12Oow2U4boYuqG5K0cGEnCyHvIfOtf9Zoq0Q&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eAIp1GLs2hm_9YA_mnhidIZmpj2ZYNOPL4VYMSYH9wFyDTGX-WKnvzy3hqaqjNWUxMp7r__4zt-GFKmFWKvgkw0aL1gAAC9JWVe0aNW1FQagdHrucNw4kON5SRVjvmdz-lVGcUBmEV3OC6cd9TEMVhWRvUZGqYOK-vX3CXQ5Xi87jM_HzN-iAiSO1bYPEag5TDS6d8srIR_OoISJnZkwBHhM_2tdnUap7VneXlQ83qysRLS1GWxt-IvOOxV3y4A4DTnb1tkvJTtoVS3bNAYl8CwjZ5PYjVPmi0QStNvZyP3YZ1gSukMykIhTLposzG3qGtV2EMTqJsr6mbip_KqnsMqJ1_yKq-ICq21EIhKJ0lLoEsPA8cfCBc19wrWEHNtD8B-m3bFgCFlFg6559fLCJBuTTp6WAEj19L1vGSLPtUCg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cT2P3GCP6q9p3KESggfZCrMl6aJiy7H4-EURMUqbg0VtecChhTamTuPTNv2rmCIRqbjcSEuKCayrozdikFKFmCspG4RLTUWCX0xQ_5_0SVeYUTufJdlpu3ueDl9aiAj_EaOCVX2NpP1Tktpz0b92qDnMRhZNy5z8i0NzelcVb_0dRCTLSAVRmq5ijzFjJktQVYgrEZdClDRg9Ma2Je3e-nTwx_20sPUl_2wDtyvsfkgAcB77fDkkg0eo4MWZar7bXwr10kskpsgo3V_IYVekFbZnrxgNcCbXZs4vxQH0OjJJQ-MPWfVf3pnrTE6WSVoutnxHAmerct5zhu97hrNG6OipM7tQv_S_cLmWmTmLrdNNj8KcWs3cZDJ3VeoFrtv3qizwym2kSMC9gPn1rgDYBhY9b8JI2eD6UIHDOAVXtP4gE&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2coL3qSs_jtcwfM6HNhV8bB5zzR8YzMSbmfbhNzsUnYHuyCpQHo0p4kHcoh-hzAKxAojdq20nsmY6kpGCb_CmtKTSCQxd7JJgSaNxJ4mJ-YOY23zqxD48RHd4gYUikY9EyUKS_nAsRcIWa7dCIrPgSRkSlqgmLSS0Ci6xl-y4k1A4J6sGs3SnkEFbcOCMH-aBA2om9KcNCoGFzcIFMsekAl1-g-zf-rBZzyqjCkRBlqiANzzXmxcBUSREEumvEZmxkXpZICdhLDspO4SVSnKXJ4epJkGVlwmyHGqK8JQ61gMU7yNNHRBLsQUNJS7NJmYxp6eOXs92f3NBJyfGthXzz4us9aLqpUeYahyuJzMDhDqJ7UNT4lVzaSKlKD6TfH6q6CMM5ngua8VlL-Uf_6SWQhiGVw7Z_x3ELMASp9q0teI5nmnlDQUrHTCPzmhdsp&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Boris",
+        "rating": 5,
+        "text": "Can't go to Lima and Miraflores if you are going to miss this.Absolutely magnificent!",
+        "time": "4 months ago"
+      },
+      {
+        "author": "balooko31",
+        "rating": 5,
+        "text": "Amazingly beautiful views 😍 and you can walk to anything you need, whether you're looking for a quick bite, fine dining, groceries, dessert, entertainment, etc",
+        "time": "a year ago"
+      },
+      {
+        "author": "M- T-",
+        "rating": 5,
+        "text": "Beautiful views and walk. Definitely a great stop when in town and get a feel of the city",
+        "time": "a year ago"
+      },
+      {
+        "author": "Retta",
+        "rating": 5,
+        "text": "I love this area. There is so much to do! So much and you could really spend all day here just sitting, people watching and more. I have also ran here too! If you are looking for a free activity please visit here.",
+        "time": "9 months ago"
+      },
+      {
+        "author": "Kary Lin",
+        "rating": 4,
+        "text": "Nice view",
+        "time": "a week ago"
+      }
+    ]
+  },
+  {
+    "name": "Playa los delfines",
+    "address": "VXM2+633, Miraflores 15074, Peru",
+    "rating": 4.1,
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "location": {
+      "lat": -12.1169856,
+      "lng": -77.0498252
+    },
+    "url": "https://maps.google.com/?cid=7865812196535813338",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fIuvTcEsRMteH3MH1nYtw--4wEbZ_no2hImfD8Xp8lLjWYNfyOLO4QjW2Qzr6ZqtwUWDSYy957RsgHskmatq8IuODh6FbxrRXvspQoX6H9ohUBY6FGvZEIvYQdTAuDG_pyVGApXvLizyIPIL88G2MYP3eXuQWbPBX50h7T5WEMGVIPMDU5RVoJCwKBvo6ZfYKHfLBE6FfefKQ8nOZysRM3u_HPB7LHUbtcFpu9FFujU6U_6_-AsR-GUPL0J5L4PZhf_35A-QZL2FXOY7aNEv6_t1YTBChqqYqmMUVMUARicLs-k8yQCbjpSMP2o6m40tye_FAF8KwbBDwvpxZvp8_N3azXdCzaNB8SQCwWCPZ50mMcf83eNCEUDhSXPr56jpvcR-lMr1za459GTUMIMeGiXunq0iXDpOQnvdYXrl8&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ckAH3T9GiMfmUpr7u2uh8fOcs8vBgz-Zcu3wnx5orl4AnCooWwK40ZwEqKvKXxHtefRFxMrwc_KFstWOrSf7ONRnOdkNzuJv86wOJTi3BrEYuVU3mSYcgp52GmVG0SKg0K_ozUJhCuXtR72yL1cz8P3qA5d0ADlYBCoKnBGsswTD4eU8aHVOQ9jFYCMeB8MgWY88bJUQ4VzRc-IPmPJeYgI-TC_e_1Mc9IRWUnE2lAn3_n1aGM5iVSY4aomDp8PkRO3FF1rBRYW5q6LoerURQCrC5pEmztBwIUsPrSEokW36qKzGL8yeAdCddyKq_1-IGACQ5xNsezhXykrkhVq80qT99CdXTGGdNevdTW-w66lA-ed08H2phj2jdoGL7Jb5IFRFTKozP6e_of3WYe4TMytzRix8DakLFgIGg3VxPjHg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fLgNBCNsZOOpLfIhROvE00n6c7lEzjiDAwnOuVRAYbJ9jmEMIXbxaQefJAU1dvTusShAd4o6R0DJQ1unkbxSEr3CAQ3Ubr0blMkxsaFEzZFwXJ3y98oEBrId6afqA0UPSQo26CfpY8zKMl4u1-O3hek8EErCdDhshSbT6KetkZxn4o0CT1wwuHWlgeKakagnP2x0W0eWsmN1vM-F1AndpLJ0SCVJt-bwXp7fdYH_dO7KkCjq-sIU6NM5PqGeqTdbZS4kBtLeBZCs_WfEXMm-gGEj5j3D4HaY34QCL2lidrNLoG-gPM20bd4oLwZvvy2TESPviKi1AlMSEc711-vdMKgx07kuIvRk0Quf85e6UF2LAlch6HEIuer6xNu7oVkujayl1mQG1aB0I1tXdjm8fXop3-d7dgcTKqBapIJ-QBnw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eHh7TBOp7GgYov_RvBJLWFts5NQBXiT6hG3lTG479deAdh1BD1N5ZzoP8ZWjlE5zvVT0oKSfnu83Yb1fMVig8vijaEAEFw47JajCfnI5ExFlTWd4EpgNkbqBkhaBrovL-8wUPOLfN-AWtLOdTl7b0D6oTQspMeCUXA6vhaTpAWpLVYHHUpCrcfzGSSbMAK0OM5_SslbGwUJ2va4SaXji5HBLlMbgP9cL9v1l1ANZ_ztMOU7NOkEjeMRRIGVLt_wrd1VMkc7rMHfIkRWYuGkZf69Rc3mVn9RU9jxddeUW0AcPJizv8T2vu-r0Wm70T7HzBUm9jx8xjs2izxaULzYPWdl8HZlYCxqFyXNaqS0nzIb7TvnlRaWpWZDwmGiRT7ae0QuhBCp1cwl9uJkHy6kBAoTYvQtk7XwhHxm6mC68veEhQiU8GAcTGZVb9dMWm9&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f4jCU9a9zLscgnaGPvMdFxJZ9gXe3tdOQE7lhMJ6X1kMv6KXly95QfhSi3EySQOeft_uo6JDUliihM2qUUpOdyfA7Xl8BASoBUAurUAdzyoGkZFGtXqCQMgsFsUoBDEebSoRS2LhvPWicTM6YEBSyk4UZnmDdRS__7rj65Ew8uZU8IDAR74KRz3OQFZH54F4pA_N_P1NdWTgn0jF4_RlllKV8dlMMGVEs-OS8im4PPaBnWEq-5onAYZd2EvgxX6VDKZlQIYP7SB6cT2kvQz2b_dWQ48BIFzUm6W007TT-17LA_9PKOrdxyHxPYmO7y7XXuevNopPUR04ctBy5LEhSuZs5SoKvU_Z3FWnnB7WYY6jrGCk4GBSPSdwzl01fDBmfh101xRGPzo46AjwxMvwhGg9H4vfw8Qs2ZoIpLezwStg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cFVcP38riBYqA_a-txVzVF81RAb44CGCvGU9K1CkoqMft9XR-2wn5Rxp33tAJLhXnLjdYhvU5Ml5tWvMMQWgWXnn2d1GlYlBI75kSOBKUJnvvpCGsz39xq0LOIIhiuMRuZyjjQ1L7iYdNTtxRiuq01jshrHBDFHKEVXdy8HG11RkUnc_kpCV0skiqv6uQxe6Pd4gNErZylcmfANWm6FJynp1DwE_U0s9_mvW32LLZvgftqV0UgRjv7LY-Hf8L_hwBIINV23ZEUNmT00diHwXef8_wDxYbz3R24qAfJKl6eE6Jzp-wchb5mjZC29fQWuGOOGbtOZuKRyew-W1rF4Oxm2EoyUaAZgQMjNnWU87Mf21Q3IRGlDEV07-4mM75vQmZ1lSnq9nYFfOWLTBIAi_gMnCwGDF4PazjaARKRM2bIRk4&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eZaOqCcyg3aoA1gHy-K0D_GV8B9w-MEICGi5UrTsMDsA3soYZFpuA3OlJ9VrQLa5PSk3Qsj5gPeNl4HftXl8sn3fNYZ8swpfvNzjMlPRHuCwdHV--ExA4BRCb7VSdK__W91X0cdGfsjwvrzoCDA0A-RztPkWnHrUAl3y0JProZQG4WuX3vHI2FVGGNifNweF4gjrrja7wz8DvilLWkm8knRp8uEIIJ4ohAOeVJ5tBWQvkX4yYNaySEknQmDC6ZhUh0l45ZJmtafT_fZHKtBxJHAF2JmCgXLAmNhZs8nTQM-0Vk7OTR26enAOeEjeVpTleOrestWZHS4Mk4sD6TvknlbpdYTfzzZsi-W3ouwj2faZu0sMw9zdZeEe1kg9C7wXLVpp4bIFcoxBBVuTHKHD8TIE_i_ywXpYd9TMjJXIC8JR1Z&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eaZREIcHI2KvLGfCbCX6olMWzvPGC1Id87GpN2OkL-Lc4AFrHREn-78k_VkePK5o9XsqlkSxhngoZYbWf47O6gh8mNNcR_uUC39ggbZF4Tt_mTPk2lcohgWnlGQsIoQxOvILZEIZszFbcODn6si0U0MVRCnMG3hX869ANmi3kJ61eU7-eRiHRl5Wj7Hr2SmYXqZvwHriDuqrfVQqWrJxb-3LrXwaNgaSlE4BLSx4Z_UGkfFOI1eXDKPVTvCrWZ17cpLJOFdAuFxrYHzRTJiAJdna4X6ZC4BUNqhySvCPio1Csb9PG6oF3-Au2Zf0BtYq267xh-GMHgB_ulHRX3TPJ1PyvFIQtl5ow8reRrQrdYraWBeDllmKl93y5JRDFx9gPtXhoQxoKuoFfQ374FAGmK8_YEkNNcu05jdJHmGpRZvA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dtKeEOEvy7hWhV-X3z7o7Al8go-r9J3LCNFFuFlkU8x-MTHCwa6kUqqIsyDMT7--EPoyPBFTRKCMlKWUrVGi9-rrqo1v9vbbyYNoUVQ4ogOW5WSlGJCnLLlH56L4azoEGlCDclwmRHWGgQhXEfVz1uSZc9Qn4Yj6KKwcSlwXAee6Gg_Ux1VD2X5lqPhSUex0Xn2MARS1KDug3a--TDi62zK__K87PfihM9fqzOfx4aR2U0cbJMERjc9Quiii7r5H4v5L_0vQg0Q29vjJcsS9qKOL_OjbcfZfbyFYxuY4ksabsk50FmeI2rwZebmuz-km1pk_42q3mZWoj16vaklqz6m02nZSvgWjATZuNPNQFeqHITjr1XVr6bP6NckXiRLGjc5rW9WqzLSFUlW6OdIbissdVpzSMMxfCsa8pEt06TbFc&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d9QOcwxmGMdL8kW_fEf8ng3MfjP0ckYXnCg22moXvoF6JrqXL3ibWzPwtkICpEwFzfn6pwCHo7UAvKFGSJqAAljwVYd1OIWP6gqfqXyjEq3DrVCvfOQYgZpnNIZcaFQHOTDiPZMnECt70kUeH-xvJxchUVPvlbUJuhG_WZomseO8K7plnMwIp7-ktRn14OGn7MfZbca0rzv3lBo3sibzUnbXhJMcJ8Hxb3rEiHdFGygawIeexXUVjCseoq_bPo7EyIEdpsi0i9F8YMnB7ZOHX7X2dX-zFjTn6xmr4bOtgsEsWj9TLt1lo3wNVYeGIMuE85F4CoZmvM6kaVlagRAWV0F4fUTiMYWyTK06JAW8pQ0icDBSpXRQeb1QV8IagCC_Hr-dadReTGMGZdwbcghkjwNseco7bP1JBOZqFPpakVFKQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Christian del pozo",
+        "rating": 5,
+        "text": "Beautiful view for sunset and for walking along the beach 🏖️.",
+        "time": "8 months ago"
+      },
+      {
+        "author": "Carmela Sutta",
+        "rating": 5,
+        "text": "They are very cute",
+        "time": "a month ago"
+      },
+      {
+        "author": "Sofian",
+        "rating": 2,
+        "text": "Be careful of sea urchins, wear sandals to avoid getting stung.",
+        "time": "a year ago"
+      },
+      {
+        "author": "yuyulines tv",
+        "rating": 5,
+        "text": "The best beach on the entire Costa Verde, it has waves less than a meter high and is quite calm.",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Yesselyn Marne Chamorro Claro (Yessel)",
+        "rating": 1,
+        "text": "Be very careful, they robbed us, they broke the car window and took everything... A very ugly experience actually 😔.",
+        "time": "2 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Bajada de Armendáriz (circuito de playas) Miraflores",
+    "address": "VX6C+8VJ, Bajada de Armendariz, Miraflores 15074, Peru",
+    "rating": 3.7,
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "location": {
+      "lat": -12.139175,
+      "lng": -77.02785999999999
+    },
+    "url": "https://maps.google.com/?cid=3988566195124423294",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fitywQ9q6GndPOfcVaa13zbIHD6sM-NK_sx1Ch2UPUtQDuCXkhNQecy8YfIcU5wbHLVR3qpavLeUus_24ywSAVCBFIkujntaeS7yN70o0Fv2QCOVUWUmt1mqJc_ulK4X3BbMlLDMUTvf931y0akXPaWW_4F64gGn_kpAsi9NofceSwPi8EWBmNdcQwmQZVuMZbU1DiGLyk65H0fW4FlIv8UWQtnyDxebfC82n_KuI3G1RIijMFcj33K2CoCk76lAU4fGY1M9T86DCLUQUnhdfO1DBvqM5Ql_dnerja5jyL-dA1VVlcJCnyFtr3-Rud39z7TSase52CsP9isryE91TtwuBgMud8iH9U6j9Jdzf6HwXmqQLzHm59eXSZFeFOAAcPlGatfAqbylbwHGHyn6_zCWQvTJQqjr_6HGkCiOahY6Jp8Q59cYQwsnBgq7u6&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dsKTMwrRIjM70oiW2xAH6ZMFmvayLbXDU-TP942NeKChvQTTTAp8ZcPk7fFz_HU-VbS5jn33x6ZcrTnbYLQp2KecPd4AgzohZ0TOlFbmX1yPYFGcMqIlhVRHOuPV8PipB9NN71W-K7sFkFxhggkOkwB0JKBcDfr6usaAilJ54UwmDD3lNPJGQoyODW52NXC4R-QLLrTGv3zFIdXcjxrUAy1gyS5sg9pmQrN54nUOC3QGZvP61oXv_fbnZbE-zEc80w5ntJspbrozZD46F7GPr4dnmLBG81SNyjohN5aU9uUMc1qQQDcrzifiCsB0fp5IN8Yb9LVEmpe2iWSSVCeCKg4_tAHb_jF9WMKiD66F2GXaQkhANi9WiVaepLng9RN0nY5bHWJhayksh9UOn13t8URdZ7c4LJt49hYUunHhIxBw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cfHT7GyfE5U4FOVWlz_qZOV_be3GqBOaaPr_4Lv_NpTEGleGOS0VHZlG1ddv2p-G4asVw73hJbu0-IZRD3mFHjsaYBLNwUc9SqG7bAb9Iqk6rJLX7ZOQ9OXzQ4pv28rVnUiqhZX5AT7RdsRWUVoHgWjhi476n1VHDnGsWvtCjKExoWUKBA5aR1lzw5QLy7J2reJ09_gCZm78QtUWsXiZGq_R7jpr50M3DAV3P59aHP-jhabo4ERCZcqxhiB9Oz3Jg1UdNGgov-nohykIlMbUHbjYWaepH0Cj3YybKlDtx4GIzLTT3_1-mIa9cD4xz3xnbHg-W-hUUkf2j2T89lELQq-tZukwbQZIKpRHeQH0lB5GHjsjA15kw3Hjl-H_Af6_SFJ3CdcKBW1Vriyy5tCKhysECl7TZ5xcJ0tW4g5dlQh0vsBYxwF4bZV83PSw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f8sivr-o8YBgGG9YEfs72_0evT-eeezr3KQWPd8YZfrN9EdCUdzSLbDkiATpZaErBjPwA3jPNZ7IdxtJz25UHUUfEzE6mgrMKk50F1Q7I5yJSdG45s1jby9AVjtlbB_GIESvQjG8N7th0nbCLm-Lvy_HdPercsBEZup2R4FAVdPAsGFjQM3_Z_ZecPFaegL2RCzllsncsUF4tq30sOVDKe_3yCAkgxNcXgpTUEcET1D-bZ6COzKewnRm5QghaMdJJorWDPTWOEZ0EjyHjUN6WkKn8Yd5Titn_1yQ8nrxS-VI6VWqO9HHyp4UOoqPy5hnAUVFX6HqzOcLzp0W_iLWJUjF70PG-YAGL2Te47G_qbOEgkgf4ySWJtvg3wfj4ICWmoNeH5buPz6-eGURatN4k2NOkGli_zLgJLnoGcEgMhFAFAPGc8GyWk8sglioyf&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d5xKug_v0GkDMH7gDcZk6_gEI1PtYgvS7HxofoppNZ1TASSu4eKL4nxpNldqnCVh8a1Znk_4x0hrbD5WRLRAmIuMHimkfmBXWWUmLkf9ORxZ79SoJHwOyVuUtDrNs4GfY6qGOLf7Xc8BosAOO8pV7MTHXwjPxwizDXFSRNd-L0egNPh4jljucJH-ud7C4pi3sUikwDutQHLIRhiiRRvDLvEAK0XtOSLIwJZvg88MvDxgIsdrDDJ5F5PyLUFXLfxH2FNoiJKguMFuJhkq-9OKopMVEkJpzN99IZDmxa1pZJghlbzWReTKYueBVc7G8OJzvHCz_RbVtW1gAfJq6EWnDAkNzzBsVfEeeeVjIxQKd4jyJ6oVv_5QXLJoNunkYKnku22vfzFmICvbsM1f-vWZnHHRESvYW4QkaqUF1MgEvosw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2daGQn35G_Ehxt0u7VFYII9LzfYKNZbiJYfJ6j93gl-DhSYrEcWVj6rOpNCwWhbLcSetqf5IccuJj4s6tDaxqIS8KzzIyQXt0eLuZBhzjxDm6LM3ZOQPm1TdMeyuNBLB_WONlfwE6K8StS-JkSnaIM-GqmELu44hwr_d6F8ncxe-BHNShVALjLmZW___FAKBhVNvyyYAei34welUEIWOwCZ3gEQ8tkFMIWEpwvowpV6UB2dm4KA8E5oWHGu3kNEnKRJ4bPwjHyb4Gosfdg2EFz7tHVCZhu6pLyJ3CEbzDux2l3TbdtDZ_YxdaQt732ttF1U8iVKT6T7Dm_yZr5priLH4-y06gIKAsqPO-nIhLLgk7cerX0_fIYhcWgDBNh1_2y0Kna7xDSFQNdRn0nbsSrLS2RWpWFUZ6Ao0Qp8A_jVxQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dsx7eHMiwVF-SLN1U1Z6RcE5XdphCFyFwZjFcy0Las99dXDPzieB-za74FrFX6RjpomTeg36v4Wo5eACkARuHEWVn9qo-CXq5F3DrlCXPmD5PB7L1YMPikUbQxi-68iVJIko7QhtIXPAk54wUZqbudQGbZo9zNCqRobwcIqSujoVfDpUClzI5vQ9qSkAJeHaWzqA7UEvFSWx98q5--kRyTx_dZhKyDPjG392x8RSJFAcnAU5mADEW2JQWDT2axrZfbjv3074hEwd1BGWuiaSuADvS_LvmUm93SVjgcG4RxoBF3RZISRrEAOemLCoaZBESemrrTPbOa415dCECWCGo6kv8QzEmr17l9lbpT1wRb4xU-oROD6yIu4wMxhPjtAp19MPehRjqJzhc6GU16TjKMm1xkbmCyKBWMbltoshQIDA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dEfneQV6FAfn1k4egcxmv6n7M1VghkQwOigCty1q02IXP_ytTRMIbP2kNZnPnPHctGkP0BBHv-7TaUMAE2OOl341giT6Dg6NO4aC7IHPEaLsr7__PGCbPVy2Mr7ULeY5KMkQ6WnY1w270-2j8Au88e6QrVnpfIqO6Ucqeq5bZ645MBIIYID2CYcWJA1Xp-yosGR9RoJmUSA0Tgy7DqwpE7A_doP9p_gQAswXsV2ZQiHFrZyyjTkQw_4W4U-yavEUfg8KF2glPizJLa-XPPcEgZXmno1AWvgC_nqoJIJzTRfxNIJmNQP4kx5uFhdYIIsPc_MK-wSc-CCPWA-sYwTZzVEAi3k6iJdZPvioyFd0w7MxoeZR55FmkIp0nKaK8f2FkEq2y5a0mHACjiAZxx0Aw1682S-anR9P_OUkHO8FJtmQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dLaWUjsZatMncsIDszWkTeD9LvT5Z_eG6HmS5WwmpeJ4nWumGSrUYhIIXB9HMPq2_RjyYE0JsRJKAX10btHB4NTdKpA09vv41ZcZIBIMWiTG_s7VhfuL3MrJ09LqIpip52yQCC72O-0CT8iL7K0WcEio5Am7coF0OljkkN6wyXK9YZvNpo1HfMe-bBitSeVZrUwT9zw3KjaDh9aih3HaiNuU5ZfuY6b2WaaxFZgAZQTt10_xIe0a7Njs27LPCb2wnBIrX4XS3gZ4ke8qeu0l-w5NKNSk06RtMPXT8tfSBgZwyUuzPK-rIUWrYOB_8nEoZiMRyVitnhPMLXxNR_grOyVXV1IDuGfkcpMgj7L2N4DuIstOfX8QtBHOuBfelnl_aPoW6bUz73NovB9p5VDkZhJ6RlhAZn367TFTupa95Hb_k&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eNT4xCrTvx3x-1ZCSgJ5xuxcn6CaO0_i1clfl2dDgOo2k65rY27RgABpO8xF75S3y1ltcYW2RMf4lIIWUK4WY1lWlMYYdAS4kUa8VlPOCwd-bTg_zgYmDxoM-FxJSb6NZWSlNJhtiBl-ehuI9zFIwKsO9L9JvF8hBoTyUN6-XxIRCggJEtVWLVPw7MU13ig2TqzJMExdP7D2iO4FBG_qNpCDvZ_Pkht4S86-Dvq5mZQykGoOxXiNg0xIwABgi_5Es18lYiIXz0wSm4cXaZ1rmCaiO6Yci_ITdcBxSr0bxTHXhUKaGr7To7Jq4XeTzHhImTJv9J2w_1na0R1ix4fEKlJTFfYiARQP7sEl0GcK0XZQvyh1v2bo25S1E3WD_IF9AVctHGvNht3SNPsoF6CUM5DgfiiOFW7vnuCmDtD7URbw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Antonio Melgarejo Yaranga",
+        "rating": 1,
+        "text": "Horrible. Terribly polluted lighting. Dangerous bridge.",
+        "time": "a month ago"
+      },
+      {
+        "author": "Diego Toulier 18",
+        "rating": 2,
+        "text": "One of the best views of the Pacific Ocean from Lima, before that bridge existed.",
+        "time": "a week ago"
+      },
+      {
+        "author": "Marcela Crispin",
+        "rating": 5,
+        "text": "Spectacular landscape and beach two in one.",
+        "time": "6 months ago"
+      },
+      {
+        "author": "Alberto Soto",
+        "rating": 5,
+        "text": "Excellent, without words.",
+        "time": "2 months ago"
+      },
+      {
+        "author": "Mateo Paredes",
+        "rating": 4,
+        "text": "It's a great quick route to get down to the beach. Not too crowded.",
+        "time": "8 months ago"
+      }
+    ]
+  },
+  {
+    "name": "Playa Makaha",
+    "address": "VXC7+6HJ, Miraflores 15074, Peru",
+    "rating": 3.8,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1294242,
+      "lng": -77.0361248
+    },
+    "url": "https://maps.google.com/?cid=3843578612735130596",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dhYoCNBe0VcNnEWMeYDOPMv6sjN1yZLsK8E1IDW7XBaJhRW1qBlB0etCAfDgqBN3pKMCG8nXPy054EB__P9ZvFaVjJi_-ril3rGZVaPLca62S0xmh4sv5-UdMAj7O_1dDGgCjhobPuBUcgdiodHZiTxCdmeMc8euZcxaY1ro19vgnXmLybr6hfFKBoQSu-8lAcpOvOL_I1m02WcXXUsOiCddpl2HqiBEId-_sJ1iUUcfuIgVkSg9rPX3Ao9qbCdT8iPVGdZyayanm_BQ4wD1KXs4ozUQrG68TPOjJwiQupidRCRODPtKg-QhqRczVmiaLbJCYuSlCYaBY7jhTsIsiBScwdtamM74pGd1shBOZ8S7c_TxEtxDWmS-saVxQ6JVYvf-zqHoXYPQEsUNtSJAWcsvtuo8pOQYcj2hjpG7KPWPjn&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e6b8UVdvFgCAddbhE6dgUtbpKVkjVNmsRC63Um7X53_PnAKLTWjb9VEz0t7WjJtnM3EupeHs2CBIhB2-6Ngj8lbkVrv-jTp6ZZbpvfdX-JguBjLd6i-QibVGSe__eTDIphTF-E9U4xOwT9RTkjNNz4PHc_qguE0YDwgskpd80l4cbxkxljt3eFQdqi4Euj9ANa2l-4w99SFYhOwRYBnICObCPJ6222vhDlcVbF6BB25SADv_6JVPRxYKH2NF8Arj1RK73_8zv390pgdZ34CBC5vOrjQlOJSlRtpx_LruKpjXXbcXuQ6GZzEc8E0MSjJWg35XQn9Z__RyOZsFXWSmGDI05GGOLbvptvt-wvJHksYpXzWzVdHG7wfp3od8YxlZ3-5cY1qr2arlJVazkgocum4jj3nCeHExrrYp9XMZvGTw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cQ9rhld2DRAjKcatDycz2qEWIOQ6cSOjkOrzoJ7uilfjOWKMI4G4uGcwmTFLbr4ifhXeG1CW_yevLUcKcwPBUv5amsbF9rbmwFaZFY2NE2qVJYgHzqrzmgPmXMHJy8QO3Y2VV4GA6e0-lMKSNBj-vj_WuEl71iKUPT751ylplx6BK7N8fhCiSKxzPdBeRKtQEYBAcMZBA19f4DA5BDoyJbE3lzcyiRXVyl8vWk9wBGgUxldtB7R6i5kx4uNhIg1JTm1KmyJwXwD4LTRajvyE19ZKQHwUo_GhCYtD-mWkxq7RJDiU3c6pb9pWhd0dti2LaY76l8aoF0Co1z38W2Fbuhj5DKg3TLxMoyBI2eXsluKsVCJXr2I_95eeUXkxSBkdsZBJQ9ITVNU0j8aaiTPpbi9wx-_LaPAnaQaZhf2cNMgQWo&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eao3b5Tp4i8aL_6evliBeBkDd5FLyvIZZMNO8mpKfDBFbS-IbWsW7V0tsBAqGrTY3bQHsdO7t4bn7Zwxyrkpy2683UcEIfSEN_PB5MHJ2mziPZ7xq8tMnBfeHM0_k-0BEilB_Oe1XTlroYvboNeSOe4ldLu7BvZUYk2_M2lfOMe8_fG2GXevcl0Y9gMaECXpt9AP9V2bBM73IzLvwNOld3dKXnqDVIidaTCZEE1vHDEZs6hEkoq_GUiG2vndKrB8dqt6ofwfv7BT9IkC17HzEUbo36Ep5_hoVmpd3uIP7McypeAbm4l7y5YcHELZmaZpZekOE4XhI-DJb9TO60pA-wO8Kv30ntkxF1l13MYe9i43AIOxelDBJ-sj2fH6dgOImdhEqi1cGkbT9ptfk4lHplWDYiqbmDTWtMG55rtgdw-w&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f5kRpumVRnAxfkUdksNdi0IGgBTkQMNxN0LlpVzziRFViF8SMjmrtO5ngFT0dBZheGwocKGXHm0ITHnaEaI1X7QXj25O16lckHE3uuv64qKnBuoE0VsGvQlpbT5B7ZQGpfdy3l1NpjUMK5zfccPtC60T7nfUWu4AzMfK4pI4UYXsS2b_IlM8-XgGwvX_38f810lSDfYVwuBobUr_2P__w40MhXxiD9_RWntr6L4Cd1Bt9VD2U1Mp6We2VSSnzTl3lAwJFCf-LpkRV3Csv-c_rSTPYP3QzrEGF6H-e223r78QA33HfI2zs3ihFVA52SbHR9_gnlkxOfKQNlaDcrPTSPJFDtWuYPE3pP3cfsRzL26mCxlxL8Xbz_Gwja-xO7HDrgItOklSGjkjHVsMbTY9lUtOl3JtNX7cR1rfv2dRX9bw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cdYJDKD2KxbSmpu7RBmGJzIqvwSDADZVEHG2GXd93yrm9OPd8Icdeby9X9db6OitaXZy-ZmCwe5ZN4jeXVFM1L768YZ0Zu07LVjwR9cW8OYP0NJdsjcJpd7rOu_vbidXR3HWcjhQPCnnEBcNDeZzC6gYcWa1nJz06CJ_BUI0_UfxV4fPCW43spNlyPYxPBxlA0UM2n-xMgE04_TJKho6jERJ1TtIyI2rWqiyfvWIHEyZgGC2b7Lq6YiA5AOJEx5A82XJQ-oouHed9QyVfXUAAFfxae6R2aC2QMv8cJYWaCDYtTqsn39c2MDiMr4dEF5IEsj4FQImf1yvFKclmjzAKFm_c1tmJc27Cq_MJv3Chk3M8R41QBwkFyB65zCG5Nk4SlP0JO18dykwiiW7iDZRZUbB5rdWnUwwcU__vEEVgZZw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fUhaZv9UlFMrAmzZMz5Cgyxe_x22o6QS8DD6uzYmMtOFmYFC76DMzXHl06ZXkQDY9K_HDAbjQcHKYmOt68PzAorjwWMJJ0ia9lgDKBsYFBdpW7WC-zw5LagQIwBtgIGWOUCgULILfPoWk1Y8HFF0CoYVcuvE7as9kqiLFWTde8lUrklrZoTGx7nJhrc3VAZnz33PXc06deJym4wUfIcf2kyi7BFJRV87XzJRG8kKnJ0CGXNyCgjqpOeWaWEEJ-hH9erC3B-7FBBEddNawqo_QGb-zUYhKa3Tgo69hrHU72D_6x6x2EFTgmbCzixSaZlv4LhYDBxgGuM8HhMM0hGvgZqr7d2zCR9aL_UyRkKevOn6TfN2mweFVlY_Jy_VBfMcsKfl7Xxn7Dp5-t4fQ6JWrlBiGbS37d_htBhVX_oZRJ24BI&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cfvK5o8ogf1NmTCLOAKcU6cDbPWLK0tZmxIWvTs5oKQ8e2VCKLu9fMfv-ua8r1gyVJp-SQGhmq53A2uqO73Rhl239_pIe0b9-EiCxRkDEN831tT2_70-9cBA0-DyERFsNRiZ_Nh6LL_d77ijm8cckSwFw4xaE5FCYof19qFWVwGd0yMOZSytJwVFxRDQeOj-XKzq3Sq0OZGfwM8ZiD9gJYq2kImbhVS68kD5qT7cefEV1wtiLW7ZUvgNZ6CzjpKyv6pxIxSMyo5hnVKrT_KgX_l1JtoIziw7uQVhumvPuG5FLlB9sks9qxLo6NkQvUisnKNCGao4yjU0IpoBzhC8O4JqlMlqLTrs5pAo8sahKzx6eAkCfuHwyQEKQZ2q5fZuBhz1UuVzsALGxb1BfQmeNC_t4prq5rSeyXZhmitnFxrkM1DDXTfwfEF4rBpg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fDKIiWzOYpkiCOFYGM7UeqAytZGzp13ZGvbKm9hUqvbfcZ5u2ccp4v-0FL59K0gdVyZB6h3p2hLpZT9R1EHRk1u1CFkJWrfWcNg6YmgH1Ws8B2m74ZuatAzRy4Ifqsak8Ht08tGxt_xt8-k6JtOIbcynqFehlZFFqX9FyUAhu5TfX328GBe5kbdWfT8NPo66nijFwYyBqnPLpx0LlW_WcLGLzalgVfDbx6X_3YWJNcJDEXsKavg1LxAhpkbM7CV3OpNQCL0PouXBxcWdvrm2ocwrs5JT1JcScMB7l7xIq2f7sybK3bdvja-aXjqKecTIB0DToL8dedNTCWzZVnEYcFBenmgp_SeZMT9PzkHnp9xylIvXXYrVYFvLy37zP0KJisoAGnATmqbLBbMYyPwrsOvLNcnKrKuOOQjiNyfEnuOY_z&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dkNVm7Ih_ihi6S4v0-WbYitw5MVM-MXjqAWITNODAkTBoz7XzLaY05gxMCWav5L9xdUntUiXMFbUpfpFHiDVpT-02YskBYno2Z-8hIHerCAU6iiLDibmrup1sABlhcwySQTHPCOIvzlk1QMhvvVCt43vDheKK0Sld1LvM-R4oukKr_ZjaKFhSIGSA3cixiM-L4aGGNQfW8nA1UW3V-0hf3cuWol-gRDce15iEJ1D43VZLg7yNgYhXgGMIPWEVIu3KY0wwtFANgV1Bu53E2z3cT07IcZLLKd3eKfpVBDujdUIeLfYxAZ-qbMg4KPPRa2aBVAI3GeY0N3hNilwdbcThPi6HHiGhnQ7S0znmsvvAaTyqCOePV--_0F8qn1lQZfYSvXAWWi2AcPKpvl_Mq8al1b1cWo_ISIYwGa7uwiqU70Q&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Ash Ster",
+        "rating": 5,
+        "text": "Playa Makaha is a beautiful beach located in the Miraflores district of Lima, Peru. It's known for its scenic coastline and is a popular destination for beachgoers and surfers. The beach offers a relaxed atmosphere, making it a great place to enjoy the sun, sand, and surf.\n\nBeach is filled with boulders, so not good to wade in shallow waters. Surfing though is fun. Rent gear, surf board and instructor for cheap!",
+        "time": "a year ago"
+      },
+      {
+        "author": "Keyla Peña",
+        "rating": 3,
+        "text": "There is no pedestrian access. They should add showers to remove the salt, changing rooms, and public restrooms. The beach is rocky; take precautions; sun exposure is direct, as there are no parasol rentals. If you are traveling with children, it is advisable to bring your own vehicle or pay for a taxi, as the road to Larco Avenue is steep and has many stairs.",
+        "time": "7 years ago"
+      },
+      {
+        "author": "Edu Durand P",
+        "rating": 5,
+        "text": "You can go downstairs for snacks or a drink; it's super quiet.\nThere are public restrooms.",
+        "time": "4 months ago"
+      },
+      {
+        "author": "michele luigi crescentini",
+        "rating": 5,
+        "text": "Surf beach, there are various surf schools and some restaurants or food shops",
+        "time": "8 years ago"
+      },
+      {
+        "author": "omar vera rodas",
+        "rating": 5,
+        "text": "I loved this place because it is beautiful and where you can practice surfing and there are good teachers who teach you if you are one of those people who like extreme sports I recommend it.",
+        "time": "5 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Puente Peatonal Playa Redondo I",
+    "address": "VX89+HWF, Circuito de Playas, Miraflores 15074, Peru",
+    "rating": 3,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1335658,
+      "lng": -77.0302158
+    },
+    "url": "https://maps.google.com/?cid=13708854416722794419",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fhjdboTmyruZWp_y1lcVXIMttT6J3Hskso0n_Xk8EjUR_umMm_efQpuGjOZLuJ8eesAPI2rfuYb7wP0XKJh4PQi9U-ZrdZPXHeuhlPUR44sJQ41k6VFh8GxfAvtq8f5bnX8_4lt9NAbQtg6bqqqnJ2JfvPQSdewFjcNhGJVX05W3pxnyLNPsZitcMBmsgiTEWroqj3nRMdO55_WIjGdA4AU5gJphZerAmq0NNqoEVKeA1Jv3rYszrVxQ31wyt6_q_8T-IR7e3ID2593AAF2Hffkakn50-lKiifHYcWZ8CHhAQyvmTXn6Z5Nhl4HFuWvOrPKv1aP8Hw9W95-COVuytQbEPWvsdq-DRm-f4Bz554IZVdrZZW5syBdYBJjMBmQlmUslzddnJ9-tbPmiHrOL6OAsbS15d5r5kK4Gr5aKOKsw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fivuzTuf1cpEqTHYqo43Jn_4tjKBqfQoBIrXmDZH279SeapTo-IxUWUDTRMUOdYX6ZZNCGCWmilN1suxnnT_vMC8pOKkmU-AOqmZD5KBKBLs11Lhc76SeIodsAsgMb7Zhp7yXo21n4dOY6w3Cd6H6J77qGMKEJYR8a5DooNyII-yIKeN-5tFsALPsBv9rLSng-Lo6-N_Nz_4FnrslpBRXmPNeT5qjMpTCoOARnPE-2qlNJPxAPyjZbIa9w6nBeulS8yEspoHoOrVFOl0VORbNtsfxOSlDGIX16Hck-4ujLQZpK1S_aoW4gwxuQ10aBeeJ9wCo0ao7CH7q37dieF0SbUq0tWr3Mn-7Py0d1uEyHFTHBhFz7CaOci90-cWmT4eka7VDuGOdmfmrpH864MWhnB7QIp3ay-54EmZ7Qy1q8Lt6k&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2evYlHfNObH6smxPlPUWez0helEwLYWIaui06lUctlA8NZxvnNg584YBt6U6GEN8EOdDt1TxvNTE9TqbPxpvRqXMxtoHlZZF3F2_NHay6PJu5ALpOidl6t7gVnHvEA6d7lArE_uScGKL7wiL1LMSMWY9qhnrJIT5NhNAnAXFH8i3Z7g9mWi9InFxYN371WuF8cKwuWZRmWEtRXWxyBS2ZIgub1lfQ0ivjO6W4IUevT-DJZTCWDjVL5rMBzN-1zlhr1pN0pX24odvovDfknF93t6Sl8Xpk7RJHax9wCVYfDQ_grRFvzrWVJKVF-RXiWQ0HC9syvxwMNZwphqn_VDiiF2RxhIjVyy0S3-4cWChwXuLMIujDdGGYaXl3j298U5RpcAK40dx6Aky2gbBX-b5DUkfeK48mnx5wDhckMmE5U&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dAXw5bR-lP6GmNCSSQAcx1hAKnnNIfz7bkrgyaab1UxQffBtHe0V0NARaTA56_1nJ5aB34GE7xPNbbj5mUZMdbfj5GvH7pS3p-xr2TH2E5OXcbBiXyGxy3NWbTLNx-ZjXmrc6PuIRs-KmPtYbr4-YMYP2GNm_Kajt-EoMI8yo3aEqt3k4hrgL7bZ8BBLUlXr7g5AXpcQuXhOybwnliG4Nsu3N4DSqZf8M1bibT8J4ibZUJ1UOSveCpwyDOUkCsn-0-UPO-YCAkNwyRuTnLInGpia3uzvyQihoH4qyXKiZvtd5355zkw0OHk9LbAnPJZGjhj6qD-GDo4R9DHGp4x0jYUcPkVe4osH745qrwEA3mCjqD55q7icGRlYUuvVRH6XhL-pwkgKaRvTR82z30uBN9n0iSqeX4q6kJ-z_ODx_nlDEd&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "STEFANNY FIORELLA DAMACEN ANGULO",
+        "rating": 3,
+        "text": "",
+        "time": "2 years ago"
+      }
+    ]
+  }
+]

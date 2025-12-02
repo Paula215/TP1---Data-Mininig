@@ -1,0 +1,29 @@
+[
+  {
+    "name": "la catedral del licor",
+    "address": "Av. Tupac Amaru 637, Santa Anita 15008, Peru",
+    "rating": 5,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "location": {
+      "lat": -12.0418595,
+      "lng": -76.9780727
+    },
+    "url": "https://maps.google.com/?cid=2149621382306870885",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e3OQz1k_NH2VOwTG_X2rkPjuvWj87rnSqxKtJA8x1ndkFr3nf9Z1X1ZOW81mfLser8DTjAXlYv4dUP27uWNwzhGNh3ZvBOh99qTHRrekRnSb5sh4vvdlRJSpstMeVn97wfr1zi1JfaNGahO2FpjmPxgjpPxZd5P48k3tQxRh49tZVqiFInDlUrfCxXCuIOLy3TYnNMznfgGt5I-fRbuycYvJpVRFj5VRaxfNkj14ImzRNI6o436EACGHWSpIRtraD8b-LD7AAM0Bikxr7e6aM0xHC2fj-IT9oeUP6_t56WlJ5C0RjnAzsfuCRUttEsMVaGkS0tLl4kAdB79U48pdms-9KFqUA2YLL_UEJe7fG16W2tEws5a4odrccqJV9OViOYSN0-TKr5V3nkLwq_DKrwVg4yCiUamHRZuCiFXIlqLNcoU46VK8DE_VO0WTq6&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "arturo hilario andrade",
+        "rating": 5,
+        "text": "Liquor store, soda and assorted snacks",
+        "time": "2 months ago"
+      }
+    ]
+  }
+]

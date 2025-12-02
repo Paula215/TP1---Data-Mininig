@@ -1,0 +1,166 @@
+[
+  {
+    "name": "Parroquia Nuestra Señora del Rosario",
+    "address": "Los Cedros 1126, Chaclacayo 15472, Peru",
+    "rating": 4.6,
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -11.9772192,
+      "lng": -76.76545279999999
+    },
+    "url": "https://maps.google.com/?cid=10358931211285434572",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f9OQXv8EDjWD4E1nsGKgM3pIzgsKnnkq2Q8X-QD6xQiJAdPexi62nEuxb4pz19qNaPfbLIVUwKYH1RvpsOku0hgEBYl9Fp9-_zX2IphB1xvmcjAObpl9UGztyvY9nf9uyyk_O0HtTkHqUZ7aMez_gc-NdOF92T-ous-mseRvnip9ej1B-f2loCTxPlxO-v3E7wAQ-POhLNWHhVWIzbAkwEK5KbISoMCxF5mRvAkcD4LztdRv5a8UJVrme_j2gCUEfMtdN9QVDNu9F8o6cLMdqE8i56dm2YakNtqJcfVDoFE9ZCjHVp6PH2pRzRSSLEC5ic-pW7Wtk3Zuk2JE7g8gZxFcDnwtjYyNVAOHDkXEtsPBKl9U5msmEsw1-aebo6_QdjLHkoBAibHZZB3PZRNsF8B2biUAW_gfk2uTYpqQJRDw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cTMJKwIP_PRe_u-glLM-NOj0NMxhrHoQrlEdQZNnBdLHXijS33ZGQDoBjQpaUSyDsNpZQVx98Ltl6z_65RJh1sF1YyeyEyAhwniyXUQt5cmUK-KRogYWrZBo1IHdKFpsz-dehV-fWmkMPW5jepNs_3am6F_KoiyBI5knSWUjmTYgCzdpVJw6YrLvb_luF27bo0U4Up5ru8x50EYzYW9oEDPPXsRdh4pmw1TI-Ai0hcv5u9AFYoSpeeMILcWmdoHW6c6vOqUXC3I-2wV2_Xe3xQi2lH8lKfpPlmenA6Hg0mMWToLLi0waBnl9hmcDTs3IiWRevonRBG4HoWEn7DEmgpy09mHXl5D09WaohHr1dPlJ_7sieEkBFd0LX_XQ_7s91gWoKxlsE3d8lrn-3fuBv0C1EO6lViPCk3eBQ2J6Qbxgmd&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ceMIj0ReZDNjBlkkvZg7Hb7kxl103zouz6Pc0pqhIRO50vWFqCYa_li194engkEg3KTOVWIyLGFEs8fsENmh0dUoyEQ-88cwBR8rPkM6FL7JaDkxHPJOuPXy9p32SMSKEgsPtuyqzaiLEZ_lwQ8hvlpOQEUrQCyEvyb72u2dbLE9WPDfbs2u4z9-WyOs7rQ4jNAObSa6OM3Lg9vzrSUw3dyVHLiGG2esbHzBx_xDMKJsYu1FHD5OOU5OE-bHh7Mr4CfVywgy2Yi5RfTZ3ciYB81Oi3sqE7_H5uAWKT6VZfLYuov6zrVS2CaQ1oOFFkUDSsZzYlNcj4Xp_BcebDrWPvXIPSu05JRHH3RNB1JiKgfw-s7MrIP8fOdTVB5MMkmXL30fACc6sP60CDu-b3pA_FR31v1ZC1_4yufubZWmkVUA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dz8vI8ItF98DJzN2HAn7v-fe4WaF3b1Zx8gqPiuhjoj7MGaMPrPiszW3hhljQbXiFQAYxUoxZQDQDWDh-PcJfIbp6fpFNvuuZIvdyPaCBZC7SMo3FZIgjLglAy6etEha8z7NFPV0ukjuvRBpQbJLCEGNinvP2WfpJMBvdUdPGlob4tZmWoD7lNAkLolTC2zu_SIAq-ko7ZliV5QMKBSU8vJR9-lROGCzEFoXnjvYgCGzS4GQCrtr_2UwHFzX7suePGpcKpwqLa7O1uteGEsdM5MRQhoJ-auMQW5uNZwSDTQXghVe7sQIPDR9p45A-4eNZJYd-5sqUgiguQ_hG3EMq6CELM8I6A5ws9r6LJ-Pmv3slccfjqB8-vRb2TJ3oU3o7PY-2ksmtmn5SstFl4oIGX3qKy_htWeiF2gj_9KU2QVNZM&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fVu7YR35QHatJWi9658Opi5IMDve8tXQKqPs5ZeqEdzhzhvHScWivhkYYT_al8JygguRCccL8ueF0IATBRYJdhZiZCSUEwE1mM1yyGbPitr35B1PIT3OCSfPJCCDhIEcNv6WQ_eIHP1jabuCjWX63WEJNxyvExiVzeaNpvoS4vHktNH_Oh-ZaZDEQktv7PSrwo0rsWxyS9vMr_cICOTifLEQ20AuzMWEWcHup1RVvNQ4eM45eAVc-NprkyqU5J9gUzyWzVz6h7XeCktWooTWgAxj8pwmSe6oGVCjwQzW5lcJcYktbDTc8ePwNEOAXw4q8egD0S-06rOxCDnHiB84mWp98KVzvbBTgQVX1FOTSQO6vOf60Iu8I-g2RMrdAEQ_XqSVQC3Y7bVhwqo13QrnUjHFfCaz_fN7gDLRI84ZtMhw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eUNIkqcgqSx7Lt2Bw2pgk1-1DU-4ZiCjqF9HONfGbymKgTYhO8B0GIl3_BwBuiniBWC6YVzQD7FGYHFoezm85oQYqpgpM7qZON2I-RdjuWcIozRUsdl_ad4eqm3YuIRuelfbnnbYDvqQTWmHtAapegMBUvHxwdds7G_DHQyOWdVygKOFnIqLVaRgy9i36zQqR2NvPRfzkHdZFKEQhOJWYxQjYSvM1-HHHEOKjvVzRxFCDhIV0vUKELuFu918S35xj2uLWgmWMQezGvTZTuk9sQ0H066OOGTsWGsOzRs0QQzpn8YAhN2TptrNqiErkRSnDd_uosbs517GaYTLuJ-xrtP83eoabS_dCQLwfDcALVrjAyFR3o6EIUPxVIa3H8yh9fw4f4cKAhlfVC0qGDZyeFqFkwmy-f_-67LBo3etY&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eMHzh4t0epp94_jNwfmhj2PKXD2Y9RgQMi6wODEiBZOm803fxeHMPH7rX1MTePVwqbxk2qGcdHzxGJqAQGFUW6e6ZlbxbQd3CIdrDN1B_Lw_VLMSubCCDbaiwjuAf_Ae4kInvgvK-IV2Ezy6lICERJ3mjwRPI8Raa6PInU74xRwLRwwGxITIJqlOOxLD91EOXmHlYDfylFZcLMa-zMwD5j0IYYglnfcbQ69JrX-b8hk8zwayHXWheCTehS0PLT4vOxg2EYvWvU10PtyJi-WbK_iaxKIrnEIS2DOyhrZP7ausZSGjyFh3hvHv7P2ZrQIt7DkOQ_n8ySL6WI2IURRZIu8ZI2cfpkbiT9ofMyVRPSYeb7ZHDgiR-OcYiH7neH8MsyoXPxp4Aod6hgqbugWs4eZa_-ImTtYPbgH-JAzANBgaTL&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2enJfBRuvvM71iWZZrruqzvtmUecCRwbe9BU8KkzUc2YE0cvAOyGbyxKcAZcBmgDxWOHDRSluCKjUF53_-ZuuwmMkv_iKA4vfB5NtrI4Ml414x6B4oAhSxRC9gfFQUF-EEWZgMLEguInH3At4jgzjyhIY3vLe95ehtzsCopJYEBj6nlBvWBX3B-Ck8dRnleNc2PfEX7sP4vClFHxQSNWjQUDfIsMNPIHVDUQ3rqNnJxtjjBMuN41CZ4no6g0AhgV2xaDYUFOloAP_mGh9RE15tZPg5Bq2MT8L_juI_g4blsUGdU_T2Qvv3C-deKI979BO5cpaFnHwwOezVoJiy7jmyGto3N7AcjOF-PUvvPoPdlCCLlysZ867xfn7Az-usp99DsDO_URuEKf96OmKnB1SoTNIcqhWe3I0vGd2wk8gVeOatB&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dxPJzIZlJZ2HuGwf43KNfPTQBHB0qqPWOEp6BawSV4DW3seLQIDz8PgHBASRU1vW0vYpR0Nl_cyfhhDK9PQWV6Gbl1sjgIgBAM3jyQqp_d46ihy7q_hhuiy2Gb5uXAbqjWLqk5-4ffWqeSL32EyHt0Hj--HKGgdFMgb0MUwS_mcgdZaGRPAERBkKpAgloPAt2oNTM5eBEFJu9JmTcPBMex7oKSUhI7RQSFaHc5--ai6NCF7fOpVoY9yoiRbtHLCz-HsN4JAnkf9cJi2UuDsN59O4uCCM6AyObegxflBXwklY_6OrAPjpJTkAsUMOhPDIvhtRMzHIJBpjim2C9Rqc8Ys1YjIpODd-jp2ck8Ht3N4PuP3C7GveQK2aaWcLEvLFhoKJdGA3EcP9ZFeIewbDPjh7yjX63hE2Rr_SmQd2f1rU_sGuX_b5sHO6b9Tven&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dM421vtPtxsdFpB2z6IZzhNtg9wNle_UtxD78kLRv_5PS507aPm9uhKmqNtB_fyDbXJhW1Txb0ks0lIDMwLtUvvTVQk-UrgN4W7m-yUApLIj5nko6gSaohPUfJJqJ1ujTD3AGnpwCcxkzglZsZoYgJUF8EI_6nROUcXZcvrRDn1Smb0AMf6AtM6dd86MWgf-WCL8TljMlsXZKqKZwb1L054q2cDI7YJWq4RA8kNE4mFrXMWe6kRDJ_qL10esVIV0D1mxmJrR3U-pxJU-yFUPiseWMDBALumwuaDep-8q3e4W2LEzQx7MOEW8pk52LGdZ7h5wi8Y0T48hGEmnpBzriUak6j6H0ulLn_O_uZJHiDHOx_Zf7CLehZ94-aUuRYU8WOO6gX4yopGn9QV5yTYs9ctygio3GiNpdrWpUl33lfnA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Constancio Soto",
+        "rating": 5,
+        "text": "Beautiful parish and great people!",
+        "time": "8 years ago"
+      },
+      {
+        "author": "Stewart",
+        "rating": 4,
+        "text": "It gives you a lot of positive energy and the place is very quiet to spend time with the family on Sundays.",
+        "time": "5 years ago"
+      },
+      {
+        "author": "Imprenta NEOART",
+        "rating": 5,
+        "text": "Very nice place to hold masses, away from the hustle and bustle of the city",
+        "time": "10 months ago"
+      },
+      {
+        "author": "Matias Martín Castro Culqui",
+        "rating": 5,
+        "text": "One of the most sober and beautiful churches there is. Simply the parish of Our Lady of the Rosary.",
+        "time": "7 months ago"
+      },
+      {
+        "author": "Lalo Torres",
+        "rating": 4,
+        "text": "A very beautiful and spacious parish church. But it has potential for more; it lacks a particular style (it's very simple) compared to the Church of St. Peter or the Church of St. Francis, which have a clear Baroque style.\nIt would deserve more attention from the clergy to improve it, as the building and its architecture warrant it.\nAside from that, it's very beautiful.",
+        "time": "7 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Iglesia del Cuadro",
+    "address": "Calle D 76, Chaclacayo 15472, Peru",
+    "rating": 4.2,
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -11.9881683,
+      "lng": -76.79725530000002
+    },
+    "url": "https://maps.google.com/?cid=17465605121641895274",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eTwExt2lOELUU3UX-CuiswDYsdgK3tgFH6bfW3e1lRQoMm7x3e9BUPftCrhTRjWJwEtt6fTAgxDp_9Gd_YPyoLQA4pk5hgSwGVN1aZZNtOnOUTXgq46aRuuPQTAH_FZBuez-w_KJhuxRFUiXbhyw1P9AGySiPzYC6xAqEa_lFs3Zy4e54EzG0vYLwdW0JLIYPupwlmdRjWbo_TYDULmVPzhQrDE-0ew15G8JgeQjc5goFk0V7h8wED96f6MJ0RdZxq3ZSrR8NSoTljL2vbL5Z22faTFU_OtEuZqe8SvNLe2Ud3PLMseMeJFmQva8qVZ1oRBMgtrSjThi1l8V0BKnHIctfPuGN-YiyQPJn-uymxevAmzXZMFcvB4edlHwf66RlUGMdseM42jAcjyRYbO8GWfEurcYAc8ADZSSKRJwzxhaCR&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d8FyFUyVJ5eh-uQZA3gfNYIMWIi7p9KZtEbWdHO9BVT26k0ZGd16Zk2Ua0Ws_rhpU-mWYtbCaQiyMbl0eFPwvSTB3aLczLwsd96osKnRh1llXLLraV4tvYGfTq3kAe-W_6ukrj1YFwLhaEohrsun0gB5Titti-e3mYlgzOY89Z8f2CqSFtdTCiZabqXvzu3dFXHEYMYxjlwVW0dPDB2dXEcQNaHAkigoBr4bCUG-gMeYV9OXnITTI3znGFam94ZTZwpxmxODJgCwsETgtnXbFupSEgvflWKpMk1GbSBm71QLj1oC2OmiboTZ9ME7GoTW8iKKL40E9p1UIy-jIc4e7dU9tlmwcduaUDP2TcmCGa_zvP55Vrh7okc5MsA47vczcno3cLssOtf1geWCsajRhLzOT1TRRlgd0Ry27mmlp7eg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fal3EUosSsiIWUqUr2mwbuST3BymbCFwQNqVpoo9QMccV56oysOVdmd8qQ3ZRtwjmvbi-HtvmMNXALs4UPSdugklgj8i9vGtxO6YYqfMvZkEXXFkzjTuY1fCuhBqy8ka4342CZdRxv0_hpnFK1ukxQdLJRoZpe_5guP6FKcVkKu5keJEhsrTBTA5ejwPlZ-Nrox2bJQLcBXjjaAtmK-A9okbSeX8XLTtmF1i8oh8pefTnrT6PxSCM9wvoOctuF7hRSCPE0Ci0Ia5PXX4f6qywxGwwAOe5IEehJ44PWuZ5Vh5JoM5xsDru3SGvcthXj5zMxsQFx3Ix0D0OWiEoZT09tex7zZSH9V6iTUp7Ov3uU_AEQ7cDIp6VWgxZLWBfPyXhYWSI-1B2AowKBla07gkjP5z825YiJoh1bfivrfiVk8A&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Fernando Alfieri Arias Cavero",
+        "rating": 5,
+        "text": "The El Cuadro Chapel is part of the Nuestra Señora del Rosario de Chaclacayo Parish, part of the Diocese of Chosica.\n\nIt is a beautiful chapel with rustic architecture, predominantly stone and wood.",
+        "time": "5 years ago"
+      },
+      {
+        "author": "Nicolas de Pierola Guadalupe Gomez",
+        "rating": 4,
+        "text": "It is a quiet place for prayer and mass on Sundays.",
+        "time": "7 years ago"
+      },
+      {
+        "author": "María_28 YT",
+        "rating": 5,
+        "text": "It is very rustic and elegant at the same time.",
+        "time": "6 years ago"
+      },
+      {
+        "author": "Silvia Horna",
+        "rating": 4,
+        "text": "Comfort, punctuality, good spiritual advice, family spirit",
+        "time": "6 years ago"
+      },
+      {
+        "author": "Tropical Records",
+        "rating": 4,
+        "text": "I like the construction of the Chapel",
+        "time": "5 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Iglesia Ministerios Vida Chaclacayo",
+    "address": "Mz V, Chaclacayo 15472, Peru",
+    "rating": 5,
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -11.9835884,
+      "lng": -76.7792065
+    },
+    "url": "https://maps.google.com/?cid=8560899819220304529",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eSobB02vBBtDF4z-hyT0j9TN9aSfsAMKlcOfgY7y1saxTWh0x6AP0CmYt69wFxahp9Pm6moSZpvvtnchqwxvPiFFZuC4RQfEHWozWh1G9VjceAvcCYpEDiDLCxZgH-S83augFiTOL4rG_BwXI6PLjd9esUt5vBYiI6-tQO8BcUXHGplku-x3BzaQlHVTSRQKTg3ekD5yGGNfZTocjoGPMd_6wbQEImYCbVVWZNMtW4Xc4z4xIed0BTFk14y5DNF4tJiwv1V9Xx3bGPUgmy7XMU6MiD8i3M5AFc7Vi-ETZUIg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cqL-pfms1sIWlVlDUNfk00NZiQe43bCIPezwvskRqjc8zWY7UWwRbHa_ewpdDmMIDsPoDmY6Q4kmq6kgxUTdg2T6W7wmXsy7cCZs1gkbVScSoOrk1ryR85VTfBcIEs8HS_JQMoU_wvdwDwaNPcbbeon1_xBMlN_w0MZ8hWLsuQcDGZvHBbuQ1mP4zzxHJUaE94O9Q0Q4dtiA5L4f1BDEPEiPMkaAWZCNGYVSX3guNvr3uINQwgFoNK-98H6ujohrb9hIPTlVaztprHkdDbR6Toinbp1Osz2OBuEZokEZlOX5nsJjCO7u7mpBSSdlUBZMWV7VHI6BzpB8I8Ol1wkqAG__Bbei2KXzxOZsECXBzWfGGOXnR1AKa-L3b4zpgBY7OdI3V000PAGTJqAvv-AUbq6cV2d6aqddOQrwkARUo1BeGRu7sfcpdJ2oTSBJL4&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fvUNTSxHgJ0fYKeH7E09p6zzqay-eUKH8RPDDP8XWMuKJVEjyJpy7EWq0DcObsJ7quWAryajnSdLqcEbOwNe1-o3HAoDlUJdaAyw_5mht1AlD_EVLrfEy8CFT-VzStO9mfLtU_-FZyToOq35GC1rNnvphM3C53t1-TbpqxcJrTMFnx1PrzRqWmAyjh7Be-P0qzVKc9nkpDLytfXWpDDNUh8HEmEDjDoREyx9PAQceWlMRcuvGtq7K5l9NFzL61U94G4EgZ5MSBfo079St9iPWnsZhQnEtiEXOV70swmCvTMExLQehb5md8mP9bZjAVu81e7UxH83jitqreZA7m_dNXdA8bbw37POPkahcTE-NPhTMDsks5EfCzFTLdc9C-8JGY_SvQ5W71YSHRmMx_iW9tzW7attsN_0y73MiV8G1M5eCKlF_LQ2mjKfx0yw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cH8JmVUSQvuPnXNVHEQvZp3IxudjaIMqpzik7P4d2in8WD1DH0cO1rAMIh_r0ifzzDrYxI6v1XVNW2hCs9DdV4a9bRp4IP-SDDejzeHtjiIENjqhYtrgMrKwqDt8BSFYtiWEIq3lK5Uonv_RlwCcB40dDvBn0rGWUSduxr-dqvpsxT43KyLpNSWNqX3SKxsPDbtfh_sKDGz0CuPchG3fIMPwvEqaoDdAMNpOjN5QcVA-8aAUaykUprQ_Q9pyyKSiTpWv_wg1Fsm4_xUjiQG_7Lc7FeaYPxLBuY7Hrl4HZy3bndFjElEWvyZuu_xi6wsQyfP8zHNpErQfl77PapPcqWVe94zLs9U4pMbRphWrkKdnm8nX71HSLV6Jf1Bm2LRCpHq5ZFhrz--nOeRTBOhlIJtzGjnRSPWckfedG0lQneFqFxNBUfpUqBAgdMXEeV&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eH_g4ugUBJnarRMlG2S1tQVDMYf7NoCOZeLvj77save0Ju-za9Vf9_D_EDgNI1EhULz6p0BfCwn-eB-f0cVmvsmydHJbWdzhdrGiVBiCFGQ8VyuVCY99R0Si0t25LiyMT8mHkPf4_0ysYNREiycSUTx8GrTGm0tVMXgG0UEHc8QoBSm9Y6C_PvMLO9QXvVIIiQOIJnXuLyzE8YnOl1hl0JExtuk2emXRp_3Xf-1lo7fRfXuxGz9mMpUhMt4R_ZjtuieVC4DM02fHg5Ua3eeASq6QkYwS4l9T2HteF-ll2NkbY-M_NjCpBWkU-dSGour5Oi1RNKKxbn32sEdILBPX-tjNhteMXZZP8So-HtGApU47v7HymWDQ4GRLiCD6imsGcKv4UobbBDxei1nY1SJHslbePYsM8drtJ9BAGSzO8FPON0wagwFXvOESM7rE5S&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d1-i17cRT6Shg10xlkonSymGWRXMwfSUrJT6pToy_vx_MLV8cPjuG2AH3JDqx60vnbyhrvLwnjvQ3ygx55q1dmqQnUOTDPvzG8nu_v4hcPoXr2ufKp6il00t1ZGjsxioy8b9mJBBzokTlvxKG2weWW3X8dkMM2nr3aPRiD7aXK_9nEZi6aLvhdee1J-AK709Mn67D1UnvjWBkHn3Po35P3-GRQ7AsZey4ORqP6sw7l3e0L0XjlVDi9Rn-nFq9zKB2SN7PvSQjFWTp1--qI9nhVQ5GiVtw_oXXYwQgWvj9UKTt1-xr27vPAjN3lrtUGuw-rtbqrh4fbLQQAkjNl5JNTMDGdfQ_tXbXXColwjNYW_o3oPEhne5aAx7m9lfMIr09YoleQRzYMwyyfQ6fD_kCJpIUUsQUiakKQJetr1g5P07ncOBaC3SVsDkQCNESn&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fQbbCHNqVsePZXI6OIrzZEnAy5sp16LOhkIoZPtkOcgu91JiKqU2v5FxufVX6Le4hIEmkA15rhGkLq0z_DGRpQth8oD7UW6aCCZ2AFRKK6uQK9Y63s8UDFp60HgYApe74m4YNhS7JIyFA9yxYzMZmC2Wh0iY9UUQPENdzHdsdpwHu2VpC27C4m_U7XFc2jtCWbEMTLcKiJBBrIP7jy1yES-1fXEj2mXzBid97PEC_vwGrakP1dMYF8cUyVnGVF5OY4IYOWIL8PzmfobnR-2KnKm7UPhz8qTnYOIyxx2U4IN93vx4IRgepjR_LZIt4yQM0lanObDP3zBA5YDaQ4__NIl5v8mOgyDd_ry8Hc5icqcbyL5YJTYfHMx2YRA7NUBF1BHUiNfoIjv59YfkXuXzfF0ZHLxA42bWTtdiYaJkmviPTZtYeRBWH5f-us783c&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "victor joel cabezas loza",
+        "rating": 5,
+        "text": "We seek to serve, guide and share the word and the fruits of the Holy Spirit in the life of every believer... everyone is invited",
+        "time": "6 months ago"
+      },
+      {
+        "author": "Orlando Zamora",
+        "rating": 5,
+        "text": "Excellent sharing love for neighbor and unity",
+        "time": "a year ago"
+      },
+      {
+        "author": "Jose miguel Santamaria Relaiza",
+        "rating": 5,
+        "text": "Nice place",
+        "time": "11 months ago"
+      },
+      {
+        "author": "ian Shigeru watanabe",
+        "rating": 5,
+        "text": "",
+        "time": "3 months ago"
+      }
+    ]
+  }
+]

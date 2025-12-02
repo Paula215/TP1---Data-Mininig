@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Galeria Arte & Madera",
+    "address": "MzJ, Av. Solidaridad Lt.23, Villa EL Salvador 15816, Peru",
+    "rating": null,
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "shopping_mall"
+    ],
+    "location": {
+      "lat": -12.2014133,
+      "lng": -76.9344047
+    },
+    "url": "https://maps.google.com/?cid=4939996484625801694",
+    "photos": [],
+    "reviews": []
+  },
+  {
+    "name": "Bigotes de Dalí",
+    "address": "15058, Villa EL Salvador 15816, Peru",
+    "rating": 5,
+    "types": [
+      "art_gallery",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.2017561,
+      "lng": -76.9341977
+    },
+    "url": "https://maps.google.com/?cid=15600211638027574511",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cZAqWrRfmrS1tFdpEbbcWGQrnBIUF5C0QZ6SxqTmdOyNYdXCrn4gV1FAJrAIC0HX73cgz0sHH3NsjOINl4tFwbPIbbcXaKyQiGT0MfCipzSxGXiuXtckk8M0Wf0jdJHFFuohG8fDFl5udEHKRphIE5vX8mBP4_6z0UlFWmJP8ZA_m25UI9RHGb-ZomVWt2mx8pL5x4jTVjzWAkpB12UkZ3_Q2Cw6SniBAy4xfMFCM2An7FIrc82HT01_ocYYAVXlo4gCp8jkq5-P4_cKbkwjM-LhEaVQmSmVP25-zQxB1H1K4qBG9x-m5XrePVDfucKA5JEw5JasEjbF1ADZgHU8ZFRUVkIRBgVtvlLpwKa2VrBAcyxIitvS0IoU6z-RCG0hcOhh9i4fIxgk-Ypu30pxFtsEFS32_nh9gMS1yvoV9klSON&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eLPJrFkNsVrOWH2NfZFVksXbZgsmVZdCgwueGPK4D8XrJMXkiwiUbcOzI9IjMzPFpw0D5k0GEXSeCCb7vgZe1jdvbgnpo1eOwjWcZr2lpEIx-HfKxrL_uvp9SYWI795YkTmy1eS6nb45bI4awOYEhhcBXUL4Ng3l_KhjpO4HRA_g-b3-XbCjT_id7hLfZ7Qs-fKk0EZKH0n6XQ2RoFMaxqdEpiR6pCAybh5olkJ9duhQtfTDxtggPccnZlyXm0A-Ukw7fokPW-ng9r2H0CLel84gFLEFQOt-yDKnJ8M6jhyuz1ByMpUbuKYOYkLpjOVp-KXnyCB4HriOKg09aDAkubOwkh9haaXikXOAOVA4jtqqGXvII0MptlTiEIVTREKx-hC3wM-UQd2y80Mflx5DM_IFNdHxAEyfhwJJZJ4Uj_3A&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2e97bhbo7ODYjwMbpqeilr1Hw_BeH6tPYlHx0rVNJvibXt6FF5ElRnv0Yfv0couhF5cI-VVD8I6tbm0DURHcHsQ5EjMDKWOdj6MwMFDy6v4-Hnv0fMkF4shL9PGglJozMwMdjCUJr1eRZDFKfK6nzyTFKho1J_hzKwOwqQAmypsT64sXrkzFfeVOBvFQ9q5YG4hvrBscaW6kuNQEMzK36KvMMxgXG9AWgUFQ0U6L8vHsOqOTXRsJlcvEErXrGBG6vqgeKzURxAPiWpFYbEti4f4kpDvpFq64ZkzGVlac1b84A&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dd75MevHlK4HoDBIcYCPSaz4IeaFLmekVYV5PXx3DD9RPYAU3y4RBXP43l5-iXP2W63EjNmA6uXY4vRaVQy8X1T5ESaLlS3kKBMiL8ARzfKfU82ojbQTtrKkHejf4v955QRgMrPRFiTpLsMruAW60Uedh_g52eOq0VaEsTHilWutx8YrL5qjNZiHXj9K5THlGAychJIQctnDpFdbM1XyJXiO-fOvQ3svRmwOTVwnC1C1RW_xzZqatfcUyrJAzZeHx7StZLumpb6Pq5FATfJlVKzJP9nsHZDlM-BTsJSnTBYg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2croy6egJHi27auOLpsbRcSyuBsafSVCDcygQw0jlxUCSUCUj44hPiH4KBfCrMNVa1dxBRnz2Dssr737cMzkkZ0k5F_5fv2eeMa9-XRZItjUbJtIABTs6zE5Z2BLY8hcLs-wcGq3184sBAIUQkFGgv3DVaQs72mW7Xq1hRBp_Jgj4fVsGQ5VUfZqZpR13oO4tZ8fmDlwhopTXefEZx7MvP_l4_xe9ZaRx7J3lU-TObs5_hI94n9OmMtIYY5yHjAVTNrDdBMj_NSQ2zSOjsHqNSLv7OyrZFMhKXuNglIuMrE_0dylw5pmv6fUKU_yXaGPW8BB45S7q-VOIPsP8xrbvveAyP5oAjcAGN6dwEo-bxzHYzk6qEne0a3rXn4VDRwhW6PAkB1AMY6I9Rbh8mMYgFq1JKzhqdVgcdBvOhgd3IaTg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d2KWF9Syp4ytWpFoUQ_gBmbKQHpu_dfjXO7ivRcwad2Jt87Ojr1MX5nGOrC8cU2ZFmsghIYZ8It32xEBLIG0q6nW-MNZZCK2wwQdjLDd_p2TGYcWaQUp8xPwMPEvyLJpDjKA8xAGdtqE0i2nYhLw0mXJnn_nae5tMpcVfGp8YRiO7x0dhPDWpztWMdGs8xQ0CBXoDb6uN3Tg5VRxyhE8yPby3x24Bz44htnzHa_Cr0w95oIkVA0WkTf-BFQFOzq5CWiYqmx5oFgr5Z5kar3UHcAOmClumlccorhWoeyyhvSw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c7viqZCQ6UCWTq4bvT7hTIIfVGYj6T5NlxoCcSzdYEAmQfyzOR_j9hSKK0KtbgKuQKIje_tk31g1rVPROht0qJBWnSRq1cz-RPhMT-XXl9XgZqv2XbTwgRwGkIN8rhx_mb2oUEt5lQ-zPYZduavfIsDJkCKYrDyrrhtS_QKMIOX-vvk5tzvTEfDhLNxdSHXttE66dGerSQOCEU3vlmSO9itrZVZO9NjeFVHI-UQwOXb5SjdAE6iWCNQvfO56Zfj6-Fqyq5OMfJjFqDuXayy2rjXUBpVCCHbdpD8uTP72fzMmbt6EDqTur1b2jg6GRxr1IEddPWRbKKnChwz3QcLvnrJNi8y-fl8ckSWsjjRlDhRHdyoiavhZI_M6Y_fwXexGa7zXIX3gw23UIhGwubr-KNOvb1lcmMYxvNPCXrdZXzmA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dcSjRMkDqtclOsAITmKi6CXOPhnJ1UBSSSZkfKX9j4JxkTpJwiWh4mW7UNQy8s-1N3zdU_NxwI6yov7RbcN5ndDdtgHs048RnMG-oSYmvY3o4BMBn9isFFnVga4lUAVN3RmYbm4f-CQBlEuWr47WvHqr85kUq4g3DIWWsE_Agxl3kmAS5myf7ytoxjIuXrtrAe_ir20NsuVYeK6IN_Y_HFfCDfx4XIDAyb7u9nW2_DZQXPqhNClJQ3n8ED4WtU-aLp50wJiPSQw53VCOjYNXFYgoLlUkD8ODg6ew_GrgqyP5dpsGKIFD_avOmFUHtPXFwXU3ncXLqjTa1VQxGzmDVi3rmfviIKklz5ErRxKdR1Sqz2fU73i9PPUjFJccGHDHqJdJMFYsx_f8kalxZ9Vgtp8F9d8TYupNYbp2tMu79__Q&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ehahPmduXlWIdT2r_WNTye1Ua-GGADiSSVkKN0dXe5bK7dH17ExDDhLha1uYVi5M_8DNaWDndTBwZfzVmAm4CQo1E6bYTDh-0RjpNU3O3TlLPhBncIAxyuAO8qFtBRF9ynjyPiJ169kjGHrUup1NdOflku9ZFrts6Wm1Ch2VBSGSAN8BOor8L-mIBCTE4fAQSZEPTquzWkY9BqJIC4WgBpMvEamE3yteh2QB1ZYAAKnYqzIf52_9qDZB_ztz6zt3vNHnyCd9pLrGZD49QeKDQj0Cn_8fYxkJJ7SayE0187PCX1igP84IbvsPvktc07ylQ_QK8ShQamE9yuYlyv8-vIezmT_sod5f5M0Nnq-JZJZZ_VUhpC6zNC2drUTUfmqJICQlK8ABW12yEIh2ObNOx5uhrXdf5Fc_o_U8ta_HVljlKr&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dUswik1RZpYvsBbf2jk4t6RbJEluSaCj6tCAkvygivZIn0zk2ASSIhA3B7xABoyKHfbj3jSRxjONtVv9kawpHXQO6s4vV5A1GlmlAGXQJyyu4125iSeqWjktltckW1_ylv5FoAzdHwYKPm6uLnJrBZUFcHJ4q6Munpb8E1lYb1sCLLTG10RKgbaf7nJ04n8jvEhEmTTuljPE7X9VQFzqh6yu9N9ZuAG8WxLAfGCLPSG_6a8viBe3QpSLoPQjTdFwgD2Nlb3LwkgpFACxu6CwuODGwsqLl5RFOQqM6qgW2PIg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Luis Enrique Loaiza Clark",
+        "rating": 5,
+        "text": "",
+        "time": "a month ago"
+      }
+    ]
+  },
+  {
+    "name": "Mural AylluFest",
+    "address": "Av. Las Lomas 138, Villa EL Salvador 15841, Peru",
+    "rating": 4,
+    "types": [
+      "art_gallery",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.2365037,
+      "lng": -76.917013
+    },
+    "url": "https://maps.google.com/?cid=8987346967887018109",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fOipPhyjv4lW0KLcRpqX7FrsWszV2HyswP3qWnAKsVGwfJSV7JHjZ_TtLWMmhojsNRopSn4JAhE6WnRO13Hs7Xo7w00kXGvAszYKoTnbxgmVz7QzN9LNlDCY0k5ra91HqutV-w5c315PnYQQbsCgBLDojoPOSs8um8mwoVUrmAPeoRsrYR6U_8RNHlDm7H-zt2eGFKONF3lHxvwgEp9mdliMj29ae148Z8LxoSR9cbW2patJpDzKqfPYcBwHOI7FDvOdge4FUYwFZyn3v2lFBYbOaBjyF8wWUGHzpnEst0tqX0_2KuBZvXDSpYCssicOhnkR0QtAcDe3q9ik9lmwHtQ2ILQIqsb1u7Fuj12XPXqpor-BTcIa3yIADWK17m4HCcXjRHG2qvOpjRxqnwNbRirSvaM9XRXeIvTSad0JLZMA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ee0c10HmgPqw-PP8PIFU629PbEx0ax93abMuBA4HBPRBHdzU1lvmZYMIbtcp6UlmfPS8lbxXB_3V6D8NvZ-YAa40GQYi_cEEOvuu7w0OF4JSCA4P-Jz-8kNHCd1Fsh9T_A9PBvidr7MHJl3vupU7PvSBv7I8TaK8z5vZGIoAEF7XvxyDtkCIow0hJTb7W0kdsWzMZ_unNkcr0VMrzKFtFRznku8rbTppVGQJgFasUg6NEkkhbw8kzJ2zbPv87SGl4ZpyKjPytzS43rzYWkuhOQtulOp97XTTF6fnkmV6gvfZRM4ayLRp0BG8OfPOLTlIQSBs3K0VsR2VsV1ncs9y2NDPq1E86LnY0Jzmn-PUft6QmJn2bx7DBWNnC2JgOKa5ZnRijzmC6Z33eCfNymnFpPWJAS2d_MXp-KH8352WcJcjTU&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f-hgYN4j9h_SHP-TwrMW-p8EJld6TRYAlI1UEtBWLZBMr65njsWWyvpejiPPq538t0BLX8HqnU86DrVqkRmM90O04K-epaWAyEJ69WyQrXlNIlWK_yGP6KPIUpwqdcjucFOnaLOsWLrbHYWn6fdkIo-feMTPGVhy5T9JBQC4UXiyXQ2ZolSC_uRtgbWL8ZJGmQkl4_Hhj7P_nLTaKAnflb1SJEASnu5Hu_hZIzEoVTxvru8nyn_rYp8gIuXvwv3YIwA3i969sCefMQTILycsFsnKHtEhntTxZhnlGBuY9801r1ltDVCSfWw6vMsrnxJBroS6sT03XMKUQISaUHmEttCMNNglYNSB3SsH-NPQeKHzfPDl6DqTOAdXE-XPdWSW5IYR7yrwWI-0lZ43pQgGr2hk-g2Kx1YrH6jY_cMThOQxn-&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fIDe_G4aDnvYKGh6AcyRvUGgOtXlIx0I10arHF7LNrabTFVnxRF0-5BoPsuu5MspCxQhuMcuB7EBzwBnrWMUGLnnFP6U60Zvz463_aws1casC-XcrO3ORKH-HUvmIThTGyZylMEcUTtSTN7mSX5g9BCxpWosje_y5BWhA6pNRtnqLHLoXK6dsB_U42AipYIqS465By5iHQ9b16FsRG6Akz-f8r3fRu-QOM3s1aXHvPa0E7z8zm0iSPMy6Kft4cfwx2NeTKGZ3qqu6nJEXvbBM3axkPYanQpdAkXVzeHVXPL0H9r44tdSlcgK1rSXb4l7_-6H0pibGxKV1Ge1IDu2swXf5ay1QY2Mlp_F-HZeAM1IsnCv-AWlWe6XUnbXW3Ez55GC-C2s0mCtOazZGb2n_xTNVvL450De-MXprlTwZw-Q&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "antenistasat",
+        "rating": 3,
+        "text": "Portrait of the perseverance and joy of people living in the poor neighborhoods of Peru, the painting must have been maintained, which is worn by time",
+        "time": "8 months ago"
+      },
+      {
+        "author": "alberto martin juscamayta quiroz",
+        "rating": 4,
+        "text": "",
+        "time": "6 months ago"
+      },
+      {
+        "author": "carmen ccosco",
+        "rating": 5,
+        "text": "",
+        "time": "4 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Galería Kenny art",
+    "address": "Mz. F Lt. 11. Stand G-14, Parque Industrial, Av. El Sol, Villa EL Salvador 15816, Peru",
+    "rating": null,
+    "types": [
+      "art_gallery",
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1976069,
+      "lng": -76.9367087
+    },
+    "url": "https://maps.google.com/?cid=1309568975016427120",
+    "photos": [],
+    "reviews": []
+  }
+]

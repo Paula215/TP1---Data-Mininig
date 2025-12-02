@@ -1,0 +1,179 @@
+[
+  {
+    "name": "Pachacamac - Lima - Peru",
+    "address": "Calle Los Cedros Mz. K Lote 15A Urb. Los Huertos de Villena Pachacamac, P4Q8+M75, Lurín 15823, Peru",
+    "rating": 4.3,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.2638001,
+      "lng": -76.8815224
+    },
+    "url": "https://maps.google.com/?cid=8087770572107127267",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fmldUybp9OyGUAXzxygpnQHaQ3S7SzQ03aM3vizg2vMxU19iFJV4o8LJ5ZZCj2uJXuvqYdvmLZHSMQ27kgHZGumRRJc6nLSCmvkhTAQhrgoh6GgizQivV2PTVH1HbZ72LOhdaDz3k_XRq1wSbzRbVhY8Y4YI1G008WUakQH6v8r3nposQFT9ojLoGZ0RCGlQxMrORLLEHGbbwWUECIz7l1AyCRqaTuwC8pOHaIKZyjnmcHkrTdR69h104_JKR1m42rkugJbLE6T2MCbq2GNKFS3ZDQ-J1_BO5H54CYu9hQvYJ3te-wRmwORnrrEjB70pHDWHAjhbPJiNjiU3q0LFiv3mbkxLE30tmHACH6OtMk_yzm7_5-YGD5rcIjQHPkfw3bIcvGR3HtCsi6vbVGPcR9hq4Hkc31OsFqKJVHUtvkag&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2czTXMSDXZmzAx73-266imbTC1BjTl8vBQ7zkVzBqRoP854wf1lyTRz4dpIOasUFBai3_2ESqHFR3JGzLO8yhZXPwOE3iriIGvTdb8NibYecnE2507xWAp7s_8bCLNGyB7sFQDvjUbgxarVOeNzmFNHQtWUc5_eLvf4AfLreUTznAeqHqaqRUptJlneBVd1V9ScFv9lvOPdKE00u1ejjqq6oID35_PMfF4bGuKy7n-oPo5uJU0UWHV1peauow0WXiOtOby6vW2YvUkuE7awn2tOpxKhuIv0mH6WhxPeirmb1AKS2_5RyDpaTedafXZigSnOy0t7Kx8uOQDmk8jAOo0nL259Zm7jPVu1FlTtIcURzMvl_pvnaaERThRdF9o8AqV7UBgMlhXyY-llPoVc5hiIOX0f6vmh9BuRSg5yhzVbn4k&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fDppTFLCPlEvXEvNHmvPIfS4B_IfJ6BtH8dA9wu3O1nFNTrupouC_MARA4ekB9EbkHa1a6ePNRZIelBplSCDgq-jQPcegCW6ee91UUlxnDO7uf9WaNdyKfZbDIHFF2uFgajnpD1VzG_yLkU8FyY-7ESVIRIXjKrhci1D-2q3FuM7KcvyBGlDs0kQvc9r8B9HNcvWX2OEmrlatL1tAe439D1N0ThNiUdwKqZP6tY9CNA80s-IneT3S11aURSbshBylNl8_viH5JLId1W5jGCRVpIM1at71o0O9omWn6QHo8t9ysrWMB-CrVqQKVA_pf_77lmftk1kvV7ct9F1I41IcLjMg8-iFEXjShquz2MuZvEOCwmrtPRA5_AwkAGehObKqz5UKnlwOS3mIV-wbwrM8ihsHWesB5FusabrWPh0cMBw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c8hsC_kcic1icQ8lXmS03LUxNCG71Bhvi4cEne7PwdbIa3XExwQgrUeVruhB7UNLHv8tyeIghKQGoel7URpSC8kCYj1uefPegWx9rOFnkgIa0wGXsV_JfuU7j0rKVW6QAyGF4Zpa3ttaZ787TUvIGKKPOfSJZDTdaT18_haf2Pt-l73nh2FHEKaMZnSVfUhyY2FS0KpN9QD8naxcs-EHbPZ_X80yZCCMa-as3E1wC6-gZQxN0yElyLIBNGCsAjhE_bZ_lNeJzOEcMcDPQrxIWLgXHR05Mb9ESsZpx2DNneaBnbHNOsI2W_wPhDJcmsJGrZcWhQRXFVjrZHl4z9mXuZOVzZ1Jy041RkxOBwO37pYRybRfvRTU3uzOBY74vv1pgOnv3JRhKUru6A0-39BbUw_YXJPEcAqZ89xNeoNHU67a9T&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c1FuOkwO472k913cgrLK04aH2PZX5TRW0d2gYxm7Y2qrDCfjuEZn0JR_Fs-hMCoQSHo92FXoA-zEGmUr6AG_uUesbGtIRtAAMos-OCUgxaYGe968o9ElJxXSaSCoNO8Dhf6OKIzX9fDW-X4opRBMo-oOZ_HKWryskgpMeKOYhnt5KvcZ-x21d_thHMjK2Fe11nH2LMsdDrzj89Ps7PKDmdTu-i04WUHO6UpIkP1jGHzZve-FtkFe9R6E8qEpJpDYbx6QX6c0SgJ87GFJaMgKurSEUx-3A7e8b7Aq6nl0Z33hgrL5Yvld0R8Gyp84HYaLHRHR5H7PXgyDMN7RB3us3tZhxGgq3IvDHarhsPIwBXzLRP_rAfMLvmhnfaZ_YO8liDcgWesL9s1zXIFsaGa0DaQyigGcR6hR9w0FUK1f2ZEw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cThnQUuvi_hreXgpRoWw5510BBu0mpXx6BJfUTsBhc-fPjIYW86eUwtfkqXEVMD5FyOnE_d-YNIGVo84-JktAp3zfNTFdtG42KUdaDQF5We1uYu2xqVv24htamj24W8gPHZxFUkUkWO6EeJPsdXBlBeM9wS6A84PmljNG1ph4kIb1vng8uFX-Us5G880BI7A1wRjumYsRDndYaxZ9l1Gq4_WQ_URGkFqTjoUyXtNJHOQ4DqN9dGNSNmM1XkOZjhnFjxkAYlknH6UEca_W3lGSBaUk-KRHaWVUlaP0NwLRWHVRz1g0n5VV5T0q2jw4rg25R3LKV8YHJkeS4kaFRzaTGbNIEzp-fbZnjsgLs0CNHH5XOlOau70A5gdNMq0Shq8uMzei6COPTLzOi8GfAe0v55vJGiFqB9OchbJLEDgZkoHE&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fpLHhu2LgUoecCZAPIpsSboVLLSBwwGy_7gf4a1uZ4LpVSQA9zFdv72iwPvKQWnHC_xuHJEyeCZ1LJrG4a430td7Yu3j2sKkXHcSHqnlM4EITBeoUd61E9LSn4hqT68BWiwgVQtdZ7JYS-i4RWsD5cEquey6GO_FKCm9xUT3wFqvEu6t8lFbT_CXMG5PDHNHUeFUJQ8bIjHrhMPR1KCNQK3xhTWg-pa8D5mJiHhLEYGCOba9FWTB4CZ6M8kh6BJVskAbeo5WXz3qZ4dAumBS-_D8O2JX-R1DkReDhQxovlp__FfKXQx_n39maAVrk1MnU5-p8t4D7ygzxr6erkyxbo4_Ur8VLOnmAUXm6K1wkXsOR3-3i_VE6FtzrBpOjaYe_MfD7bGaxpmlj0aviRrktwcHJuitji327JuAlOzx82BtHt&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c2FPb0Kc2hdLDw8tTSQGaokHx4OkEqh35O4gfy0fM7udiAgWrIXSA6xvwXl2mV4_zv_b9cOyPxPhoDYgRbGQ8BAVpirF0vQ2ysT-bXtPxVpSqT-EBC-yzsOweitsoLZ8b4A5VOmci0TRCT2qMSf_iQOQqwt2Dnm-_Nz2J91mg0hqQb6UYUZjSIWW_jXrNvDBTzD_BPHgDU4Hjm6Z8y4tDkooE_c0_V3Jb6Y37fwPC7J_iCXwQ1sKrcDQ1LbtoJtH3-gCqcZr8nFz3DQJaW2ErmqniroOUlc0mzhBnrVx7maIOajyIPSOdbaoshvXy6HkqnXuOAyBB7_XOjH-f3q9OocPknfFuA2MjOwCIdsFX5zNsRP3CeE2yjMp7ccG9Xm9JAQTWACcZhOCtoxEbUTIdb7YPBBswqQgOQE30JSHhTmg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dt_8IBH1CjCWtHtTqwmsoLDwm3NRD0AD_aoyYXsYgTjXeOzYfclYwemxnBcqru3PbELu7y9eEoN3_bImfXXK4-u9Gl37ZT6YvYDEiPtuDV4o9Wrxd7qms9wfv8f-MYD0dMgkvaOh-rTcLd44mo2m6qQqOuCS9ldlAunFgyqyvymj2e9uubHZGncAktkol_Nr3bntT0JAlH_0CGpcmjUl3s9ZoRRn-0HaH8zFJ01VRTx6O7I6qznGCV-C0TJEcf1tKtF1mpY74lmoJl1OO-yO_ZFIZaQ_176OeiuUchl-dnfmxwF3QzOMGC4UTrQLCxb8Fl4gG22rmODwCIANeeKTPomKQHxBldD0_It80_65rW-T1pGnOvS-eneYlhX93pYSb4MbY8HmqCjEq3J8WjdGuiYslhKW2xKrZpoP6Bfyjaow&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f3PUorl2i8mAywPRoMbwOS1E7VeJl9QpL_OG7bmO_HdmQ5DHIijaB-IuFRdy9H5-vJEh-Cxzbq-i5k2DQhRRJq2qb1J7t6qiibIrq5d2Vs_JVU65nMSVYpxaUI31zAARhLS91-EgsBcyJ-d0wWP7mcB412csL5T2kLJQOlfaAVpGNhvqbM0FsU3U9R7dRLiA5e5sZLnoTCxcveD1p5mR0vOpjyPZ-3J5AzKR8jqCx4Kf1ZayL088e_wjQV4Ii34ATzD0Qnx25skKt9ZXe3_IStSVOyrH6crLQYKK0nbeoiZzQTPhfIYhtU3lPhn4fkaL_bg5TAxdITH1tNQCXgDX_ztpulOWqF6p9B3e-zI-3l8IZag_-1HrpYqj6YgbmuS61ztp5nhXo30Rr46_-VD75a3PZR6JXD7gOF1OqUkSvf17mF&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "karla berninzon",
+        "rating": 5,
+        "text": "Second best archeological site in Peru after Macchu Picchu. 30 kms away from the capital close sto summer resorts. Pre incas. Sun temple, moon temple..",
+        "time": "6 years ago"
+      },
+      {
+        "author": "Yamileth Portillo",
+        "rating": 4,
+        "text": "Awesome",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Al Na Ir Casiano Urviola",
+        "rating": 3,
+        "text": "y ponte and I 5th to",
+        "time": "8 years ago"
+      },
+      {
+        "author": "SERMIN LUIS RAMIREZ CAMAN",
+        "rating": 5,
+        "text": "Ok",
+        "time": "5 years ago"
+      },
+      {
+        "author": "Evelyn Fernandez Huamani",
+        "rating": 3,
+        "text": "Like this",
+        "time": "6 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Site Museum and Archaeological Sanctuary of Pachacamac",
+    "address": "Antigua Panamericana Sur 31.5, Lurín 15841, Peru",
+    "rating": 4.6,
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "location": {
+      "lat": -12.255454,
+      "lng": -76.9079194
+    },
+    "url": "https://maps.google.com/?cid=9654978385847150627",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dN5vWnPkCVD4xm2SZGjziqxSBksHoU4BE68ghBac8Q98Bxj78Ci7CZOFNomnzgE-bGxh5aJFWpO7EcCtyFAyfGp8b5xfhfn1DwmTEn5_6H42UYSePhUgQkriFwMCQ-IXtv1JpMeBGIQP2olFLsL4DQLn0vQ6q7dowq9VaQtZVWSXxMjhQ31ypNZ1UusUswynDEk6GheI4uboceN3w7uML1Bs7dUBmNmGpPx5qJWiijcx0hqrxIphP1pkQCP1_ZPympbOrE9_I79gO6xDbojsoBvY1-YCgVvc0_Lt4yqZnxgQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eE-fg8Dt72jERNjBeJdYIt8fpnHaxhtM22o3WzlbUf_BsIm62BV9FWcmhrRx4T56OMPR2-6Vi6-QqpkGqRyCkLnfHNNsBBqi-EhwwoAmKRqa2C0B0oEXwyfVd-etCdmt3uKUZaYGf2jBup577g4RP-YHgCtnMyoaljRC--41vbTSiHt2oMP8RircRVkfkYgwmXnGR1Ry5hiyPwCMC4nczQ4NuX2Z9QbUwW3nPklg_9SNs0BUDkVdZsoi2veZOYGl1NQuGriYZwnD648wSvzuJxUrhhDvYwJwlHbrqvs_8L4HD_O3Wnie6mwYprn_LB--0aJx6WyL9PeVPxPYhz4cTAf2TKsqG3kGuIqti18DQauJzRSIIqdSj4WYDKpz5XqUu2sRQFbHtyNzW-1oBviFFuHjiD4vZhdsJHiptEH5U&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d3h9x_HFkPDOg7FNIIMnb02p7GZW1p35EwgUMJ5kJBSZ8Db2VXSjljH1L6SSDS4VhNAUe0H-AbiqzF6F1cU1UjHXi_R9DJQWRRNsvsWUtsCjt1--3K4le19m7P4d0B-UU6Zq_xQBbndz3okWwIJHjiAjqwX6zAIxmOiuqBcnVD1eWM28gimufJoq8-e5YcEJ0V9vVZc-hEGxX09hjJW7U2B7K1wGAk0J6g8zVAe2oZ4q9dbH4z7IbbeHv03wZIUC_FgZiKZm_kFoIMuIiI1BjUOWWc1pDCbulnQaDaerNq_dU_Q-VHgX2wOtInvQq9xHWtgDep4vNZ7BHOrgItDmT0n3id7yiXHjJidri2dUpYuK3Ddsxs-h1JBnBiFOqa1xAsiNTUja2ARqYFlzQZ7lJDcujQXDCR3HtGqYsPmws&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dV_y1XAGaBbm2LwjTJ2x4BrJUCKZCghmeUMMyXX-vQfX1za5uPPzg_OBeTQfzNsVpx9ynFwk4AcJzOz_iu_1_G_x1oniuQ1_6c1_GHx-s0xPbEcGdDFSwDe7AJQZr9nrI7XAZME_FQFr6Taf6l8XZOvtsoYgeZfEJAtA0cx5DhS7e6HrTfZhzIz-0s3-5OTUmG3r8KGx0XgfUcGtvI3HqNOxj-yIN1jQk_dZsdqYp0ehsSAuZszPHlRGp52_0pkJ6O_a-NF2s_AjEzTT5gFo-ddyZ003ND_BsfjbFArl8XqWA_wUeiSkw8tlKd5AaeD67Ipnlwwyxixf1BOOtgg6qUSlJdKJGPsVd3L3G7wpaM7YXlIBnZE0B6TA6wQ9_4F8a9-jRJqIWOjGrJnen2HS0NVLjYq71ebcoA0GlxPWvy-F-6&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c0-Bb4ttmXCsAW1PLk5zYdZy9kuCjYUU-RhavfIXUg-WM95ZIeGOJFITukbwAgExjwVxpikLp8OTRvEuXpXngLQa5he4591LDKvl2x5B8v8i4tXEhV_C9CVRDOiM87FQY-gCKrMH3JAGUaTGohF5TC78AV6xKM2ZUHN11b7LPwtuv8U-XeRZdJ5dekNOyzrqtVdomlVE7wMznZPpfuLBwLYNVCnUNVpZuKNwa9Vx2cQSjYdToL4olqAfVTN2E8tdl9eBQsXolW4Dw0s2OBXbAX4hAj1QW3tEDQslQD9adzTrI43s10mJ3kawn-1rXnxt6AiZd0pmpoGV9yi8fijngb-WZAdj33WXarQjRbaphsRqok4jJoIIngmWosrkQekD5gqCWDq3UEmT2NxB1_qhiGalFLR7JKIQXj8Srk2NJxfhHK&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dxbXXDsnofkEZslRweowumoyTQTzYW7QLAjAAF0yq1MgotIZghgPqn8vjMRvpktPczbsWcCBn2zUz_SYjsiVwEZLSKa5gJLtHFNVVEjcm_udomYRj3ePLFM1m5YCfglViF2_kpm-zKVnbFxhRbDt6cVLgzbiBuUep5b8Uf13SkdOXCalqL62uRK0rcBbJtbTnLdVBwZynQwQJtGstCVjTNjCLsOEsU5nlF8LJ77lMEaShxUHTLPPNp857FgmmxvM1v3cTRrSi8a-RdX-pyE4bAV6yWuEpbKHjufURjODMgCl4N6cI0Sbi9dXGOfod02fzOyqyzcg97u6M8396jteHF3FfM03QO2TiwDInRLpvmGke4fJjycZBTzs9oAPs44bTgHGKqu34QpH-5Bo0Jh5fuT7q6S_001chZxk5zQWxvns4&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fdmFSW47Ao7CHCErOA0lMtdQlW88o_Sopx90jwSXXrblKJE11_2E9sVORyHY2Ks8yaINicebzf0CS7WW5B7ztHVAnBaFkhUz6Aoz4FXBUcSYzdVmXZdpOyKSkZCVAscHKfhz4LHPFbPPxzZ75e6aTGBMgO1yCgeDKF3K4llGHJDPVbUIpqo5xHTXogm_q_iv_jXPn7yIgYrgs_IWpWzg0KbRAbMzbfko68UF1hJZGBJLKLvbSOL4OdlYkno88ASk3FidrSTRUA8_Bn9GVBgpAJQkoNuR5djsblnXlOiCwl2DBnrCH4k73fEjOutxLiEAGLsJ3uGeXeL9nRKOHn9tdXmbOt4NMmYwr0BS5VmueeLDauHBVBTvICz4d0ZY4CwpSvsxAUvhbatoAjtI0ufud4AU6OCoLwbwhrx8rz_IW3Bg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d7alIY_hRF810cWDQi2MXLCe3qoW6RPSxMJfUa88v1vtxW5s-uM3QDKLV2ZKXCXsHWzficm5OudU_WsFcmGpk3IFDOHEZEa-ZaV7s3W-6etf_9_wQ8nfwwCF1UPE6MT56Uq4_idch1GePwFI2qaItkhqVa1DLCrwgdUMhxRAjldAZbXnUQbUFgRlNGnLV-4DaueQFy9P9HmVOVSy94pMtDos__6i_paZBm-FTyl_ECmCCpbC0eWZRGyJqW0Vjoo2V2AutBvle7l7IZ3wc7RyY0gz0WW2zfU5Z-fncPq8Lx3fwN61yVoTobb5h0b80ReEIZs8RXDiAEbWIZ3r1i5jFyGldrnBTvRmbBOdbjxgrTYSmjQnZkpSoAOsb5G4Q-X_UI1SH9rNhCFUvSu3qVvFsmlWdf6Fj9n4kJOUCzNK43yQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dNEbKXOyMzQ6KUMLfHfmrfMxs6-Q5fV_qrZ29yCKBr4RGpPOBpg3Gnv1YMm68WEfxo3iv54UpBHFvNS-cXhsgJJePhPpXuqZFLjBdw3JUsj63WE_qn3_7v6EsPyK8wXV-mHhz0JrGCDjG-93ZB59uiJXYM-fvnoEQR2AHDaPYmP7qtXaa5JfBhV1tbTJm8LBsH6qWnKmTJAHRmD3RvQ2tpB0VaWJbZ0XVzHo3r8wOhmgVShFxhugJbhHEwyqil1xhgis9zfIr0giOsJ4GGZ_s_Wt3kiu7zRoyF_QKoHJeVJnUeMPVyi7X49ZlZnQVzcJBGUvd2Un5l8Fbj3sTo5EJYLiscuhHH23TVDWFDJGSOzL2DLoVlkrXlSiENW1CONvll_jgcW7PmuZs2aUsLnT71p0anqIVeFeiQohFVLFK7bibF&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fqEnDODc7UwkKW7rPz822vl_vo4teisX2p3GJiVL1G8BMtmJhCoGsE3Mvn426aQy1qozJnC5is1vs5yOgRnwIzJKKVAFDxGpcJiOW5aSQgkuxePAuAO4B_3h5nYMd0LeO3DALOSmw7wxgDt2GWVjLsw58cwwEZDQqzSH7zQBEhlK7anaHm6rHN9UzaxPyChKSWdWUk7Io3V-zyUR2MUOHn7bAeJCYNJXuJ0h6HxcOJKd9R6nxdNKGWahuVdenei6sAK75MSvS4Y_CxR7bvI0SSPOClRUjz3iYvlyyVtc9MnsV5myjNlhIGKXUuxPTHYf5EGmBL8kl3kLb7suNLgj6gh8TKDFhnGQQMSX1EoGxINDqvLIpFYUSKgQf5lu3oQauWjOXULOQJ8EMSCuYczFOTuWqVP5yyeNa3mfKzVzbTuA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Geoffrey Bishop",
+        "rating": 4,
+        "text": "We had an amazing time learning about the religious significance of Pachacamac throughout the centuries. The museum was a definite highlight; well laid out, informative, and with interpretive signs in both English and Spanish, which made the experience accessible and engaging. Walking through the archaeological sanctuary was enjoyable, though it wasn’t quite as visually spectacular as some other sites in Peru. Still, the overall experience was enriching and well worth the visit for those interested in pre-Columbian history and ancient Andean spirituality.",
+        "time": "2 months ago"
+      },
+      {
+        "author": "Gabriela Mattos",
+        "rating": 5,
+        "text": "This sanctuary and museum is located around 1 hour from miraflores . I was impressed by the museum that although it is smaller you will enjoy learning about the culture then it has a restaurant clean restrooms and the huacas you can go by car or walk it will take 1 h or less depending on your own time and the general price is 15 soles less than 6 dollars",
+        "time": "2 months ago"
+      },
+      {
+        "author": "Trail Hiking Australia",
+        "rating": 5,
+        "text": "I was blown away by the scale and significance of Pachacamac. The archaeological sanctuary is expansive, with sweeping desert landscapes, coastal views, and remarkably well-preserved structures that speak to centuries of continuous occupation and worship. Walking among the ruins—especially the Temple of the Sun and the Painted Temple—you really feel the spiritual and historical weight of the site.\n\nThe on-site museum is excellent: modern, informative, and well-curated, with artefacts that add depth and context to what you see outside. Exhibits are displayed beautifully, and the signage (in both Spanish and English) helps paint a vivid picture of the cultures that once thrived here.\n\nHighly recommended for anyone interested in Peru’s pre-Hispanic history. Come early, wear a hat, and give yourself time to explore—it’s absolutely worth it.",
+        "time": "3 months ago"
+      },
+      {
+        "author": "Emily",
+        "rating": 4,
+        "text": "Super cool to see the history here and learn about the different cultures that developed it over the millennia. I definitely suggest taking the orange route - walking through the streets and getting the tour guide as well. Totally worth it! Cabify was like 59 soles for each way from Miraflores Lima (about an hour with traffic each way tho). There wasn’t anyone there when we went.",
+        "time": "6 months ago"
+      },
+      {
+        "author": "VIPUL TALWARIA",
+        "rating": 4,
+        "text": "Pachachamac has a history dating back to 200 BC and it has influences from Lima, Wari, Ychma and Incas culture. It used to be a pilgrimage centre and Pachacamac was a feared god with power to cause earthquakes. The current site has a museum and the excavations from the  structures built centuries ago - Sun Temple, Pachacamac, Acllawasi. During Inca rule (the last kingdom before Spanish Colonialisation), many people user to visit this site as a pilgrimage and many pyramids were built here. Sun Temple is supposed to have quite an ideal location based on planets and it faces the sea. There was a school built for girls called Acllawasi where they were taught day to day routine work. The excavation work is still in progress here. Entry ticket is 15 Soles for regular route and 20 Soles for special route. It was great knowing about this much ancient history. If you are a history buff, then this site is a must visit in your Lima it itinerary. Guided tours are available in both Spanish and English and cost 50 Soles.",
+        "time": "6 months ago"
+      }
+    ]
+  },
+  {
+    "name": "Ruinas de pachacamac",
+    "address": "Antigua, Antigua Panamericana Sur Km. 31.5, Lurín 15841, Peru",
+    "rating": 4.6,
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.2555058,
+      "lng": -76.9077239
+    },
+    "url": "https://maps.google.com/?cid=8760579576739610745",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fATa61bIKvMIom8-ctLUemMyIoD9cDdcw6qlN4AF8m5Lzwxs5VwHAdwJH7BGJ_XzJlspuDwwWEwq9xLFHrABP-_XvtGP-c4-uEE2tNEqF0OiqZn3HBAlptyl_61WYk6usI9fqLzeiS24___vWzXtnFwNB97DdKqmpo4RbnOiB5PoJ37m5mAHndhMoCSZO4PXEWHCDojuv7i_WiGMHH6iLw21K9CSs6sSFBVStidkE2bMRxvSbtZTI8mIwKmPp-QNbImeXtR9lwTyYLCI7z1N6N5sqp6tbMDQWq3Dknd7IHjscN2n4cF2xa3j8UW8U4xhSDtYMfo_MOwhB0ESPqee4O3mFysRiSHXHO8CWgwrRz-SboC8o28T3Q3FRZp5sN-WO-Gt87hkzZ7_JjoSpx32raZ2IPu2b8ASKA-R_KN5WiKzQM&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ejhXid-71LEd47Q4rrLQfbbdpmZic1Xz-01CfNjjvIUTtkn94SsH0N69_uwsTm_DZQHkftAwhkjSReohraGHbxDtxsMzJkytGRLJXsCZoY2ag-ems_cURz0TMAXW6T6J_3XETXztziXXhyrX7Y9-I7QFBxjmzzYbO_Hbdre4i14YHG0EHJWh8CUW_HId2Kz41y6UHdwH8ErCcc_-oVPDGfFrhMVqx9FSh_YMuYmpkIU_--96l5PJIz9S0B6-vaSuk649JQ-CdLaBzjXeqF1rai9f0EDr6T8-Vud9j885Mw3UeinQQT60c-pddvFYVQ3Xdy1c-T50JurQqIPWhkbX52soVz1C4Yn63EdXB5S2TvrJwM1zUroRhE-iSHi8d5uAm2O27pc22reIP6rTetWxarPxRAoC-eiJXaRQCXv7T_PQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dR5gYxDE0HB6Yh60O514xi0WhZUthPwZWpxkByyPvwjSmfvi-4TEK26kRwHjQ6LaOVpSS4CFP6A7_Er06wiF3KsGjxsUjSdv3fxOz4Se9a3ke9gCVgWQjCkyB-P5-VGLIOJGLpSMz9aq9_MuUEYSM-BbvR-OJiBDlwLo_PjGLKMpNKwPaK-_VR_YhKDGWLjSfCgdg0Hu68Xl1wB1KMEFUI7OT2zqN-6fIJQz_AJTPX5Aj6P-JLaIzlrlVkfBLSY8bVy9Eu_ApiCAxnn0-cIJCOKdhOutT93kdS4-pAQAZISb2YhkLxH2B6cI-AMWcWvZsaelb_tl7m96EzK8zB_5PgmwmYrJl2f91ze675UnV00shqkElgBRZ9CtSqF0zBGhqtvuDPj1eWK_boqCWYG4thmLE0ocZ7TCVR_3PHwEHtStRDG2l37qQaxag013rr&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fy0MEmvz9WTd0-_3xDndNzmTX7LTOQuY3QI6W5WYo5z7S6A2B5o7nMw2aYJ0gTdAzGXHf-RQkXca0jAE6vH7F0Fy3Abgv0gRnNkShjZsSjqz-6drc3SmAR_Z6YmzA1H9RkemoZRA-vXiHPRvGQB-DRvdIhybxCrzEyIqMP1aAKVjQefj6jb15diPF-rgiK5FCkwCbOrgktMwnJi5v7Ei0OrEyPkFzgkpNNeYr2N7rbMJhMTekxbuwg-DzeB1_6venbp5Wf0vQyfkI5UKvLtq7WsgSSNuSsAZFUAezf029hcsRcvrETamDHU8T4eU-KCJu7wi0NbljotNTZCqNLwmfAQW3ggLDMC5FYAb8y-6864HywszcjLDCRSqdsnxOXy_q_jb88cCcXMGsaXXHbkFEGEwX1JIX16tdSROOyyYEcrPQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2frKFLvq50r3dxwEvya7SmqPM7TXRQaT2OkFUfzxcsy8_bpJMvreshBUu_R8qXWAkvfQXdiAxlsz69k_W6AaRXQ4b4wZA7iJtHDQT7yvUP46SNvDFayv8x8P7XUbMzJoTPzNAwdqlj-54yHKMRNZwuFxd7uuHN5AkAv00J4ajjt5eCy3XYeFf4UozNeC_KdJt0csiswy2dhPqsp8ApayHR5JRQbXC0FmtKzhFjR2KAbgDYewfJO2dg9xl_0HZhFdsc8VmFBsXqoU_kCwXol28vkMiBcAEwbOy_3VLf_Q48E3ZdkopQhkPHBBPX0VqxqraXe5qWwIAFd_MJtDy_0ILjxSCycID0yCTf4cRXjKVNukNMFov7PGq_aV61noJbww676l2eo7MEFK4ixHTbZ_Z2mklcmMcnCdU3v5gRty_o7dVo35qe_QmTQyTaq7SFo&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2deE-7t2wRYjJakIuzIZ7CclmoY1jQQOSlyVqsef00gM4w-DbPq56MR_yJdIRpaNT6fY516IjA01B6MZokQhVIqYgZ2fi884XVbVACd6qnIYQXCUpO3dKxDjXxeQgxZorpQpMIVfopat0PyMRlG1qFsD1KbiSX6EBHzZRW7GA-rJsyKcBkizPvgKYv1L--G6DeW-MvBWwWLGJ79AAoO5IovynwV_8V-fYyZTS663Pvhsab3-BJr5oSjQ5PNf9KKYkw_X8d3_FEb53LDM3Hu9-54sA0k_8onP2l3_gTxjeGo2ZW5aHZbNSXOHFjmk-ekGII41XU42_VsVybWUq6qSnOnIWfPf_qvW79ofTk5JgdRF1rt3qJMDGyKj6-_-cN7CO6x680VLLpf7M4Q84uJlQIT9JZHooOHGBPs97wyXuw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c1fRNAWaJ7PzUms9V_4iWRMhCorZlXoyklsWTws4bjLgwpeliTWLLztXjMTwDhsbrQUfwoMnnOnLLIaYandvfOBaIcNTFxm-6vyQzxxR20MtBdD__yEeaK0ISr1PLurjMTffOfOL5SqZcnQUW9wpUf6wsfo8kHvNLf8wHuAXpn0AyIyuzUseo5ZyrlZr1lDfPEFScBZlTv73aPqS90V-LTFGtDmEPB4WkfGPHjT_ICmMZ8eHbaATe028H5WN_iovWuc3x7aiR9GGuYY2G1bREcGlWfrPUoDo3BiEB5EzfCFxxhvbW7bfaWF_-t6ZDU_O6BPAwxrcxe9HXxoF4zrUorMcQi1ehtAgicleVsts33PZ-OFwyVvQ2qd7LpScZCmSkg0eAI0ervB_MOzWuzFe801l4kbYHRSfhvGGmD3AkFQg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2et70V_yDT4APT5tDOhpItiMun_SY_N-dZNdahFR6Abl9ASP4taCQiHrE0qZug4rr3WEIu6SOuHjrPea0fcH46-k-9PW1J2nESH-FtzQGcNZBjcyDYNIzLN-5F1be1u37ffZU0kzQKE9cPnmEWBJgVal_5oyeOBr13nnZTxTZ-a4bQJpfAkHhfMVWCwbizCOuIUdlu38lribILPpAEukNaZm0b1BCg6k24lSab2tivB7o3lUcm0UmQfVaXcuMmuOR54nkXoRqKra6q-AiSrkWFaxTJxs5tAMWrm7s4llRshiF6Cp74MLfjyCC330NlXr5XQfoc1AjnXqCEe72o0JD1yFCFTejzSBbRCBkERkoxGZlnVocJ8Nv54BL_w7kAn_ofkv4E-5r9SbKgPCDpIJt3Ix3JuIKGt1_9w4GSPZZXEMA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d0aQL8QwF7rgUDorpOm-uUSgsB9Lb4kUmnk68yZEZewcJ3jxJBqfSqe4Flxl0as6MTiwVJW3YeIdk6C9gwNu9dAgBd-mHGcNsZVvjioi7GlZ03f9lriOp81jzNdLrtzKee9PVPLdCJ98aJQrrt8PKkbQoFKwSC6sdK43ntUVOxyrKNWgWfmUEv6yIedykqNIEpytz5tB0A6CUlTzbJWtUTAezqqg86iSx_4Rb29HGkYkWHfuuoXGkrWZLnQBpLyxaKXuFSfh1ZK8LW_2sWjFtCiEUeA-t5h6eb1cmGwilflgCQKwdRfzIHCbVZWLD9fxSqvIRkQoC4s8om6brEaaFYQfwNQ6BjfHYXjn6XgCEC3xFaOzcHPOCkMHDL5H12nf_DYvg6JN0ggi2RSsAIgGMaUQq00oByx4qzXuFiv2ZdQ_U&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dx-cdMXgEKvKOoyr3IBdhZBnOynzkkOjwdo2iBTnQHZv9nzUqWBSwONlTdE2MpYSq0TSC0QyuCJDxp9Tu23MVnqPuw_L1bDEHvv-yGz255jum3SuArVAVELXl3fs3db27Ofq9ktHZ-GCUydw3q5sx1hWUIjnq0jSBkTf6SIFVuS81bbYzDewCXlTPogUk_PJobD-NArvI1zIAPxH3R9RNWeJfUmPNzxRREA4r1hwB25pxnjAnFaeVLnqFZeI7M-lalbMl9V9QX0dwOqSli3lsapd3Lsk7yPZ3aDTmLGEPAoyHKMJ8KWaq1tcQKupG4KvdBmbgcDEYnKoFCZ0avq0AmByT5xRVGO8sxTnJ21Ujwqk8OgyJDPTYMO5koCfOMtcgWE410BFjvG6uIp9V0KyTCLp6zATtvd100TlbQen5tdesCuCRPFXyNKbf7KQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Papipupenta",
+        "rating": 5,
+        "text": "Here was great place than I expected.\nWe can know Pachacamac history.\nAnd we can see wonderful view including desert and ocean.\nIt is little bit far from Lima city.\nBut it is worth to visit.",
+        "time": "5 years ago"
+      },
+      {
+        "author": "F B",
+        "rating": 5,
+        "text": "Well worth the visit. 1h to 2h to visit. Beautiful view across the landscape.",
+        "time": "a year ago"
+      },
+      {
+        "author": "Devansh",
+        "rating": 5,
+        "text": "Best done with a local tour guide who can explain the historical relevance and facilitate you through the museum and artefacts. The site itself is spread out so if you do not prefer to spend a lot of time the tour guide with a car would save you a lot of time. Al in all a good history site to visit.",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Craig Jepson",
+        "rating": 5,
+        "text": "This site is where the oracle gave readings. A temple has some of the original red paint intact. There is a restored piece of the 5000 mile long Inka road. A must see.",
+        "time": "4 years ago"
+      },
+      {
+        "author": "Tracy Brookshier",
+        "rating": 5,
+        "text": "Spectacular",
+        "time": "a month ago"
+      }
+    ]
+  }
+]

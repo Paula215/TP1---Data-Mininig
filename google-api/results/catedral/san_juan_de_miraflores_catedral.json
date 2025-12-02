@@ -1,0 +1,80 @@
+[
+  {
+    "name": "LIBRERIA LIDIA",
+    "address": "MZ. M10 lote 8 sector, Puno, San Juan de Miraflores 15806, Peru",
+    "rating": null,
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1359808,
+      "lng": -76.9600047
+    },
+    "url": "https://maps.google.com/?cid=4837357230821069883",
+    "photos": [],
+    "reviews": []
+  },
+  {
+    "name": "OBISPADO DE LURIN LIMA SUR",
+    "address": "Maestro 102, San Juan de Miraflores 15801, Peru",
+    "rating": 4.9,
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1617003,
+      "lng": -76.98123989999999
+    },
+    "url": "https://maps.google.com/?cid=4538970343919915374",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d9oUyGGXituVpx8waMep1C3cafPhbKHVFcyMT0IEvfOOsUVnqjWyGhWegM2j1Otx2XPq_C0dXSew35fNUKUItprtIig9yQJgR3dmeBohcOYGbhM0ptN4QMqHKpYLwPugmrhA1raqfaju5ji8n7NQWf3ZLaZSgmUt3bhcf5RZZm-yopexn0fnEfmf_QiPNQTm02JtflDSERk34R0n627fixNbkrfZ_MHEiWbnZNkZpFICo8b6tDaee8BlKfkvWwhFetcnLBI_UXy9Vs36ybDwh1sk6Ueln7880G5VOgT5WHozj8PHA7Z91xcW9e_bpxbfq1AfFoHPt1RUde7hz2eV_3MQjXSTcNfEpMp8i_Ms-GvgG2DS62LNMNFMrOw570l1ZoUxHol0k_jVIgMtCHejRToW-PnLvnBa2shj8wgK2hqgsUqgVROaXceEkkwSmH&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f34IFxkAq-Di8kelPQqHBAdUvSNx9LwztS_H8IkFCrlQXE2jDEURD-dExc8TDHhQGtndvrnw6yD2y0qm9YJAQzYjNQFWCqioIn2rTw6fp2Q79MigUrUrByEYNFSfT4wXsxwAf-X-6_R9VwgKRSR6a4msZrUQsg7w7X16zYBxEWz2tVaGpB3ZfwfzKGDRt1NKQO3YQehE2vN-PoPfrVQXWF4TaQeojiXAm3NmscUDPW_uVOyqzbUjrE_aroU6L5FisGLjRoJW5xqsxhmor26D0Nud5bBIQk9dyW76ujQcXdo2iFyrKCf38pUIKKhO8nbioDGUy7L9FxGANH9iqXSlfCjbxHzOD6aicgRozTWu40uiy_9-zSRlFlV-mAKazh01EqjWTX1ft2q4Ubx0Ek-ClYfLmFghcbhLwYEfdKnEk&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fr3YrFYSDMHSp4N2KQqFsD9duj314k_sfWxRnx_pJq4JI-NJXNA0_APN6kDWmbawuL_bWKx2cTdKA14CbX6mycYYZHexnaNcLy9Cblh3IjjQcAPTJPJWox0s6Y5VMETyxhSb1zT-qEk1aAN89_gybiWzE0wx0kQR3Iniveyk9UkLhAEpzANs4sCJwPg21FVjc74qC0V_0ple3l0BnYCIa-YwRxULB1U-UhjXXYr27Esx4PbUjXLgqEhDft4v0Hz--ySPO3vGHlW1tKWaxmQ0YRELbMwoTVfNSRLYy93TDmvXW4GKQQ4fN-iMq34dZfTQefRacazcOjEc_s9HneM3uagK3rwlWVOqpb07-flF02hCzDUl0yvr3ZhWf7Rsb2m4XPTa4w8v_GZ1YSZxYjZVksHxPLt797w_iKq5gMpCgwaw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dzzOkIppMJ9MhpzGIwd1RwjvSDU6xozKF9L8p_gaLPkExMJ_Qi2JdOjyKUWVzsExDipMQAWOCJpWN0FkfUtDWG0xOwSlC0UQBfFVIv1cPGYBT0MYOnU4FF5qYPOiCqmbW0I5b7HWkBpeglmT3LXvfi6fIEwjdvMaSJPD-uwiwjWivACA2MrlEZe1nhX0oNxWYaZd-DSTmJV4z3FafTsWY6h_hkyMYpRAf20mWb9_lAiTVeVutzhRw_UVg5fVgOJCPCwd_CITEQTrTLx3tpgoRKR9lGU6ZLn5IsZWKOzcR3T5ZN2gr_ddVwZhLSVYiashaS_8-4OTRMKvCwc_z7XJzdeXbxojHY1XILsnHspa5xgn1lHcCfGaRyoSnQreAB1o2G5whxgcFmgYZVbISYQjrdd7xj_HBnQtbAUJBtkk3_kA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dNOjWU_IIr3nGsMzIlGEi-ceRtR8OXnufNOB0sHcXBeHbfWPwQwSdW2ELtEDNZQ8poKz7sDZAryFWJ3waKtsblF0v4xenUx9HtRqpm4L8Iwy6_HlPGtfsN5dml6ybGxvmD2BtKmi4jPGXvMykLIjpcgVA9-yjCS6_qSQY7mQnVTKjhSv1mP92o7iE31Epern-fW8bA2C0t2e6dGCyeUxNxaFJgqry0PtzLd0UTAFp2pF603wZ7L9Xcl_BkmhJeteampr2OhY77aNSTYTX5wu1raTcMUEP5McHsaGDBlxW35KSwKAJ28Iw_3yx-TKkF8dKSaJTLhy6Fba76i7aFoGv4yWibr_48o_RjZ--GHpxFV6NJCQekb-sAQqKhF9j08G843NsRoXxnMs8ea2i4BZZuqrW6MIVY9a2raFbaLLTGmw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ejVhixpSfssgP9wGP6u8w3UhYCFGnVVYAXY-p2BZJJCpRtQ4hmkcujwMfkbJ2u882xnoyOiCjZX_rQr3jEdGnqENquFdpm5H8j9DnapZteinEudN_t83pBwo6YIOVh6zWYmQO8ZYPZe4t2jwrVJknkyIBdXWZbjms_oQKHa_SoIiQ5ZVVH5JIi60u5Ye3L_QO7LIR_b0pGDuiCSFgZEfqlRUW9--mkoG0pK2lNSdVtfrrZSanwequlc-HUviCHZcp2jQvkY5FMHKLL0L2kyPGZED1j3QV1tnvNUoPpy3VN7vnv9DptTTKNoJR98zO3metVXcgik5DHVJm6GwLVsNy_LzGz76-AeyymeHL0RkPrxsVr3k508xiNuqifU8eSrvvJh_nDpC73FkgkaCxjoSR6TIFvTKVL-EMOHW2oY-I&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eUMAsiJmovwiUvetQN9D6Tp6ecDAWVUuA_C4HAZcjT_bYoRXIPXk6-XXN5y79-7Ud_pPlDn48GOOwxfmpH-_m1AtJgumBv3e7TRo4YL3tEcP-gVs4VpqZ8vSgOPeF-lYquMCIwRNDfc27QPBVdKtFakf0f-PjTfhlHxObykQusieKo6bzXQA6lkBHDeCaK7WQyygbXuQG7NcqH7t8ZqiaEbij8LAMQgM6OcmdtbgBlv46Nzid_eLw1i5s4UWrnu_2Sqe2hKtT5k_aoAbvmUzqgqFEpipWpBSxzjIPrcVHWa_wCgLheQ8PBysaIPLPI9bA-4MDsgT-zoRkJuzbSgjeAzDDpK_Tio9tv0rwvliPW6ar5cpqtxL9DYxeDiwDJJ3ghQmc4LgE-lwoM1NXYPaXA6AfE9zOXXhU_3tTTGGi7vg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f9rjLGLOFHrjXEWUGlrg8LM8WCCVkU-nFrc4-yV0kecpkeQoU7HQDeQMOYuy4xJ4VD_SGwPBWF-Pc8GsOPU8yyua7W2NCUwgQ7zrtTPxoz4PzUvc7hdIDlHhi_G-WYmx4XWiSN2HCSGyf189QabiN_srpUxIdZbIr8vL-A9oOsDf8s0lWGZ-4xhIZz-vtaWGLyucnUEldwm37L3nzwXvYcpl__4GJENW2DK2q7_9oG21RpCvKib5dw5mvYxlWT-sH9UPOyIDjH5JYNXcjF6gBdyjYEEtCGO21Mx0NfhX2q4zXAfpUXqt4b01fNTqoSe9QOWDTFEHrRORKrTjXk90_P_7_Ww0_2WAbQPYO48ZE6HBUxp_mGtbNrbnTu4RDWz783Co5DGyrWBS-qKJQ-L8cLcuO39-CGDMr69KwbGvCDYuec&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fkP2ySoRmabsOBBlemSQwOW__FbO6TErJVsB5sTbfpwWVUd3OH9Ivm-JDTEk1Dguc7Ufu0MM7zA2qWLVIqge8nQWdgGg0D_MbkndAQQwIW6sDIhDnTsxj9SaygZ3Q3s7YBadQ8F60xY3Lnli0IpMUlAJritKjt0ySfvQrW5V_k4yLd9WYJmwi71yH6-benFL4FCqD1cW39rxxlr_jGvhpWwFUPsyt71QsbBUxvhzAF5sN3WCKVAAArYoVzyk0d3hD3bCzPAvWlRnEML5da7raEXkMW81pcuOTF2cyAHU8Z8YhVGYyijixLEflWPwsYzWsiRh9XXBvs7Uh8qnMi_8yVTbPTc1vz_FSbAqoZaco21h9Yfunfy39iJLO1fS_n29M6jaJd8GOIpYkxl20AHpwv9MOLzdjEgsMYZTnpP0HuOXI&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fUX91svtkuvIn4MYyi7iS2ZYIBKnE2oM0TMrMhlI_6mjTIv6e8G-7_vKnLQzz3tF3DCem7mcUW5g5gtyZoFJ4b1cPZoxBUZVxS7la1RnOn32cXbvEaJ2wtbpCrilWpe38g27r-FOTPtPu4qa0_BgIANwNE-PDtEtL2lEd2ENed4G9JnZJkCAhHIsTdW6JOfC1fRbzaQ-BcsNjobZ-KU8_UJYEjHunjXP0NpfLDbYvPh3YGgvXE3KtoBRJ4KZ_d24sAM9vTEIZ512VHB5nqbjz9S8ZnftKnpqWW1KJ7jTiOIdlGDEF5p-mHIp5ENXhWpKSEQDpvRLv4mRoOml6FU4IwqFgIN-S0rz1_g1X6hEJ3GzJTGQMjmOzn-WQTWoiJeI1KEqvGa-Klgwfy5pmDxy_qkhrnoY-NAhsu1R0vfWDtBw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Marco Antonio Rosas García",
+        "rating": 5,
+        "text": "Excellent bishopric",
+        "time": "3 weeks ago"
+      },
+      {
+        "author": "Manuel Cárdenas",
+        "rating": 5,
+        "text": "Beautiful temple strategically located between San Juan de Miraflores and Santiago de Surco. With parking. Amauta Whereabouts",
+        "time": "6 years ago"
+      },
+      {
+        "author": "Science Products",
+        "rating": 5,
+        "text": "Donations are collected here and distributed to those in need. A good work.",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Miguel Montes",
+        "rating": 5,
+        "text": "A spiritual meeting place, a wonderful Bishop. Blessings.",
+        "time": "10 months ago"
+      },
+      {
+        "author": "Pilade Zole",
+        "rating": 4,
+        "text": "The Bishopric of Lurin is located across from the Amauta Bridge at km 12.64 of the Pan-American Highway.",
+        "time": "8 years ago"
+      }
+    ]
+  }
+]

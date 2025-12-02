@@ -1,0 +1,172 @@
+[
+  {
+    "name": "LOCAL CULTURAL LAS LOMAS DE LA MOLINA",
+    "address": "V3X7+78F San Jose de los Olleros, La Molina 15024, Peru",
+    "rating": 4.5,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.1018054,
+      "lng": -76.93670060000001
+    },
+    "url": "https://maps.google.com/?cid=17254734003336900491",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eeVErsZ5E1DBbdDuX7YkwPtcT_dTBQ2KtIbdSp80hXR-TDZhJj5yAaec8XolbAPJp7ao8qmwAO4zKtV3E8l7SUtl5KWfKnNOx0dp7st1to1whLY3JyIcnW3cHDPGSAjREkYbAePOKQ6ojMILYqHuQRBLyUAnkzrBEiMii6AUG4UbEHfxkgOtN-gFeQ03Wa_WCLUB4xnq5JQREGv6PQHjG6msLvP8W1SDJnzbItSGZspYWLLMixydiOkucJeLZXYunWmG0yUSCUvge2C1qm4epiWJdKzA3ImVnWckz_qlRcYNzSu_w9A8edRf67srl-8kaC1VbdEfyKzbTZOz5oGHYJ_RjzS1TIZ10fR79CVC6iluxe0xfJV8-TPjdNIeZ17L3N1UKuo3TgQ29G5VM6UeBtZ9UYepGs5GeDSFbOLa41mQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eGc9_dKrizVwdraXzVP2lyQPjCwrTvtpN-4Fq5sPdh4aATwutn1SqpNdiAgj5y1LtbO97ma-iwfszn8eMNOtSKTUuqClGIRJ1R2bEs231cP53v63dgRKqWqZjpfLFldi2lN3KRUqJWCp0LJVpcmL869T7smoanXPckTKimC6USqqN1Y3_qx3WE7gyty_1rS8ZQuIJVBXOnWq3JjofZC6CGuFusC2EbUvIOeiuXVPVZC3yS-K09JmGSG9Rv22MH9l-1q_uBTc-oV469y-ay1lasfsyR0bMyCMJfRxolM-HnmMQ0B_Xn6OQHxvJyBYHEE2sdUOn0H0zmtZ1_8QKp3-DzNE1i0deVfUTqhlL30FEXq5oCP81XBCLBzuBkwGEgNZQUWxxSt_nIcBHjr7isseJJFiYYLifrVI2nG8gv3RA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eGqQ9iiIiUPJ_SZgd3U0LWfpUT-wkGGb9HAqypMwKhvPIiKFsTDcoAt1D9FoZaJKKRtl5icpOgdaHOsLFz4awBljIrJoWz-36gy_rSWVP5hXn_GJWHBFJvhArFjA8U9IfcOIgk19mEmF61k4gHuU_3BbKGetlLESZ5C7UI-3VfKYCQR6xtVMMvAoUsm5so5_UeGMCyjpKnakiPsFjRql4SVtolJxeBgwByaMM_0Ie3a_0YHpReS81luNsyZadQBW9uUGG3xphXAOYEFqWnyreq_qTWbRCbcp321onxGvFe90KghfBDestb851JUUoi6kTwshbohqj0AhP_jHBcU3Uazt8COrh2sMI0LkWqXds7vWiicnkolJRETI4Im5K8q1jktk_-6cjusbcazv6jvMfATwbcyDGRqU0A37b6qonHRg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c8i3rJYz4bUTnievqROZBfE2lPtMtP-jpSCSz4BEiR4PekxwxUmHLg67ebSB0g0m1lc49RPUBzuonHnZ_1b0EPWZz8DDyL--8MyAItNpATTmGi5CzpxUTAxsogZrLtrfZdY61XKs1BIS-H5UwOiaVfvDaRZSCaGDyFB90oyBDkUH6bwOzlPxdMOlTekAyGpIpB0HiZIcbsrD6y1HpW9EsQI3110nZJ5TUrB0Av3MewAJWq4mg-aC4LFSkw4ex1PQZo1ejZVGbNzfUnUQXEeCmgqc0rtiHJ7V7v3zVkTLbHngJHcCO1X8ZsXqQJobmjNpeiuurEO3tnmHkyufO_0RjzSq3Gm6NLMMM76amTcRqU5RZYhCJ2jKZgm1zdAuCM-f7MhJziacw8IIIXT_tHsOQEZUB7feQx0DqdVxRFG_RFuvM&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dN4pqwEsfbQ_wOUd6QqPwqyF2_AMOb-gwNWPgwS67SKJBk_ZOSgtZSY42Grs_3bfNd0diaT8ILbNVtzrfPQO63uMiND384zLMkS97j9pHAreqPzerxylDvzqbKy9F_0ogS1nraaOCTW9Zp-nxoMjF0ikBdqDMtXcE7K9DhgfKjGNR3NAQeg9OMKY4j_zgWc5q98ZcIuEi1yLI_pqP09fUL5Su-HUI6TWj3LjgT9HGM0mX755oAUQ2pgmQh4J8k7dmcXVqz-5Gc9LFx7u2mJy3Sbj46DqHqe3ih9-_p-Nm4AmWpQi1ckZoFjpaqJNFifHTWecBcqyU1LFuJyvHETmLzoGZ1fbPNRhhHIRQ6cOKW2ZXDFHPTTB4aVJNg74B3GX-pFa4-WW25wleeu24YF7pKkuPA9YeQfMc422ntxY8&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Christian Fraioli Huerta",
+        "rating": 5,
+        "text": "It has ongoing activities for children and adults, as well as a food court for the community. It's enjoyable.",
+        "time": "10 months ago"
+      },
+      {
+        "author": "Carlos Pascasio",
+        "rating": 5,
+        "text": "Excellent experience",
+        "time": "a month ago"
+      },
+      {
+        "author": "Floreria Lilly",
+        "rating": 5,
+        "text": "It is an excellent cultural center where children and young people participate in different art expressions.",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Gina Gal'Lino",
+        "rating": 5,
+        "text": "Great for community gatherings and there's a burger truck, great!!",
+        "time": "2 years ago"
+      },
+      {
+        "author": "Buffer Peru",
+        "rating": 4,
+        "text": "Lack of courses and local maintenance",
+        "time": "a year ago"
+      }
+    ]
+  },
+  {
+    "name": "La Academia",
+    "address": "Av. Javier Prado Este 6365, La Molina 15012, Peru",
+    "rating": 4.4,
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "school"
+    ],
+    "location": {
+      "lat": -12.0688115,
+      "lng": -76.9498273
+    },
+    "url": "https://maps.google.com/?cid=12560212938245417750",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eLkT1XIVshzYlw7J8hUpPd5YG2MCHUlJWGCaf74Phhn5Em7fJbjgLJ98TxlUv4fKvBf49JGR5-Tmg6rwZ-YnfkgH0SaRNw0KQ3wyQd0S2QIe2S8lY-ipsG2q_tCenJa6Y5qh8U6LwMKd-YTuty6EM-YLomlXNPzH9nHQFAoE-rMAymvvvzDX276gnFACZd09LB9qWeCrZJPw3SHXVD92xgJuQ7eq6QNF993TJ0T1w67RHMW8f3ga_r-cAoBCNBdZK1N1YS_Yveig0KweQHw5Mr7kX_SIV9xdNs6xo3E85eOxuDtvYxrzhgZbRUbTgELVODY8hmmaHcFTHwpI13LcDARyhu4tZh5GqPt5R__obfGSBRb6uLxDaYzJep6ikb-6X2CtIvntgoX-4dMgVS_BiB4NWbGkK3yw73skKlVofARg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fw_W-sMYnlbQIs2GUDaoS5VaVm1NhBnSEdbBKcCVJ_YHdL544OkXFqycAAWMKuWo-hs55oLM6U8XuL_szydsOTOrrMTYqVkLtq9WmxYy07V5Yee0ORgVrKhk2dFwcHi077S5IBiicODqdTZZJ-iiGYpA8bh4kbwi_2NbdhfYFL1_9PRneCndMz2LEj05rXo9hvsHwsPWugao4dfStBccrHO84zAGGwkq5rcpAfhVxg6BvsT8XNyoBUnFDmMROsmswTnJ3cxlAwkld4VYoRfPQQhwIByyGa_H5ahaR0fRYQEcF-nwNfaVNmCG6WS17sJ1mfh2rN-7OSK_deTdih_8AzXjPIb5YKwJqWaCG33EA45k8qrz37S2RsMMc7e0xL7MbQWp3w3kkEHdiJlxc7TAG3WoZkJCcKQbMYQxZ4bEz4_g&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2dpqliwjRIvUkfGtGuz26cfZWna3sqHXgTRHuLp6aADXBhAAJmvaOhue9Z5xfcR8WZfx1SwyfE6n1fCKn23vrHfNuVabnvTP2XmL9rECDq8xUXBucWqIdwWnvtpLQ2Sy-anveZX9vU5jN1AiDYxqJb0J1Ut1pjw-StE65G69VQPyfIauFBPKshS3BBPrwvb8Uy8AxnviZRaOWutCldefSxSjWpjRKRdxy3HvTHhF8gmVbIhxHattqD20VV5lVBQ_JZ-dQ7VA2RzrgiLuSGpig7G97SqdKCDHgPbKWOWMXYquuhpxItt18w5RjGix43zQqVvS8QhkNW_lGRWzBr1HVp3b_G7Prh4wk1V-DKrZckZKsp3ep_Y_VuVGjVMbvftxo3wmItvihO9yC86BqPm8TiKzE40977x-VLI3oSpVd2weg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fVjSaOVCFAq6IQ1S0DSb0_QZoYpM4ue0_wg6B4rT8kvVUuCD8QZe0A1jka8F3Wu8ckYi6PdzRrpE4nbDh1ll2INzQqtZ4lg3NaWzBFkIiZ1bGDeHrpS3D59ZqQ2Jhg6zSI_NmLqZvBwkU1rUNRJWxpRxHD-z9Z2FQNEWYjfHwRSyj16CkxkxEs1kaaaUjsIBv8ozC6Zq75Hgqz6063LGk4lu5g27K3UgHIz9bZem0kIhY8dUaVw0ZmX_YBb1KGKcsx30mXQ5MVCkJuvS9L8TlMx4laSBh13_rTtTqPRG9J44RU5Ut1JdKw2ToSy7y2EWygGVRa2VoY9w4EYGcCZqgb42pEDTC0JeVQJu-oZA0b6F7-rocxIncCirLU_L0udqpGMBA_TLGX3Gyxqz_5bPjNUA0uyNc3AUyPEXFNw8M&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d0X_nkgmOgV_b1BiKRkv74lLuBcl8ZmLuhpW_yBjKmZqbzEhFqsB5RMoD9NSQ1aisnU-ouLL55514VNPz0tpGnOsZ_mq-wEmQkfc4wRPrTN4-Zgr25rj2E3Ilv-czpaBy1S1OwpCsW0CTD7w6jJFSDd5LMpYcdQaY7eq9dBeS2UYxNLS-UxbyEtzFig-2dqylJwrmy6lTzDLILQrWst_qh8z_GFzW5-z4p04n3SyfUx4oGTEWlzJ0iUUQLiz07poxD24sz9YkH8Ho67tODleB7IWemlssGCfg2u1zXsdXr2lbyejSqh7fa1aUVWq01sn4jhMSNaPpq_rGHFq2d-UPuNScMEJbQWCBO-II7ptD8ud9T43jJuhDRhHHbX_NFWk2d4f4QxX5LUM71RiqYdk-x8w1BXlFrfTwqA_pZ-MhJu_ln&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cqWI4YmVbs01BrPbh6119gF3SChXcDrn6uvXHOj5x4yIV6ybdzPfAkEWC73DBv97FCnHl2EX6yOQ96mg3ZSbEx_mOM571y7tSdAj2fnHgKuEuQx6clAVhRgRexQxCIC0FJUR8JZdgpfN8mrM2DatoiUcl4CCVMMZA84u0sf4Dn_tEmv2BMty1xlZN1M1xwJ72TCLbS7Hcww9q326WwM39VT-_g5e951ST4n78hCqdCg5IDhOIK4R21NHZcHVqDZhzuIn93uKEnDsUrVld4KI63BGfdrLpQtMhXOUha0NOBvj_e_36MBImrGEI2QxaSNdTfc3SOI0tmaCYHYX_YblnyoXnnTiNo3TEHfzJG5kYAKn1xhfIHbj16A3w5jc9b-T_S5JMKS2yxS4bBfnkHaQ9jEyaFR1-SMrCcAHNWpNY&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2d2q2xW_MEF4DNX7j0o6GtFzfZ429ts6jMjY14EHiLs4KNxtcMThatQwQOz2PiHH1fjTenubacZLsS4zXGXfL4UCO1Iz5_I5nRhuviYCjA2oJdEuuulsKNT9PH_q3umcUTVWo31g5BomKcTtBZLwDKZYXh8E8oa9Ao5c4khUa_-l7O6qZarBrSl3v5JvDrLa7tbALyKpXmPkViU_X9wp1HUhJKN2SHU2O-W_JnIg7otn6FeWXxszfpjp36ZMuHI5lFtPcMsbD1qE-WlHLPY7Du4d7fyBizSuPwd-1ImJiaHkLs6OkLx5lv4P0YQT-XibkVJzJ2VPAE7xzSz9R_NZ29N_3tPyOiwyLYY5qMLlgM3vg15OElvWBHJvzEy7i-QsBqWbBbjxYNKx7CpnShwIDVQyJ9uEEWuqlLNMiGjZ8ZwrILQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2eWkQ5KPr5SOQZgWUl3NdEsKk6kXbbH6Iis1cq_60RpzQ_a7NUPZUg26r2VpbWGK3SCl7g5UoaaxpzKGI768vVAn7HYjufDQfSfWU_yCMHbxoqPSmZFHFQJpN-No6DtA9OpX9HQIFu25izWnRiRZbGlmQ35DvRWJ0UC717FHiKbKtl9Jw0WHbsInXKvZ4V_uoXo2AiOrRoGwmVK0OVEv0zNaK3r16djsbykci6pJaVwrH6W4baP8qJHZl9L6UYx2sTc7DVQW6JMF3CBSKJWzsKZZZNm67JTNY2_rwif1kFDFBozBTilTGAsiwTI0vCp0MhCFIm4FZeZCmoMjZFifEj3uXOqVf2KXN3Q2HIu1UCSdMCmQ2ChynjPHcLamtW9tz5_DpwibHWXCCAvqc6XU6VttKYrYCYE_zKfUmEW9sAVLw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2c4sSjX0BP--UjpJuN2oVfSefDY2JTchDiw3Lg7rHHDcY2y2dK9ynyeEepcbQFWMR643qlasNzh7c8rCflCWy4y2ALda-v994viaVcfXWaUI7_ZBPBlQjDbURTN9Oxu67S89osBXSTuW5aiqt3jooCPtoONAKvffVhBktZscLphecIOyWhqfaw5sYALDGsIbY2I79aZgSEsPM1fui5Rn0uOOFYowA9k9zMfE7dLfILOWQFAikLsPr7s9tR9d8e_i7omyJPuAeBukx1BHJonJbWtNVqU9DenLSu0Xy4QLn34v4L_KHBLN0GqxIO8CZOBKjoDo4u5tbBPZvaf_O9ls7F3DtsCAicC1kZpGotda72_LRSxLoCQ4QMQGjhOzDXuS2vyvAqO-9bbW60vorsScaLK_MfO0Txpy8C1N35y3A1_Sg&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cjot8B-NaD8M4hY8zpJT7tBZgy2xXmcFBr6puiLQJafE3V6-WYQ9rrWsQKmnaYpSKQGr5CCAdpepfy9rPU4YlOFcwpeGk5yy2q4Ktm27MXs8K80mpEJwtZPcVGfa2AI9rZx0xriIUMGna1-pUWGIQHc0Q0jvdCGZ1S4QhcaH7wjs3K4yc-nCkWRKCc8Qi028V4Qalj52q2kNT9jC7qDTJi4obNsfTHpeOwtlRcVK9A_D-Kx5iagWcWacoDs0JbS4GOkuRJQ4SURU2vKy8gTBqLWv7TEt1fNe2R-d2ToOxwxYAvW3tVx3pCYLB40nclCtsl9mHGiUgxBLra0IL11bY7UWM9CIsfypfJ9YUWgTDm1KEvaPqfcwZcbiUYX2JSH6BAUVMHTaezmK6NYj9s1bn05Mqvj24nAC1vEsOr94ge9wZ3&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Doménico Becerra",
+        "rating": 5,
+        "text": "This is my first time here for math classes, and it went quite well. The atmosphere is pleasant and helps you immerse yourself in your studies. Plus, they have many programs that strongly support the teaching.",
+        "time": "5 years ago"
+      },
+      {
+        "author": "Vanesa Sandoval",
+        "rating": 5,
+        "text": "A real success... my nephew from Alpamayo goes with his friends and has improved noticeably in math and chemistry. The best thing is that the classes are personalized and the teachers are super educational.\nI highly recommend it... :)",
+        "time": "7 years ago"
+      },
+      {
+        "author": "Marcelo Zapata",
+        "rating": 1,
+        "text": "Bad teaching, plus its administrative staff and teachers are not treated well. Their teaching is not useful to be able to enter the university of Lima or whatever they offer you.",
+        "time": "7 years ago"
+      },
+      {
+        "author": "Wall Trade Investing",
+        "rating": 5,
+        "text": "Excellent academy, very good teachers, psychologists, and the staff in general is A1.",
+        "time": "3 years ago"
+      },
+      {
+        "author": "Jorge Zapata Gil",
+        "rating": 4,
+        "text": "As a parent, you provide me with timely information on how they are doing academically in their courses.",
+        "time": "6 years ago"
+      }
+    ]
+  },
+  {
+    "name": "Cursos Nueva Acrópolis La Molina",
+    "address": "15023, Av. Javier Prado Este 5908, La Molina 15023, Peru",
+    "rating": 4.4,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "location": {
+      "lat": -12.0722887,
+      "lng": -76.9568274
+    },
+    "url": "https://maps.google.com/?cid=72653567796134780",
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cyzvL3shr7HhHsT4WmtN_FW9y7me3YqZMMoiISiwVsp5eknjxGocGEb7tI8Sznv2r0p6AE5lq7IDRn7Jd8KL2yABKw35YemFbuQ9FPsRyyiLpenfcwzUDoP3zjz04QkwRYlTRLsVcVbAGAHO5tritcxrF3DaH2LPn4CZ1h7Bt5BS7yvwvcwVKUk7orxQeLjRtI3rNY9SyCMIK6q8nl06wtYSfOguGAJ9BoNfKlkcjDmtff1Ke2OyNT6pTV2mzkTV8i7YGF1qCYJ3Dn2HQxGo0w75ruUezjSqxuw36w1vs-7hMtlsop2shQ5YRD328PpeEPx0uzRkuUEIvW0yn62ioPpLsnd7u4LSj81z2uvyfnJnKYILMaKYqML4bZSpl3fiArC2sSs1Vrgxj-1yTZZkxJx2UDg8eLa57yahaO5iQH8A&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cniNQzlNZCJjygQofuJHwBkwzl4jRm2PD2vEwooorlbF_ibCNYYdJgrNTNxHcSZ3uIn_BvcvaaxngYCbwx9197CtB1BgMjPg4jxvHKFWI2oth950jmZ688fseQJ-LIqL6hbbkZAzHyMe_0sqCaPMe-QRpZaLdPU4VS2DnF_PcF1cwx6-TT7LhwDO1IuRUcsUm63_ieg95tyDILqrxJCPaYYDaKTZkMJE1XHwyU_OgGd-iiqVmvqq0aTUs5WxJ9-yEGPclg1HLnVT7BZM3n7uhVFIbMrFtyMxq34AP1SlERwzXzXVlGY3juGIcGAeQJCUot6DnwuZqrGFbY4JQzf9W8ulEvLStieKZEQQ64cRBYTYjAR7GgIL40RjyHEXAtwlyyvp6e-ZUmgDnH21GNFeTcBDH6YET3zCco0m-H0_TKLCNn&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2cSBVJE27mjkfeiHPg5h4pPtL7f90bFGFY2G9aF_TM_f6Zjy0lA5GJ6VnwL8xXNz2XeqyFT9bYrGZ4sEBssmK39omQf72YalJ8jEsmOQLjncaFot3gTe9sl0n283AvqnWF0OnlPCyqTfkwexi7X2VpGK0JQol9CTVsyD75PKmy3iyGt28Ak1vf1RtRf9EFW9nI-7w4TGQ21mUgwF8uCRqrGbyPWcfMRWLXQ5GtrGWO5Zytlp3-4caflHNm4Nuh5oIsFRrphiaXuBMsmR4Cb-BxVCGJIMmRZ8sh_nYNRaX_qnQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2ekwpIya-o6cIDcvG37RSc6NuEv45YP6LAF3j66j1O8c0YFK4LhH8ce4HUGLGw3De3NGYu-_P-qHqNjGlVKkPaKoY4b0ThMWiZskPHMaZLifPWN4UymWpfXxKQMZS_LYBjHdvODzJ4PAwvGE1GbZ2fniCcj_ap1l_MaT_vyj6PYr4jjwHmHFnNmGjXN_Knw9NEWBRxCJzQjRNPb3NoLZtieAW0Od7zLbDJ6cVoSqRBUwiliHjExq40Bu8xejE5OCyDM1WJCzNoidmD1QCHeIsKItlg_Q6gErJrZxkgyN2u026occsR2hX3vWfIkaFZtphuL1l6BBKCLmXXTnkUDxAiEpVnyatgK-Tis-fUiLw_zEQUHeBzUZdppRR2uu2Deypf6a9ksVtTHkaeKh5tXdIafeLyXEAB1tGCT2mQrOtwGEUkE&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2foYCadDJ4ACw6em2yyT9g5IxzcZCsFwU6vtmHgfBhebP2IF9i7v0TYJAXaIRuLgr_DcG7nzmMSiQz0nFKX7JWeUwm1dqiPQQRYN16V9NA0uHeQKjlUBKSTqabEdchK1l4qYAAbEDE0xKtieanKvwl9cazzskdgIlwRaQxGRYwjRep9s09U0Fv6L9oQtV50ig-t3E6O4t9VId_lrn9CcpEkqrCeY-7NmK_4Qyu5W_9G7huTGrb2EpY6BRo_70InA_URK7GOp96A6y1Fi6GZHEM_BbiHdTCm7oP3Qr7SkwbooQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2f1F6i-6XigUFv4DxpSnvSpsw4KM1v94Hsp0aB9ajcUvygNx8zcUIABHlqEYch61BONmbZM-hRYliMtDB19ZPzMNyTZZPQEIpRvMprfMIZMRS4VOzmkpCzr15Qa86jclmrHptNMy9h6-Q-yxMz6Fq1kWFBNhiEF6TnNqVdLZCVrmDslp89sM4VbOa1w6yUvErKUYY8uM3LPoPOTHmSMYZ_tgFnntLtetwoto8kHwMwJGOJaS6A-ibtdWAlcOmvnh-VJZasp03HpwgIRmc5RqruvF9ajaBP7BUCzrupaG8s8X5sIwYn1oYBwgfc15JHA4HIVSxiopUjTxVcbwY42mKLfkMmTNlUjbTxy-AG8njsV2iftRT7PY-JKIbeT441oMox4QX6N5HUCzKt5flZAsSMML88T7W6iyl4y1iBmM7XABw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2exjd_iP81GEcQG5k4Mv8mi6UgFurhhMfNMlm-TIpHA7bW4PMLPovztbBeBsGEBxzoRkgpMXrdCOBzq96wI4_YC1s4wIvq2CiRL8036poXt3HlbSFMHH8rZtczSyqLaMJZV6I29GKMD7GCyejLyjrvyjrVvGLeSR2smNCgZ2x1w51Mgf9ODblKdEghonfPlL5E4ycoYwBXwZ0NGWTzUpUOeynDzzcP_UIy7Zgt2VGViaZEKPfMDXdz16nxCMRoWpF2JdD2V-Ew9WaUlOGsnZ-u1iMIF9wsZDgoc1oBHxerLdYAKDlP-4xwj9WYlkgGmSRT8vcfXSHwsdZoCDG1lFMdwMpCBXw3iPUeHctNVQBVdfhBZjrkcefruWV7CqzPrPDbKZlceMSbzJ6pjFXNiEr-lnS6UX-HxPyVMtL4_Sg2lO6X3&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2fhqycbjw3Vor9trZh3G42aTkSxuLg7rTgiS10IjyQhPfESQ3Ztv-KjMhwMlr-KMnk9s94JyuRk7lVYqOJgKUSC-e03OLZy2Ys1uLJ-Sd9e7J1d8ButRP95q08Zn0ie-Vrhji4TY6SJIEnLZacbz9KHez_4Rd2HYjBpUyQLi4YanHyQQmgLn7kwkD1AbwGCagtbbaRfccldJzBmU2vx4viz9k__YQDkS44pXmYhGWekdjvZ826lpnKlCjgR99EP3Wv144tVfq6J3gOkSmLLXrWMCPJBgLl_xTXYe-6hZ3cqiVWrtCjD34tjJHUPDU7R3adVVGhncLJWeI18G9NhCFNUR0BWTfEHW9QVTAygj6jMAzJTrKBMvjnyDmKJbLlXoxqif0kaGQLHicL2pJlwyksgnwjXvfNEKRH8OH_woTQ&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2clUGGlGNTLiXS8iwegZRRb1ZbdHubwRvTK8VhPTC23I0rfOB8bylztG5NtM9tffAIgH_WOxWYMbcuvNFCQrClzZ9jqL-LBg7NNFrESXtduZ-jxeE65hoFHU08N2uX96-ToTIum1bvOCfPs3dPTaA_wBgmrJfqJVrh6uTH9lf165zpVuoEqFj2bZyPFB062DLJ83A-vSdJu7nLMdfeymmM5hxDQh0oJDDDKkDGElfe4Bq_ndT3R6Dx2DrhGJw8o2Yw9YnoC_Tey37j7dcY5jc49TDNrsV1m60JxuwEIjivtoFXAKRERpBIcxKSveJZBKqJrvoL8-g8wUV5ItxRqwyaWp54VHH7zmSRrfxWmplvfT_CTs0tuRP-qggkcgXOYRNAEmihKLWn7_8TOo_1z37EzOF7OY3VDOjddSKErv70Tiw&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AciIO2drbwl-ZB8-iWUjdjgVaTCBLK41nQRfCOEAkYhp9ZwIbbFFu552sT7ELsTt2faKZHOmwQTTcLSjtE_DFuEaT_pxTsM7FptRDrMg7UBCgJmxRevABLmD5rBLfqbqUUwNnmre2a5j9jLFRG-dMmHMhbUGRv2IMmGCuN83jeKJuliesTyVG3i4gFy9S0oZbQiEwSWzhzVtdS0ap5wZy9l3iv5nt974cLfTlFYqZp5VLNNgWJBF5XUM-gN6-4mD3Qf-DfDp_nLLvr5kcTpWrmiDdicPkxtaFrUVx2eF7l3ZYSIJuA&key=AIzaSyD-silzFGkNRkrbI141raLQN6BJ79VGqtM"
+    ],
+    "reviews": [
+      {
+        "author": "Carlos Alfredo Bz",
+        "rating": 5,
+        "text": "Cool",
+        "time": "6 years ago"
+      },
+      {
+        "author": "Ale M",
+        "rating": 5,
+        "text": "A tremendous professor, one can talk to him and expand on knowledge, the place is also cozy and clean.",
+        "time": "a year ago"
+      },
+      {
+        "author": "Renato Villegas Tapia",
+        "rating": 4,
+        "text": "Various courses, good location.",
+        "time": "2 months ago"
+      },
+      {
+        "author": "CPC Edwin F. Izquierdo P.",
+        "rating": 5,
+        "text": "Today was my first class and I had a very good impression and experience, recommended.",
+        "time": "11 months ago"
+      },
+      {
+        "author": "Silvana Real",
+        "rating": 5,
+        "text": "It's a good place, an excellent school that offers classes in philosophy of life, yoga, and public speaking. They teach the teachings of different philosophers, based on brotherhood and ideals to improve both as a person and in the world.",
+        "time": "5 years ago"
+      }
+    ]
+  }
+]
