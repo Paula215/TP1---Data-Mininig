@@ -1,0 +1,36 @@
+{
+  "url": "https://www.tripadvisor.com/AttractionProductReview-g294316-d16661568-QuickLlama_Door_to_door_transfer_from_Miraflores_to_Lima_Airport-Lima_Lima_Region.html",
+  "scraped_at": "2025-10-02T00:44:10.924456",
+  "content_length": 98876,
+  "title": "QuickLlama: Door-to-door transfer from Miraflores to Lima Airport",
+  "description": "Start:Traveler pickup offered.",
+  "all_descriptions": [
+    "Start:Traveler pickup offered."
+  ],
+  "rating": null,
+  "provider": null,
+  "reviews": [],
+  "review_count": 0,
+  "images": [
+    "https://static.tacdn.com/img2/brand_refresh_2025/logos/wordmark.svg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/07/36/52/47.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/07/36/52/5a.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/4c/59/10.jpg"
+  ],
+  "all_images": [
+    "https://static.tacdn.com/img2/brand_refresh_2025/logos/wordmark.svg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/07/36/52/47.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/07/36/52/5a.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/4c/59/10.jpg"
+  ],
+  "image_count": 4,
+  "scraping_metadata": {
+    "attempt": 1,
+    "page_size": 98876,
+    "extraction_timestamp": "2025-10-02T00:44:10.940349",
+    "success": true,
+    "method": "ScraperAPI",
+    "ip_rotation": true,
+    "captcha_solving": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "url": "https://www.tripadvisor.com/AttractionProductReview-g294316-d19446004-Lima_City_Tour_Magical_Water_Circuit_Dinner_Show_and_Peruvian_Horse-Lima_Lima_Regi.html",
+  "scraped_at": "2025-10-02T03:41:25.021744",
+  "content_length": 1216491,
+  "title": "Lima City Tour + Magical Water Circuit + Dinner Show and Peruvian Horse",
+  "description": "Start:Multiple pickup locations offered.",
+  "all_descriptions": [
+    "Start:Multiple pickup locations offered."
+  ],
+  "rating": null,
+  "provider": "TripAdvisor, yet the driver didn't know where to drop us off.  While stopping to ask for directions multiple times, we missed the boat and got placed with another provider.",
+  "reviews": [],
+  "review_count": 0,
+  "images": [
+    "https://static.tacdn.com/img2/brand_refresh_2025/logos/wordmark.svg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/a9/3b/75.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/a9/3a/28.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/a9/39/e3.jpg",
+    "https://static.tacdn.com/img2/brand_refresh_2025/travelers_choice/badges/2025/2025_Best_of_the_Best_Badge_Large.svg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/41/47/b0/getlstd-property-photo.jpg",
+    "https://static.tacdn.com/img2/brand_refresh_2025/logos/logo.svg"
+  ],
+  "all_images": [
+    "https://static.tacdn.com/img2/brand_refresh_2025/logos/wordmark.svg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/a9/3b/75.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/a9/3a/28.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/a9/39/e3.jpg",
+    "https://static.tacdn.com/img2/brand_refresh_2025/travelers_choice/badges/2025/2025_Best_of_the_Best_Badge_Large.svg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/41/47/b0/getlstd-property-photo.jpg",
+    "https://static.tacdn.com/img2/brand_refresh_2025/logos/logo.svg"
+  ],
+  "image_count": 7,
+  "scraping_metadata": {
+    "attempt": 1,
+    "page_size": 1216491,
+    "extraction_timestamp": "2025-10-02T03:41:25.099402",
+    "success": true,
+    "method": "ScraperAPI",
+    "ip_rotation": true,
+    "captcha_solving": true
+  }
+}
